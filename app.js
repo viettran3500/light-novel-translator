@@ -14,9 +14,38 @@ const STORAGE_KEYS = {
 
 const DEFAULT_MODEL   = 'gemini-2.0-flash';
 const DEFAULT_URL     = 'https://ncode.syosetu.com/';
+// Mỗi proxy có handler riêng để parse response khác nhau
 const CORS_PROXIES = [
-  (url) => `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`,
-  (url) => `https://corsproxy.io/?${encodeURIComponent(url)}`,
+  {
+    name: 'allorigins (get)',
+    build: (url) => `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`,
+    parse: async (res) => { const d = await res.json(); return d.contents; },
+  },
+  {
+    name: 'allorigins (raw)',
+    build: (url) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
+    parse: async (res) => res.text(),
+  },
+  {
+    name: 'corsproxy.io',
+    build: (url) => `https://corsproxy.io/?${encodeURIComponent(url)}`,
+    parse: async (res) => res.text(),
+  },
+  {
+    name: 'codetabs',
+    build: (url) => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`,
+    parse: async (res) => res.text(),
+  },
+  {
+    name: 'htmldriven',
+    build: (url) => `https://cors.bridged.cc/${url}`,
+    parse: async (res) => res.text(),
+  },
+  {
+    name: 'whateverorigin',
+    build: (url) => `https://thingproxy.freeboard.io/fetch/${url}`,
+    parse: async (res) => res.text(),
+  },
 ];
 
 const SYSTEM_PROMPT = `Bạn là công cụ dịch thuật tự động chuyên biệt cho văn học Nhật Bản (light novel, web novel).
@@ -177,82 +206,171 @@ function addBookmark() {
 
 // ========== FETCH CONTENT ==========
 async function fetchContent(url) {
-  const proxyFn = CORS_PROXIES[state.currentProxyIndex % CORS_PROXIES.length];
-  const proxyUrl = proxyFn(url);
-
   setLoading(true, 'Đang tải nội dung trang...');
   setStatus(`Đang tải: ${url}`);
 
-  try {
-    const res = await fetch(proxyUrl);
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  let lastError = '';
 
-    const data = await res.json();
-    // allorigins wraps response in `.contents`
-    const html = data.contents || data;
-    if (!html) throw new Error('Không nhận được nội dung');
+  for (let i = 0; i < CORS_PROXIES.length; i++) {
+    const proxy = CORS_PROXIES[i];
+    dom.loadingText.textContent = `Thử proxy ${i + 1}/${CORS_PROXIES.length}: ${proxy.name}...`;
 
-    const parser = new DOMParser();
-    const doc = parser.parseFromString(html, 'text/html');
+    try {
+      const controller = new AbortController();
+      const timer = setTimeout(() => controller.abort(), 8000); // 8s timeout per proxy
 
-    // Extract novel text from common selectors
-    const selectors = [
-      '.p-novel__body',
-      '.novel_view',
-      '#novel_honbun',
-      '.entry-content',
-      'article',
-      'main',
-      '.content',
-    ];
+      const res = await fetch(proxy.build(url), { signal: controller.signal });
+      clearTimeout(timer);
 
-    let extracted = '';
-    for (const sel of selectors) {
-      const el = doc.querySelector(sel);
-      if (el) {
-        extracted = el.innerText || el.textContent;
-        break;
+      if (!res.ok) {
+        lastError = `${proxy.name}: HTTP ${res.status}`;
+        console.warn(`Proxy ${proxy.name} failed:`, lastError);
+        continue;
+      }
+
+      const html = await proxy.parse(res);
+      if (!html || html.length < 100) {
+        lastError = `${proxy.name}: Nội dung rỗng`;
+        continue;
+      }
+
+      const extracted = extractNovelText(html);
+      if (!extracted || extracted.length < 50) {
+        lastError = `${proxy.name}: Không trích được nội dung`;
+        continue;
+      }
+
+      // ✅ Success!
+      state.originalText = extracted;
+      displayOriginalText(extracted);
+      dom.charCount.textContent = `${extracted.length.toLocaleString()} ký tự`;
+      setStatus(`✅ Đã tải qua ${proxy.name}`);
+      showToast(`Tải thành công qua ${proxy.name}! 🎉`, 'success');
+
+      if (state.autoTranslate) await translateContent(extracted);
+
+      setLoading(false);
+      return;
+
+    } catch (err) {
+      lastError = `${proxy.name}: ${err.name === 'AbortError' ? 'Timeout' : err.message}`;
+      console.warn(`Proxy ${proxy.name} error:`, err.message);
+    }
+  }
+
+  // ❌ All proxies failed → Show manual input UI
+  setLoading(false);
+  setStatus('❌ Không tải được — Dùng chế độ thủ công');
+  showManualInputUI(url, lastError);
+}
+
+function extractNovelText(html) {
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(html, 'text/html');
+
+  // Remove noise elements
+  ['script', 'style', 'nav', 'header', 'footer', '.c-ad', '[class*="ad"]',
+   '.c-announce', '.c-pager', '.c-menu', '#google_ads', '.adsbygoogle'
+  ].forEach(sel => {
+    doc.querySelectorAll(sel).forEach(el => el.remove());
+  });
+
+  // Priority selectors for popular novel sites
+  const selectors = [
+    // Syosetu / Ncode
+    '.p-novel__text:not(.p-novel__text--preface)',
+    '.p-novel__body',
+    '#novel_honbun',
+    '.novel_view',
+    // Kakuyomu
+    '.widget-episodeBody',
+    'section.episode-body',
+    // AlphaPolis
+    '.novel_text',
+    '#alphapolis-story',
+    // Generic
+    'article .entry-content',
+    '.entry-content',
+    'article',
+    'main',
+    '[role="main"]',
+    '.content',
+  ];
+
+  for (const sel of selectors) {
+    const el = doc.querySelector(sel);
+    if (el) {
+      const text = el.textContent || '';
+      if (text.trim().length > 100) {
+        return cleanText(text);
       }
     }
-
-    if (!extracted) {
-      extracted = doc.body?.innerText || doc.body?.textContent || '';
-    }
-
-    // Clean up
-    extracted = extracted
-      .split('\n')
-      .map(l => l.trim())
-      .filter(l => l.length > 0)
-      .join('\n\n');
-
-    state.originalText = extracted;
-    displayOriginalText(extracted);
-    dom.charCount.textContent = `${extracted.length.toLocaleString()} ký tự`;
-    setStatus(`Đã tải: ${url}`);
-
-    showToast('Tải nội dung thành công!', 'success');
-
-    if (state.autoTranslate && extracted) {
-      await translateContent(extracted);
-    }
-
-  } catch (err) {
-    console.error('Fetch error:', err);
-    // Try next proxy
-    state.currentProxyIndex++;
-    if (state.currentProxyIndex < CORS_PROXIES.length) {
-      showToast('Đổi sang proxy dự phòng...', 'warning');
-      setLoading(false);
-      return fetchContent(url);
-    }
-    state.currentProxyIndex = 0;
-    showToast(`Lỗi tải trang: ${err.message}`, 'error', 5000);
-    setStatus('Lỗi tải trang');
-    displayOriginalText(`❌ Không thể tải nội dung từ URL này.\n\nLý do: ${err.message}\n\nGợi ý:\n• Một số trang chặn CORS proxy\n• Thử dán nội dung trực tiếp vào ô bên trái\n• Hoặc thử URL khác`);
-  } finally {
-    setLoading(false);
   }
+
+  return cleanText(doc.body?.textContent || '');
+}
+
+function cleanText(raw) {
+  return raw
+    .split('\n')
+    .map(l => l.trim())
+    .filter(l => l.length > 0)
+    .filter(l => !l.match(/^(広告|Cookie|Copyright|©|All Rights Reserved)/i))
+    .join('\n\n');
+}
+
+function showManualInputUI(url, reason) {
+  dom.originalContent.innerHTML = `
+    <div class="manual-input-box">
+      <div class="manual-icon">📋</div>
+      <h3>Trang web chặn tự động tải</h3>
+      <p class="manual-reason">Lý do: <code>${escapeHtml(reason || 'Tất cả proxy đều bị chặn')}</code></p>
+      <p>Trang <strong>syosetu.com</strong> và một số trang khác chặn CORS proxy.<br>
+      Hãy làm theo hướng dẫn dưới:</p>
+
+      <div class="manual-steps">
+        <div class="step">
+          <span class="step-num">1</span>
+          <span>Mở trang truyện trong tab khác: <a href="${escapeHtml(url)}" target="_blank" class="link open-link">Mở ${escapeHtml(url.slice(0,50))}...</a></span>
+        </div>
+        <div class="step">
+          <span class="step-num">2</span>
+          <span>Chọn tất cả nội dung truyện (<kbd>Ctrl+A</kbd>) rồi Copy (<kbd>Ctrl+C</kbd>)</span>
+        </div>
+        <div class="step">
+          <span class="step-num">3</span>
+          <span>Nhấn vào ô dưới và dán vào (<kbd>Ctrl+V</kbd>)</span>
+        </div>
+      </div>
+
+      <textarea
+        id="manualPasteArea"
+        class="manual-textarea"
+        placeholder="📝 Dán nội dung tiếng Nhật vào đây..."
+        rows="8"
+        spellcheck="false"
+      ></textarea>
+
+      <button class="btn btn-primary-full" id="confirmManualInput">
+        ✅ Xác nhận & Sẵn sàng dịch
+      </button>
+    </div>
+  `;
+
+  const textarea = document.getElementById('manualPasteArea');
+  const confirmBtn = document.getElementById('confirmManualInput');
+
+  textarea.focus();
+
+  confirmBtn.addEventListener('click', () => {
+    const text = textarea.value.trim();
+    if (!text) { showToast('Vui lòng dán nội dung vào trước!', 'warning'); return; }
+    state.originalText = text;
+    displayOriginalText(text);
+    dom.charCount.textContent = `${text.length.toLocaleString()} ký tự`;
+    setStatus(`✅ Đã nhận ${text.length.toLocaleString()} ký tự`);
+    showToast('Đã nhận nội dung! Nhấn Dịch để tiếp tục.', 'success', 4000);
+  });
 }
 
 function displayOriginalText(text) {
