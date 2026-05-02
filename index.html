@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dịch Truyện Nhật | Light Novel Translator</title>
+  <meta name="description" content="Công cụ đọc và dịch light novel Nhật Bản sang tiếng Việt bằng Gemini AI" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Serif+JP:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Sidebar -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-header">
+      <div class="logo">
+        <span class="logo-icon">📖</span>
+        <span class="logo-text">TruyenDich</span>
+      </div>
+      <button class="sidebar-close" id="sidebarClose" aria-label="Đóng sidebar">✕</button>
+    </div>
+
+    <!-- API Key Section -->
+    <div class="sidebar-section">
+      <h3 class="section-title">🔑 Gemini API Key</h3>
+      <div class="input-group">
+        <input
+          type="password"
+          id="apiKeyInput"
+          class="input-field"
+          placeholder="Nhập API Key của bạn..."
+          autocomplete="off"
+        />
+        <button class="btn btn-save" id="saveApiKey">Lưu</button>
+      </div>
+      <p class="hint-text">
+        Lấy key tại <a href="https://aistudio.google.com/app/apikey" target="_blank" class="link">aistudio.google.com</a>
+      </p>
+    </div>
+
+    <!-- Model Selection -->
+    <div class="sidebar-section">
+      <h3 class="section-title">🤖 Model Gemini</h3>
+      <select id="modelSelect" class="select-field">
+        <option value="gemini-2.5-flash-preview-05-20">Gemini 2.5 Flash Preview</option>
+        <option value="gemini-2.0-flash">Gemini 2.0 Flash</option>
+        <option value="gemini-2.0-flash-lite">Gemini 2.0 Flash Lite</option>
+        <option value="gemini-1.5-flash">Gemini 1.5 Flash</option>
+        <option value="gemini-1.5-pro">Gemini 1.5 Pro</option>
+      </select>
+    </div>
+
+    <!-- Auto Translate -->
+    <div class="sidebar-section">
+      <h3 class="section-title">⚙️ Cài Đặt</h3>
+      <label class="toggle-label">
+        <span>Tự động dịch khi tải trang</span>
+        <div class="toggle-switch">
+          <input type="checkbox" id="autoTranslate" />
+          <span class="toggle-slider"></span>
+        </div>
+      </label>
+    </div>
+
+    <!-- Bookmarks -->
+    <div class="sidebar-section">
+      <h3 class="section-title">🔖 Trang Yêu Thích</h3>
+      <div id="bookmarksList" class="bookmarks-list">
+        <p class="empty-hint">Chưa có bookmark nào</p>
+      </div>
+      <button class="btn btn-outline btn-full" id="addBookmark">+ Bookmark trang hiện tại</button>
+    </div>
+
+    <!-- Quick Links -->
+    <div class="sidebar-section">
+      <h3 class="section-title">⚡ Truy Cập Nhanh</h3>
+      <div class="quick-links">
+        <button class="quick-link-btn" data-url="https://ncode.syosetu.com/">Syosetu</button>
+        <button class="quick-link-btn" data-url="https://kakuyomu.jp/">Kakuyomu</button>
+        <button class="quick-link-btn" data-url="https://novel18.syosetu.com/">Novel18</button>
+        <button class="quick-link-btn" data-url="https://www.alphapolis.co.jp/">AlphaPolis</button>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Overlay -->
+  <div class="overlay" id="overlay"></div>
+
+  <!-- Main Layout -->
+  <div class="main-layout">
+    <!-- Top Bar -->
+    <header class="topbar">
+      <button class="menu-btn" id="menuBtn" aria-label="Mở menu">
+        <span></span><span></span><span></span>
+      </button>
+
+      <div class="url-bar-wrapper">
+        <input
+          type="url"
+          id="urlInput"
+          class="url-bar"
+          placeholder="Nhập URL trang truyện... (vd: https://ncode.syosetu.com/n5375cy/1/)"
+          value="https://ncode.syosetu.com/"
+        />
+        <button class="go-btn" id="goBtn" title="Mở trang">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </button>
+      </div>
+
+      <div class="topbar-actions">
+        <button class="action-btn" id="translateBtn" title="Dịch trang">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 8l6 6M4 6h7M2 12h7M20 6l-5 10-3-4"/><circle cx="12" cy="12" r="0"/></svg>
+          <span>Dịch</span>
+        </button>
+        <button class="action-btn action-btn--outline" id="clearBtn" title="Xóa bản dịch">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 6h18M8 6V4h8v2M19 6l-1 14H6L5 6"/></svg>
+        </button>
+      </div>
+    </header>
+
+    <!-- Content Area -->
+    <main class="content-area">
+      <!-- Left Panel: Fetch/Preview -->
+      <section class="panel panel-left" id="panelLeft">
+        <div class="panel-header">
+          <span class="panel-title">📄 Nội Dung Gốc (Tiếng Nhật)</span>
+          <div class="panel-actions">
+            <button class="icon-btn" id="fetchBtn" title="Tải nội dung từ URL">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>
+              Tải nội dung
+            </button>
+            <button class="icon-btn" id="copyOriginal" title="Copy">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg>
+            </button>
+          </div>
+        </div>
+        <div class="panel-body" id="originalContent">
+          <div class="empty-state">
+            <div class="empty-icon">🌸</div>
+            <p>Nhập URL và nhấn <strong>Tải nội dung</strong> để lấy nội dung truyện từ trang web.</p>
+            <p class="hint">Sử dụng proxy để vượt qua CORS. Một số trang có thể không hỗ trợ.</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Divider -->
+      <div class="panel-divider">
+        <button class="swap-btn" id="swapPanels" title="Đổi vị trí 2 panel">⇄</button>
+      </div>
+
+      <!-- Right Panel: Translation -->
+      <section class="panel panel-right" id="panelRight">
+        <div class="panel-header">
+          <span class="panel-title">✨ Bản Dịch (Tiếng Việt)</span>
+          <div class="panel-actions">
+            <span class="model-badge" id="modelBadge">gemini-2.0-flash</span>
+            <button class="icon-btn" id="copyTranslation" title="Copy bản dịch">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg>
+            </button>
+          </div>
+        </div>
+        <div class="panel-body" id="translationContent">
+          <div class="empty-state">
+            <div class="empty-icon">🎌</div>
+            <p>Bản dịch sẽ xuất hiện ở đây sau khi bạn nhấn <strong>Dịch</strong>.</p>
+            <p class="hint">Cần nhập Gemini API Key ở menu bên trái.</p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Status Bar -->
+    <footer class="statusbar">
+      <span id="statusText">Sẵn sàng</span>
+      <div class="statusbar-right">
+        <span id="charCount"></span>
+        <span id="proxyInfo">Proxy: allorigins.win</span>
+      </div>
+    </footer>
+  </div>
+
+  <!-- Loading Overlay -->
+  <div class="loading-overlay" id="loadingOverlay">
+    <div class="loading-card">
+      <div class="spinner"></div>
+      <p id="loadingText">Đang xử lý...</p>
+      <button class="btn btn-cancel" id="cancelBtn">Hủy</button>
+    </div>
+  </div>
+
+  <!-- Toast -->
+  <div class="toast-container" id="toastContainer"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
