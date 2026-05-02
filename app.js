@@ -12,7 +12,7 @@ const STORAGE_KEYS = {
   BOOKMARKS:      'truyen_bookmarks',
 };
 
-const DEFAULT_MODEL   = 'gemini-2.0-flash';
+const DEFAULT_MODEL   = 'gemini-3.1-flash-lite-preview';
 const DEFAULT_URL     = 'https://ncode.syosetu.com/';
 // Mỗi proxy có handler riêng để parse response khác nhau
 const CORS_PROXIES = [
