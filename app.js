@@ -1,52 +1,21 @@
 /* ===========================
-   CORE APP LOGIC
-   Light Novel Translator Web
+   LIGHT NOVEL TRANSLATOR
+   Mobile-first Reader App
 =========================== */
 
-// ========== CONSTANTS ==========
-const STORAGE_KEYS = {
-  API_KEY:        'truyen_api_key',
-  MODEL:          'truyen_model',
-  LAST_URL:       'truyen_last_url',
-  AUTO_TRANSLATE: 'truyen_auto_translate',
-  BOOKMARKS:      'truyen_bookmarks',
+// ===== CONSTANTS =====
+const STORAGE = {
+  API_KEY:   'tn_api_key',
+  MODEL:     'tn_model',
+  LAST_URL:  'tn_last_url',
+  BOOKMARKS: 'tn_bookmarks',
+  FONT_SIZE: 'tn_font_size',
+  DARK_MODE: 'tn_dark_mode',
 };
 
-const DEFAULT_MODEL   = 'gemini-3.1-flash-lite-preview';
-const DEFAULT_URL     = 'https://ncode.syosetu.com/';
-// Mỗi proxy có handler riêng để parse response khác nhau
-const CORS_PROXIES = [
-  {
-    name: 'allorigins (get)',
-    build: (url) => `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`,
-    parse: async (res) => { const d = await res.json(); return d.contents; },
-  },
-  {
-    name: 'allorigins (raw)',
-    build: (url) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
-    parse: async (res) => res.text(),
-  },
-  {
-    name: 'corsproxy.io',
-    build: (url) => `https://corsproxy.io/?${encodeURIComponent(url)}`,
-    parse: async (res) => res.text(),
-  },
-  {
-    name: 'codetabs',
-    build: (url) => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`,
-    parse: async (res) => res.text(),
-  },
-  {
-    name: 'htmldriven',
-    build: (url) => `https://cors.bridged.cc/${url}`,
-    parse: async (res) => res.text(),
-  },
-  {
-    name: 'whateverorigin',
-    build: (url) => `https://thingproxy.freeboard.io/fetch/${url}`,
-    parse: async (res) => res.text(),
-  },
-];
+const DEFAULT_MODEL = 'gemini-3.1-flash-lite-preview';
+const DEFAULT_URL   = 'https://ncode.syosetu.com/';
+const FONT_MIN = 13, FONT_MAX = 28;
 
 const SYSTEM_PROMPT = `Bạn là công cụ dịch thuật tự động chuyên biệt cho văn học Nhật Bản (light novel, web novel).
 Nhiệm vụ: Dịch NGUYÊN VẸN toàn bộ nội dung từ tiếng Nhật sang tiếng Việt, không bỏ sót câu nào.
@@ -56,240 +25,240 @@ Quy tắc bắt buộc:
 - Giữ nguyên định dạng đoạn văn, không thêm bớt hay bình luận gì thêm.
 - Chỉ trả về bản dịch, không giải thích, không cảnh báo.`;
 
-// ========== STATE ==========
+const PROXIES = [
+  {
+    name: 'allorigins-get',
+    build: u => `https://api.allorigins.win/get?url=${encodeURIComponent(u)}`,
+    parse: async r => { const d = await r.json(); return d.contents; },
+  },
+  {
+    name: 'allorigins-raw',
+    build: u => `https://api.allorigins.win/raw?url=${encodeURIComponent(u)}`,
+    parse: async r => r.text(),
+  },
+  {
+    name: 'corsproxy.io',
+    build: u => `https://corsproxy.io/?${encodeURIComponent(u)}`,
+    parse: async r => r.text(),
+  },
+  {
+    name: 'codetabs',
+    build: u => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(u)}`,
+    parse: async r => r.text(),
+  },
+  {
+    name: 'thingproxy',
+    build: u => `https://thingproxy.freeboard.io/fetch/${u}`,
+    parse: async r => r.text(),
+  },
+];
+
+// ===== STATE =====
 let state = {
-  apiKey:        '',
-  model:         DEFAULT_MODEL,
-  lastUrl:       DEFAULT_URL,
-  autoTranslate: false,
-  bookmarks:     [],
-  originalText:  '',
-  isLoading:     false,
-  abortController: null,
-  currentProxyIndex: 0,
+  apiKey:    '',
+  model:     DEFAULT_MODEL,
+  currentUrl: DEFAULT_URL,
+  bookmarks: [],
+  fontSize:  18,
+  darkMode:  true,
+  rawText:   '',       // scraped Japanese text
+  abortCtrl: null,
 };
 
-// ========== DOM REFS ==========
-const $ = (id) => document.getElementById(id);
-
+// ===== DOM =====
+const $ = id => document.getElementById(id);
 const dom = {
   sidebar:        $('sidebar'),
   overlay:        $('overlay'),
   menuBtn:        $('menuBtn'),
   sidebarClose:   $('sidebarClose'),
+  urlInput:       $('urlInput'),
+  goBtn:          $('goBtn'),
   apiKeyInput:    $('apiKeyInput'),
   saveApiKey:     $('saveApiKey'),
   modelSelect:    $('modelSelect'),
-  autoTranslate:  $('autoTranslate'),
+  fsDown:         $('fsDown'),
+  fsUp:           $('fsUp'),
+  fsValue:        $('fsValue'),
+  darkMode:       $('darkMode'),
   bookmarksList:  $('bookmarksList'),
   addBookmark:    $('addBookmark'),
-  urlInput:       $('urlInput'),
-  goBtn:          $('goBtn'),
+  novelTitle:     $('novelTitle'),
+  chapterNum:     $('chapterNum'),
   translateBtn:   $('translateBtn'),
-  clearBtn:       $('clearBtn'),
-  fetchBtn:       $('fetchBtn'),
-  copyOriginal:   $('copyOriginal'),
-  copyTranslation:$('copyTranslation'),
-  swapPanels:     $('swapPanels'),
-  originalContent:$('originalContent'),
+  welcomeScreen:  $('welcomeScreen'),
+  welcomeOpenBtn: $('welcomeOpenBtn'),
   translationContent: $('translationContent'),
-  modelBadge:     $('modelBadge'),
-  statusText:     $('statusText'),
-  charCount:      $('charCount'),
+  chapterHeader:  $('chapterHeader'),
+  chapterBody:    $('chapterBody'),
+  chapterEnd:     $('chapterEnd'),
+  manualArea:     $('manualArea'),
+  manualReason:   $('manualReason'),
+  manualLink:     $('manualLink'),
+  manualPasteArea:$('manualPasteArea'),
+  confirmManual:  $('confirmManual'),
+  prevBtn:        $('prevBtn'),
+  nextBtn:        $('nextBtn'),
+  navChapterLabel:$('navChapterLabel'),
   loadingOverlay: $('loadingOverlay'),
   loadingText:    $('loadingText'),
   cancelBtn:      $('cancelBtn'),
   toastContainer: $('toastContainer'),
+  readerArea:     $('readerArea'),
 };
 
-// ========== STORAGE HELPERS ==========
-const storage = {
-  get: (key, fallback = null) => {
-    try { return JSON.parse(localStorage.getItem(key)) ?? fallback; }
-    catch { return fallback; }
-  },
-  set: (key, value) => {
-    try { localStorage.setItem(key, JSON.stringify(value)); }
-    catch (e) { console.warn('Storage error:', e); }
-  },
+// ===== STORAGE =====
+const store = {
+  get: (k, fb = null) => { try { return JSON.parse(localStorage.getItem(k)) ?? fb; } catch { return fb; } },
+  set: (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} },
 };
 
-// ========== TOAST ==========
-function showToast(message, type = 'info', duration = 3000) {
-  const icons = { success: '✅', error: '❌', warning: '⚠️', info: 'ℹ️' };
-  const toast = document.createElement('div');
-  toast.className = `toast ${type}`;
-  toast.innerHTML = `<span>${icons[type] || ''}</span><span>${message}</span>`;
-  dom.toastContainer.appendChild(toast);
-
-  setTimeout(() => {
-    toast.classList.add('fade-out');
-    setTimeout(() => toast.remove(), 300);
-  }, duration);
+// ===== TOAST =====
+function toast(msg, type = 'info', ms = 3000) {
+  const icons = { success:'✅', error:'❌', warning:'⚠️', info:'ℹ️' };
+  const el = document.createElement('div');
+  el.className = `toast ${type}`;
+  el.innerHTML = `<span>${icons[type]||''}</span><span>${msg}</span>`;
+  dom.toastContainer.appendChild(el);
+  setTimeout(() => { el.classList.add('fade-out'); setTimeout(() => el.remove(), 300); }, ms);
 }
 
-// ========== LOADING ==========
-function setLoading(active, text = 'Đang xử lý...') {
-  state.isLoading = active;
-  dom.loadingOverlay.classList.toggle('active', active);
+// ===== LOADING =====
+function setLoading(on, text = 'Đang xử lý...') {
+  dom.loadingOverlay.classList.toggle('active', on);
   dom.loadingText.textContent = text;
-  if (!active && state.abortController) {
-    state.abortController = null;
+  if (!on) state.abortCtrl = null;
+}
+
+// ===== CHAPTER URL HELPERS =====
+/**
+ * Parse chapter number from URL.
+ * Supports: syosetu  /nXXXXX/3/
+ *           kakuyomu /works/ID/episodes/EPISODE_ID (no simple increment)
+ */
+function parseChapterInfo(url) {
+  try {
+    const u = new URL(url);
+    const parts = u.pathname.replace(/\/$/, '').split('/').filter(Boolean);
+
+    // syosetu pattern: /nCODE/NUM/
+    if (/syosetu\.com/.test(u.hostname)) {
+      const num = parseInt(parts[parts.length - 1]);
+      if (!isNaN(num)) return { num, parts, u, type: 'syosetu' };
+    }
+
+    // generic: last path segment is a number
+    const last = parseInt(parts[parts.length - 1]);
+    if (!isNaN(last)) return { num: last, parts, u, type: 'numeric' };
+
+  } catch {}
+  return null;
+}
+
+function buildChapterUrl(info, delta) {
+  const newNum = info.num + delta;
+  if (newNum < 1) return null;
+  const newParts = [...info.parts];
+  newParts[newParts.length - 1] = String(newNum);
+  return `${info.u.origin}/${newParts.join('/')}/`;
+}
+
+function updateNavButtons(url) {
+  const info = parseChapterInfo(url);
+  if (info) {
+    dom.prevBtn.disabled = info.num <= 1;
+    dom.nextBtn.disabled = false;
+    dom.navChapterLabel.textContent = `Chương ${info.num}`;
+    dom.chapterNum.textContent = `Chương ${info.num}`;
+  } else {
+    dom.prevBtn.disabled = true;
+    dom.nextBtn.disabled = true;
+    dom.navChapterLabel.textContent = '—';
+    dom.chapterNum.textContent = '';
   }
 }
 
-function setStatus(text) {
-  dom.statusText.textContent = text;
-}
+// ===== FETCH CONTENT =====
+async function fetchAndTranslate(url) {
+  url = url.trim();
+  if (!url) return;
 
-// ========== INIT ==========
-function init() {
-  // Load from storage
-  state.apiKey        = storage.get(STORAGE_KEYS.API_KEY, '');
-  state.model         = storage.get(STORAGE_KEYS.MODEL, DEFAULT_MODEL);
-  state.lastUrl       = storage.get(STORAGE_KEYS.LAST_URL, DEFAULT_URL);
-  state.autoTranslate = storage.get(STORAGE_KEYS.AUTO_TRANSLATE, false);
-  state.bookmarks     = storage.get(STORAGE_KEYS.BOOKMARKS, []);
+  // Validate
+  try { new URL(url); } catch { toast('URL không hợp lệ', 'error'); return; }
 
-  // Apply to UI
-  if (state.apiKey) dom.apiKeyInput.value = state.apiKey;
-  dom.modelSelect.value       = state.model;
-  dom.autoTranslate.checked   = state.autoTranslate;
-  dom.urlInput.value          = state.lastUrl;
-  dom.modelBadge.textContent  = state.model;
+  state.currentUrl = url;
+  store.set(STORAGE.LAST_URL, url);
+  dom.urlInput.value = url;
+  updateNavButtons(url);
 
-  renderBookmarks();
-  bindEvents();
-  setStatus('Sẵn sàng');
-}
+  // Extract novel title from URL
+  try {
+    const u = new URL(url);
+    dom.novelTitle.textContent = u.hostname.replace('www.', '');
+  } catch {}
 
-// ========== SIDEBAR ==========
-function openSidebar() {
-  dom.sidebar.classList.add('open');
-  dom.overlay.classList.add('active');
-}
+  // Try all proxies
+  setLoading(true, 'Đang tải trang...');
+  let lastErr = '';
 
-function closeSidebar() {
-  dom.sidebar.classList.remove('open');
-  dom.overlay.classList.remove('active');
-}
-
-// ========== BOOKMARKS ==========
-function renderBookmarks() {
-  if (state.bookmarks.length === 0) {
-    dom.bookmarksList.innerHTML = '<p class="empty-hint">Chưa có bookmark nào</p>';
-    return;
-  }
-  dom.bookmarksList.innerHTML = state.bookmarks.map((bm, idx) => `
-    <div class="bookmark-item" data-idx="${idx}">
-      <span class="bookmark-item-title" title="${bm.url}">🔗 ${bm.title}</span>
-      <button class="bookmark-del" data-idx="${idx}" title="Xóa">✕</button>
-    </div>
-  `).join('');
-}
-
-function addBookmark() {
-  const url = dom.urlInput.value.trim();
-  if (!url) { showToast('Chưa có URL để bookmark', 'warning'); return; }
-
-  const exists = state.bookmarks.some(b => b.url === url);
-  if (exists) { showToast('URL này đã được bookmark rồi', 'warning'); return; }
-
-  const title = new URL(url).pathname.replace(/\//g, ' ').trim() || url;
-  state.bookmarks.unshift({ url, title: title.slice(0, 40) || url.slice(0, 40) });
-  if (state.bookmarks.length > 20) state.bookmarks.pop();
-
-  storage.set(STORAGE_KEYS.BOOKMARKS, state.bookmarks);
-  renderBookmarks();
-  showToast('Đã thêm bookmark!', 'success');
-}
-
-// ========== FETCH CONTENT ==========
-async function fetchContent(url) {
-  setLoading(true, 'Đang tải nội dung trang...');
-  setStatus(`Đang tải: ${url}`);
-
-  let lastError = '';
-
-  for (let i = 0; i < CORS_PROXIES.length; i++) {
-    const proxy = CORS_PROXIES[i];
-    dom.loadingText.textContent = `Thử proxy ${i + 1}/${CORS_PROXIES.length}: ${proxy.name}...`;
+  for (let i = 0; i < PROXIES.length; i++) {
+    const p = PROXIES[i];
+    dom.loadingText.textContent = `Thử proxy ${i + 1}/${PROXIES.length}: ${p.name}`;
 
     try {
-      const controller = new AbortController();
-      const timer = setTimeout(() => controller.abort(), 8000); // 8s timeout per proxy
-
-      const res = await fetch(proxy.build(url), { signal: controller.signal });
+      const ctrl = new AbortController();
+      const timer = setTimeout(() => ctrl.abort(), 9000);
+      const res = await fetch(p.build(url), { signal: ctrl.signal });
       clearTimeout(timer);
 
-      if (!res.ok) {
-        lastError = `${proxy.name}: HTTP ${res.status}`;
-        console.warn(`Proxy ${proxy.name} failed:`, lastError);
-        continue;
-      }
+      if (!res.ok) { lastErr = `${p.name}: HTTP ${res.status}`; continue; }
 
-      const html = await proxy.parse(res);
-      if (!html || html.length < 100) {
-        lastError = `${proxy.name}: Nội dung rỗng`;
-        continue;
-      }
+      const html = await p.parse(res);
+      if (!html || html.length < 100) { lastErr = `${p.name}: Nội dung rỗng`; continue; }
 
-      const extracted = extractNovelText(html);
-      if (!extracted || extracted.length < 50) {
-        lastError = `${proxy.name}: Không trích được nội dung`;
-        continue;
-      }
+      const text = extractText(html, url);
+      const title = extractTitle(html);
+      if (!text || text.length < 50) { lastErr = `${p.name}: Không trích được nội dung`; continue; }
 
-      // ✅ Success!
-      state.originalText = extracted;
-      displayOriginalText(extracted);
-      dom.charCount.textContent = `${extracted.length.toLocaleString()} ký tự`;
-      setStatus(`✅ Đã tải qua ${proxy.name}`);
-      showToast(`Tải thành công qua ${proxy.name}! 🎉`, 'success');
-
-      if (state.autoTranslate) await translateContent(extracted);
-
+      state.rawText = text;
       setLoading(false);
+
+      // Show chapter header info
+      dom.chapterHeader.innerHTML = `
+        <div>${new URL(url).hostname}</div>
+        <h1>${title || 'Chương ' + (parseChapterInfo(url)?.num || '')}</h1>
+      `;
+
+      toast(`Đã tải qua ${p.name}`, 'success');
+      await doTranslate(text);
       return;
 
-    } catch (err) {
-      lastError = `${proxy.name}: ${err.name === 'AbortError' ? 'Timeout' : err.message}`;
-      console.warn(`Proxy ${proxy.name} error:`, err.message);
+    } catch (e) {
+      lastErr = `${p.name}: ${e.name === 'AbortError' ? 'Timeout' : e.message}`;
     }
   }
 
-  // ❌ All proxies failed → Show manual input UI
+  // All proxies failed → manual mode
   setLoading(false);
-  setStatus('❌ Không tải được — Dùng chế độ thủ công');
-  showManualInputUI(url, lastError);
+  showManual(url, lastErr);
 }
 
-function extractNovelText(html) {
-  const parser = new DOMParser();
-  const doc = parser.parseFromString(html, 'text/html');
+function extractText(html, url) {
+  const doc = new DOMParser().parseFromString(html, 'text/html');
 
-  // Remove noise elements
-  ['script', 'style', 'nav', 'header', 'footer', '.c-ad', '[class*="ad"]',
-   '.c-announce', '.c-pager', '.c-menu', '#google_ads', '.adsbygoogle'
-  ].forEach(sel => {
-    doc.querySelectorAll(sel).forEach(el => el.remove());
-  });
+  // Remove noise
+  ['script','style','nav','header','footer','.c-ad','.c-pager','.c-menu',
+   '.c-announce','[class*="adsbygoogle"]','#google_ads','noscript'
+  ].forEach(s => doc.querySelectorAll(s).forEach(el => el.remove()));
 
-  // Priority selectors for popular novel sites
   const selectors = [
-    // Syosetu / Ncode
     '.p-novel__text:not(.p-novel__text--preface)',
     '.p-novel__body',
     '#novel_honbun',
     '.novel_view',
-    // Kakuyomu
     '.widget-episodeBody',
     'section.episode-body',
-    // AlphaPolis
     '.novel_text',
-    '#alphapolis-story',
-    // Generic
-    'article .entry-content',
     '.entry-content',
     'article',
     'main',
@@ -297,17 +266,23 @@ function extractNovelText(html) {
     '.content',
   ];
 
-  for (const sel of selectors) {
-    const el = doc.querySelector(sel);
-    if (el) {
-      const text = el.textContent || '';
-      if (text.trim().length > 100) {
-        return cleanText(text);
-      }
+  for (const s of selectors) {
+    const el = doc.querySelector(s);
+    if (el && el.textContent.trim().length > 100) {
+      return cleanText(el.textContent);
     }
   }
-
   return cleanText(doc.body?.textContent || '');
+}
+
+function extractTitle(html) {
+  const doc = new DOMParser().parseFromString(html, 'text/html');
+  return (
+    doc.querySelector('.p-novel__title')?.textContent?.trim() ||
+    doc.querySelector('h1.novel-title, h1.ep-title, .episode-title')?.textContent?.trim() ||
+    doc.querySelector('h1')?.textContent?.trim() ||
+    ''
+  );
 }
 
 function cleanText(raw) {
@@ -315,147 +290,59 @@ function cleanText(raw) {
     .split('\n')
     .map(l => l.trim())
     .filter(l => l.length > 0)
-    .filter(l => !l.match(/^(広告|Cookie|Copyright|©|All Rights Reserved)/i))
+    .filter(l => !/^(広告|Cookie|Copyright|©|All Rights Reserved|ログイン|ブックマーク)/i.test(l))
     .join('\n\n');
 }
 
-function showManualInputUI(url, reason) {
-  dom.originalContent.innerHTML = `
-    <div class="manual-input-box">
-      <div class="manual-icon">📋</div>
-      <h3>Trang web chặn tự động tải</h3>
-      <p class="manual-reason">Lý do: <code>${escapeHtml(reason || 'Tất cả proxy đều bị chặn')}</code></p>
-      <p>Trang <strong>syosetu.com</strong> và một số trang khác chặn CORS proxy.<br>
-      Hãy làm theo hướng dẫn dưới:</p>
-
-      <div class="manual-steps">
-        <div class="step">
-          <span class="step-num">1</span>
-          <span>Mở trang truyện trong tab khác: <a href="${escapeHtml(url)}" target="_blank" class="link open-link">Mở ${escapeHtml(url.slice(0,50))}...</a></span>
-        </div>
-        <div class="step">
-          <span class="step-num">2</span>
-          <span>Chọn tất cả nội dung truyện (<kbd>Ctrl+A</kbd>) rồi Copy (<kbd>Ctrl+C</kbd>)</span>
-        </div>
-        <div class="step">
-          <span class="step-num">3</span>
-          <span>Nhấn vào ô dưới và dán vào (<kbd>Ctrl+V</kbd>)</span>
-        </div>
-      </div>
-
-      <textarea
-        id="manualPasteArea"
-        class="manual-textarea"
-        placeholder="📝 Dán nội dung tiếng Nhật vào đây..."
-        rows="8"
-        spellcheck="false"
-      ></textarea>
-
-      <button class="btn btn-primary-full" id="confirmManualInput">
-        ✅ Xác nhận & Sẵn sàng dịch
-      </button>
-    </div>
-  `;
-
-  const textarea = document.getElementById('manualPasteArea');
-  const confirmBtn = document.getElementById('confirmManualInput');
-
-  textarea.focus();
-
-  confirmBtn.addEventListener('click', () => {
-    const text = textarea.value.trim();
-    if (!text) { showToast('Vui lòng dán nội dung vào trước!', 'warning'); return; }
-    state.originalText = text;
-    displayOriginalText(text);
-    dom.charCount.textContent = `${text.length.toLocaleString()} ký tự`;
-    setStatus(`✅ Đã nhận ${text.length.toLocaleString()} ký tự`);
-    showToast('Đã nhận nội dung! Nhấn Dịch để tiếp tục.', 'success', 4000);
-  });
+// ===== MANUAL INPUT =====
+function showManual(url, reason) {
+  hideAll();
+  dom.manualArea.style.display = 'flex';
+  dom.manualReason.textContent = reason || 'Tất cả proxy đều bị chặn';
+  dom.manualLink.href = url;
+  dom.manualLink.textContent = 'Mở ' + url.slice(0, 50) + '...';
+  dom.manualPasteArea.value = '';
+  dom.manualPasteArea.focus();
 }
 
-function displayOriginalText(text) {
-  if (!text || text.trim() === '') {
-    dom.originalContent.innerHTML = `<div class="empty-state">
-      <div class="empty-icon">📭</div>
-      <p>Không có nội dung để hiển thị.</p>
-    </div>`;
-    return;
-  }
-
-  // Convert newlines to paragraphs
-  const html = text
-    .split('\n\n')
-    .filter(p => p.trim())
-    .map(p => `<p>${escapeHtml(p)}</p>`)
-    .join('\n');
-
-  dom.originalContent.innerHTML = html;
-}
-
-// ========== TRANSLATE ==========
-async function translateContent(text) {
+// ===== TRANSLATE =====
+async function doTranslate(text) {
   if (!state.apiKey) {
-    showToast('Vui lòng nhập Gemini API Key!', 'error');
+    toast('Vui lòng nhập Gemini API Key trong menu!', 'error', 5000);
     openSidebar();
     return;
   }
 
-  if (!text && !state.originalText) {
-    showToast('Không có nội dung để dịch!', 'warning');
-    return;
-  }
+  const truncated = text.slice(0, 32000);
+  if (text.length > 32000) toast('Đã cắt bớt nội dung xuống 32.000 ký tự', 'warning');
 
-  const content = text || state.originalText;
-  if (!content.trim()) {
-    showToast('Nội dung trống!', 'warning');
-    return;
-  }
-
-  // Limit to 30,000 chars to avoid token limits
-  const truncated = content.slice(0, 30000);
-  if (content.length > 30000) {
-    showToast('Nội dung quá dài, đã cắt bớt xuống 30.000 ký tự', 'warning');
-  }
-
-  state.abortController = new AbortController();
-  setLoading(true, 'Đang gửi đến Gemini AI...');
-  setStatus('Đang dịch...');
+  state.abortCtrl = new AbortController();
+  setLoading(true, 'Gemini đang dịch...');
 
   try {
     const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${state.model}:generateContent?key=${state.apiKey}`;
-
     const body = {
-      system_instruction: {
-        parts: [{ text: SYSTEM_PROMPT }]
-      },
-      contents: [
-        { role: 'user', parts: [{ text: truncated }] }
-      ],
+      system_instruction: { parts: [{ text: SYSTEM_PROMPT }] },
+      contents: [{ role: 'user', parts: [{ text: truncated }] }],
       safetySettings: [
-        { category: 'HARM_CATEGORY_HARASSMENT',       threshold: 'BLOCK_NONE' },
-        { category: 'HARM_CATEGORY_HATE_SPEECH',      threshold: 'BLOCK_NONE' },
-        { category: 'HARM_CATEGORY_SEXUALLY_EXPLICIT',threshold: 'BLOCK_NONE' },
-        { category: 'HARM_CATEGORY_DANGEROUS_CONTENT',threshold: 'BLOCK_NONE' },
+        { category: 'HARM_CATEGORY_HARASSMENT',        threshold: 'BLOCK_NONE' },
+        { category: 'HARM_CATEGORY_HATE_SPEECH',       threshold: 'BLOCK_NONE' },
+        { category: 'HARM_CATEGORY_SEXUALLY_EXPLICIT', threshold: 'BLOCK_NONE' },
+        { category: 'HARM_CATEGORY_DANGEROUS_CONTENT', threshold: 'BLOCK_NONE' },
       ],
-      generationConfig: {
-        temperature: 0.3,
-        maxOutputTokens: 8192,
-      },
+      generationConfig: { temperature: 0.3, maxOutputTokens: 8192 },
     };
-
-    dom.loadingText.textContent = 'Gemini đang dịch...';
 
     const res = await fetch(endpoint, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(body),
-      signal: state.abortController.signal,
+      signal: state.abortCtrl.signal,
     });
 
     if (!res.ok) {
-      const errData = await res.json().catch(() => ({}));
-      const msg = errData?.error?.message || `HTTP ${res.status}`;
-      throw new Error(msg);
+      const err = await res.json().catch(() => ({}));
+      throw new Error(err?.error?.message || `HTTP ${res.status}`);
     }
 
     const data = await res.json();
@@ -463,241 +350,235 @@ async function translateContent(text) {
 
     if (!translated) {
       const reason = data?.candidates?.[0]?.finishReason;
-      if (reason === 'SAFETY') {
-        throw new Error('Gemini chặn nội dung này do bộ lọc an toàn. Thử model khác.');
-      }
-      throw new Error('Không nhận được bản dịch từ Gemini');
+      throw new Error(reason === 'SAFETY'
+        ? 'Gemini chặn nội dung. Thử model khác.'
+        : 'Không nhận được bản dịch');
     }
 
-    displayTranslation(translated);
-    showToast('Dịch thành công! 🎉', 'success');
-    setStatus(`Dịch xong — ${new Date().toLocaleTimeString()}`);
+    showTranslation(translated);
+    toast('✅ Dịch xong!', 'success');
 
-  } catch (err) {
-    if (err.name === 'AbortError') {
-      showToast('Đã hủy dịch', 'info');
-      setStatus('Hủy dịch');
-      dom.translationContent.innerHTML = `<div class="empty-state">
-        <div class="empty-icon">⏹️</div><p>Đã hủy quá trình dịch.</p>
-      </div>`;
+  } catch (e) {
+    setLoading(false);
+    if (e.name === 'AbortError') {
+      toast('Đã hủy dịch', 'info');
     } else {
-      console.error('Translate error:', err);
-      showToast(`Lỗi: ${err.message}`, 'error', 6000);
-      setStatus('Lỗi dịch');
-      dom.translationContent.innerHTML = `<div class="empty-state" style="color:var(--error)">
-        <div class="empty-icon">❌</div>
-        <p><strong>Lỗi dịch thuật</strong></p>
-        <p class="hint">${escapeHtml(err.message)}</p>
-      </div>`;
+      toast(`Lỗi: ${e.message}`, 'error', 6000);
     }
   } finally {
     setLoading(false);
   }
 }
 
-function displayTranslation(text) {
-  if (!text) return;
+function showTranslation(text) {
+  hideAll();
+  dom.translationContent.style.display = 'block';
+  dom.chapterEnd.style.display = 'none';
 
-  const parts = text.split('--- [ ĐÃ DỊCH HẾT CHƯƠNG ] ---');
-  const mainText = parts[0].trim();
-
-  const html = mainText
+  const html = text
     .split('\n\n')
     .filter(p => p.trim())
-    .map(p => `<p>${escapeHtml(p)}</p>`)
-    .join('\n');
+    .map(p => `<p>${escHtml(p)}</p>`)
+    .join('');
 
-  dom.translationContent.innerHTML = html +
-    `<div class="chapter-end">✅ --- [ ĐÃ DỊCH HẾT CHƯƠNG ] ---</div>`;
+  dom.chapterBody.innerHTML = html;
+  dom.chapterEnd.style.display = 'block';
+
+  // Scroll to top of reader
+  dom.readerArea.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
-// ========== UTILS ==========
-function escapeHtml(text) {
-  return text
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-    .replace(/\n/g, '<br>');
+// ===== HELPERS =====
+function hideAll() {
+  dom.welcomeScreen.style.display = 'none';
+  dom.translationContent.style.display = 'none';
+  dom.manualArea.style.display = 'none';
 }
 
-function copyToClipboard(text, label) {
-  navigator.clipboard.writeText(text)
-    .then(() => showToast(`Đã copy ${label}!`, 'success'))
-    .catch(() => showToast('Không thể copy', 'error'));
+function escHtml(t) {
+  return t
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;').replace(/\n/g,'<br>');
 }
 
-function getTextFromPanel(panelEl) {
-  return panelEl.querySelectorAll('p')
-    ? Array.from(panelEl.querySelectorAll('p')).map(p => p.textContent).join('\n\n')
-    : panelEl.textContent;
+function applyFontSize(size) {
+  state.fontSize = Math.max(FONT_MIN, Math.min(FONT_MAX, size));
+  document.documentElement.style.setProperty('--reader-size', state.fontSize + 'px');
+  dom.fsValue.textContent = state.fontSize;
+  store.set(STORAGE.FONT_SIZE, state.fontSize);
 }
 
-// ========== EVENT BINDING ==========
+function applyDarkMode(dark) {
+  state.darkMode = dark;
+  document.body.classList.toggle('light', !dark);
+  store.set(STORAGE.DARK_MODE, dark);
+}
+
+// ===== SIDEBAR =====
+function openSidebar()  { dom.sidebar.classList.add('open'); dom.overlay.classList.add('active'); }
+function closeSidebar() { dom.sidebar.classList.remove('open'); dom.overlay.classList.remove('active'); }
+
+// ===== BOOKMARKS =====
+function renderBookmarks() {
+  if (!state.bookmarks.length) {
+    dom.bookmarksList.innerHTML = '<p class="empty-hint">Chưa có bookmark nào</p>';
+    return;
+  }
+  dom.bookmarksList.innerHTML = state.bookmarks.map((b, i) => `
+    <div class="bm-item" data-i="${i}">
+      <span class="bm-title" title="${b.url}">🔗 ${b.title}</span>
+      <button class="bm-del" data-i="${i}">✕</button>
+    </div>
+  `).join('');
+}
+
+function addBookmark() {
+  const url = state.currentUrl;
+  if (!url || url === DEFAULT_URL) { toast('Chưa có trang để bookmark', 'warning'); return; }
+  if (state.bookmarks.some(b => b.url === url)) { toast('Đã bookmark rồi', 'warning'); return; }
+
+  const info = parseChapterInfo(url);
+  const title = (info ? `Chương ${info.num} - ` : '') + new URL(url).hostname;
+  state.bookmarks.unshift({ url, title: title.slice(0, 50) });
+  if (state.bookmarks.length > 30) state.bookmarks.pop();
+  store.set(STORAGE.BOOKMARKS, state.bookmarks);
+  renderBookmarks();
+  toast('Đã thêm bookmark!', 'success');
+}
+
+// ===== INIT =====
+function init() {
+  state.apiKey    = store.get(STORAGE.API_KEY, '');
+  state.model     = store.get(STORAGE.MODEL, DEFAULT_MODEL);
+  state.currentUrl= store.get(STORAGE.LAST_URL, DEFAULT_URL);
+  state.bookmarks = store.get(STORAGE.BOOKMARKS, []);
+  state.fontSize  = store.get(STORAGE.FONT_SIZE, 18);
+  state.darkMode  = store.get(STORAGE.DARK_MODE, true);
+
+  if (state.apiKey) dom.apiKeyInput.value = state.apiKey;
+  dom.modelSelect.value = state.model;
+  dom.urlInput.value    = state.currentUrl;
+  dom.darkMode.checked  = state.darkMode;
+
+  applyFontSize(state.fontSize);
+  applyDarkMode(state.darkMode);
+  renderBookmarks();
+  updateNavButtons(state.currentUrl);
+
+  bindEvents();
+}
+
+// ===== EVENTS =====
 function bindEvents() {
-  // Sidebar toggle
+  // Sidebar
   dom.menuBtn.addEventListener('click', openSidebar);
   dom.sidebarClose.addEventListener('click', closeSidebar);
   dom.overlay.addEventListener('click', closeSidebar);
+  dom.welcomeOpenBtn.addEventListener('click', openSidebar);
 
   // API Key
   dom.saveApiKey.addEventListener('click', () => {
     const key = dom.apiKeyInput.value.trim();
-    if (!key) { showToast('API Key không được để trống', 'error'); return; }
+    if (!key) { toast('API Key trống', 'error'); return; }
     state.apiKey = key;
-    storage.set(STORAGE_KEYS.API_KEY, key);
-    showToast('Đã lưu API Key!', 'success');
+    store.set(STORAGE.API_KEY, key);
+    toast('Đã lưu API Key ✅', 'success');
   });
+  dom.apiKeyInput.addEventListener('keydown', e => e.key === 'Enter' && dom.saveApiKey.click());
 
-  dom.apiKeyInput.addEventListener('keydown', (e) => {
-    if (e.key === 'Enter') dom.saveApiKey.click();
-  });
-
-  // Model select
+  // Model
   dom.modelSelect.addEventListener('change', () => {
     state.model = dom.modelSelect.value;
-    storage.set(STORAGE_KEYS.MODEL, state.model);
-    dom.modelBadge.textContent = state.model;
-    showToast(`Đã chọn: ${state.model}`, 'info');
+    store.set(STORAGE.MODEL, state.model);
+    toast(`Model: ${state.model}`, 'info');
   });
 
-  // Auto translate toggle
-  dom.autoTranslate.addEventListener('change', () => {
-    state.autoTranslate = dom.autoTranslate.checked;
-    storage.set(STORAGE_KEYS.AUTO_TRANSLATE, state.autoTranslate);
-  });
-
-  // URL navigation
+  // Go button
   dom.goBtn.addEventListener('click', () => {
     const url = dom.urlInput.value.trim();
     if (!url) return;
-    try {
-      new URL(url); // validate
-      state.lastUrl = url;
-      storage.set(STORAGE_KEYS.LAST_URL, url);
-      fetchContent(url);
-    } catch {
-      showToast('URL không hợp lệ', 'error');
-    }
+    closeSidebar();
+    fetchAndTranslate(url);
+  });
+  dom.urlInput.addEventListener('keydown', e => {
+    if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); dom.goBtn.click(); }
   });
 
-  dom.urlInput.addEventListener('keydown', (e) => {
-    if (e.key === 'Enter') dom.goBtn.click();
-  });
-
-  // Fetch button
-  dom.fetchBtn.addEventListener('click', () => dom.goBtn.click());
-
-  // Translate
+  // Translate button (re-translate raw text or re-fetch)
   dom.translateBtn.addEventListener('click', () => {
-    const text = state.originalText || getTextFromPanel(dom.originalContent);
-    translateContent(text);
+    if (state.rawText) doTranslate(state.rawText);
+    else fetchAndTranslate(state.currentUrl);
   });
 
-  // Clear
-  dom.clearBtn.addEventListener('click', () => {
-    state.originalText = '';
-    dom.originalContent.innerHTML = `<div class="empty-state">
-      <div class="empty-icon">🌸</div>
-      <p>Nhập URL và nhấn <strong>Tải nội dung</strong>.</p>
-    </div>`;
-    dom.translationContent.innerHTML = `<div class="empty-state">
-      <div class="empty-icon">🎌</div>
-      <p>Bản dịch sẽ xuất hiện ở đây.</p>
-    </div>`;
-    dom.charCount.textContent = '';
-    setStatus('Đã xóa');
-    showToast('Đã xóa nội dung', 'info');
-  });
+  // Font size
+  dom.fsDown.addEventListener('click', () => applyFontSize(state.fontSize - 1));
+  dom.fsUp.addEventListener('click',   () => applyFontSize(state.fontSize + 1));
 
-  // Cancel loading
-  dom.cancelBtn.addEventListener('click', () => {
-    if (state.abortController) state.abortController.abort();
-    setLoading(false);
-  });
+  // Dark mode
+  dom.darkMode.addEventListener('change', () => applyDarkMode(dom.darkMode.checked));
 
-  // Copy original
-  dom.copyOriginal.addEventListener('click', () => {
-    const text = state.originalText || getTextFromPanel(dom.originalContent);
-    if (!text) { showToast('Không có gì để copy', 'warning'); return; }
-    copyToClipboard(text, 'nội dung gốc');
-  });
-
-  // Copy translation
-  dom.copyTranslation.addEventListener('click', () => {
-    const text = getTextFromPanel(dom.translationContent);
-    if (!text || dom.translationContent.querySelector('.empty-state')) {
-      showToast('Chưa có bản dịch', 'warning'); return;
-    }
-    copyToClipboard(text, 'bản dịch');
-  });
-
-  // Bookmark
+  // Bookmarks
   dom.addBookmark.addEventListener('click', addBookmark);
-
-  dom.bookmarksList.addEventListener('click', (e) => {
-    const idx = parseInt(e.target.dataset.idx ?? e.target.closest('[data-idx]')?.dataset.idx);
-    if (isNaN(idx)) return;
-
-    if (e.target.classList.contains('bookmark-del')) {
-      state.bookmarks.splice(idx, 1);
-      storage.set(STORAGE_KEYS.BOOKMARKS, state.bookmarks);
+  dom.bookmarksList.addEventListener('click', e => {
+    const i = parseInt(e.target.dataset.i ?? e.target.closest('[data-i]')?.dataset.i);
+    if (isNaN(i)) return;
+    if (e.target.classList.contains('bm-del')) {
+      state.bookmarks.splice(i, 1);
+      store.set(STORAGE.BOOKMARKS, state.bookmarks);
       renderBookmarks();
-      showToast('Đã xóa bookmark', 'info');
     } else {
-      const bm = state.bookmarks[idx];
-      if (bm) {
-        dom.urlInput.value = bm.url;
-        state.lastUrl = bm.url;
-        storage.set(STORAGE_KEYS.LAST_URL, bm.url);
-        closeSidebar();
-        fetchContent(bm.url);
-      }
+      const bm = state.bookmarks[i];
+      if (bm) { closeSidebar(); fetchAndTranslate(bm.url); }
     }
   });
 
   // Quick links
-  document.querySelectorAll('.quick-link-btn').forEach(btn => {
+  document.querySelectorAll('.ql-btn').forEach(btn => {
     btn.addEventListener('click', () => {
-      const url = btn.dataset.url;
-      dom.urlInput.value = url;
-      state.lastUrl = url;
-      storage.set(STORAGE_KEYS.LAST_URL, url);
+      dom.urlInput.value = btn.dataset.url;
       closeSidebar();
-      fetchContent(url);
     });
   });
 
-  // Keyboard shortcut: Ctrl+Enter = Translate
-  document.addEventListener('keydown', (e) => {
-    if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') {
-      e.preventDefault();
-      dom.translateBtn.click();
-    }
-    if (e.key === 'Escape') {
-      closeSidebar();
-      if (state.isLoading && state.abortController) {
-        state.abortController.abort();
-        setLoading(false);
-      }
-    }
+  // Chapter navigation
+  dom.prevBtn.addEventListener('click', () => navigateChapter(-1));
+  dom.nextBtn.addEventListener('click', () => navigateChapter(+1));
+
+  // Manual paste confirm
+  dom.confirmManual.addEventListener('click', () => {
+    const text = dom.manualPasteArea.value.trim();
+    if (!text) { toast('Vui lòng dán nội dung vào trước!', 'warning'); return; }
+    state.rawText = text;
+    hideAll();
+    dom.chapterHeader.innerHTML = `<div>Nhập thủ công</div><h1>Nội dung dán</h1>`;
+    dom.translationContent.style.display = 'block';
+    dom.chapterBody.innerHTML = '';
+    doTranslate(text);
   });
 
-  // Allow pasting text directly into original panel
-  dom.originalContent.addEventListener('paste', (e) => {
-    e.preventDefault();
-    const text = e.clipboardData.getData('text/plain');
-    if (text) {
-      state.originalText = text;
-      displayOriginalText(text);
-      dom.charCount.textContent = `${text.length.toLocaleString()} ký tự`;
-      showToast('Đã dán nội dung!', 'success');
-    }
+  // Cancel
+  dom.cancelBtn.addEventListener('click', () => {
+    state.abortCtrl?.abort();
+    setLoading(false);
+    toast('Đã hủy', 'info');
   });
 
-  dom.originalContent.setAttribute('contenteditable', 'true');
-  dom.originalContent.setAttribute('spellcheck', 'false');
+  // Keyboard shortcuts
+  document.addEventListener('keydown', e => {
+    if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') { e.preventDefault(); dom.translateBtn.click(); }
+    if (e.key === 'Escape') { closeSidebar(); state.abortCtrl?.abort(); setLoading(false); }
+    if (e.key === 'ArrowRight' && !e.target.matches('input,textarea')) navigateChapter(+1);
+    if (e.key === 'ArrowLeft'  && !e.target.matches('input,textarea')) navigateChapter(-1);
+  });
 }
 
-// ========== START ==========
+function navigateChapter(delta) {
+  const info = parseChapterInfo(state.currentUrl);
+  if (!info) { toast('Không xác định được chương', 'warning'); return; }
+  const newUrl = buildChapterUrl(info, delta);
+  if (!newUrl) { toast('Đã ở chương đầu tiên', 'info'); return; }
+  fetchAndTranslate(newUrl);
+}
+
+// ===== START =====
 document.addEventListener('DOMContentLoaded', init);
