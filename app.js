@@ -27,18 +27,13 @@ Quy tắc bắt buộc:
 
 const PROXIES = [
   {
-    name: 'allorigins-get',
-    build: u => `https://api.allorigins.win/get?url=${encodeURIComponent(u)}`,
-    parse: async r => { const d = await r.json(); return d.contents; },
-  },
-  {
-    name: 'allorigins-raw',
-    build: u => `https://api.allorigins.win/raw?url=${encodeURIComponent(u)}`,
+    name: 'corsproxy.io',
+    build: u => `https://corsproxy.io/?${encodeURIComponent(u)}`,
     parse: async r => r.text(),
   },
   {
-    name: 'corsproxy.io',
-    build: u => `https://corsproxy.io/?${encodeURIComponent(u)}`,
+    name: 'allorigins-raw',
+    build: u => `https://api.allorigins.win/raw?url=${encodeURIComponent(u)}&_=${Date.now()}`,
     parse: async r => r.text(),
   },
   {
@@ -47,8 +42,13 @@ const PROXIES = [
     parse: async r => r.text(),
   },
   {
+    name: 'allorigins-get',
+    build: u => `https://api.allorigins.win/get?url=${encodeURIComponent(u)}&_=${Date.now()}`,
+    parse: async r => { const d = await r.json(); return d.contents; },
+  },
+  {
     name: 'thingproxy',
-    build: u => `https://thingproxy.freeboard.io/fetch/${u}`,
+    build: u => `https://thingproxy.freeboard.io/fetch/${encodeURIComponent(u)}`,
     parse: async r => r.text(),
   },
 ];
@@ -63,6 +63,7 @@ let state = {
   darkMode:  true,
   rawText:   '',       // scraped Japanese text
   abortCtrl: null,
+  proxyIdx:  0,
 };
 
 // ===== DOM =====
@@ -186,6 +187,10 @@ async function fetchAndTranslate(url) {
   // Validate
   try { new URL(url); } catch { toast('URL không hợp lệ', 'error'); return; }
 
+  // Cancel any ongoing process
+  state.abortCtrl?.abort();
+  state.abortCtrl = new AbortController();
+
   state.currentUrl = url;
   store.set(STORAGE.LAST_URL, url);
   dom.urlInput.value = url;
@@ -202,14 +207,22 @@ async function fetchAndTranslate(url) {
   let lastErr = '';
 
   for (let i = 0; i < PROXIES.length; i++) {
-    const p = PROXIES[i];
+    const idx = (state.proxyIdx + i) % PROXIES.length;
+    const p = PROXIES[idx];
     dom.loadingText.textContent = `Thử proxy ${i + 1}/${PROXIES.length}: ${p.name}`;
 
     try {
-      const ctrl = new AbortController();
-      const timer = setTimeout(() => ctrl.abort(), 9000);
-      const res = await fetch(p.build(url), { signal: ctrl.signal });
+      const proxyAbort = new AbortController();
+      const timer = setTimeout(() => proxyAbort.abort(), 10000);
+
+      const onAbort = () => proxyAbort.abort();
+      state.abortCtrl.signal.addEventListener('abort', onAbort);
+
+      const res = await fetch(p.build(url), { signal: proxyAbort.signal });
       clearTimeout(timer);
+      state.abortCtrl.signal.removeEventListener('abort', onAbort);
+
+      if (state.abortCtrl.signal.aborted) return;
 
       if (!res.ok) { lastErr = `${p.name}: HTTP ${res.status}`; continue; }
 
@@ -221,6 +234,7 @@ async function fetchAndTranslate(url) {
       if (!text || text.length < 50) { lastErr = `${p.name}: Không trích được nội dung`; continue; }
 
       state.rawText = text;
+      state.proxyIdx = idx; // SUCCESS: Start with this one next time
       setLoading(false);
 
       // Show chapter header info
@@ -234,6 +248,7 @@ async function fetchAndTranslate(url) {
       return;
 
     } catch (e) {
+      if (state.abortCtrl.signal.aborted) return;
       lastErr = `${p.name}: ${e.name === 'AbortError' ? 'Timeout' : e.message}`;
     }
   }
