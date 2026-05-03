@@ -28,7 +28,7 @@ Quy tắc bắt buộc:
 const PROXIES = [
   {
     name: 'corsproxy.io',
-    build: u => `https://corsproxy.io/?${encodeURIComponent(u)}`,
+    build: u => `https://corsproxy.io/?${encodeURIComponent(u)}&t=${Date.now()}`,
     parse: async r => r.text(),
   },
   {
@@ -42,14 +42,14 @@ const PROXIES = [
     parse: async r => r.text(),
   },
   {
+    name: 'corsproxy.org',
+    build: u => `https://corsproxy.org/?${encodeURIComponent(u)}`,
+    parse: async r => r.text(),
+  },
+  {
     name: 'allorigins-get',
     build: u => `https://api.allorigins.win/get?url=${encodeURIComponent(u)}&_=${Date.now()}`,
     parse: async r => { const d = await r.json(); return d.contents; },
-  },
-  {
-    name: 'thingproxy',
-    build: u => `https://thingproxy.freeboard.io/fetch/${encodeURIComponent(u)}`,
-    parse: async r => r.text(),
   },
 ];
 
@@ -212,6 +212,8 @@ async function fetchAndTranslate(url) {
     dom.loadingText.textContent = `Thử proxy ${i + 1}/${PROXIES.length}: ${p.name}`;
 
     try {
+      if (i > 0) await new Promise(r => setTimeout(r, 400)); // Delay nhỏ giữa các lần thử
+
       const proxyAbort = new AbortController();
       const timer = setTimeout(() => proxyAbort.abort(), 10000);
 
