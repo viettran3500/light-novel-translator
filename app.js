@@ -18,7 +18,7 @@ const DEFAULT_URL   = 'https://ncode.syosetu.com/';
 const FONT_MIN = 13, FONT_MAX = 28;
 
 // Link Google Apps Script Proxy cá nhân của bạn (Thay URL này sau khi bạn deploy script)
-const MY_GAS_PROXY = 'https://script.google.com/macros/s/AKfycbzL_M5rk2s-wF0Q7dAPvtnTzauf_BPh_zl0KOWkknN7NaMPBm9t-xOsEuHYgACxkcjo/exec';
+const MY_GAS_PROXY = 'https://my-proxy-translator.viettranaptx4869.workers.dev';
 
 const SYSTEM_PROMPT = `Bạn là công cụ dịch thuật tự động chuyên biệt cho văn học Nhật Bản (light novel, web novel).
 Nhiệm vụ: Dịch NGUYÊN VẸN toàn bộ nội dung từ tiếng Nhật sang tiếng Việt, không bỏ sót câu nào.
@@ -31,7 +31,7 @@ Quy tắc bắt buộc:
 const PROXIES = [
   // Ưu tiên GAS Proxy nếu bạn đã cài đặt
   ...(MY_GAS_PROXY ? [{
-    name: 'Google-Cloud-Proxy',
+    name: 'Cloudflare-Cloud-Proxy',
     build: u => `${MY_GAS_PROXY}?url=${encodeURIComponent(u)}`,
     parse: async r => r.text(),
   }] : []),
