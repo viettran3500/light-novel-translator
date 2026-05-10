@@ -119,6 +119,12 @@ const dom = {
   manualLink:     $('manualLink'),
   manualPasteArea:$('manualPasteArea'),
   confirmManual:  $('confirmManual'),
+  errorScreen:    $('errorScreen'),
+  errorTitle:     $('errorTitle'),
+  errorMsg:       $('errorMsg'),
+  errorLink:      $('errorLink'),
+  errorRetryBtn:  $('errorRetryBtn'),
+  errorManualBtn: $('errorManualBtn'),
   prevBtn:        $('prevBtn'),
   nextBtn:        $('nextBtn'),
   navChapterLabel:$('navChapterLabel'),
@@ -150,6 +156,20 @@ function setLoading(on, text = 'Đang xử lý...') {
   dom.loadingOverlay.classList.toggle('active', on);
   dom.loadingText.textContent = text;
   if (!on) state.abortCtrl = null;
+}
+
+// ===== ERROR DISPLAY =====
+function showError(title, msg, url) {
+  hideAll();
+  dom.errorScreen.style.display = 'flex';
+  dom.errorTitle.textContent = title || 'Lỗi xử lý';
+  dom.errorMsg.textContent = msg;
+  if (url) {
+    dom.errorLink.href = url;
+    dom.errorLink.style.display = 'flex';
+  } else {
+    dom.errorLink.style.display = 'none';
+  }
 }
 
 // ===== CHAPTER URL HELPERS =====
@@ -276,9 +296,9 @@ async function fetchAndTranslate(url) {
     }
   }
 
-  // All proxies failed → manual mode
+  // All proxies failed → show error
   setLoading(false);
-  showManual(url, lastErr);
+  showError('Lỗi tải trang', `Không thể tải được nội dung từ trang web này sau khi thử qua ${PROXIES.length} proxy.\nLỗi cuối: ${lastErr}`, url);
 }
 
 function extractText(html, url) {
@@ -403,6 +423,7 @@ async function doTranslate(text) {
       toast('Đã hủy dịch', 'info');
     } else {
       toast(`Lỗi: ${e.message}`, 'error', 6000);
+      showError('Lỗi dịch AI', `Gemini không thể dịch nội dung này. Vui lòng kiểm tra lại API Key hoặc thử model khác.\nChi tiết: ${e.message}`, state.currentUrl);
     }
   } finally {
     setLoading(false);
@@ -443,6 +464,7 @@ function hideAll() {
   dom.welcomeScreen.style.display = 'none';
   dom.translationContent.style.display = 'none';
   dom.manualArea.style.display = 'none';
+  dom.errorScreen.style.display = 'none';
 }
 
 function escHtml(t) {
@@ -558,6 +580,13 @@ function bindEvents() {
   dom.translateBtn.addEventListener('click', () => {
     if (state.rawText) doTranslate(state.rawText);
     else fetchAndTranslate(state.currentUrl);
+  });
+
+  // Error screen buttons
+  dom.errorRetryBtn.addEventListener('click', () => fetchAndTranslate(state.currentUrl));
+  dom.errorManualBtn.addEventListener('click', () => {
+    const info = parseChapterInfo(state.currentUrl);
+    showManual(state.currentUrl, 'Nhập thủ công theo yêu cầu');
   });
 
   // Font size

@@ -571,5 +571,30 @@ kbd { background: var(--card); border: 1px solid var(--border2); border-radius: 
   .nav-btn { min-width: 76px; padding: 9px 12px; font-size: 13px; }
 }
 
+/* Error Screen */
+.error-screen {
+  display: flex; flex-direction: column; align-items: center;
+  justify-content: center; min-height: 100%;
+  padding: 40px 24px; text-align: center; gap: 20px;
+}
+.error-icon { font-size: 64px; }
+.error-screen h2 { font-size: 20px; color: var(--error); font-weight: 700; }
+#errorMsg { font-size: 14px; color: var(--text2); max-width: 400px; line-height: 1.5; white-space: pre-wrap; }
+.error-actions { display: flex; flex-direction: column; gap: 12px; width: 100%; max-width: 320px; }
+.btn-error-open {
+  background: var(--bg3); color: var(--text); border: 1px solid var(--border-accent);
+  padding: 12px 20px; border-radius: 24px; text-decoration: none;
+  font-size: 14px; font-weight: 600; transition: all .2s;
+  display: flex; align-items: center; justify-content: center; gap: 8px;
+}
+.btn-error-open:hover { background: var(--hover); border-color: var(--accent); }
+.btn-error-retry {
+  background: var(--gradient); color: white; border: none;
+  padding: 12px 20px; border-radius: 24px;
+  font-size: 14px; font-weight: 600; cursor: pointer;
+  transition: transform .2s, opacity .2s;
+}
+.btn-error-retry:hover { transform: translateY(-1px); opacity: .9; }
+
 /* Scrollbar */
 * { scrollbar-width: thin; scrollbar-color: var(--hover) transparent; }
