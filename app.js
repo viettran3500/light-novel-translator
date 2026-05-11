@@ -108,6 +108,7 @@ const dom = {
   novelTitle:     $('novelTitle'),
   chapterNum:     $('chapterNum'),
   translateBtn:   $('translateBtn'),
+  openSourceBtn:  $('openSourceBtn'),
   welcomeScreen:  $('welcomeScreen'),
   welcomeOpenBtn: $('welcomeOpenBtn'),
   translationContent: $('translationContent'),
@@ -235,6 +236,7 @@ async function fetchAndTranslate(url) {
   state.currentUrl = url;
   store.set(STORAGE.LAST_URL, url);
   dom.urlInput.value = url;
+  dom.openSourceBtn.href = url;
   updateNavButtons(url);
 
   // Extract novel title from URL
@@ -433,6 +435,12 @@ async function doTranslate(text) {
 function showTranslation(text) {
   hideAll();
 
+  // Kiểm tra nếu AI trả về tiếng Nhật (chứa Hiragana/Katakana) thay vì tiếng Việt
+  const jpRegex = /[\u3040-\u309F\u30A0-\u30FF]/;
+  if (jpRegex.test(text) && text.length > 100) {
+    toast('Cảnh báo: Bản dịch có vẻ vẫn chứa tiếng Nhật', 'warning', 5000);
+  }
+
   // Loại bỏ các khối code markdown nếu Gemini bao quanh bản dịch
   let cleaned = text.trim();
   if (cleaned.startsWith('```')) {
@@ -530,6 +538,7 @@ function init() {
   if (state.apiKey) dom.apiKeyInput.value = state.apiKey;
   dom.modelSelect.value = state.model;
   dom.urlInput.value    = state.currentUrl;
+  dom.openSourceBtn.href = state.currentUrl;
   dom.darkMode.checked  = state.darkMode;
 
   applyFontSize(state.fontSize);
