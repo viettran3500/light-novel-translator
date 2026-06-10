@@ -11,6 +11,8 @@ const STORAGE = {
   BOOKMARKS: 'tn_bookmarks',
   FONT_SIZE: 'tn_font_size',
   DARK_MODE: 'tn_dark_mode',
+  ACTIVE_TAB: 'tn_active_tab',
+  LIB_PROGRESS: 'tn_lib_progress',
 };
 
 const DEFAULT_MODEL = 'gemini-3.1-flash-lite-preview';
@@ -85,6 +87,11 @@ let state = {
   rawText:   '',       // scraped Japanese text
   abortCtrl: null,
   proxyIdx:  0,
+  activeTab: 'online', // 'online' | 'library'
+  libraryNovels: [],   // list of local novels from novels.json
+  selectedNovel: null, // active local novel object
+  selectedChapter: null, // active local chapter object
+  libraryProgress: {}, // map of novel_id -> last read chapter number
 };
 
 // ===== DOM =====
@@ -134,6 +141,23 @@ const dom = {
   cancelBtn:      $('cancelBtn'),
   toastContainer: $('toastContainer'),
   readerArea:     $('readerArea'),
+  
+  // Library elements
+  tabOnline:      $('tabOnline'),
+  tabLibrary:     $('tabLibrary'),
+  onlineTabContent: $('onlineTabContent'),
+  libraryTabContent: $('libraryTabContent'),
+  libBackBtn:     $('libBackBtn'),
+  libraryView:    $('libraryView'),
+  libraryDashboard: $('libraryDashboard'),
+  libraryGrid:    $('libraryGrid'),
+  libraryDetail:  $('libraryDetail'),
+  detailHeaderCard: $('detailHeaderCard'),
+  detailChaptersList: $('detailChaptersList'),
+  chapterSearchInput: $('chapterSearchInput'),
+  sidebarNovelSearch: $('sidebarNovelSearch'),
+  sidebarNovelsList: $('sidebarNovelsList'),
+  btnLibraryHome:     $('btnLibraryHome'),
 };
 
 // ===== STORAGE =====
@@ -473,6 +497,7 @@ function hideAll() {
   dom.translationContent.style.display = 'none';
   dom.manualArea.style.display = 'none';
   dom.errorScreen.style.display = 'none';
+  dom.libraryView.style.display = 'none';
 }
 
 function escHtml(t) {
@@ -534,6 +559,7 @@ function init() {
   state.bookmarks = store.get(STORAGE.BOOKMARKS, []);
   state.fontSize  = store.get(STORAGE.FONT_SIZE, 18);
   state.darkMode  = store.get(STORAGE.DARK_MODE, true);
+  state.activeTab = store.get(STORAGE.ACTIVE_TAB, 'online');
 
   if (state.apiKey) dom.apiKeyInput.value = state.apiKey;
   dom.modelSelect.value = state.model;
@@ -547,6 +573,13 @@ function init() {
   updateNavButtons(state.currentUrl);
 
   bindEvents();
+  
+  // Load library data asynchronously
+  loadLibraryData().then(() => {
+    if (state.activeTab === 'library') {
+      switchTab('library');
+    }
+  });
 }
 
 // ===== EVENTS =====
@@ -651,6 +684,56 @@ function bindEvents() {
     toast('Đã hủy', 'info');
   });
 
+  // Sidebar tab clicks
+  dom.tabOnline.addEventListener('click', () => { closeSidebar(); switchTab('online'); });
+  dom.tabLibrary.addEventListener('click', () => { closeSidebar(); switchTab('library'); });
+  
+  // Library home button and back button
+  dom.btnLibraryHome.addEventListener('click', () => { closeSidebar(); showLibraryDashboard(); });
+  dom.libBackBtn.addEventListener('click', showLibraryDashboard);
+  
+  // Sidebar novel search and filtering
+  dom.sidebarNovelSearch.addEventListener('input', () => {
+    renderSidebarNovels(dom.sidebarNovelSearch.value);
+  });
+  
+  // Detail view chapter search
+  dom.chapterSearchInput.addEventListener('input', () => {
+    if (state.selectedNovel) renderChapterList(state.selectedNovel, dom.chapterSearchInput.value);
+  });
+  
+  // Click on a novel card in grid
+  dom.libraryGrid.addEventListener('click', e => {
+    const card = e.target.closest('.novel-card');
+    if (card) {
+      const id = card.dataset.id;
+      showNovelDetail(id);
+    }
+  });
+  
+  // Click on sidebar novel quick list
+  dom.sidebarNovelsList.addEventListener('click', e => {
+    const item = e.target.closest('[data-novel-id]');
+    if (item) {
+      const id = item.dataset.novelId;
+      closeSidebar();
+      switchTab('library');
+      showNovelDetail(id);
+    }
+  });
+  
+  // Click on a chapter in list
+  dom.detailChaptersList.addEventListener('click', e => {
+    const item = e.target.closest('.chapter-item');
+    if (item && state.selectedNovel) {
+      const num = parseInt(item.dataset.num);
+      const chapter = state.selectedNovel.chapters.find(c => c.num === num);
+      if (chapter) {
+        readLibraryChapter(state.selectedNovel, chapter);
+      }
+    }
+  });
+
   // Keyboard shortcuts
   document.addEventListener('keydown', e => {
     if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') { e.preventDefault(); dom.translateBtn.click(); }
@@ -661,11 +744,303 @@ function bindEvents() {
 }
 
 function navigateChapter(delta) {
-  const info = parseChapterInfo(state.currentUrl);
-  if (!info) { toast('Không xác định được chương', 'warning'); return; }
-  const newUrl = buildChapterUrl(info, delta);
-  if (!newUrl) { toast('Đã ở chương đầu tiên', 'info'); return; }
-  fetchAndTranslate(newUrl);
+  if (state.activeTab === 'library' && state.selectedNovel && state.selectedChapter) {
+    const novel = state.selectedNovel;
+    const currentNum = state.selectedChapter.num;
+    const idx = novel.chapters.findIndex(c => c.num === currentNum);
+    if (idx === -1) return;
+    const newIdx = idx + delta;
+    if (newIdx >= 0 && newIdx < novel.chapters.length) {
+      readLibraryChapter(novel, novel.chapters[newIdx]);
+    } else {
+      toast(delta > 0 ? 'Đã ở chương cuối cùng' : 'Đã ở chương đầu tiên', 'info');
+    }
+  } else {
+    const info = parseChapterInfo(state.currentUrl);
+    if (!info) { toast('Không xác định được chương', 'warning'); return; }
+    const newUrl = buildChapterUrl(info, delta);
+    if (!newUrl) { toast('Đã ở chương đầu tiên', 'info'); return; }
+    fetchAndTranslate(newUrl);
+  }
+}
+
+// ===== LIBRARY HELPER FUNCTIONS =====
+
+async function loadLibraryData() {
+  try {
+    const res = await fetch('novels.json');
+    if (!res.ok) throw new Error('Không thể tải tệp novels.json');
+    state.libraryNovels = await res.json();
+    state.libraryProgress = store.get(STORAGE.LIB_PROGRESS, {});
+    
+    renderLibraryGrid();
+    renderSidebarNovels();
+  } catch (e) {
+    console.error('Lỗi tải dữ liệu thư viện:', e);
+    toast('Không thể tải thư viện offline', 'error');
+  }
+}
+
+function renderLibraryGrid() {
+  if (!state.libraryNovels || state.libraryNovels.length === 0) {
+    dom.libraryGrid.innerHTML = '<p class="empty-hint">Chưa có truyện nào trong thư mục Novel</p>';
+    return;
+  }
+
+  dom.libraryGrid.innerHTML = state.libraryNovels.map((novel, index) => {
+    const gradientClass = `novel-cover-gradient-${(index % 6) + 1}`;
+    const firstLetter = novel.title.charAt(0).toUpperCase();
+    const lastReadNum = state.libraryProgress[novel.id] || 0;
+    const progressPercent = novel.chapterCount > 0 ? (lastReadNum / novel.chapterCount) * 100 : 0;
+    
+    return `
+      <div class="novel-card" data-id="${novel.id}">
+        <div class="novel-cover ${gradientClass}">
+          <span class="novel-cover-badge">${novel.chapterCount} Ch.</span>
+          <span class="novel-cover-letter">${firstLetter}</span>
+        </div>
+        ${progressPercent > 0 ? `<div class="novel-card-progress-bar" style="width: ${progressPercent}%"></div>` : ''}
+        <div class="novel-info">
+          <div class="novel-card-title" title="${novel.title}">${novel.title}</div>
+          <div class="novel-card-meta">
+            ${lastReadNum > 0 ? `Đang đọc: C. ${lastReadNum}` : 'Chưa đọc'}
+          </div>
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+function renderSidebarNovels(filter = '') {
+  const query = filter.toLowerCase().trim();
+  const filtered = state.libraryNovels.filter(n => n.title.toLowerCase().includes(query));
+  
+  if (filtered.length === 0) {
+    dom.sidebarNovelsList.innerHTML = '<p class="empty-hint">Không tìm thấy truyện</p>';
+    return;
+  }
+  
+  dom.sidebarNovelsList.innerHTML = filtered.map(n => `
+    <div class="bm-item" data-novel-id="${n.id}">
+      <span class="bm-title" title="${n.title}">📚 ${n.title}</span>
+      <span class="novel-card-meta" style="font-size: 10px; opacity: 0.7;">${n.chapterCount} Ch.</span>
+    </div>
+  `).join('');
+}
+
+function showNovelDetail(novelId) {
+  const novel = state.libraryNovels.find(n => n.id === novelId);
+  if (!novel) return;
+  
+  state.selectedNovel = novel;
+  dom.libraryDashboard.style.display = 'none';
+  dom.libraryDetail.style.display = 'block';
+  
+  const lastReadNum = state.libraryProgress[novel.id] || 0;
+  const gradientClass = `novel-cover-gradient-${(state.libraryNovels.indexOf(novel) % 6) + 1}`;
+  const firstLetter = novel.title.charAt(0).toUpperCase();
+
+  dom.detailHeaderCard.innerHTML = `
+    <div class="detail-cover-preview ${gradientClass}">
+      ${firstLetter}
+    </div>
+    <div class="detail-info-block">
+      <div>
+        <h2 class="detail-title">${novel.title}</h2>
+        <div class="detail-meta-text">
+          📁 Thư mục: Novel/${novel.dir}<br>
+          📖 Tổng số: ${novel.chapterCount} chương<br>
+          ${lastReadNum > 0 ? `🔖 Đã đọc đến: Chương ${lastReadNum}` : '🆕 Chưa bắt đầu đọc'}
+        </div>
+      </div>
+      <button class="btn-read-continue" id="btnContinueRead">
+        <span>${lastReadNum > 0 ? '▶️ Đọc tiếp' : '📖 Bắt đầu đọc'}</span>
+      </button>
+    </div>
+  `;
+
+  document.getElementById('btnContinueRead').addEventListener('click', () => {
+    const nextChapNum = lastReadNum > 0 ? lastReadNum : 1;
+    const chapter = novel.chapters.find(c => c.num === nextChapNum) || novel.chapters[0];
+    if (chapter) {
+      readLibraryChapter(novel, chapter);
+    }
+  });
+
+  renderChapterList(novel);
+  dom.chapterSearchInput.value = '';
+  dom.readerArea.scrollTop = 0;
+}
+
+function renderChapterList(novel, filter = '') {
+  const query = filter.toLowerCase().trim();
+  const filtered = novel.chapters.filter(c => 
+    c.title.toLowerCase().includes(query) || 
+    String(c.num).includes(query)
+  );
+  
+  if (filtered.length === 0) {
+    dom.detailChaptersList.innerHTML = '<p class="empty-hint">Không tìm thấy chương</p>';
+    return;
+  }
+  
+  const lastReadNum = state.libraryProgress[novel.id] || 0;
+  
+  dom.detailChaptersList.innerHTML = filtered.map(c => `
+    <div class="chapter-item" data-num="${c.num}">
+      <span class="chapter-item-title">${c.title}</span>
+      ${c.num <= lastReadNum && lastReadNum > 0 ? `
+        <span class="chapter-item-read-badge">✓ Đã đọc</span>
+      ` : ''}
+    </div>
+  `).join('');
+}
+
+async function readLibraryChapter(novel, chapter) {
+  state.selectedNovel = novel;
+  state.selectedChapter = chapter;
+  state.currentUrl = `offline://${novel.id}/${chapter.num}`;
+  
+  hideAll();
+  dom.translationContent.style.display = 'block';
+  
+  dom.libBackBtn.style.display = 'flex';
+  dom.openSourceBtn.style.display = 'none';
+  dom.translateBtn.style.display = 'none';
+  
+  dom.novelTitle.textContent = novel.title;
+  dom.chapterNum.textContent = chapter.title;
+  
+  setLoading(true, 'Đang đọc chương từ ổ đĩa...');
+  
+  const filePath = `Novel/${encodeURIComponent(novel.dir)}/${encodeURIComponent(chapter.file)}`;
+  
+  try {
+    const res = await fetch(filePath);
+    if (!res.ok) throw new Error(`HTTP ${res.status}: Không thể đọc file chương.`);
+    const text = await res.text();
+    
+    setLoading(false);
+    
+    state.libraryProgress[novel.id] = chapter.num;
+    store.set(STORAGE.LIB_PROGRESS, state.libraryProgress);
+    
+    dom.chapterHeader.innerHTML = `
+      <div>Thư viện Offline &bull; ${novel.title}</div>
+      <h1>${chapter.title}</h1>
+    `;
+    
+    const paragraphs = text
+      .split(/\n\s*\n/)
+      .map(p => p.trim())
+      .filter(p => p.length > 0);
+      
+    const html = paragraphs.length > 0
+      ? paragraphs.map(p => `<p>${escHtml(p)}</p>`).join('')
+      : `<p>${escHtml(text)}</p>`;
+      
+    dom.chapterBody.innerHTML = html;
+    dom.chapterEnd.style.display = 'block';
+    
+    updateLibraryNavButtons();
+    dom.readerArea.scrollTop = 0;
+    closeSidebar();
+    
+    renderLibraryGrid();
+    renderSidebarNovels();
+    
+  } catch (e) {
+    setLoading(false);
+    showError('Lỗi đọc chương', `Không thể tải nội dung tệp tin chương truyện.\nLỗi: ${e.message}`);
+  }
+}
+
+function updateLibraryNavButtons() {
+  if (!state.selectedNovel || !state.selectedChapter) return;
+  const novel = state.selectedNovel;
+  const currentNum = state.selectedChapter.num;
+  
+  const idx = novel.chapters.findIndex(c => c.num === currentNum);
+  if (idx === -1) {
+    dom.prevBtn.disabled = true;
+    dom.nextBtn.disabled = true;
+    dom.navChapterLabel.textContent = '—';
+    return;
+  }
+  
+  dom.prevBtn.disabled = idx === 0;
+  dom.nextBtn.disabled = idx === novel.chapters.length - 1;
+  dom.navChapterLabel.textContent = `Chương ${currentNum}/${novel.chapters.length}`;
+}
+
+function switchTab(tab) {
+  state.activeTab = tab;
+  store.set(STORAGE.ACTIVE_TAB, tab);
+  
+  dom.tabOnline.classList.toggle('active', tab === 'online');
+  dom.tabLibrary.classList.toggle('active', tab === 'library');
+  
+  dom.onlineTabContent.style.display = tab === 'online' ? 'block' : 'none';
+  dom.libraryTabContent.style.display = tab === 'library' ? 'block' : 'none';
+  
+  if (tab === 'online') {
+    dom.libraryView.style.display = 'none';
+    dom.libBackBtn.style.display = 'none';
+    dom.openSourceBtn.style.display = 'flex';
+    dom.translateBtn.style.display = 'flex';
+    
+    hideAll();
+    if (state.currentUrl && state.currentUrl !== DEFAULT_URL && !state.currentUrl.startsWith('offline://')) {
+      if (state.rawText) {
+        showTranslation(state.rawText);
+      } else {
+        dom.welcomeScreen.style.display = 'flex';
+      }
+      updateNavButtons(state.currentUrl);
+    } else {
+      dom.welcomeScreen.style.display = 'flex';
+    }
+  } else {
+    dom.openSourceBtn.style.display = 'none';
+    dom.translateBtn.style.display = 'none';
+    
+    if (state.selectedChapter && state.selectedNovel) {
+      dom.libraryView.style.display = 'none';
+      dom.libBackBtn.style.display = 'flex';
+      hideAll();
+      dom.translationContent.style.display = 'block';
+      updateLibraryNavButtons();
+    } else {
+      hideAll();
+      dom.libraryView.style.display = 'block';
+      dom.libBackBtn.style.display = 'none';
+      if (state.selectedNovel) {
+        dom.libraryDashboard.style.display = 'none';
+        dom.libraryDetail.style.display = 'block';
+      } else {
+        dom.libraryDashboard.style.display = 'block';
+        dom.libraryDetail.style.display = 'none';
+      }
+    }
+  }
+}
+
+function showLibraryDashboard() {
+  state.selectedNovel = null;
+  state.selectedChapter = null;
+  
+  hideAll();
+  dom.libraryView.style.display = 'block';
+  dom.libraryDashboard.style.display = 'block';
+  dom.libraryDetail.style.display = 'none';
+  dom.libBackBtn.style.display = 'none';
+  
+  dom.novelTitle.textContent = 'Thư viện Novel';
+  dom.chapterNum.textContent = '';
+  
+  dom.prevBtn.disabled = true;
+  dom.nextBtn.disabled = true;
+  dom.navChapterLabel.textContent = '—';
 }
 
 // ===== START =====

@@ -1,0 +1,159 @@
+Đây là bản dịch chương mở đầu của bộ *Death March kara Hajimaru Isekai Kyousoukyoku* (Khúc ca hành trình dị giới bắt đầu từ Death March).
+
+***
+
+※ 02/11: Đã sửa lỗi chính tả.
+
+Xin chào, Suzuki đây.
+Là một gã mờ nhạt đến mức thời đi học cứ bị gọi nhầm là Sato, chính là tôi, Suzuki.
+
+Người ta bảo trong mơ thì không cảm thấy đau đớn, nhưng cũng có những giấc mơ mà ta cảm nhận được các tín hiệu như là "đau", ví dụ như nằm mơ thấy bị sâu răng chẳng hạn.
+
+Không có á?
+
+À thì, chuyện đó không quan trọng.
+
+◇
+
+Hình như tôi đã ngất đi khoảng hai tiếng đồng hồ vì cơn đau dữ dội ngay trước khi bị cuốn bay bởi làn sóng bụi đất – dư chấn từ việc một trận mưa sao băng khoét sâu xuống mặt đất.
+Thời gian được hiển thị trên bảng menu vẫn luôn treo lơ lửng. Một tính năng tiện lợi đến bất ngờ.
+
+Tôi gượng dậy cái cơ thể đang bị chôn vùi một nửa dưới đất.
+
+Ủa? Không đứng dậy nổi...
+
+Cảm giác này giống hệt như lúc không thể bước ra khỏi giường vào một buổi sáng mùa đông vậy. Tay chân vẫn cử động được, nhưng rã rời đến mức ngay cả việc thao tác menu cũng thấy lười biếng.
+
+Giá mà có siêu năng lực nào đó để thao tác menu rồi kiểm tra nhật ký (log) thì tốt biết mấy.
+
+Thử làm liều bằng cách tưởng tượng ra cảnh dùng ngón tay thao tác, không ngờ nó lại thực hiện được thật. Đúng là giấc mơ mà, mấy cái vô lý kiểu này lại tự do tự tại.
+
+Tôi điều khiển suy nghĩ để xem nhật ký, thấy dòng chữ "Satou đã lên cấp" hiện ra dày đặc như thể đang trêu ngươi mình vậy. Vừa tái hiện âm thanh "Chara-ra-ra-tcha~" nổi tiếng khi lên cấp trong đầu, tôi vừa cuộn ngược lại nhật ký.
+
+Sau một lúc, cuối cùng tôi cũng tìm thấy những dòng thông báo khác.
+
+> Đã học được kỹ năng 『Ma thuật triệu hồi: Dị giới』.
+> Đã học được ma thuật triệu hồi 『Mưa sao băng』.
+
+『Mưa sao băng』 nghĩa là ma thuật triệu hồi thiên thạch sao?
+Đây là loại ma thuật không hề tồn tại trong FFW (tên game). Ma thuật triệu hồi trong đó chắc chỉ có gọi Golem hay tinh linh thôi. Cái từ ngữ đậm chất trung nhị phía sau cũng khiến tôi để tâm. "Dị giới" ư, cả trong FFW lẫn WW đều chẳng có cái đó. Nhưng thôi, trong mơ thì đừng suy nghĩ nhiều làm gì, cứ lướt qua đi.
+
+Sau dòng thông báo này là hàng loạt dòng "Đã lên cấp" nối tiếp nhau.
+Vì các thông báo đều có hiển thị thời gian nên thứ tự không thể sai được. Trình tự là "Học kỹ năng" -> "Học ma thuật thuộc kỹ năng" -> "Lên cấp".
+
+Nói cách khác, đây là một kiểu RPG không học kỹ năng hay ma thuật thông qua việc lên cấp!
+
+"Không, không, mình đang phân tích cái quái gì trong mơ thế này..."
+Có vẻ thói quen phân tích thời còn làm game thủ của tôi lại tái phát.
+
+Nhưng trong mơ mà còn thấy ngại ngùng thì cũng chẳng để làm gì, cứ tiếp tục phân tích theo nhu cầu bản thân vậy. Dẫu sao thì trong lúc tôi đang làm trò này, cơ thể thật của tôi chắc cũng đang được nghỉ ngơi thoải mái!
+
+Tôi tạm thời bỏ mặc nhật ký, quyết định kiểm tra tab ma thuật và kỹ năng.
+
+"Nhưng trước hết đã."
+
+Tôi mở "Cài đặt" rồi thêm màn hình "Nhật ký" vào hiển thị cơ bản.
+Cứ phải chuyển qua chuyển lại phiền phức quá.
+
+Trong phần ma thuật hiện ra hai cái là "Mưa sao băng" và "Toàn bản đồ thăm dò".
+Trong phần kỹ năng có hai cái là "Ma thuật triệu hồi: Dị giới" và "Ma thuật thuật lý: Dị giới".
+
+"Toàn bản đồ thăm dò" hình như thuộc hạng mục thuật lý.
+
+Liệu ma thuật hay kỹ năng đã sử dụng sẽ được đăng ký vào đây sao?
+Nhưng nếu không học thì làm sao dùng được, hay đây là kiểu bất thường chỉ dành cho trường hợp dùng bằng phần thưởng lần đầu như lần này nhỉ? Nếu tôi là lập trình viên, tôi sẽ từ chối thẳng thừng cái thông số kỹ thuật này.
+
+Chỉ số (Status) thay đổi khá nhiều. Cũng phải thôi, vì cấp độ đã tăng vọt từ 1 lên tận 310. FFW tôi làm trước khi ngủ đáng lẽ đã bị hạn chế mức trần là 50 ở phía máy chủ rồi. Cơ mà vì server thử nghiệm dùng cho phát triển có thể tăng vô hạn, nên chắc ký ức về cái đó đã ảnh hưởng đến giấc mơ này.
+
+Cột kinh nghiệm với hàng số 9 nối dài là những con số thiên văn, tôi chẳng buồn đếm xem có bao nhiêu chữ số nữa. Ước gì họ thêm dấu phẩy sau mỗi ba chữ số. Để dành đề xuất vào đợt cập nhật tới xem sao.
+
+Các chỉ số như Sức mạnh, Trí tuệ đều đã đạt giới hạn (cap) là 99. Ở FFW, theo chỉ đạo từ phía khách hàng, chúng tôi chỉ hiển thị tối đa là 99, nhưng giá trị thực tế không bị chặn ở đó. Nghe bảo khi mở khóa giới hạn cấp độ theo từng giai đoạn thì sẽ điều chỉnh lại giới hạn hiển thị. ...Vậy có nghĩa là giá trị thực ở đây còn cao hơn nữa sao?
+
+Thể lực, MP, Stamina cũng đồng loạt đạt 3100. Thông số này được thiết kế theo kiểu mỗi cấp tăng cố định 10 điểm. Chúng tôi dùng cách thêm các kỹ năng giảm tiêu hao để tạo sự khác biệt.
+Theo lời của planner thì nếu để mỗi chỉ số tăng một kiểu khác nhau thì điều chỉnh rất phiền phức.
+
+Hơn nữa, điểm kỹ năng (Skill Point) cũng lên tới 3100.
+Vì vừa có thông báo học kỹ năng, liệu mình có thể phân bổ nó không?
+
+Khi nhìn kỹ vào mục kỹ năng, thấy hai kỹ năng lúc nãy đang hiển thị màu xám. Nó ghi là "Ma thuật thuật lý: Dị giới Lv0", tôi thử nhấn vào đó. Khi chạm vào phần Lv thì hiện ra dòng "Vui lòng chỉ định điểm kỹ năng để phân bổ (1-10)", tôi thử đổ luôn 10 điểm vào.
+Không có hiệu ứng âm thanh gì cả, ký tự chuyển từ chữ xám sang chữ trắng "Ma thuật thuật lý: Dị giới Lv10". Điểm kỹ năng còn lại 3090. Một cấp tốn 1 điểm à, dễ hiểu thật. Nhấn lại lần nữa thì chỉ hiện "Đây là cấp tối đa".
+
+Nhìn sang tab ma thuật, "Toàn bản đồ thăm dò" đã chuyển sang chữ trắng, còn "Mưa sao băng" vẫn là màu xám.
+Có vẻ như nếu không phân bổ điểm kỹ năng để nâng cấp kỹ năng thì sẽ không thỏa mãn điều kiện để sử dụng ma thuật. Tôi cũng phân bổ 10 điểm cho "Ma thuật triệu hồi: Dị giới Lv0".
+
+Mục danh hiệu (Title) cũng được thêm vào đủ thứ.
+Đầu tiên là "Kẻ giết quái vật". Ừ, cái này thì hiểu được. Tiếp theo là "Kẻ giết tộc Vảy", "Thảm họa của tộc Vảy", "Thiên địch của tộc Vảy". Không rõ tộc Vảy là cái gì, nhưng chắc là á nhân hệ bò sát hoặc quái vật gì đó. Chưa hết, còn "Kẻ giết rồng bay", "Kẻ giết rồng [Hạ cấp]", "Kẻ giết rồng [Rồng con]", "Kẻ giết rồng [Rồng trưởng thành]", "Kẻ giết rồng [Rồng cổ đại]", và hàng loạt "Kẻ giết rồng" khác với tên riêng trong ngoặc vuông cứ kéo dài mãi.
+
+Thảo nào, giết chừng ấy con rồng thì việc lên cấp đến 300 cũng chẳng có gì lạ. Nhớ lại cảnh bản đồ đỏ rực trước khi tấn công là biết.
+Và ở cuối phần danh hiệu, cũng giống như tộc Vảy, xuất hiện "Thiên địch của tộc Rồng", và cuối cùng là "Kẻ giết thần".
+
+"Ngươi có tin vào thần linh không?"
+
+"Khoan đã, mình giết thần khi nào thế!"
+Tôi nhấn vào góc nhật ký, hiện thanh tìm kiếm và gõ từ "Thần".
+
+> Đã tiêu diệt Long Thần Aconcagua!
+
+Ra là đây, nguyên nhân của danh hiệu "Kẻ giết thần". Hóa ra "Mưa sao băng" đến cả thần cũng giết được à.
+
+Hóa ra là giết được thật sao...
+
+Mà còn 2 lần nữa, cái kỹ năng giết cả thần ấy!!
+
+Không, không, giết thì làm được gì chứ.
+Nhưng vì trong nhật ký không hiển thị lượng sát thương nên không rõ uy lực đến mức nào. Theo thông số kỹ thuật của cả FFW lẫn WW, dù là nhất kích tất sát (chết ngay lập tức) thì vẫn phải hiển thị lượng sát thương chứ nhỉ... Mà thôi, theo đuổi thông số kỹ thuật trong một giấc mơ cũng chẳng để làm gì.
+
+Cảm thấy cơ thể thoải mái hơn chút, tôi gượng dậy.
+
+Để tránh sơ ý nhấp chuột vào khu dân cư rồi trở thành kẻ thù của nhân loại, tôi đổi cài đặt cơ bản trong tab "Cài đặt" để tắt hiển thị biểu tượng "Mưa sao băng".
+
+Nhắc mới nhớ, trong tab ma thuật cũng có thêm vào.
+Tôi chuyển tab sang ma thuật, hiển thị "Mưa sao băng" và "Toàn bản đồ thăm dò". Chà, dùng thế nào nhỉ? Chỉ cần chạm vào như bình thường là được sao?
+
+Tôi chạm nhẹ vào "Toàn bản đồ thăm dò" nhưng không có gì thay đổi cả.
+
+Kiểm tra nhật ký thì thấy ghi "Đã sử dụng ma thuật: Toàn bản đồ thăm dò". Nhìn vào chỉ số thì MP đã giảm xuống còn 3090. Có vẻ như tiêu tốn 10 MP để kích hoạt. Vì cứ phải chuyển tab qua lại rất phiền phức, tôi thêm thanh HP/MP vào hiển thị cơ bản.
+
+Trên radar không thấy ai ngoài chính mình.
+Không có kẻ địch thì tốt, nhưng nghĩ đến việc mình đã tàn sát sạch sẽ mọi thứ thì dù là trong mơ cũng chẳng thấy buồn cười nổi. Không, nếu là game thì chuyện đó cũng bình thường.
+
+Nếu không có nạn nhân thì chắc cũng được nhỉ? Tôi thong thả nhấn vào "Mưa sao băng". Cảm giác như máu trong người đang bị rút đi với tốc độ chóng mặt. Thanh MP ở góc tầm nhìn tụt xuống cái vèo. Nó dừng lại đúng lúc đã tiêu hao 1000 điểm.
+Lúc dùng lần đầu không có cảm giác này, có lẽ là do lần đó không dùng ma lực của chính mình chăng.
+
+Tôi nhìn lên trời. Thiên thạch vẫn chưa rơi xuống. Nghĩ lại thời điểm lúc nãy, chắc sắp rồi.
+Và rồi, thiên thạch xé toạc mây trời ập xuống.
+
+To quá. Cái gì thế kia?
+
+Những thiên thạch đang rơi xuống to gấp gần 100 lần so với lúc nãy.
+
+Chưa kịp tìm hiểu nguyên do, bản năng đã thúc giục tôi phải chạy.
+Tất nhiên là chạy theo hướng ngược lại với nơi thiên thạch rơi!
+
+Vừa nghe tiếng động liên hồi của những khối đá – gọi là thiên thạch thì quá lớn – đang đập xuống mặt đất từ sau lưng, tôi vừa cố gắng hết sức di chuyển đôi chân.
+
+Cảm giác không khí đặc quánh lại như đang chạy dưới nước vậy. Giấc mơ chạy bộ lúc nào cũng thấy cơ thể nặng nề, không biết có phải chỉ mình tôi bị vậy không nhỉ?
+
+Cuối cùng, tôi lăn người lách qua phía sau một vách đá có dạng như cao nguyên. Tuy gọi là nhỏ nhưng bán kính cũng hơn 100 mét, chắc là làm vật che chắn được.
+Ngay khi tôi vừa tránh xong, làn sóng bụi đất như sóng thần ập tới. Nhìn thấy những tảng đá to bằng người lăn lộn trong làn bụi, sống lưng tôi thoáng lạnh.
+
+Đã trôi qua bao lâu rồi nhỉ? Khi luồng bụi đất lắng xuống, tôi quyết định leo lên vách đá để nhìn nơi va chạm.
+Dốc khá đứng nhưng có vẻ nhiều chỗ đặt chân, tôi thử nhảy nhẹ để phóng lên bậc thang cao chừng 50cm.
+
+*Poon* (một âm thanh nghe như tiếng lò xo).
+Cơ thể bay vọt lên tận 5 mét.
+Vừa hoảng loạn, tôi vừa kịp bám lấy mỏm đá để đáp xuống.
+
+"Thông số tăng cao kiểu này... không đùa được đâu."
+
+Để che giấu sự an tâm và cái run rẩy của cơ thể, tôi lầm bầm một mình.
+
+"Chắc việc thiên thạch to ra lúc nãy cũng là do hiệu chỉnh trí tuệ hay hiệu chỉnh cấp độ gì đó thôi."
+
+Như một ninja trong game hay manga, tôi chạy vọt lên đỉnh đá bằng cách đạp liên tục vào các mỏm đá trên vách. Tiện thật, quá tiện. Dù là trong mơ nhưng phải công nhận khả năng thích nghi của mình cũng cao thật.
+
+Từ xa, một đám mây hình nấm méo mó hiện lên. Có lẽ là do bụi đất bị thiên thạch cuốn lên. Nếu đây là thực tế, thì việc tích tụ bụi mịn và giảm ánh nắng sẽ dẫn đến mất mùa, ảnh hưởng đến sức khỏe con người...
+
+"Dù sao cũng là mơ, nghĩ ngợi cũng chẳng ích gì."
+
+Chỉ trách là cái giấc mơ này nó quá thực tế mà thôi.

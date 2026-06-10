@@ -1,0 +1,102 @@
+“Tôi đại bại rồi.”
+
+Sau khi xử lý hậu chiến, Haku-san lại một lần nữa ghé thăm “cái hang động chỉ là hang động” này.
+Crowe trong bộ trang phục quản gia vẫn đi cùng cô như mọi khi.
+
+“Dù thua cuộc, nhưng đây là một trận chiến tuyệt vời với rất nhiều thứ đáng học hỏi. Tôi không ngờ mình lại bị những con chuột làm cho ra nông nỗi đó. Ai mà tin được chúng lại vừa là trinh sát, vừa là chiến binh chứ...”
+
+Việc biến lũ chuột thành trinh sát đúng là kế hoạch của tôi, nhưng chính tôi cũng không ngờ là chúng lại có thể hạ gục được cả boss.
+Thực ra, kế hoạch ban đầu là để lũ chuột khai phá bản đồ, rồi toán quân thứ hai là các Golem sẽ vào tiếp quản.
+Nhưng khi thấy con Minotaur khổng lồ, tôi bỗng nảy ra “chiến thuật Issun-boushi” (Dùng vật nhỏ bé để đánh bại kẻ khổng lồ), nghĩ bụng dù sao cũng dư thừa vài chục con, nên tôi cứ thế cho khoảng 50 con chuột lao thẳng vào cái miệng của nó. Ai ngờ con Minotaur đó thăng thiên thật.
+
+Tiện thể, đám chuột sống sót đã được tôi ra lệnh phân chia khu vực sinh sống trong rừng, có khi sau này lại dùng đến được.
+
+“Tôi cũng không ngờ là đến cả lõi giả (Dummy Core) mà mình cũng chẳng tìm thấy cái nào. Rốt cuộc, lõi Dungeon nằm ở đâu vậy? Nếu được, cô có thể cho tôi biết không?”
+“Nếu cô cộng thêm 5 vạn DP vào tiền thưởng, tôi sẽ nói cho biết.”
+“Chà, chỉ cần ngần ấy thôi sao? Được thôi, nói đi nào. Cứ thế này thì tôi không ngủ nổi vì tò mò mất.”
+
+Chết dở, tôi chỉ định đùa một câu, ai ngờ cô ấy trả luôn thật.
+...Thôi được rồi, đành trả lời vậy. Vị trí mấy cái lõi giả thì không cần nói cũng chẳng sao.
+Nhưng vị trí của lõi chính (Main Core) thì tôi đặt ở một nơi ngớ ngẩn đến mức tôi cứ lo mình sẽ bị mắng, nhưng vẫn trả lời.
+
+“...Thực ra, Dungeon này thông với đằng kia... Cách đây chừng một cây số có một căn phòng nhỏ. Nó được đặt ở đó đấy.”
+
+Hướng tôi chỉ tay là phòng Goblin.
+...Tôi đã nghĩ họ sẽ tới đó đầu tiên, nhưng rốt cuộc họ lại chẳng hề động đến nó cho tới tận cuối cùng.
+Đúng như dự đoán, Haku-san sững sờ. ...Nhưng đó không phải là vẻ tức giận, mà trông giống như đang trầm trồ thán phục thì đúng hơn.
+
+“...Ra là vậy, nhìn kỹ thì thấy các sợi Mana kết nối với nhau... Không ngờ cậu không chỉ làm việc ở quảng trường trước hang động này, mà còn kéo dài đường hầm ra cả bên ngoài Dungeon... Tôi đã không hề nhận ra.”
+“Đặt lõi Dungeon vào một căn phòng nối trực tiếp từ bên ngoài tầng 1... Sử dụng một nước đi táo bạo như vậy, thật đáng kinh ngạc đấy, thưa tiểu thư.”
+“Quả nhiên lời dạy của chị số 89 đúng là chuẩn xác mà!”
+
+Ừm, dù không hiểu sao lại ra như thế, nhưng suy nghĩ đó sai rồi đấy, Rokuko.
+Cô làm thế đơn giản chỉ vì cô lười không chịu xây thêm phòng, để mỗi căn phòng trống huếch trống hoác đó thôi mà.
+
+“Haiz, mê cung này thực sự rất xuất sắc, những cách vận dụng tôi thấy lần đầu nhiều vô kể... À, về phần hố bẫy thì yếu tố may rủi cao thật đấy. Lần này tôi dùng Minotaur làm chủ lực, nhưng nếu dùng những con Wraith không trọng lượng làm nòng cốt thì lại khác. Tốt nhất là nên xem xét đội hình của đối phương rồi mới đặt bẫy ở tầng 2 trở xuống.”
+
+Đúng là nếu làm vậy thì hố bẫy sẽ chẳng thể kích hoạt được. Chà, nhưng nếu thế thì họ cũng sẽ chẳng tìm thấy con đường ẩn bên trong hố bẫy.
+...Với lại, nếu là hố bẫy tự chế không tốn DP, thì muốn “nhìn mặt đặt tên” (thấy quân địch rồi mới đặt bẫy) là không thể rồi.
+Đằng nào thì cô ấy cũng đã có ý tốt cho lời khuyên, nên việc vặn lại cũng chẳng hay ho gì. Tốt nhất là nên im lặng.
+
+“Còn nữa... ực, cái ‘Cánh cổng trí tuệ’ đó... Đó là những câu đố từ thế giới khác sao?”
+“Phải. Haizz, vất vả lắm đấy. Vì những câu đố có thể dùng được ở đây ít quá.”
+“Còn nữa sao... Chúng được xây dựng rất tốt, cho tôi đấm một cái đi.”
+“Hahaha, từ chối nhé.”
+
+Chắc cô ấy phải cay cú lắm. Tôi đã không nói cho cô ấy biết là Rokuko giải được chỉ trong 3 giây.
+
+“...Tôi cũng thấy hứng thú với những câu đố mà cậu chưa dùng tới đấy.”
+“À, mấy cái dùng lối chơi chữ ấy mà. Hình như ở đây nó tự động dịch thuật mất rồi...”
+
+Đúng vậy, ví dụ như tôi nói với Rokuko là “Futon ga futtonda” (Cái chăn bay mất rồi - chơi chữ đồng âm trong tiếng Nhật).
+Thì trong tai Rokuko, nó lại biến thành “O-futon ga burst shimashita” (Cái chăn đã bị nổ tung). Thế thì còn gì là hài hước nữa. Cái thú vị của trò đùa dân gian Nhật Bản chẳng truyền tải được lấy một chút.
+Cho nên, những câu đố kiểu như “Bác sĩ nào hay làm hỏng xe? - Đáp án: Nha sĩ (vì xe bị phế thải/haisha)” thì đương nhiên là không tồn tại.
+
+Ban đầu, tôi định làm câu: “Trên xe ngựa đang chạy có kiếm, giáp, mũ giáp. Khi cua gấp, cái gì bị rơi? - Đáp án: Tốc độ của xe (Ochi - vừa có nghĩa là rơi, vừa là kết thúc câu đố)”. Rokuko lại hỏi tôi: “Này, mấy thứ trên xe ngựa có liên quan gì không?”. Thế là tôi đứng hình.
+Ở thế giới này, từ “rơi” của đồ vật và “giảm” của tốc độ là hai từ khác nhau, nên nó không thông.
+
+Hơn nữa, mấy câu đố xếp số bằng que diêm cũng bỏ đi. Ngay từ đầu, ký tự chữ viết đã khác rồi.
+Nếu là hình học thì không vấn đề gì, nên nếu có dịp, tôi dự định sẽ dùng chúng.
+
+Cảm thấy ma thuật thật lợi hại, đồng thời đó cũng là giây phút tôi từ bỏ ý định học ngôn ngữ thế giới này. Nó cứ tự động dịch thuật hết cả, chẳng có cách nào mà học được. Nếu cố gắng thì có khi được, nhưng tôi cũng chẳng có ý định cố gắng.
+
+“Đúng rồi, nghe này chị! Tên hiện tại của em là Rokuko đúng không? Hóa ra nó bắt nguồn từ số 695 trong ngôn ngữ thế giới khác đó! Ro là 6, Ku là 9, Ko là 5!”
+
+Rokuko cũng hoàn toàn không biết nguồn gốc tên mình.
+Khi tôi nhận ra điều đó và nói cho con bé biết, nó đã vui mừng khôn xiết. Cứ tưởng nó sẽ giận vì cái tên chỉ toàn là số, ai ngờ nó lại thấy đó là điều quan trọng và rất tuyệt vời. Gu thẩm mỹ của lõi Dungeon đúng là không hiểu nổi.
+Ngoài ra, hình như còn có quy luật độc đáo kiểu như thêm chữ “Đệ” (số thứ tự) vào đằng trước số thì sẽ trở thành danh xưng tôn kính.
+
+“! Tuyệt thật đấy, hay quá đi, không ngờ tên em lại ý nghĩa như thế... Ôi, chị ghen tị với em quá.”
+“Vậy nên, từ nay chị hãy gọi em là Rokuko nhé, chị số 89.”
+“Ừ, chị hiểu rồi, Rokuko-chan. ...Haiz, tốt thật đấy. Chị vì tóc trắng nên mới bị gọi là Haku (Bạch)... Thật sự là một Master có gu thẩm mỹ tồi tệ nhất mà...”
+“...Ơ? Haku-san, chẳng phải vì chị là số 89 nên mới là Haku sao?”
+
+Tôi vô tình thốt lên, Haku-san liền ngẩn người ra.
+
+“Tại sao 89 lại thành trắng cơ chứ... Mà khoan, lẽ nào ở thế giới khác lại là vậy sao?”
+“Thực ra thì có vài cách gọi... nhưng mà, đọc là Haku cũng được. Cả màu trắng lẫn số 89 đều đọc là Haku cả.”
+
+Haku-san nhắm mắt lại, xoa nhẹ thái dương.
+...Có vẻ như cô ấy đang suy nghĩ điều gì đó.
+Một lúc sau, cô ấy lên tiếng.
+
+“............Rokuko-chan. Từ nay về sau, hãy gọi chị là Haku nhé? Như vậy thì, chúng ta có cùng con số của thế giới khác rồi.”
+“Vâng ạ, chị Haku!”
+
+Dường như vẫn còn những cảm xúc phức tạp, Haku-san mỉm cười cay đắng rồi xoa đầu Rokuko.
+
+“À, lạc đề mất rồi. Thật lòng thì chị muốn cùng em bình luận thêm nữa, nhưng chị cũng là thân phận bận rộn. ...Lần này chị vừa mới tạo Dungeon mới, nên phải xử lý đống đó nữa. ...Với lại, cái chiêu cuối của em khiến chị tò mò lắm, nhưng hỏi về “át chủ bài” của Dungeon thì quả là vô duyên.”
+
+Cái chiêu cuối... ý cô ấy là “quân bài tẩy” à.
+Tôi nghĩ giờ nói ra cũng được, nhưng có lẽ tự mình suy nghĩ thì sẽ vui hơn chăng.
+
+“Thôi được rồi, Rokuko-chan. Đến lúc rồi... chị đưa DP cho em đây?”
+“D-dạ, vâng ạ!”
+
+Nắm lấy tay Rokuko, Haku mỉm cười một cách rạng rỡ và hạnh phúc.
+
+15 vạn DP bao gồm cả phí thông tin.
+Dù bảo là bận rộn, nhưng cô ấy lại dành rất nhiều thời gian, chậm rãi và đầy triền miên truyền qua đường... miệng.
+Cảm ơn vì bữa ăn nhé.
+
+*(Còn tiếp, nhưng vì kho dự trữ sắp hết nên tốc độ đăng sẽ giảm lại.)*

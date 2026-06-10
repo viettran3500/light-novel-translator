@@ -1,0 +1,106 @@
+Tôi quyết định tạm thời để vấn đề hai chị em bí ẩn Setsuna và Nayuta sang một bên cho đến khi có chỉ thị cụ thể.
+
+Dù tôi có cân nhắc việc thu thập thông tin từ Haku hay Ittetsu, nhưng khác với trường hợp của Rin, việc này không quá cấp bách. Thay vì nợ ân tình, tốt hơn là nên tự mình thu thập thông tin thì hơn. Chưa bàn đến điều kiện khiến DP nhận được về 0, khả năng cao mấy thứ như "Đồ chơi" (Toy) chẳng liên quan gì đến mê cung.
+
+Thế nên, tôi quyết định nhân tiện sửa sang lại mê cung một chút sau một thời gian dài.
+Nhắc lại tình trạng mê cung hiện tại:
+Từ lối vào là khu tiền sảnh, khu mê cung, khu vực trống từng là nơi giải đố cũ, rồi đi xuống cầu thang xoắn ốc là khu nhà kho. Từ khu nhà kho chia làm ba nhánh.
+Một là khu giải đố mới dẫn đến đấu trường và phòng boss, hai là khu đồng cỏ ở đường cùng dành cho việc cắm trại, và ba là khu vườn của Feni dẫn đến hang động hỏa diệm do Rokuko tạo ra.
+Nhân tiện, ở sâu trong phòng boss, tức lõi phòng, có một trần nhà bí mật, nơi đó là phòng nghiên cứu của Nerune, nhưng chuyện đó để sau.
+
+Được rồi, đợt cải tạo lần này sẽ thực hiện 2 điểm.
+
+Trước tiên là nhà kho.
+Từ trước đến giờ, khu nhà kho cũng được dùng làm nơi chứa đồ, nhưng sắp tới mạo hiểm giả sẽ vào đó nên việc này không ổn lắm. Vậy nên, lần này tôi sẽ tạo ra một nhà kho tử tế ở nơi không ai có thể bén mảng tới. "Khu nhà kho (Thật)". Kho này sẽ hoàn toàn tách biệt với bên ngoài. Giống như trang trại chăn nuôi côn đồ mà tôi giao cho Rei quản lý vậy. ...Thẳng thắn mà nói thì cái đó không cần thiết nữa nhỉ. Làng đã hình thành và thu nhập từ đó lớn hơn nhiều. Hơn nữa, với cơ sở vật chất mới sắp tạo ra đây, có khi cái trang trại kia lại càng vô dụng hơn.
+
+Vậy nên, điểm thứ hai. Lần này tôi sẽ cải tạo khu giải đố cũ.
+Khu giải đố cũ đã bị bỏ hoang từ sau khi bị Rin phá hủy.
+Hiện tại không có ai ở đó nên đây là cơ hội tốt để cải tạo. Tôi định lắp đặt vào đây một mánh khóe mà tôi chợt nghĩ ra trước đó.
+Dù nói thế, nhưng không phải làm cơ sở cản trở. Tôi sẽ tạo ra một căn phòng nhỏ ở lối đi bên cạnh với cái cớ là tìm thấy lối đi bí mật. Tuy nhiên, vì nơi này nằm sát ranh giới với "Hang động hỏa diệm" nên không thể làm phòng lớn được. Vậy căn phòng nhỏ đó là gì?
+
+Đó là phòng thu hồi DP.
+
+Nói là thu hồi DP nhưng không phải là giết người. Về cơ bản nó chỉ là một cái "nhà tù". Tôi lắp đặt nhiều buồng giam nhỏ cỡ một buồng vệ sinh đủ chứa một hoặc hai người. Bằng cách giam người vào đó, hiệu ứng giam cầm kết hợp với hiệu ứng nhà tù sẽ giúp DP nhận được mỗi ngày tăng lên gấp 6 lần.
+Và, làm thế nào để người ta chịu vào đây? Tất nhiên là thuê mạo hiểm giả.
+Chẳng có ai dại gì chui vào cái buồng nhỏ đáng ngờ này miễn phí cả. Nên tôi sẽ trả thù lao.
+Hoàn trả DP thu được bằng vật phẩm bao gồm cả tiền mặt. Dù vậy, số tiền hoàn lại chỉ là một phần rất nhỏ.
+
+Vốn dĩ một người mang lại 50 DP mỗi ngày, nếu nhốt vào tù sẽ thành 300 DP. Nếu hoàn lại một đồng bạc, tương đương 100 DP, thì tôi vẫn dư sức lãi. Chà, nhốt một ngày được 10.000 yên. Nhưng vì chỉ ngồi không chẳng làm gì cả nên trả 50 đồng đồng cũng được nhỉ? Ban đầu coi như sự kiện khai trương nên trả cao một chút cũng không sao.
+
+Vậy nên, sau khi cải tạo xong, tôi dẫn Niku tới chạy thử.
+Dù có báo cáo với guild, nhưng nếu đã thực sự sử dụng qua thì báo cáo sẽ không phải là nói dối, và bản thân tôi cần phải trải nghiệm một lần.
+
+Nếu không biết cách dùng thì chẳng ai dùng cả. Bi kịch của đám đông hỗn loạn hồi thử nghiệm phòng kiếm ma đã là bài học xương máu rồi. Hơn nữa, lần này còn khó hiểu hơn phòng thử nghiệm đó. Tôi cần phải là người báo cáo.
+Tôi phá bức tường vốn là lối vào căn phòng bí mật để tạo đường dẫn đến phòng thu hồi DP.
+Ở đó có các buồng nhỏ xếp hàng như nhà vệ sinh. Mỗi cái đều là buồng giam, nhưng được ngụy trang bằng cửa thường để đảm bảo riêng tư.
+Nhân tiện, cửa nào đang có người sử dụng sẽ hiện dấu đỏ, nhưng tất nhiên bây giờ toàn bộ đều trống. Đúng kiểu nhà vệ sinh.
+
+"Rồi, vào thôi."
+"Vâng."
+
+Tôi cùng Niku bước vào buồng nhỏ. Ở đó chỉ có hai cái đồng hồ cát đặt song song và cánh cửa sẽ tự khóa bằng cơ chế của chúng. Thiết kế còn khá tâm lý với cả nút đỏ để thoát hiểm khẩn cấp.
+Tiền và vật phẩm sẽ được đặt ở mặt sau, và chỉ khi đồng hồ cát chạy hết về 0 thì chúng mới rơi xuống hộc nhận thưởng.
+Về việc thanh toán, không hề có cảm biến đo lượng DP mỗi ngày. Nên Rei và những người khác phải làm thủ công ở phía sau. Dù vậy, vì tôi quy định không ở đủ 12 tiếng sẽ không trả thưởng, nên chỉ cần kiểm tra 1 lần mỗi nửa ngày, và tính toán tiền bạc cũng dùng máy tính của Golem nên đó là việc đơn giản có thể tranh thủ giữa giờ tiếp khách. Về cơ bản là tiền mặt, thỉnh thoảng là vật phẩm.
+Vì điều hành nhà trọ nên tiền cũng dư dả. Dù có gửi tiết kiệm ở guild nhưng thật lòng mà nói tôi cũng chẳng dùng tới.
+
+Tôi lật ngược cả hai cái đồng hồ cát. Đồng hồ khá nhỏ, ở chỗ thắt eo có cơ chế của Golem, một cái chạy hết cát trong 12 tiếng. Vì mỗi lần chỉ một cái chạy cát nên tổng cộng là 24 tiếng. Nếu muốn gia hạn thì chỉ cần lật ngược cái đã chạy hết cát.
+Tôi cố gắng làm mọi thứ đơn giản nhất có thể vì sợ mạo hiểm giả không nhớ nổi.
+Lần này chúng tôi sẽ thử nghiệm bằng cách thong thả ở đây trong 24 tiếng.
+Tôi trải đệm ra sàn phòng. Đã được thiết kế để vừa khít. Rồi tôi ôm Niku như gối ôm và nằm xuống như mọi khi.
+Khi nào đói thì ăn đồ trong [Lưu trữ] là được. Khò khò...
+
+*
+
+Chết thật, không có nhà vệ sinh... đây là một thiếu sót nghiêm trọng.
+Ngay cả tôi cũng phải bị Niku đánh thức.
+Lần này Rokuko đã tạm thời thu hồi lại nên mọi chuyện êm xuôi, nhưng con người không thể nhịn đi vệ sinh suốt 24 tiếng được...
+
+Hay là đặt một cái hũ đựng thạch xử lý chất thải vào trong phòng nhỉ? Chẳng lẽ là "Hũ-er" thay vì "Chai-er"? A, chết thật. Thạch là quái vật nên không thể đưa vào vùng an toàn. Phải làm sao với nhà vệ sinh đây?
+...Hay là gỡ bỏ vùng an toàn? Vì không thể thay thế nhà vệ sinh được.
+Tạm thời cứ vừa nghỉ đi vệ sinh vừa vượt qua 24 tiếng. Ngay khi cửa mở khóa, 3 đồng bạc rơi lạch cạch vào hộc nhận tiền bên dưới đồng hồ cát.
+Cơ chế hoạt động tốt đấy chứ. ...Nhân tiện, lần này tôi không tính phần của mình. Vì lượng DP tôi mang lại là 0 mà.
+
+Tạm thời thế là xong một phần, thử nghe ý kiến của mạo hiểm giả xem sao.
+
+"Vậy nên, ta đã tạo ra cơ sở như thế này, Ichika-sensei thấy sao?"
+"Tại sao lại là sensei... thôi cũng được, nhưng trước hết là kiếm chác kém quá. Tui nghĩ vào đây thì thà tự đi kiếm tiền còn hơn."
+
+Ngay lập tức bị chê bai.
+Nghĩ lại thì đúng, nếu có năng lực vượt qua khu mê cung thì đi săn Iron Golem thu nhập còn cao hơn.
+
+"Chỉ kiếm được tiền lẻ thôi, mà bị nhốt trong phòng hẹp thì chán lắm. Một mình 12 tiếng chẳng làm gì cả, không ổn chút nào."
+"...Không phải là ngủ cũng được sao?"
+"Đâu phải ai cũng ngủ ngon được như chủ nhân. 12 tiếng là quá dài. Đừng có bỏ vùng an toàn, nếu không thì chẳng ai dám nghỉ ngơi thoải mái trong mê cung đâu."
+
+...Nghĩ lại thì đúng thật, với tôi thì nơi này như nhà mình nên không sao, chứ với người khác, mê cung là nơi không biết chuyện gì sẽ xảy ra, nếu không có vùng an toàn thì chẳng thể yên tâm nghỉ ngơi được.
+
+"Còn chuyện nhà vệ sinh thì sao?"
+"Nhà vệ sinh thì cứ đi vào hũ rồi 'Tịnh hóa' là được mà."
+"Hả, thế là được à? 'Tịnh hóa' tiện thật đấy."
+
+Thuyết vạn năng của "Tịnh hóa". Hóa ra nhà vệ sinh cũng dùng "Tịnh hóa" là xong...
+
+"Chà, nói là kiếm chác kém, nhưng nếu thỉnh thoảng có hàng 'xịn' rơi ra thì lại là chuyện khác. Chủ nhân có cái đó mà đúng không? Cái mà lần trước ngài làm với anh em Uzo-Muzo ấy."
+"Ra là vậy, lấy Golem Blade làm mồi nhử à."
+"Đúng đúng. Chỉ cần nghỉ ngơi 12 tiếng là có khả năng nhận được kiếm ma. Nghe thế thì lại thành món hời rồi đấy. --Mà thực tế thì kiếm ma có thể đổi lấy tiền vàng mà, phải không?"
+"Khà khà, Ichika. Cô cũng ác lắm đó nha?"
+"Không bằng chủ nhân đâu ạ."
+
+Tôi và Ichika cười với nhau.
+Việc tung ra kiếm ma làm giảm giá trị của chúng là một vấn đề, nhưng vì nhu cầu vẫn còn cao nên mức độ này có vẻ không sao.
+Hơn nữa, Golem Blade gần giống với kiếm bình thường, là hàng tiêu dùng. Dù truyền ma lực vào ma thạch làm lõi thì có thể hồi phục đôi chút, nhưng rồi nó cũng sẽ hỏng, nên dù có cây thứ hai, thứ ba cũng chẳng thừa. Nghe nói nhiều loại kiếm ma khác cũng vậy nên chuyện này cũng không thành vấn đề.
+
+Sau đó, tôi đến Guild báo cáo về việc tìm thấy cơ sở mới.
+Rằng khi xoay đồng hồ cát thì bị nhốt, nhưng nhấn nút đỏ là ra được ngay.
+Rằng nếu đợi đến khi đồng hồ cát chạy hết thì nhận được tiền bạc.
+Rằng đồng hồ cát một cái là 12 tiếng, hai cái là 24 tiếng.
+Với những thông tin trên, tôi nhận được phí thông tin là 10 đồng bạc.
+
+Ngày hôm sau, phía Guild đã đưa ra yêu cầu điều tra nơi đó, và vài mạo hiểm giả mang theo đồ chơi giết thời gian tiến về phía phòng thu hồi DP.
+Sau vài ngày điều tra, nơi này được nhận thức là "nơi chờ nửa ngày hoặc một ngày là nhận được tiền và vật phẩm". Nghe nói trong đó có người may mắn nhận được cả kiếm ma. Kẻ đó đã mua sẵn lương thực và ngay lập tức chui vào lần thứ hai.
+Kết quả lần thứ hai á? Nghe nói là được 20 đồng đồng.
+
+Cứ thế, căn phòng nhỏ này được gọi là "Nhà trọ của lòng tham". Vì dù thế nào đi nữa, đa số mọi người đều ngủ 12 tiếng trong lúc bị nhốt.
+Vì có khả năng nhận được kiếm ma mà không cần mạo hiểm, nơi này đón khá nhiều người và trở thành cơ sở mang lại nguồn DP ổn định.
+
+(Phần cải tạo lần này được áp dụng từ ý tưởng mà tôi nhận được từ phần bình luận trước đây)

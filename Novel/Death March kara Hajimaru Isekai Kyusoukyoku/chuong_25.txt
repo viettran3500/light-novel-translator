@@ -1,0 +1,216 @@
+Theo yêu cầu của bạn, đây là bản dịch danh sách kỹ năng và danh hiệu của nhân vật chính trong tác phẩm.
+
+---
+
+Do có yêu cầu, đây là bảng danh sách kỹ năng của nhân vật chính.
+Các năng lực đặc biệt đã xuất hiện từ chương 1-1 và không gia tăng thêm nên tôi xin phép lược bỏ.
+
+※ 15/9: Đã sửa lỗi chính tả.
+
+Được trình bày theo định dạng: 「Tên ( Cấp độ kỹ năng ) Số chương nhận được」.
+Những kỹ năng đã nhận được nhưng không nhận ra cho đến khi phát hiện thì chương nhận được chính là chương phát hiện ra. Tôi thêm dấu ※ ở cuối để phân biệt.
+
+### ● Kỹ năng Vũ khí
+
+*   Xạ kích ( Lv10 ) 1-9
+*   Thương ( ―― ) 1-9
+*   Cung ( ―― ) 1-9
+*   Kiếm một tay ( Lv10 ) 1-9
+*   Gậy một tay ( ―― ) 1-9
+*   Đoản kiếm ( ―― ) 1-9
+*   Ném ( Lv1 ) 1-9 ▼
+*   Gậy hai tay ( ―― ) 1-9
+*   Kiếm hai tay ( ―― ) 1-10
+*   Rìu một tay ( ―― ) 1-10
+*   Rìu hai tay ( ―― ) 1-10
+*   Búa hai tay ( ―― ) 1-10
+*   Búa một tay ( ―― ) 1-10
+*   Cận chiến ( Lv10 ) 1-10 ▼
+
+### ● Kỹ năng Chiến đấu Vật lý
+
+*   Ngắm bắn ( Lv10 ) 1-9
+*   Bắn tỉa ( Lv10 ) 1-9
+*   Đánh lén ( ―― ) 1-9
+*   Man dũng ( ―― ) 1-9
+*   Rút kiếm ( ―― ) 1-9
+*   Khiên ( Lv10 ) 1-9
+*   Né tránh ( Lv10 ) 1-9
+*   Đỡ đòn ( Lv10 ) 1-9
+*   Tấn công bằng khiên ( ―― ) 1-9
+*   Đá ( ―― ) 1-9
+*   Phá mũ giáp ( ―― ) 1-10
+*   Chiến đấu trên không ( ―― ) 1-10
+*   Phá hủy vũ khí ( ―― ) 1-10
+*   Song kiếm ( ―― ) 1-10
+
+### ● Kỹ năng Chiến thuật
+
+*   Rút lui ( ―― ) 1-8
+*   Phối hợp ( ―― ) 1-9
+*   Chỉ huy ( ―― ) 2-8
+*   Biên chế ( ―― ) 2-8
+*   Tác chiến ( ―― ) 2-12
+
+### ● Kỹ năng Vận động
+
+*   Chạy nước rút ( ―― ) 1-4 ※
+*   Nhảy ( Lv10 ) 1-4 ※
+*   Cơ động không gian ( Lv10 ) 1-4 ※
+*   Sức mạnh phi thường ( ―― ) 1-10
+
+### ● Kỹ năng Phép thuật
+
+*   Ma thuật triệu hồi: Dị giới ( Lv10 ) 1-2
+*   Ma thuật thuật lý: Dị giới ( Lv10 ) 1-2
+*   Cầu nguyện ( ―― ) 1-4
+*   Lôi ma thuật: Ác ma ( ―― ) 1-9
+*   Hỏa ma thuật ( ―― ) 1-10
+*   Phong ma thuật ( ―― ) 1-10
+*   Lôi ma thuật ( ―― ) 1-10
+*   Thổ ma thuật ( ―― ) 1-10
+*   Thủy ma thuật ( ―― ) 1-10
+*   Băng ma thuật ( ―― ) 1-10
+*   Quang ma thuật ( ―― ) 1-10
+*   Ma thuật đời sống ( Lv10 ) 2-1
+*   Thần thánh ma thuật: Giáo phái Parion ( ―― ) 2-1
+
+### ● Kỹ năng Kháng tính
+
+*   Kháng lôi ( Lv10 ) 1-9
+*   Kháng tê liệt ( Lv10 ) 1-9
+*   Kháng đau đớn ( Lv10 ) 1-9
+*   Kháng đả kích ( Lv10 ) 1-9
+*   Kháng sợ hãi ( ―― ) 1-9
+*   Kháng độc ( Lv10 ) 1-9
+*   Kháng hóa đá ( Lv10 ) 1-9
+*   Kháng hỏa ( ―― ) 1-10
+*   Kháng phong ( ―― ) 1-10
+*   Kháng thổ ( ―― ) 1-10
+*   Kháng thủy ( ―― ) 1-10
+*   Kháng băng ( ―― ) 1-10
+*   Kháng quang ( ―― ) 1-10
+*   Kháng mục rữa ( Lv10 ) 1-10
+
+### ● Kỹ năng Sản xuất
+
+*   Mộc công ( ―― ) 1-4
+*   Thuộc da ( ―― ) 1-4
+*   Chế tạo vũ khí ( Lv1 ) 1-4
+*   Rèn ( ―― ) 1-10
+
+### ● Kỹ năng Học thuật
+
+*   Số học ( Lv10 ) 1-4
+*   Kiến thức thất lạc ( ―― ) 1-4
+*   Ngôn ngữ quốc gia Shiga ( Lv10 ) 1-5
+*   Ngôn ngữ ác ma ( ―― ) 1-9
+*   Giám định ( Lv10 ) 2-2 ▼
+*   Suy luận ( ―― ) 2-6
+
+### ● Kỹ năng Nghệ thuật
+
+*   Ca hát ( ―― ) 1-4 ※
+*   Hội họa ( ―― ) 1-4
+*   Trò chơi ( ―― ) 1-4
+*   Phóng đại âm thanh ( Lv1 ) 2-7 ▼
+
+### ● Kỹ năng Thương mại
+
+*   Đàm phán ( Lv10 ) 1-5
+*   Biện hộ ( Lv10 ) 1-5
+*   Thương trường ( Lv10 ) 1-6
+*   Mặc cả ( Lv10 ) 1-6
+*   Vô cảm ( ―― ) 1-7
+*   Che giấu ( ―― ) 1-8
+*   Thuyết phục ( Lv5 ) 1-8 ▼
+*   Hối lộ ( ―― ) 1-8
+*   Xã giao ( ―― ) 2-3
+
+### ● Kỹ năng Lao động
+
+*   Cắm trại ( ―― ) 1-4 ※
+*   Giặt giũ ( ―― ) 1-4 ※
+*   Khai khẩn ( ―― ) 1-4
+*   Cày cấy ( ―― ) 1-4
+*   Thu hoạch ( ―― ) 1-4
+*   Cắt cỏ ( ―― ) 1-4
+*   Đốn gỗ ( ―― ) 1-4
+*   Dọn dẹp ( ―― ) 1-4
+*   Giám sát ( ―― ) 1-7
+*   Bắt giữ ( ―― ) 1-10
+
+### ● Kỹ năng Mê cung
+
+*   Gỡ bẫy ( ―― ) 2-10
+*   Sử dụng bẫy ( ―― ) 2-10
+*   Phát hiện bẫy ( Lv10 ) 2-10
+*   Đào bới ( ―― ) 2-10
+*   Tìm kho báu ( ―― ) 2-10
+*   Mở khóa rương ( ―― ) 2-10
+
+### ● Kỹ năng Đặc biệt
+
+*   Đọc môi ( ―― ) 1-5
+*   Lừa lọc ( Lv10 ) 1-5
+*   Gián điệp ( Lv10 ) 1-9
+*   Tự chữa trị ( Lv10 ) 1-9
+*   Thay đồ nhanh ( Lv10 ) 1-10
+*   Cải trang ( Lv10 ) 1-10
+*   Nghe lén ( ―― ) 2-5
+*   Ám tàng ( ―― ) 2-6
+*   Bắt cóc ( Lv10 ) 2-6
+*   Ám sát ( ―― ) 2-6
+*   Âm mưu ( ―― ) 2-6
+*   Phán tội ( ―― ) 2-6
+*   Oan sai ( ―― ) 2-6
+
+――――――――――――――――――
+### ● Danh sách Danh hiệu
+Được trình bày theo thứ tự: Số chương nhận được danh hiệu, Tên danh hiệu
+
+*   1-2 Kẻ sát quái vật
+*   1-2 Kẻ sát tộc vảy
+*   1-2 Tai họa của tộc vảy
+*   1-2 Thiên địch của tộc vảy
+*   1-2 Kẻ sát rồng có cánh
+*   1-2 Kẻ sát rồng [Sơ cấp]
+*   1-2 Kẻ sát rồng [Rồng non]
+*   1-2 Kẻ sát rồng [Rồng trưởng thành]
+*   1-2 Kẻ sát rồng [Rồng cổ đại]
+*   1-2 Kẻ sát rồng [※Tên riêng※] ※Có rất nhiều tên riêng nên xin phép lược bỏ
+*   1-2 Thiên địch của tộc rồng
+*   1-2 Kẻ sát thần
+*   1-4 Người thành tâm tín ngưỡng
+*   1-10 Thường tại chiến trường
+*   1-10 Chiến binh lão luyện
+*   1-10 Kẻ khiêu vũ với ác ma
+*   1-10 Dũng giả
+*   2-1 Người cầu nguyện cho linh hồn đã khuất
+*   2-1 Người cứu trợ
+*   2-1 Người bảo vệ sách
+*   2-7 Người khám phá mê cung
+*   2-8 Kẻ sát côn trùng
+*   2-9 Người huấn luyện
+
+――――――――――――――――――
+▼ Thời điểm gán cấp độ không rõ ràng.
+
+*   「Cận chiến (sử dụng ở 2-6)」
+*   「Ném (sử dụng ở 2-9)」
+*   「Giám định (sử dụng ở 2-10)」
+*   「Thuyết phục (sử dụng ở 2-11)」
+*   「Phóng đại âm thanh (sử dụng ở 2-12)」
+
+---
+*   Dự kiến sửa đổi sau:
+    *   Kỹ năng Nghe lén có được ở chương 2-5, nhưng lẽ ra phải có ở chương 1-6.
+    *   Đổi tên kỹ năng "Kẻ lừa đảo" thành kỹ năng "Lừa lọc".
+    *   Việc một nhân vật chính thận trọng không kích hoạt kỹ năng "Phát hiện bẫy" trong mê cung là không tự nhiên, nên sẽ đổi thành gán điểm ngay sau khi nhận được.
+    *   Đã quên thêm danh hiệu "Kẻ sát bất tử", "Kẻ sát ma tộc" ở chương 2-12.
+
+*   Kỹ năng được đề cập trong tác phẩm là sẽ học sau này:
+    *   「Giải thể (2-9)」
+
+Tốn nhiều thời gian hơn tôi nghĩ.
+Đã đổi lừa đảo thành lừa lọc.

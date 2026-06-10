@@ -1,0 +1,229 @@
+--- LỖI DỊCH THUẬT CHƯƠNG 6 (Bản dịch lỗi (vẫn chứa tiếng Nhật)) ---
+Nội dung gốc tiếng Nhật bên dưới:
+
+"Mở trạng thái (Status Open)!"
+
+Cùng một từ được thốt ra liên tiếp khắp nơi.
+
+"Status Open"
+
+Khi nói câu đó, một hoa văn hiện lên trên mu bàn tay.
+Đồng thời, một tấm bảng giống ảnh ba chiều (hologram) xuất hiện trước mắt.
+
+"Ra thế ~ nhờ vậy có thể kiểm tra năng lực của mình nhỉ ~! Có vẻ giống game nhỉ!"
+"Đến rồi, bảng trạng thái tiêu chuẩn của dị giới!"
+"Bên này là... Ừm? Cái gọi là cây kỹ năng (Skill Tree) ấy!?"
+"Nhưng mà sao thiếu thực tế nhỉ! Có lẽ nếu VRMMO tiến hóa mà có thật thì sẽ giống thế này chăng!"
+
+Các nam sinh ồn ào.
+
+"Này mấy anh chàng hơi hướng Otaku ~, bọn chị không biết game, chỉ cho bọn chị đi ~"
+"Cảm giác thao tác giống smartphone, chẳng phải bọn chị tự lo được sao?"
+"Chẳng phải có cảm giác game di động sao? Nói gì thì nói, chuyện Log Bonus game di động đã chơi thì thực sự thế nào?"
+"May là giá trị làm đẹp hay mức độ xinh đẹp không được số hóa ~"
+"Kỹ năng vốn có (固有スキル - Koyu Skill) là gì?"
+"Chẳng phải là tất sát kỹ (必殺技) à?"
+"Hả!? Kỹ năng chắc chắn giết người (必ず殺す技) thì không nguy hiểm lắm sao!?"
+"A! Chẳng lẽ chữ "Kill" trong "Skill" là "KILL" à!? Sợ quá!"
+
+Các nữ sinh lúc nãy còn khóc trong loạt sự kiện với quái vật sói.
+Đa số đã bình tĩnh lại.
+Chuyển đổi nhanh thật.
+
+"Chúng tôi đã xây dựng hệ thống hỗ trợ dưới dạng quen thuộc với các vị, và đồng thời tối ưu hóa một cách hiệu quả. Tôi là nữ thần, nên có thể điều chỉnh phù hợp với thế giới triệu hồi."
+
+Nữ thần giải thích.
+Ra thế.
+Vì thế mà hình dạng giống game này được áp dụng.
+Cũng có phong cách màn hình chính điện thoại.
+Quả nhiên, với chúng tôi, nó rất quen thuộc.
+Thế này có lẽ cũng dễ hiểu.
+
+Nữ thần, à.
+Đúng là gì cũng được.
+
+
+"C, cái này – [Kim long ngâm ba (Golden Dragon Roar Wave)] ư!?"
+
+Người đàn ông áo choàng bên cạnh Kirihara kinh ngạc.
+
+"Ồ! Takt-sama đã có thể sử dụng kỹ năng vốn có rồi sao! H, hơn nữa, trạng thái không tưởng là cấp 1!"
+"Tôi chẳng hiểu rõ lắm... nhưng tôi lại giỏi thứ gì đó à?"
+"Rất ít dũng sĩ có thể sử dụng kỹ năng vốn có từ cấp 1!"
+"Ồ. Thôi, tôi chẳng thấy cảm động hay gì cả. Bình thường thôi, mấy thứ này."
+
+Các nữ sinh ngưỡng mộ Kirihara với ánh mắt ao ước.
+
+"Takuto, thực sự ghê gớm..."
+"Kirihara-kun, tính cách cũng đẹp trai quá ~"
+"Khiêm tốn nhỉ ~"
+"Có vẻ đáng tin cậy khi đến dị giới."
+"Muốn cưới. Hay là, cưới tôi đi."
+
+Tiếng kinh ngạc tiếp theo từ những người đàn ông áo choàng.
+
+"C, cây kỹ năng của Ayaka-sama!? Đây là dạng chưa từng thấy! Đúng là cây đặc biệt (Tokushu Tree)!"
+"Đ, đặc biệt?"
+
+Sogo có vẻ không rành về mảng game.
+Anh ta vật lộn với những từ ngữ liên tiếp xuất hiện.
+Thôi, tôi cũng chẳng biết cây đặc biệt là gì.
+Nhưng quả nhiên, vì là hạng S, nên có vẻ là thứ ghê gớm.
+
+"Sogo-sama và Yasu-sama cũng đáng nể là hạng A! Hệ số điều chỉnh – chỉ số (Status) đã nhỉnh hơn các dũng sĩ khác ngay từ cấp 1! Sogo-sama có thể lực +500 ở cấp 1 ư!"
+
+Nữ thần bổ sung ngay lập tức.
+Có vẻ các giá trị chỉ số được hiển thị không phải là tất cả những gì đại diện cho một người.
+
+Viết là "hệ số điều chỉnh" (Hosei-chi), đọc là "hệ số điều chỉnh" (Hosei-chi).
+Giá trị cộng thêm vào giá trị cơ bản được gọi là "chỉ số" (Status).
+Thì ra...
+Dù chỉ số (Status) có HP bằng 0 nhưng vẫn sống.
+Tình huống như thế cũng có thể xảy ra.
+
+Tự nhiên, giờ Hỏi đáp (Q&A) của nữ thần bắt đầu.
+Ở đây, một sự thay đổi đã được nhận thấy.
+Loại câu hỏi của các học sinh đã thay đổi.
+Không còn là câu hỏi về hiện tượng triệu hồi xảy ra với chính họ.
+Họ đang cố gắng tìm hiểu thông tin về thế giới này, bắt đầu từ trạng thái.
+Tuy nhiên, sự hăng hái chỉ giới hạn ở những người đặt câu hỏi.
+Tất nhiên, cũng có những người chán nản.
+Họ đang hóa thành không khí.
+Hiện tại họ đang tụ tập ở góc phòng.
+Người trong trạng thái hư vô.
+Người chìm trong bi thương.
+Người vẫn chưa thể chấp nhận thực tại.
+Đủ loại.
+
+Những người đàn ông áo choàng lại bắt đầu ồn ào.
+
+"Ực! Kh, không thể dễ dàng đến gần!"
+
+Chỗ đó... chắc là quanh chỗ chị em nhà Takao.
+
+"C, rốt cuộc hai người đó là ai!? Có một áp lực kỳ lạ... Ực!"
+"Ừ, dù sao cũng là hạng S và A! Bầu không khí đó không phải dạng vừa!"
+
+Người dị giới bị áp lực bởi bầu không khí độc đáo của hai chị em.
+Có vẻ người dị giới cũng chịu thua trước hai chị em Takao.
+Chị Takao với ánh mắt bình tĩnh quan sát những người đàn ông áo choàng.
+
+"Nếu có cách về thế giới cũ, mục tiêu trước mắt có lẽ là vừa tận dụng hệ thống kỳ lạ này, vừa tìm cách quay về. Khi có thể tự do di chuyển, trước hết hãy thu thập thông tin nhỉ."
+"Em ngu nên sẽ làm theo lời chị."
+"Biết mình không biết là bước đầu tiên để thành hiền nhân đấy, Itsuki."
+"Ku hi hi, còn cơ thể thì em vẫn bốc lửa đây này ~"
+"Câu đó rất thú vị đấy."
+"Ồ, dù được khen là thú vị... nhưng chị lúc nào cũng mặt lạnh..."
+"Chị chỉ nghiêm túc thôi."
+
+Bầu không khí của hai người đó dù trong tình huống thế này cũng không thay đổi.
+Tôi muốn học hỏi.
+Thôi.
+Tôi cũng thử nhé.
+Xác nhận trạng thái.
+
+"Mở trạng thái, này."
+
+Nào nào?
+Trạng thái của tôi là――
+
+"Hả?"
+
+【Toka Mimori】
+
+　Cấp 1
+
+　HP: +3
+　MP: +33
+　Tấn công: +3
+　Phòng thủ: +3
+　Thể lực: +3
+　Tốc độ: +3
+　Trí tuệ: +3
+
+【Danh hiệu: Dũng sĩ hạng E】
+
+Sao nhỉ.
+Các giá trị, chẳng phải quá thấp sao?
+Oyamada đã bảo thể lực +500 đấy nhỉ?
+Chỉ có MP là hơi cao hơn một chút...
+Danh hiệu là dũng sĩ hạng E?
+Đếm theo thứ tự từ A...
+Ừ.
+Có vẻ thứ hạng thấp.
+
+Trong lòng, tôi thở dài.
+Tên hiển thị cũng giống người Tây Âu.
+Hơn nữa, đúng ra phải là "Toka".
+Chắc do cách phát âm của thế giới này?
+Hiển thị thành "Toka".
+Ngay cả hiển thị trạng thái dị giới, tôi vẫn bị đối xử qua loa à...
+Có lẽ đây là số phận của một nhân vật quần chúng hóa không khí?
+Và, cây kỹ nạng ở đâu nhỉ?
+Bắt đầu nhìn chằm chằm.
+Nhìn đi nhìn lại nhiều lần.
+Ừ.
+
+"Không có."
+
+Bắt chước mọi người, tôi thử kéo xuống.
+Chẳng có gì.
+Khoảng trống trải rộng.
+Hiển thị 【Kỹ năng vốn có】 là phần gốc.
+Từ đó chẳng có gì mọc lên trên.
+Nói cách khác, trông như chỉ có rễ cây.
+
+"Của tôi thậm chí còn chẳng có mầm... à thì"
+"Ồ"
+"Úa!?"
+
+Không biết từ lúc nào, nữ thần đã ở phía sau.
+Cô ấy đang nhìn vào trạng thái của tôi.
+
+"Ừm... thế nào ạ, trạng thái của tôi?"
+
+Nhưng, không có câu trả lời.
+Nữ thần chỉ quay gót lại.
+Cô ấy đi xa với dáng đi người mẫu.
+Quay lại chỗ mọi người, cô ấy lại bắt đầu góc Hỏi đáp.
+
+"Bị lờ, à"
+
+Bị lờ một cách áp đảo.
+Người lớn không trả lời câu hỏi.
+Lời vàng ngọc của Giáo sư T... nào đó hiện về.
+
+"............"
+
+Ra thế.
+Đến cả ở dị giới, đó vẫn là lẽ thường của người lớn à.
+Và,
+
+"Ở dị giới, tôi vẫn bị coi như không khí sao"
+
+Thôi được.
+Dù hạng E nên có vẻ thứ hạng thấp, nhưng tạm thời tôi cũng có vẻ là dũng sĩ.
+Chắc sẽ có được chỗ đứng.
+Dũng sĩ không khí (Air Yūsha).
+Phải.
+Cứ sống như không khí là được.
+
+Từ nay.
+Về sau.
+Chẳng gì thay đổi.
+Không chen vào.
+
+Với vẻ siêu thoát, tôi ngồi xuống.
+Mơ màng, nghịch bảng trạng thái.
+
+"A, ra thế."
+
+Khi chạm vào đây, có thể xem tổng quan kỹ năng vốn có nhỉ.
+
+"Hử?"
+
+Gì thế?
+
+"Cái này――"
+
+【Kỹ năng vốn có: Trạng thái bất thường ban cho (Jōtai ijō fuyo) / Có thể sử dụng】

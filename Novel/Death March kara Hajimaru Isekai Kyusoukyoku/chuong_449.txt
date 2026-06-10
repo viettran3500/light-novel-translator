@@ -1,0 +1,348 @@
+※2016/1/16 đã sửa lỗi đánh máy.
+
+Là Satou đây. Cảm giác như thời gian trôi nhanh hơn khi mình đắm chìm vào sở thích cá nhân. Ngay cả trong công việc, việc suy nghĩ các phương án tăng tốc hay tạo ra những quy trình độ khó cao thường diễn ra nhanh chóng, còn công việc sửa lỗi (bug) hay thay đổi đặc tả lại dài dòng và đau khổ hơn cả.
+
+◇
+
+Đã một tháng rưỡi trôi qua kể từ khi chúng tôi rời khỏi Vương quốc Kiwalk — vùng đất của tuyết.
+
+Chúng tôi đã ghé thăm nhiều quốc gia và các làng của những bộ tộc nhỏ với tốc độ thong dong. Trong thời gian di chuyển bằng phi thuyền, tôi dành thời gian cho việc cày cấp và luyện tập. Tất nhiên, cũng không quên xen kẽ các hoạt động giải trí do Arisa chủ trì.
+
+Hôm nay, tôi một mình đến khu rừng Boruena để ghé thăm Aze-san và khoe với cô ấy sản phẩm mới.
+
+"Tuyệt thật, Satou! Cuối cùng cậu cũng thành công rồi!"
+"Vâng, dù lượng ma lực tiêu thụ vẫn còn quá lớn nên chưa thể gọi là hoàn thiện được."
+
+Tôi ngước nhìn chiếc phi thuyền đang xuất hiện trên không trung phía trên ngôi nhà trên cây tại rừng Boruena.
+
+Mặc dù chưa thể sánh bằng "Quang thuyền" (Hikari-bune) của tộc Elf hay "Chiếc tàu thâm nhập không gian" Joule Verne của dũng giả Hayato, nhưng đây là lần đầu tiên tôi có thể tự tay chế tạo một chiếc phi thuyền có chức năng thâm nhập không gian. Điều này cũng nhờ vào sự chuyển giao công nghệ từ tộc Beriunan và tộc Burainan của người Elf.
+
+"Thật sự rất tuyệt vời. Quang thuyền thì đã có Thế Giới Thụ hỗ trợ sửa chữa và chế tạo, nên rất ít người hiểu được cơ chế thâm nhập không gian, và những người thực sự có thể chế tạo được nó chỉ có các High Elf của tộc Beriunan hoặc tộc Burainan thôi."
+
+Lua-san đứng bên cạnh nhìn tôi với ánh mắt ngưỡng mộ đầy tán dương. Chưa kịp tạo chút không khí lãng mạn với Aze-san, các kỹ thuật viên người Elf đã lần lượt kéo đến vì phát hiện ra con tàu mới.
+
+"Này, Satou. Cậu thực sự chế tạo được cả Quang thuyền rồi sao?"
+"Không ngờ mình lại bị vượt mặt bởi một con người mà mình từng chỉ dẫn cho cách điều khiển phi thuyền đấy."
+"Đúng rồi, nhờ những viên thuộc tính thạch nhận được lần trước mà tôi đã làm được máy làm đá tự động đấy, cầm lấy đi."
+"Nếu có nhiều thuộc tính thạch như vậy thì cái gì cũng làm được nhỉ."
+
+Những viên thuộc tính thạch mà nhóm Elf nhắc đến ở vế sau không chỉ là những viên Băng thạch lấy được từ Vương quốc Kiwalk.
+
+Sau khi rời khỏi vương quốc đó, chúng tôi đã cứu đội quân của vị tam hoàng tử Vương quốc Kogeowk, những người suýt chút nữa đã chết cóng tại vùng lãnh địa của ma vật. Để báo đáp ơn cứu mạng, họ đã tặng chúng tôi rất nhiều Phong thạch.
+
+Giống như cách Vương quốc Kiwalk chế tạo Băng thạch ở nước láng giềng, tại quốc gia thảo nguyên Kogeowk này, họ cũng dùng các thiết bị ma thuật để tạo ra Phong thạch nhân tạo. Tất nhiên, những người cung cấp công nghệ cũng là tộc Người Chồn (鼬人 - Itachi-jin) giống như ở Kiwalk. Tôi khá tò mò không biết họ thu thập thuộc tính thạch để làm gì, nhưng có dự cảm rằng câu trả lời sẽ liên quan đến việc kiếm tiền.
+
+Thông qua những khúc quanh co cùng sự năng nổ của Pochi, chúng tôi đã lấy được tàn tích của thiết bị ma thuật chế tạo Phong thạch tại Vương quốc Kogeowk. Nhờ so sánh nó với tài liệu và thiết bị chế tạo Băng thạch từ Kiwalk, tôi đã nắm được cơ bản cách tạo ra các thuộc tính thạch.
+
+Nói một cách đơn giản, nếu ta cho tinh linh mang thuộc tính cơ bản rồi nạp vào một lượng ma tố khổng lồ, ma tố đó sẽ kết tinh lại thành thuộc tính thạch. Việc "cho tinh linh mang thuộc tính cơ bản" chính là vai trò của môi trường xung quanh và thiết bị ma thuật chế tạo thuộc tính thạch. Nhưng với tôi, nhờ ma thuật tinh linh tự chế, tôi có thể thay đổi thuộc tính của tinh linh theo ý muốn, nên chỉ cần chuẩn bị đủ lượng ma tố là có thể dễ dàng tạo ra thuộc tính thạch. Về phần ma tố, tôi đã có nơi cung cấp nên việc sản xuất hàng loạt các loại thuộc tính thạch hiện đang được tiến hành. Dù số lượng ít, nhưng tôi cũng thu hoạch được những viên thuộc tính thạch dạng tinh thể có độ tinh khiết cao hơn, và đang có kế hoạch dùng chúng cho trang bị mới của mọi người.
+
+— Ước mơ thật rộng mở mà.
+
+Về vấn đề đáng lo ngại liên quan đến "Sứ đồ" (Shito)...
+
+Ngoài Vương quốc Kogeowk, tôi đã ghé thăm thêm 3 vương quốc nữa và phát hiện dấu vết của tên Sứ đồ khoác áo choàng trắng tại 2 trong số đó. Những tên chủ mỏ khai thác dùng nô lệ trẻ em như những món đồ bỏ đi, hay thành viên của các nghiệp đoàn tội phạm buôn bán ma dược loại "ma nhân dược" đều bị biến thành cột muối. Vì cả hai trường hợp đều chỉ trừng phạt kẻ thực hiện mà không động đến những ông chủ hay kẻ giật dây đứng sau, nên những hành vi tương tự lại tái diễn.
+
+Đối với trường hợp đầu, tôi đã dùng các búp bê khai thác nhỏ do Echigoya Thương hội chế tạo để đổi lấy nô lệ trẻ em. Còn trường hợp sau, tôi đã vạch trần kẻ giật dây, tống khứ chúng cho nhà vua và khiến công thức chế tạo ma dược hoàn toàn bị thất truyền. Những nhà giả kim hay dược sĩ bị ép chế tạo ma dược đã được tôi giới thiệu vào làm tại xưởng của Echigoya Thương hội ở thủ đô Vương quốc Shiga.
+
+À, tôi cũng lo lắng không biết người dân Vương quốc Kiwalk có bị biến thành muối không, nên đã cải trang thành Kuro để ghé thăm và điều tra, nhưng không tìm thấy nhân vật nào giống Sứ đồ cả.
+
+◇
+
+Hôm nay, nhóm đi sau đang cày cấp ở tầng sâu phía trên của mê cung Selbira kết hợp với việc đánh giá trang bị mới, còn Hikari thì đang đi chơi ở chỗ của cựu Ma Vương trầm cảm để xem một chú chó trông giống Husky Siberia.
+
+Và đội Pendragon thì...
+
+"Sắp tới Tama và Pochi đang đi lùa mồi sẽ quay về. Mọi người chuẩn bị sẵn sàng chứ?"
+"Xin thông báo, việc đặt 'lưới' đã hoàn tất."
+"Ừm, hoàn hảo."
+"Đạn pháo khuếch tán loại ba cũng đã chuẩn bị xong."
+"Bên này cũng đã đặt 'mê cung' ma thuật không gian rồi. Có thể dọn sạch những con lọt lưới."
+
+Có vẻ như thời điểm tôi đến xem đúng vào lúc họ chuẩn bị xử lý đám ma vật tép riu. Từ phía bên kia thành phố phế tích, tôi thấy bóng dáng Tama và Pochi đang dẫn dụ theo một bầy ma vật đông như kiến cỏ. Hình như "lùa mồi" là vai trò đuổi theo từ phía sau thì phải... thôi, kệ đi.
+
+Đây là một trong những thành phố ở vùng sâu thuộc "Lãnh địa Bích" (Hekiryou) ở phía tây nam vương quốc. Vì ma vật ở tầng giữa và tầng dưới của mê cung Selbira đã gần cạn kiệt trong các chuyến cày cấp giữa hành trình, nên gần đây chúng tôi đã chuyển địa điểm săn bắn sang đây.
+
+Nếu xuất hiện lúc này thì e là sẽ làm mọi người mất tập trung, nên tôi cứ đứng xem từ phía sau một chút vậy.
+
+"Nhất nè~"
+"Pochi nhanh hơn một bước rồi nè."
+
+Phía sau hai người cùng về đích một lúc, tấm lưới ánh sáng nâng lên. Đây là lưới bắt giữ tích hợp chức năng tê liệt kết dính đã được thêm vào chức năng "Phòng thủ thành trì" của Nana.
+
+"Bắt đầu khai hỏa!"
+
+Theo hiệu lệnh của Liza, các tháp pháo gia tốc của Lulu phun lửa. Cơn mưa đạn xé nát đám ma vật nhỏ, làm giảm đáng kể số lượng của chúng.
+
+"Có con lớn tới kìa. Một con từ bên phải, hai con từ bên trái. Cả hai đều cỡ level 50."
+"Đã rõ. Mia, dùng cát lún đi."
+"Ừm, thực hiện."
+
+Nhận được báo cáo từ Arisa, Liza đưa ra chỉ thị tiếp theo. Khi Mia gật đầu, lớp cát rải trên quảng trường phía trước bắt đầu ngoe nguẩy như một sinh vật sống.
+
+Một con xà long (rồng rắn) khổng lồ với đôi cánh mọc trên thân rắn xuất hiện. Phía sau nó là bầy xà long độc thi thể xanh, level khoảng 40, trông như thuộc hạ của nó.
+
+Xà long tuy có tên là "rắn" nhưng lại là loại ma vật có thêm tứ chi ngoài đôi cánh, khác biệt duy nhất với thằn lằn mà tôi nghĩ ra chỉ là độ mỏng và chiều dài của phần thân. Thật là một cái tên khiến người đặt tên muốn bị truy vấn.
+
+"Xin thông báo, việc dám mạo danh rồng trong khi chỉ là loài rắn thật đáng nực cười!"
+
+Sự khiêu khích của Nana thu hút sự chú ý của những con cỡ trung và lớn.
+
+"Arisa, dùng cánh đi."
+"Ok, 'Trảm không gian' đây."
+
+Ma thuật không gian được Arisa thi triển không cần niệm chú đã cắt đứt đôi cánh của con xà long lớn, rồi chém nát những con xà long cỡ trung đang theo sau.
+
+"Arisa không được đâu~"
+"Đúng đó ạ! Nếu cắt kiểu đó thì sẽ không ăn được phần lòng của xà long ngon lành đâu!"
+
+Thịt xà long ăn theo kiểu nướng với nước sốt thì rất ngon, nên Tama và Pochi đang trách móc hành động bạo lực của Arisa.
+
+"Hai người thôi càm ràm đi. Giao hai con bên cánh trái cho hai người đó."
+"Rõ nè~"
+"Đã rõ ạ."
+
+Theo chỉ thị của Liza, Tama và Pochi lao vút đi, để lại vệt sáng màu vàng.
+
+"Eri eri buun, nè!"
+
+Pochi nói nhầm tên chức năng "Tăng tốc trên không" mới thêm vào giáp vàng, bay về phía xà long với tốc độ nhanh như gió đúng nghĩa đen. Chức năng này được tôi làm nhân tiện sau khi lấy được lượng lớn Phong thạch, thấy nó có vẻ tiện hơn mong đợi nên tôi định sẽ thêm vào giáp của những người khác nữa.
+
+Liza sử dụng "Thuấn động" lao thẳng vào con xà long bên cánh phải.
+
+"Trói buộc."
+
+Mia lẩm bẩm một tiếng, lớp cát dưới mặt đất trồi lên, trói chặt chân và thân của lũ xà long. Có vẻ như cô bé đã bố trí con Cự nhân cát – thứ từng được dùng để đấu với "Chủ tầng" ở tầng trên của Selbira – thành một cái bẫy.
+
+"Ảnh phân thân trảm~?"
+
+Tama, trong bộ giáp vàng khoác áo choàng hồng, phân thân ra thành 12 cơ thể, làm rối loạn lũ xà long. Tôi cũng đã được thầy Tama dạy và thông thạo nhẫn thuật, nhưng vì ít khi dùng thực tế nên không thể vận dụng hiệu quả như Tama.
+
+Và bên cạnh Tama, Pochi đang dùng thanh ma kiếm được kéo dài ra gấp ba lần chiều cao để chém đứt đầu con xà long lớn.
+
+"Pochi, đổi ca nè~?"
+"Rõ rồi nè."
+
+Có vẻ như Pochi với sức tấn công mạnh một phát ăn ngay sẽ phụ trách con xà long lớn, còn Tama với khả năng làm rối loạn số đông sẽ phụ trách bầy xà long cỡ trung. Tama vừa nói "Nin nin" vừa chém đầu từng con xà long cỡ trung. Cô bé có vẻ làm rất cẩn thận để không làm hỏng tuyến độc. Đúng là muốn ăn lắm rồi.
+
+"Liza-san, 'Chủ' (Nushi) bắt đầu di chuyển rồi kìa."
+"Đã rõ."
+
+Arisa, người đang tập trung tìm kiếm, nhắc nhở Liza – người đang tung hoành với hai ngọn thương. Thương Rồng "Heiron" của Liza vẫn như cũ, nhưng Ma thương "Douma" đã tiến hóa thành Ma thương "Douma cải" sau khi được tu sửa. Tôi đã mạ Adamantite lên bề mặt mũi của Ma thương Douma thông qua luyện thành. Không phải mạ đều, mà tôi gia công sao cho khi phát ra ma kiếm thì nó sẽ tạo ra lưỡi kiếm dạng mũi khoan. Nhờ đó mà khả năng xuyên thấu của "Ma kiếm pháo" cũng tăng lên khoảng 20%.
+
+"Golem, hãy đi theo cặp để vận chuyển mà không làm hỏng thịt ma vật."
+
+— MVA.
+
+Lulu ra lệnh cho đội quân Golem thu thập xác ma vật. Vì dự tính hoạt động trong thành phố đổ nát, tôi đã bố trí loại Golem đa chân có phần thân trên hình người và phần thân dưới hình nhện.
+
+"Thịt~"
+"Nè!"
+
+Tama với đôi tai dựng đứng và Pochi với cái đuôi vẫy lia lịa mang theo cái đầu xà long chạy về. Theo lời hai người họ, thịt ở đây là ngon nhất.
+
+Không khí hòa thuận đó thay đổi ngay lập tức khi con "Chủ" mà Arisa cảnh báo lúc nãy lộ diện.
+
+Từ trung tâm thành phố phế tích, tức di tích lâu đài, một ma vật rắn khổng lồ, to lớn sánh ngang với Thiên Long, tung ra đống đổ nát và đất đá rồi xuất hiện. Nó không có cánh như xà long, nhưng nó lướt trên mặt đất như thể đang bay và lao về phía chúng tôi.
+
+"Uầy, level 90 cơ à, thật á? Đúng là nên gọi chủ nhân ra thì hơn."
+
+Lâu lắm mới có kẻ địch mạnh.
+
+"Level 90 sao... Đối với ta thì không có gì phải sợ."
+"Không sao đâu nè~?"
+"Kh, không sao đâu ạ. Cỡ đó thì Pochi không thấy sợ đâu."
+
+Liza cất Ma thương Douma cải vào túi tiên, siết chặt lại Thương Rồng Heiron với vẻ mặt bi tráng. Tama thì trông có vẻ vô tư, còn Pochi thì biểu cảm đầy lo lắng đến mức cái đuôi như muốn thu vào giữa hai chân.
+
+Quả thật, với level hiện tại của mọi người thì đối thủ này không dễ ăn. Nhân tiện, mọi người ở đây trừ Mia ra đều đã level 60. Riêng Mia do cần kinh nghiệm nhiều nên đang level 58.
+
+『Chủ nhân, khẩn cấp ạ. Có con đại xà level 90 xuất hiện.』
+『Đã rõ, anh tới ngay.』
+
+Tôi nhận được lời cầu cứu qua "Viễn thoại" từ Arisa. Tôi giả vờ như vừa dịch chuyển tới, xuất hiện ngay phía sau nhóm Arisa.
+
+"Anh tới rồi đây."
+"Nhanh thế."
+
+Tại anh nãy giờ đứng xem phía sau mà. Vì chiến đấu bình thường có vẻ sẽ làm hỏng thịt và nguyên liệu, tôi dùng ma thuật Thủy hệ cấp cao để làm tê liệt con đại xà.
+
+Trong khi để mọi người thay phiên nhau tấn công, tôi dùng "Viễn thoại" gọi Hikari – người đang đi chơi ở chỗ cựu Ma Vương Shizuka – quay về.
+
+"Đợi lâu không, con đại xà kia là sao thế?"
+"Có vẻ là Chủ ở đây. Level vừa vặn nên anh gọi em về để cho nó nếm thử một trong những Lý Thương (Rishou)."
+"Ehhehe, cảm ơn anh, Satou."
+
+Hikari có vẻ đã quen với việc gọi tôi là Satou rồi. Vì mỗi khi gặp kẻ địch mạnh tôi đều gọi Hikari như thế này, nên level của cô ấy cũng tăng thêm hai bậc, lên 91.
+
+Lý Thương được Hikari thi triển không niệm chú bắn trúng con đại xà đang bị dừng chuyển động. Sau đó, tôi dùng "Lý lực chi thủ" nhấc đầu con đại xà lên và kết liễu bằng ma thuật Quang hệ cấp cao "Quang tử lực tuyến".
+
+"Vẫn cứ là sức mạnh vô lý như mọi khi nhỉ..."
+"Đúng là Satou của em."
+
+Lời nói ngán ngẩm của Arisa bị giọng nói đầy vui vẻ của Hikari đè lên. Nhưng, chữ "của em" thì hơi thừa rồi đó.
+
+Mấy người còn lại thì chắc ưu tiên ăn uống hơn, nên lao vào thu hoạch thịt. Tôi xoa đầu hai người, rồi đuổi theo mọi người để thu hồi xác đại xà vào kho lưu trữ.
+
+◇
+
+"Sau khi chiếm lĩnh được hạt nhân thành phố, cậu định mời dân nhập cư đến đây sao?"
+"Không, không có kế hoạch đó đâu. Dù sao thì anh cũng sẽ phủ kín bằng kết giới ma thuật không gian và ma thuật rừng để ma vật không vào được."
+"Vậy thì không dùng vào việc gì à?"
+"Khí hậu kiểu nhiệt đới mà, nên anh định chỉnh trang lại bên trong tường thành rồi bảo lũ Golem tạo vườn cây ăn trái hoặc ruộng lúa."
+
+Nếu liên kết với hạt nhân thành phố, thì dù là Golem không có ma hạch cũng không cần người thi triển cung cấp ma lực nữa. Cơ chế giống như Golem trong mê cung.
+
+"Này, Mito. Shizuka dạo này sao rồi?"
+"Ưm~ nói sao nhỉ, cô ấy đang tận hưởng cuộc sống độc thân đấy."
+
+— Gì cơ?
+
+"Cảm giác như hiện thân của cuộc sống độc thân vui vẻ của một cô gái tầm tuổi 30 ấy. Trồng rau và thảo mộc trong vườn, dùng thảo mộc làm trà và túi thơm, còn lũ búp bê sinh hoạt thì thu hoạch trái cây và mật ong trong rừng để làm mứt hoặc bánh kẹo. Nghe nói sáng chiều thì đi dạo cùng chú chó Husky Siberia tên Wanta, tiện thể câu cá ở bờ sông hay nhặt những viên đá đẹp."
+
+Nghe giống cuộc sống điền viên bình thường, nhưng nếu cô ấy thấy vui thì cũng tốt.
+
+Những thứ cơ bản như cơm áo gạo tiền đều được lũ búp bê sinh hoạt làm theo kiểu tự cung tự cấp, thỉnh thoảng tôi lại cho đám Brownie hoặc Hikari ghé thăm tiện thể mang theo gia vị hoặc sách vở. Theo lời Hikari, Shizuka có vẻ thích sáng tác, nghe nói cô ấy vẽ khá nhiều "sách mỏng". Không hiểu sao cô ấy không cho tôi xem, nhưng ép buộc thì cũng không hay nên tôi không đào sâu thêm.
+
+Tôi chừa lại phần thịt cho bữa trưa hôm nay, số còn lại thì thu hết vào kho lưu trữ.
+
+Vì nhóm Arisa nói sau khi quét sạch kẻ thù sẽ thám hiểm trong thành phố, nên tôi quyết định ghé qua mê cung Selbira một chút rồi mới tham gia thám hiểm sau. Hikari hình như không quay lại chỗ Shizuka mà sẽ đi cùng Arisa. Nhân tiện, thành phố này nghe nói có thư viện và kho báu được cách ly bằng ma thuật, nên tôi rất mong chờ.
+
+◇
+
+Nhóm đi sau có vẻ đang chiến đấu trong khu vực thực vật, đối đầu với loài "Ma thảo hoa" biết điều khiển bắp nổ (Bắp rang), Demi-Goblin và Demi-Ogre.
+
+Tốc độ chậm hơn nhóm đi trước, nhưng tất cả nhóm đi sau cũng đều vượt qua level 40, Zena-san level 41, Sera level 42. Còn những người ở Echigoya Thương hội thì vì bận công việc chính nên không có thời gian cày cấp trong mê cung, level vẫn lẹt đẹt ở ngưỡng 30 đầu. Cậu bé Aoi và các ứng cử viên quản lý cửa hàng mới vào thì đã được "Power Leveling" lên level 15 cho dễ thở.
+
+"...... ■■■■■ Quang tuyến."
+
+Sera cầm Quang trượng, dùng ma thuật ánh sáng đã có thể sử dụng tới cấp trung để chém nát đám Demi-Ogre khổng lồ thành nhiều mảnh. Xác ma vật hình người chỉ có thể dùng làm mồi nuôi đám ma vật phục vụ cho việc Power Leveling, nên có bị đối xử cẩu thả cũng không vấn đề gì.
+
+Không biết là do đã chữa lành cho rất nhiều người khổ sở vì bệnh dịch trong các quốc gia ghé thăm trên hành trình, hay đơn giản là do level tăng lên, mà hiện tại Sera đã có thể sử dụng hầu hết các loại thần thánh ma thuật trừ ma thuật cầu nguyện. Những vết thương chí mạng như mất chi, vỡ nội tạng đều được chữa lành dễ dàng, gần đây thuốc ma thuật của tôi gần như không có đất diễn.
+
+Một con Demi-Goblin Assassin nhảy ra từ bụi rậm gần đó bị Sera hất văng một cách dễ dàng. Có vẻ đây là kết quả của việc học võ tự vệ từ Lulu.
+
+Không chỉ Sera, công chúa và Zena-san cũng đang cùng học võ tự vệ. Gần đây họ còn có hứng thú với gậy thuật nữa.
+
+"Golem cận vệ số 3!"
+
+Con Demi-Goblin bị Sera ném đi đã bị con Golem thực hiện đâm chết theo chỉ thị của công chúa. Ánh mắt công chúa hướng về phía Zena-san đang bay trên không trung.
+
+"Zena! Không được tự ý lao lên một mình!"
+"Xin lỗi, Tina-sama."
+
+Công chúa khiển trách Zena-san – người đang dùng ma thuật bay để tìm kiếm Ma thảo hoa điều khiển đám Demi-Ogre. Ngay lúc đó, từ bên kia bụi rậm, một quả bắp nổ phóng ra những viên đạn màu nâu hướng về phía Zena-san.
+
+"— Kya!"
+
+Zena-san hét lên một tiếng ngắn, nhưng những viên đạn màu nâu nổ tung gần cô ấy đã bị chặn lại bởi ma thuật phòng thủ mà Sera đã yểm trước đó.
+
+"Bắp ngô gì đó, để tôi xử lý cho."
+『Karina-dono, phía bên trái cũng có phản ứng ma vật!』
+
+Tiểu thư Karina đang cầm hai chùy (Heavy Mace) đập nát thứ dung dịch ăn mòn kim loại dạng slime mà Raka cảnh báo bằng chiếc chùy tay trái.
+
+"Raka-san!"
+『Đã rõ.』
+
+Thay thế cho tiểu thư Karina vốn không giỏi thao tác ma lực, Raka khởi động mạch phóng điện của chùy, đốt cháy dung dịch ăn mòn kim loại, rồi lao thẳng sang bên kia bụi rậm. Từ phía bên kia bụi rậm vang lên tiếng tiểu thư Karina đập bắp nổ bằng cả hai chiếc chùy.
+
+Chiếc búa từng là vũ khí chính vì quá khó dùng đối với Karina vụng về nên hiện tại đã chuyển sang loại chùy có điểm va chạm đơn giản hơn. Trang bị tăng cường dạng cận chiến lấy Raka làm nhân nên tầm đánh ngắn, nên hiện tại nó được coi như vũ khí dự bị.
+
+"...... ■■■■ Thần uy không nhận."
+
+Ma thuật hỗ trợ từ Zena-san cầm Phong trượng đến kịp lúc cho tiểu thư Karina đang suýt bị bầy bắp nổ bao vây. Uy lực của ma thuật phong hệ cấp cao thật tuyệt vời, làm cho toàn bộ lũ ma vật ở gần tiểu thư Karina rơi vào trạng thái không thể chiến đấu, chỉ chừa lại một con.
+
+Zena-san dùng ma thuật mới học và súng ma thuật dạng rifle để tiễn nốt những ma vật có khả năng kháng thuộc tính phong lẫn trong bầy. Ngoài ma thuật phong hệ đã có thể dùng tới cấp cao, Zena-san còn có thể dùng ma thuật lôi hệ và băng hệ tới cấp sơ cấp. Có vẻ cô ấy vẫn chưa quyết định được sẽ chọn cái nào làm hệ phụ.
+
+"Mọi người! 'Drone' Golem đã tìm thấy thân chính của Ma thảo hoa rồi. Golem hạng nặng từ số 1 đến số 6 lao lên ở hướng ba giờ!"
+
+Nghe báo cáo của công chúa, Sera, Zena-san và tiểu thư Karina tập hợp lại. Loại Golem bay tự hành dạng "Drone" mà công chúa sử dụng là thứ cô tự mình chế tạo bằng cách vận dụng luyện thành và ma thuật.
+
+Do đảm nhận việc điều khiển Golem, kỹ năng luyện thành vốn có của cô ngày càng tiến bộ, dẫn đến việc cô bắt đầu hứng thú với việc chế tạo đạo cụ ma thuật, và giờ đây đã ở vị trí giống như đệ tử của tôi, cùng tôi tạo ra Golem và đạo cụ ma thuật. Dù đã học võ tự vệ nhưng vì cô không phù hợp chiến đấu trực tiếp nên không mang vũ khí đặc biệt, mà luôn để một con Golem dạng tiểu thú có chức năng gây choáng bên cạnh để hộ vệ.
+
+"Zena!"
+"Vâng, Karina-sama!"
+
+Zena-san bế tiểu thư Karina bay lên, thực hiện cú lao xuống từ sát trần nhà hướng về phía Ma thảo hoa.
+
+"Đi đây!"
+
+Tiểu thư Karina áp lòng bàn chân vào lòng bàn chân Zena-san, dùng lực đá của cả hai để tăng tốc hơn nữa.
+
+"Cấp tốc xuất phát Karina ki—"
+
+Chưa kịp nói hết câu, cú đá của tiểu thư Karina đã cắm thẳng vào tâm bông hoa của Ma thảo hoa.
+
+— FUWANNNNNNNNNA.
+
+Vừa tỏa ra đống phấn hoa đáng ngờ, Ma thảo hoa ngừng chuyển động. Tiểu thư Karina bò ra từ đống xác hoa, vừa bò vừa ho sặc sụa. Sera vội vàng chạy lại, yểm ma thuật giải độc cho tiểu thư Karina.
+
+...Đừng có lao lên bất chấp như thế chứ.
+
+◇
+
+Tôi đón nhóm đi sau trong mê cung rồi hợp quân với nhóm Arisa và Hikari, tận hưởng chuyến thám hiểm phế tích.
+
+"Không ngờ có ngày mình lại đặt chân vào Lãnh địa Bích."
+"Đ, đây chính là ma cảnh màu xanh... sao..."
+
+Sera và công chúa nghẹn lời nhìn quanh phế tích. Tiểu thư Karina và Zena-san thì có vẻ không hình dung được gì về Lãnh địa Bích. Tiện thể, dẫn mọi người đến kho báu vậy.
+
+"Đây là hẻn~?"
+"Không có mùi thịt nhỉ?"
+
+Trước vòng tròn ma thuật ẩn mà tôi dẫn tới, Tama nghiêng đầu. Pochi hít hít mũi nhưng có vẻ không ngửi thấy mùi gì thú vị.
+
+"Có dấu vết đã thực hiện nghi lễ thánh hóa. Không cảm nhận được chướng khí."
+
+Sera vừa chạm vào vòng tròn ma thuật vừa đánh giá. Khi truyền ma lực vào, các ký tự hiện lên.
+
+"Có vẻ như ghi cả văn bia cổ ngữ và mật khẩu. Ờm, nó viết là 'Dù thành phố diệt vong trong cơn sóng dữ, con người vẫn không diệt vong. Trao phần thưởng cho kẻ giải phóng thành phố', còn mật khẩu là— Baals?"
+"Sai một chữ là an toàn nhỉ."
+
+Arisa giật mình khi nghe Hikari đọc mật khẩu nghe như từ hủy diệt trong bộ anime nổi tiếng, nhưng sau khi nhận ra mình hiểu lầm thì thở phào nhẹ nhõm. Mọi người xung quanh trừ tôi ra đều ngơ ngác vì không hiểu ý nghĩa.
+
+『Tái sinh.』
+
+> Đạt được kỹ năng "Cổ ngữ".
+
+Khi Hikari đọc mật khẩu bằng cổ ngữ, vòng tròn ma thuật rực sáng, một cánh cửa xuất hiện từ không gian trống rỗng. Mở cánh cửa đó ra, ánh sáng màu vàng kim đập vào mắt. Bên trong rộng rãi, vách tường bên trong mang cảm giác như được tạo ra từ "Nhà chứa" (Storehouse) của ma thuật không gian.
+
+Mọi người vui vẻ lao vào trong ánh sáng màu vàng kim. Tiểu thư Karina và Zena-san có vẻ hơi rụt rè trước lượng kho báu khổng lồ.
+
+"Vàng bạc~"
+"Có cả xà beng nè."
+
+Thứ trông như cái xà beng mà Pochi nhặt được có vẻ là một đạo cụ ma thuật tên là "Ảo tưởng toái" (Kẻ phá vỡ ảo tưởng). Có vẻ nó được xếp vào loại bí bảo.
+
+"Đây là công nghệ bị thất truyền thời đế quốc Fullu."
+"Nhớ ghê, dù không ưa quý tộc nước đó nhưng cung điện hay các công trình của họ thực sự rất nguy nga."
+
+Sera có vẻ hứng thú với các bức tranh và mỹ nghệ trên tường. Với Hikari, có lẽ đây là những món đồ gợi nhớ về trước khi cô chìm vào giấc ngủ.
+
+Từ phía sau nhóm thú nhân đang kiểm tra vũ khí và Nana cùng Lulu đang tìm kiếm những món đồ nhỏ xinh, tôi nghe thấy tiếng gọi mình.
+
+"Satou! Ở phía trong có vẻ là thư viện đấy."
+"Tuyệt quá, không biết có sách ma thuật không nhỉ?"
+"Kỳ vọng."
+
+Arisa và Mia vui vẻ chạy đến thư viện mà công chúa tìm thấy.
+
+Thu gom chiến lợi phẩm xong, chúng tôi trở về cung điện trên đảo, cùng ăn trưa với món xà long nướng sốt và bắp rang làm từ bắp nổ.
+
+"Ngon nè~"
+"Đúng là cơm hộp của Lulu vẫn là ngon nhất."
+
+Vừa nghe tiếng chuông gió, tôi vừa thưởng thức món xà long nướng sốt thay vì lươn nướng. Thịt dày và mỡ màng, thực sự rất ngon.
+
+Trái ngược với những ngày tháng êm đềm của chúng tôi, dũng giả hiện vẫn đang chiến đấu kiên cường dưới tầng hầm mê cung ở vùng sâu đế quốc Người Chồn. Dù đôi khi nghe tin cậu ta bị thương nặng làm tôi thấy lo, nhưng theo báo cáo định kỳ thì cậu ta đang vừa tiêu diệt các phân thân của Ma Vương vừa áp sát bản thể. Nghe nói các đạo cụ ma thuật do đế quốc Người Chồn cung cấp rất hữu ích.
+
+Tôi cứ tưởng công cuộc đánh bại Ma Vương mất nhiều thời gian quá, nhưng theo Hikari thì việc mất vài tháng để tiêu diệt Ma Vương là chuyện bình thường. Cô ấy nói trường hợp của mình thậm chí còn mất hàng năm trời.
+
+— Cố lên nhé, dũng giả.
+
+Vào lúc tôi gửi lời cổ vũ đến dũng giả Hayato trong lòng, phi thuyền của Bộ Du lịch đã tiến vào lãnh địa Vương quốc Rumoawk – quê hương của công chúa Menea tóc hồng.
+
+Hy vọng là chúng tôi có thể xem được tài liệu về việc triệu hồi người dị giới tại Vương quốc Rumoawk...
+
+※ Lịch cập nhật tiếp theo dự kiến vào ngày 1/17 (Chủ nhật).

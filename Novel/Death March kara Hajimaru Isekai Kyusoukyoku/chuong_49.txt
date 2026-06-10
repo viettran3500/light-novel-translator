@@ -1,0 +1,196 @@
+Đây là bản tóm tắt danh sách kỹ năng và danh hiệu của nhân vật. Xin lưu ý rằng đây là bảng thống kê nội bộ phục vụ cho việc theo dõi tiến trình của tác phẩm.
+
+***
+
+Một chút tóm tắt.
+Vui lòng bỏ qua nếu không cần thiết.
+
+※ 15/9: Đã sửa lỗi đánh máy.
+
+Được ghi theo định dạng: "Tên kỹ năng ( Cấp độ kỹ năng ) Số chương đạt được".
+Những kỹ năng đã đạt được nhưng không nhận ra ngay sẽ lấy mốc chương phát hiện ra, và được đánh dấu ※ ở cuối để phân biệt.
+
+### ● Nhóm kỹ năng Vũ khí ( 51p )
+- Xạ kích ( Lv10 ) 1-9
+- Thương ( Lv10 ) 1-9 ◎ Lv0 => Lv10 ở chương 3-8
+- Cung ( -- ) 1-9
+- Kiếm một tay ( Lv10 ) 1-9
+- Gậy một tay ( -- ) 1-9
+- Đoản kiếm ( -- ) 1-9
+- Ném ( Lv1 ) 1-9 ▼
+- Gậy hai tay ( -- ) 1-9
+- Kiếm hai tay ( -- ) 1-10
+- Rìu một tay ( -- ) 1-10
+- Rìu hai tay ( -- ) 1-10
+- Búa hai tay ( Lv10 ) 1-10 ◎ Lv0 => Lv10 ở chương 3-8
+- Búa một tay ( -- ) 1-10
+- Cận chiến ( Lv10 ) 1-10 ▼
+
+### ● Nhóm kỹ năng Chiến đấu vật lý ( 50p )
+- Ngắm bắn ( Lv10 ) 1-9
+- Bắn tỉa ( Lv10 ) 1-9
+- Đánh lén ( -- ) 1-9
+- Dũng mãnh ( -- ) 1-9
+- Rút kiếm nhanh ( -- ) 1-9
+- Khiên ( Lv10 ) 1-9
+- Né tránh ( Lv10 ) 1-9
+- Gạt đòn ( Lv10 ) 1-9
+- Tấn công bằng khiên ( -- ) 1-9
+- Cước pháp ( -- ) 1-9
+- Phá giáp ( -- ) 1-10
+- Chiến đấu trên không ( -- ) 1-10
+- Phá hoại vũ khí ( -- ) 1-10
+- Song kiếm ( -- ) 1-10
+- Liên hoàn tấn công ( -- ) 3-8
+
+### ● Nhóm kỹ năng Chiến thuật ( 0p )
+- Rút lui ( -- ) 1-8
+- Phối hợp ( -- ) 1-9
+- Chỉ huy ( -- ) 2-8
+- Biên chế ( -- ) 2-8
+- Tác chiến ( -- ) 2-12
+
+### ● Nhóm kỹ năng Vận động ( 20p )
+- Chạy nước rút ( -- ) 1-4 ※
+- Nhảy ( Lv10 ) 1-4 ※
+- Cơ động lập thể ( Lv10 ) 1-4 ※
+- Siêu sức lực ( -- ) 1-10
+
+### ● Nhóm kỹ năng Ma thuật ( 30p )
+- Ma thuật triệu hồi: Dị giới ( Lv10 ) 1-2
+- Ma thuật thuật lý: Dị giới ( Lv10 ) 1-2
+- Cầu nguyện ( -- ) 1-4
+- Ma thuật lôi: Ác ma ( -- ) 1-9
+- Ma thuật hỏa ( -- ) 1-10
+- Ma thuật phong ( -- ) 1-10
+- Ma thuật lôi ( -- ) 1-10
+- Ma thuật thổ ( -- ) 1-10
+- Ma thuật thủy ( -- ) 1-10
+- Ma thuật băng ( -- ) 1-10
+- Ma thuật quang ( -- ) 1-10
+- Ma thuật đời sống ( Lv10 ) 2-1
+- Ma thuật thần thánh: Giáo phái Palion ( -- ) 2-1
+- Khế ước ( -- ) 3-3
+- Ma thuật tinh thần ( -- ) 3-4 ※
+
+### ● Nhóm kỹ năng Kháng tính ( 90p )
+- Kháng lôi ( Lv10 ) 1-9
+- Kháng tê liệt ( Lv10 ) 1-9
+- Kháng đau đớn ( Lv10 ) 1-9
+- Kháng đả kích ( Lv10 ) 1-9
+- Kháng sợ hãi ( -- ) 1-9
+- Kháng độc ( Lv10 ) 1-9
+- Kháng hóa đá ( Lv10 ) 1-9
+- Kháng hỏa ( Lv10 ) 1-10 ◎ Lv0 => Lv10 ở chương 3-8
+- Kháng phong ( -- ) 1-10
+- Kháng thổ ( -- ) 1-10
+- Kháng thủy ( -- ) 1-10
+- Kháng băng ( -- ) 1-10
+- Kháng quang ( -- ) 1-10
+- Kháng mục rữa ( Lv10 ) 1-10
+- Kháng tinh thần ( Lv10 ) 3-4 ※
+
+### ● Nhóm kỹ năng Sản xuất ( 21p )
+- Mộc công ( -- ) 1-4
+- Thuộc da ( -- ) 1-4
+- Chế tạo vũ khí ( Lv1 ) 1-4
+- Rèn ( -- ) 1-10
+- Điều chế ( Lv10 ) 4-9
+- Luyện thành ( Lv10 ) 4-9
+
+### ● Nhóm kỹ năng Học thuật ( 40p )
+- Số học ( Lv10 ) 1-4
+- Kiến thức thất lạc ( -- ) 1-4
+- Quốc ngữ Shiga ( Lv10 ) 1-5
+- Ngôn ngữ ác ma ( -- ) 1-9
+- Giám định ( Lv10 ) 2-2 ▼
+- Suy luận ( -- ) 2-6
+- Giải đố ( Lv10 ) 3-8
+- Thí nghiệm ( -- ) 4-5
+- Kiểm chứng ( -- ) 4-5
+
+### ● Nhóm kỹ năng Nghệ thuật ( 1p )
+- Ca hát ( -- ) 1-4 ※
+- Hội họa ( -- ) 1-4
+- Trò chơi ( -- ) 1-4
+- Khuếch đại âm thanh ( Lv1 ) 2-7 ▼
+
+### ● Nhóm kỹ năng Thương mại ( 45p )
+- Đàm phán ( Lv10 ) 1-5
+- Biện hộ ( Lv10 ) 1-5
+- Am hiểu thị trường ( Lv10 ) 1-6
+- Mặc cả ( Lv10 ) 1-6
+- Khuôn mặt vô cảm ( -- ) 1-7
+- Che giấu ( -- ) 1-8
+- Thuyết phục ( Lv5 ) 1-8 ▼
+- Hối lộ ( -- ) 1-8
+- Xã giao ( -- ) 2-3
+
+### ● Nhóm kỹ năng Lao động ( 3p )
+- Cắm trại ( -- ) 1-4 ※
+- Giặt giũ ( -- ) 1-4 ※
+- Khai hoang ( -- ) 1-4
+- Canh tác ( -- ) 1-4
+- Thu hoạch ( -- ) 1-4
+- Cắt cỏ ( -- ) 1-4
+- Đốn củi ( -- ) 1-4
+- Dọn dẹp ( -- ) 1-4
+- Giám sát ( -- ) 1-7
+- Bắt giữ ( -- ) 1-10
+- Phục vụ ( -- ) 3-4
+- Vận chuyển ( -- ) 4-3
+- Lái xe ( Lv3 ) 4-6
+
+### ● Nhóm kỹ năng Mê cung ( 22p )
+- Giải bẫy ( Lv10 ) 2-10 ◎ Lv0 => Lv10 ở chương 3-8
+- Sử dụng bẫy ( -- ) 2-10
+- Phát hiện bẫy ( Lv10 ) 2-10
+- Đào bới ( -- ) 2-10
+- Tìm kho báu ( -- ) 2-10
+- Mở khóa rương ( -- ) 2-10
+- Kho báu ( Lv2 ) 3-5 ◎ Lv1 => Lv2 ở chương 4-9
+
+### ● Nhóm kỹ năng Đặc biệt ( 63p )
+- Đọc môi ( -- ) 1-5
+- Thủ đoạn lừa lọc ( Lv10 ) 1-5
+- Mật thám ( Lv10 ) 1-9
+- Tự hồi phục ( Lv10 ) 1-9
+- Thay đồ nhanh ( Lv10 ) 1-10
+- Cải trang ( Lv10 ) 1-10
+- Nghe lén ( -- ) 1-6 (Đã đổi từ 2-5 sang 4/7)
+- Hoạt động ngầm ( -- ) 2-6
+- Bắt cóc ( Lv10 ) 2-6
+- Ám sát ( -- ) 2-6
+- Âm mưu ( -- ) 2-6
+- Phán xét ( -- ) 2-6
+- Vu oan ( -- ) 2-6
+- Thẩm vấn ( Lv3 ) 3-4
+- Kỹ thuật tình dục ( -- ) 4-10
+- Lời âu yếm ( -- ) 4-10
+- Dụ dỗ ( -- ) 4-10
+
+- Tổng điểm kỹ năng đã sử dụng: 431 điểm
+
+---
+
+### ● Danh sách Danh hiệu
+(Ghi theo thứ tự số chương đạt được và tên danh hiệu)
+1-2 Diệt ma vật, Diệt tộc vảy, Thảm họa tộc vảy, Thiên địch tộc vảy, Diệt rồng có cánh, Diệt rồng [Hạ cấp], Diệt rồng [Rồng con], Diệt rồng [Rồng trưởng thành], Diệt rồng [Rồng cổ đại], Diệt rồng [Danh xưng riêng], Thiên địch tộc rồng, Diệt thần.
+1-4 Người mộ đạo.
+1-10 Chiến trường thường trực, Chiến sĩ thiện chiến, Người khiêu vũ với ác ma, Dũng giả.
+2-1 Người cầu nguyện siêu thoát, Người cứu hộ, Người bảo vệ thư tịch.
+2-7 Người thám hiểm mê cung.
+2-8 Diệt côn trùng.
+2-9 Người huấn luyện.
+2-12 Diệt bất tử, Diệt ma tộc.
+3-8 Người phá mê cung.
+
+---
+▼ Thời điểm gán cấp độ không rõ ràng:
+"Cận chiến (sử dụng ở 2-6)", "Ném (sử dụng ở 2-9)", "Giám định (sử dụng ở 2-10)", "Thuyết phục (sử dụng ở 2-11)", "Khuếch đại âm thanh (sử dụng ở 2-12)".
+
+- Các kỹ năng được đề cập là sẽ học sau trong tác phẩm:
+"Giải thể (2-9)", "Khiêu khích (3-1)".
+
+Số lượng kỹ năng đạt được đang giảm dần nhỉ~ Chương 3 có 8, chương 4 chỉ có 9!
+Về danh hiệu thì chương 3 chỉ có 1, chương 4 là 0... thật là...

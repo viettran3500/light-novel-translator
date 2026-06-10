@@ -1,0 +1,418 @@
+Dưới đây là bản dịch nội dung bảng kỹ năng và danh hiệu của nhân vật từ tác phẩm.
+
+---
+
+※ Đã sửa lỗi chính tả vào ngày 21/10/2015.
+
+Được trình bày theo định dạng: "Tên kỹ năng ( Cấp độ kỹ năng ) Số chương đạt được".
+Những kỹ năng đã đạt được nhưng chưa nhận ra thì số chương nhận ra là số chương đạt được, cuối dòng có đánh dấu ※ để phân biệt.
+
+Mức độ kỹ năng:
+Lv1: Người mới bắt đầu
+Lv3: Người lành nghề
+Lv5: Chuyên gia
+Lv7: Đạt nhân
+Lv9: Thiên tài
+Lv10: Kỹ nghệ thần thánh
+
+### ● Nhóm Kỹ năng Vũ khí ( 61p )
+*   Xạ kích ( Lv10 ) 1-9
+*   Thương ( Lv10 ) 1-9 ◎ Tăng từ Lv0 lên Lv10 ở chương 3-8
+*   Cung ( —— ) 1-9
+*   Kiếm một tay ( Lv10 ) 1-9
+*   Chùy một tay ( —— ) 1-9
+*   Đoản kiếm ( Lv10 ) 1-9 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Ném ( Lv1 ) 1-9 ▼
+*   Chùy hai tay ( —— ) 1-9
+*   Kiếm hai tay ( —— ) 1-10
+*   Rìu một tay ( —— ) 1-10
+*   Rìu hai tay ( —— ) 1-10
+*   Búa hai tay ( Lv10 ) 1-10 ◎ Tăng từ Lv0 lên Lv10 ở chương 3-8
+*   Búa một tay ( —— ) 1-10
+*   Cận chiến ( Lv10 ) 1-10 ▼
+
+### ● Nhóm Kỹ năng Chiến đấu Vật lý ( 255p )
+*   Ngắm bắn ( Lv10 ) 1-9
+*   Bắn tỉa ( Lv10 ) 1-9
+*   Đánh lén ( Lv10 ) 1-9 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Dũng cảm liều lĩnh ( —— ) 1-9
+*   Rút kiếm nhanh (Iai) ( Lv10 ) 1-9 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Khiên ( Lv10 ) 1-9
+*   Né tránh ( Lv10 ) 1-9
+*   Đỡ đòn ( Parry ) ( Lv10 ) 1-9
+*   Khiên kích ( Lv5 ) 1-9 Tăng từ Lv0 lên Lv5 ở chương 6-2
+*   Đá ( Lv10 ) 1-9 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Bổ đầu ( Lv10 ) 1-10 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Không chiến ( Lv10 ) 1-10 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Phá hủy vũ khí ( Lv10 ) 1-10 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Song kiếm ( Lv10 ) 1-10 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Liên kích ( Lv10 ) 3-8 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Tâm nhãn ( Lv10 ) 6-3
+*   Đâm ( Lv10 ) 6-3
+*   Đòn đánh mạnh ( Lv10 ) 6-3
+*   Xuyên thấu ( Lv10 ) 6-3
+*   Ma nhận ( Lv10 ) 6-3
+*   Thương xoáy ( Lv10 ) 6-3
+*   Trảm kích lóe sáng ( Lv10 ) 7-20
+*   Thánh nhận ( Lv10 ) 7-21
+*   Đọc trước: Đấu người ( Lv10 ) 8-23
+*   Pháo ma nhận ( Lv10 ) Khoảng chương 9-29 đến 10-3
+*   Xuyên giáp ( Lv10 ) 11-19 (new)
+*   Ma lực kích ( Lv10 ) 11-19 (new)
+
+### ● Nhóm Kỹ năng Chiến thuật ( 60p )
+*   Rút lui ( Lv10 ) 1-8 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Phối hợp ( Lv10 ) 1-9 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Chỉ huy ( Lv10 ) 2-8 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Biên chế ( Lv10 ) 2-8 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Tác chiến ( Lv10 ) 2-12 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Khiêu khích ( Lv10 ) 6-13
+
+### ● Nhóm Kỹ năng Vận động ( 80p )
+*   Chạy nước rút ( Lv10 ) 1-4 ※
+*   Nhảy ( Lv10 ) 1-4 ※
+*   Cơ động không gian ( Lv10 ) 1-4 ※
+*   Siêu sức mạnh ( Lv10 ) 1-10 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Chạy địa hình xấu ( Lv10 ) 5-14
+*   Thiên khu (Chạy trên không) ( Lv10 ) 7-7
+*   Súc địa ( Lv10 ) 7-20
+*   Du hành vũ trụ ( —— ) 9-23
+*   Thiểm khu ( Lv10 ) 9-31
+
+### ● Nhóm Kỹ năng Ma pháp ( 150p )
+*   Ma pháp triệu hồi: Dị giới ( Lv10 ) 1-2
+*   Ma pháp thuật lý: Dị giới ( Lv10 ) 1-2
+*   Cầu nguyện ( —— ) 1-4
+*   Ma pháp lôi: Ác ma ( —— ) 1-9
+*   Ma pháp hỏa ( Lv10 ) 1-10 Tăng từ Lv0 lên Lv10 ở chương 7-7
+*   Ma pháp phong ( Lv10 ) 1-10 Tăng từ Lv0 lên Lv10 ở chương 7-7
+*   Ma pháp lôi ( Lv10 ) 1-10 Tăng từ Lv0 lên Lv10 ở chương 8-7
+*   Ma pháp thổ ( Lv10 ) 1-10 Tăng từ Lv0 lên Lv10 ở chương 7-7
+*   Ma pháp thủy ( Lv10 ) 1-10 Tăng từ Lv0 lên Lv10 ở chương 8-7
+*   Ma pháp băng ( Lv10 ) 1-10 Tăng từ Lv0 lên Lv10 ở chương 7-7
+*   Ma pháp quang ( Lv10 ) 1-10 Tăng từ Lv0 lên Lv10 ở chương 7-7
+*   Ma pháp đời sống ( Lv10 ) 2-1
+*   Ma pháp thần thánh: Giáo phái Parion ( —— ) 2-1
+*   Khế ước ( —— ) 3-3
+*   Ma pháp tinh thần ( —— ) 3-4 ※
+*   Ma pháp ảnh ( —— ) 5-9
+*   Ma pháp thuật lý ( Lv10 ) 6-7
+*   Đặt tên ( —— ) 6-Khoảng nghỉ: Họ của Satou
+*   Ma pháp trọng lực: Ác ma ( —— ) 7-20
+*   Ma pháp không gian: Ác ma ( —— ) 7-20
+*   Ma pháp phá hủy: Ác ma ( —— ) 7-21
+*   Ma pháp bộc liệt: Ác ma ( —— ) 7-21
+*   Ma pháp thần thánh: Giáo phái Tenion ( —— ) 8-26
+*   Ma pháp viêm ( Lv10 ) 8-7
+*   Ma pháp bộc liệt ( Lv10 ) 8-7
+*   Ma pháp phá hủy ( Lv10 ) 8-7
+*   Ma pháp không gian ( Lv10 ) Khoảng chương 8-13 đến 15
+*   Ma pháp lôi: Rồng ( —— ) 9-10
+*   Ma pháp ám: Rồng ( —— ) 9-10
+*   Ma pháp viêm: Rồng ( —— ) 9-10
+*   Ma pháp phong: Rồng ( —— ) 9-10
+*   Ma pháp rừng ( —— ) 9-13
+*   Ma pháp tinh linh ( —— ) 9-19
+*   Ma pháp tinh linh: Gia tinh ( —— ) 10-18
+
+### ● Nhóm Kỹ năng Kháng tính ( 254p )
+*   Kháng lôi ( Lv10 ) 1-9
+*   Kháng tê liệt ( Lv10 ) 1-9
+*   Kháng đau đớn ( Lv10 ) 1-9
+*   Kháng đả kích ( Lv10 ) 1-9
+*   Kháng sợ hãi ( Lv10 ) 1-9 Tăng từ Lv3 lên Lv10 ở chương 12-27
+*   Kháng độc ( Lv10 ) 1-9
+*   Kháng hóa đá ( Lv10 ) 1-9
+*   Kháng hỏa ( Lv10 ) 1-10 ◎ Tăng từ Lv0 lên Lv10 ở chương 3-8
+*   Kháng phong ( Lv10 ) 1-10 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Kháng thổ ( Lv10 ) 1-10 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Kháng thủy ( Lv10 ) 1-10 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Kháng băng ( Lv10 ) 1-10 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Kháng quang ( Lv10 ) 1-10 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Kháng thối rữa ( Lv10 ) 1-10
+*   Kháng tinh thần ( Lv10 ) 3-4 ※
+*   Kháng ảnh ( Lv10 ) 5-9
+*   Kháng cồn ( Lv1 ) 7-4 Tăng từ Lv0 lên Lv1 trước chương 8
+*   Kháng trọng lực ( Lv10 ) 7-20
+*   Kháng không gian ( Lv10 ) 7-20
+*   Kháng phá hủy ( Lv10 ) 7-21
+*   Kháng bộc liệt ( Lv10 ) 7-21
+*   Kháng tử vong tức thì ( Lv10 ) 7-22
+*   Kháng ám ( Lv10 ) 9-10
+*   Kháng hôi thối ( Lv3 ) 10-29
+*   Kháng đoạt mệnh ( Lv10 ) 11-9 (new)
+*   Kháng nguyền rủa ( Lv10 ) 12-26 (new)
+*   Kháng hỗn mang ( Lv10 ) 12-26 (new)
+
+### ● Nhóm Kỹ năng Sản xuất ( 150p )
+*   Mộc công ( Lv10 ) 1-4 Tăng từ Lv4 lên Lv10 ở chương 6-4
+*   Thuộc da ( Lv10 ) 1-4 Tăng từ Lv4 lên Lv10 giữa chương 6 và 7
+*   Chế tạo vũ khí ( Lv10 ) 1-4 Tăng từ Lv4 lên Lv10 ở chương 6-10
+*   Rèn ( Lv10 ) 1-10 Tăng từ Lv4 lên Lv10 giữa chương 6 và 7
+*   Điều chế ( Lv10 ) 4-9
+*   Luyện thành ( Lv10 ) 4-9
+*   Cường hóa vũ khí ( Lv10 ) 6-3
+*   Chế tạo phòng cụ ( Lv10 ) 6-4
+*   Điêu khắc ( Lv10 ) 6-10
+*   Chạm bạc ( Lv10 ) 6-10
+*   Chế tạo ma cụ ( Lv10 ) 6-10
+*   Chế tác xương ( Lv10 ) 7-12
+*   Chế tác thủy tinh ( Lv10 ) 8-5
+*   May vá ( Lv10 ) 8-12
+*   Làm hàng giả ( Lv10 ) 8-21
+
+### ● Nhóm Kỹ năng Học thuật ( 111p )
+*   Số học ( Lv10 ) 1-4
+*   Tri thức thất lạc ( —— ) 1-4
+*   Ngôn ngữ Shiga ( Lv10 ) 1-5
+*   Ngôn ngữ Ác ma ( Lv5 ) 1-9 Tăng từ Lv1 lên Lv5 ở chương 7-13
+*   Giám định ( Lv10 ) 2-2 ▼
+*   Suy luận ( —— ) 2-6
+*   Giải đố ( Lv10 ) 3-8
+*   Thực nghiệm ( Lv10 ) 4-5 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Kiểm chứng ( Lv10 ) 4-5 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Giáo dục ( Lv10 ) 5-2 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Ngôn ngữ tộc Chuột Xám ( Lv1 ) 5-4 Tăng từ Lv0 lên Lv1 ở chương 6-2
+*   Ngôn ngữ tộc Vảy Xanh ( Lv1 ) 5-4 Tăng từ Lv0 lên Lv1 ở chương 6-2
+*   Ngôn ngữ Elf ( Lv10 ) 5-4 Tăng từ Lv3 lên Lv10 ở chương 6-10
+*   Giải phẫu ( —— ) 6-2
+*   Lễ nghi ( Lv5 ) 6-14 Tăng từ Lv0 lên Lv5 ngay trước chương 7
+*   Xã giao ( Lv5 ) 6-Khoảng nghỉ: Họ của Satou
+*   Huy chương học ( Lv5 ) 6-Khoảng nghỉ: Họ của Satou
+*   Giải mã ( Lv10 ) 8-26
+*   Ngôn ngữ tộc Bạch Hổ ( Lv1 ) 8-25
+*   Ngôn ngữ Rồng ( Lv5 ) 9-10
+*   Ngôn ngữ Sylga ( Lv3 ) 9-11
+
+### ● Nhóm Kỹ năng Nghệ thuật ( 43p )
+*   Ca hát ( —— ) 1-4 ※
+*   Hội họa ( —— ) 1-4
+*   Trò chơi ( —— ) 1-4
+*   Khuếch đại âm thanh ( Lv3 ) 2-7 ▼ Tăng từ Lv1 lên Lv3 ở chương 6-2
+*   Nói nhanh ( Lv10 ) 6-1
+*   Khả năng phát âm ( Lv10 ) 6-1
+*   Biểu diễn ( Lv10 ) 6-6 Tăng từ Lv0 lên Lv10 ở chương 6-7
+*   Diễn kịch ( —— ) 6-22
+*   Bụng ngữ ( Lv10 ) 8-5 Tăng từ Lv0 lên Lv10 ở chương 9-10
+*   Vũ đạo ( —— ) 8-11
+
+### ● Nhóm Kỹ năng Thương mại ( 70p )
+*   Đàm phán ( Lv10 ) 1-5
+*   Biện hộ ( Lv10 ) 1-5
+*   Thương trường ( Lv10 ) 1-6
+*   Mặc cả ( Lv10 ) 1-6
+*   Vô cảm ( Lv5 ) 1-7 Tăng từ Lv0 lên Lv5 ở chương 6-2
+*   Tàng hình (giấu diếm) ( —— ) 1-8
+*   Thuyết phục ( Lv5 ) 1-8 ▼ Tăng từ Lv3 lên Lv5 ở chương 6-2
+*   Hối lộ ( Lv5 ) 1-8 Tăng từ Lv0 lên Lv5 ở chương 6-2
+*   Xã giao ngoại giao ( Lv5 ) 2-3 Tăng từ Lv0 lên Lv5 ở chương 6-2
+*   Diễn xuất tâm lý (Bụng nghệ) ( Lv10 ) 6-22 Tăng từ Lv0 lên Lv10 giữa chương 6 và 7
+
+### ● Nhóm Kỹ năng Lao động ( 75p )
+*   Dã ngoại ( —— ) 1-4 ※
+*   Giặt giũ ( —— ) 1-4 ※
+*   Khai khẩn ( Lv10 ) 1-4 Tăng từ Lv0 lên Lv10 ở chương 6-13
+*   Canh tác ( —— ) 1-4
+*   Thu hoạch ( —— ) 1-4
+*   Cắt cỏ ( —— ) 1-4
+*   Đốn củi ( —— ) 1-4
+*   Dọn dẹp ( —— ) 1-4
+*   Giám sát ( Lv10 ) 1-7 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Bắt giữ ( Lv10 ) 1-10 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Phụng sự ( —— ) 3-4
+*   Vận chuyển ( —— ) 4-3
+*   Điều khiển xe ( Lv5 ) 4-6 Tăng từ Lv3 lên Lv5 ở chương 6-2
+*   Đóng gói ( —— ) 5-14
+*   Nấu ăn ( Lv10 ) 6-2
+*   Giải thể ( Lv10 ) 6-2
+*   Thu thập ( Lv10 ) 6-13
+*   Cưỡi ( thú ) ( Lv10 ) 6-15
+*   Cưỡi ngựa ( —— ) 6-15
+*   Thuần hóa ( —— ) 9-26
+*   Huấn luyện ( —— ) 9-26
+
+### ● Nhóm Kỹ năng Mê cung ( 59p )
+*   Gỡ bẫy ( Lv10 ) 2-10 ◎ Tăng từ Lv0 lên Lv10 ở chương 3-8
+*   Sử dụng bẫy ( Lv5 ) 2-10 Tăng từ Lv0 lên Lv5 ở chương 6-2
+*   Phát hiện bẫy ( Lv10 ) 2-10
+*   Đào bới ( Lv10 ) 2-10 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Phát hiện kho báu ( Lv10 ) 2-10 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Mở khóa rương báu ( Lv10 ) 2-10 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Kho báu ( Lv4 ) 3-5 ◎ Tăng từ Lv2 lên Lv4 ở chương 5-2
+
+### ● Nhóm Kỹ năng Mật thám ( 140p )
+*   Trá thuật ( Lv10 ) 1-5
+*   Đọc khẩu hình ( Lv10 ) 1-5 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Nghe lén ( Lv10 ) 1-6 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Mật thám ( Lv10 ) 1-9
+*   Thay đồ nhanh ( Lv10 ) 1-10
+*   Cải trang ( Lv10 ) 1-10
+*   Hoạt động ngầm ( Lv10 ) 2-6 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Bắt cóc ( Lv10 ) 2-6
+*   Ám sát ( Lv10 ) 2-6 Tăng từ Lv0 lên Lv10 ở chương 6-2
+*   Âm mưu ( —— ) 2-6
+*   Oan ức ( —— ) 2-6
+*   Tiêu hủy chứng cứ ( Lv10 ) 6-33
+*   Ẩn nấp ( Lv10 ) 7-19
+*   Ẩn hình ( Lv10 ) 7-19
+*   Bước chân lặng lẽ ( Lv10 ) 7-19
+*   Biến đổi giọng nói ( Lv10 ) 8-20
+
+### ● Nhóm Kỹ năng Ma lực ( 81p )
+*   Tự chữa trị ( Lv10 ) 1-9
+*   Điều khiển ma lực ( Lv10 ) 6-3
+*   Truyền ma lực ( Lv10 ) 6-3
+*   Chữa trị bằng ma lực ( Lv10 ) 6-22
+*   Nhìn thấy tử linh ( Lv1 ) 7-4
+*   Cảm nhận ma lực ( Lv10 ) 7-8
+*   Kiểm soát ma lực ( Lv10 ) 9-18
+*   Kiểm soát tinh linh quang ( Lv10 ) 9-18
+*   Nhìn thấy tinh linh ( Lv10 ) 9-18
+*   Ma lực giáp ( Lv10 ) 12-28 sử dụng (học được sau 11-20)
+
+### ● Nhóm Kỹ năng Đặc biệt ( 110p )
+*   Đoạn tội ( —— ) 2-6
+*   Thẩm vấn ( Lv10 ) 3-4 Tăng từ Lv5 lên Lv10 ở chương 9-6
+*   Kỹ thuật tình dục ( —— ) 4-10
+*   Lời âu yếm ( —— ) 4-10
+*   Quyến rũ ( —— ) 4-10
+*   Tầm soát ( Lv10 ) 6-3
+*   Cảm nhận nguy hiểm ( Lv10 ) 6-3
+*   Nắm bắt không gian ( Lv10 ) 6-3
+*   Viễn thị ( Lv10 ) 6-32
+*   Nhìn toàn cảnh ( Lv10 ) 6-32
+*   Viễn vọng ( Lv10 ) 6-32
+*   Nhìn trong đêm ( Lv10 ) 7-3
+*   Điều chỉnh cường độ sáng ( Lv10 ) 7-3
+*   Vỗ về ( —— ) 8-22
+*   Sinh tồn ( Lv10 ) 9-23
+*   Đe dọa ( Lv10 ) 10-29 ※ Không có mô tả về việc tăng cấp
+*   " " ( —— ) 12-28 ※ Kỹ năng không thể lựa chọn
+
+- Tổng điểm kỹ năng đã sử dụng: 1699 điểm (còn dư 1421 điểm)
+※ Cấp độ nhân vật chính là 312.
+
+---
+### ● Danh sách Danh hiệu
+Liệt kê theo thứ tự chương đạt được và tên danh hiệu:
+
+1-2 Diệt ma vật
+1-2 Diệt tộc Vảy
+1-2 Tai họa tộc Vảy
+1-2 Thiên địch tộc Vảy
+1-2 Diệt Dực long
+1-2 Diệt rồng [Hạ cấp]
+1-2 Diệt rồng [Ấu long]
+1-2 Diệt rồng [Thành long]
+1-2 Diệt rồng [Cổ long]
+1-2 Diệt rồng [※Tên riêng※] ※Lược bỏ vì tên riêng rất nhiều
+1-2 Thiên địch tộc Rồng
+1-2 Diệt thần
+
+1-4 Người có đức tin sâu sắc
+
+1-10 Luôn ở chiến trường
+1-10 Chiến sĩ lão luyện
+1-10 Người khiêu vũ với ác ma
+1-10 Dũng giả
+
+2-1 Người cầu nguyện cho linh hồn
+2-1 Người cứu hộ
+2-1 Người bảo vệ sách
+
+2-7 Nhà thám hiểm mê cung
+
+2-8 Diệt trùng
+
+2-9 Nhà huấn luyện
+
+2-12 Diệt bất tử
+2-12 Diệt ma tộc
+
+3-8 Người phá mê cung
+
+5-12 Diệt vua bất tử
+5-12 Người vượt qua mê cung
+
+5-13 Người sống sót
+
+5-15 Bạn của Elf
+
+6-3 Thợ rèn thương ma
+
+6-5 Kẻ săn tiền thưởng
+
+6-7 Ma thuật sư của bàn ăn
+
+6-22 Dược sư
+6-22 Trị liệu sư
+6-22 Thánh giả
+6-22 Diễn viên tồi
+6-22 Hề
+
+7-4 Thợ rèn kiếm tiên
+7-4 Tửu hào
+7-4 Bợm nhậu (Trăn)
+7-4 Tiên rượu
+7-4 Bạn của người lùn (Dwarf)
+
+7-7 Thợ rèn ma thuật
+7-7 Người bay không cánh
+
+7-22 Diệt ma vương
+7-22 Diệt ma vương "Vua lợn vàng"
+7-22 Chân dũng giả
+7-22 Anh hùng vô danh
+
+8-14 Thợ rèn ma kiếm
+8-14 Thợ rèn vũ khí ma thuật
+
+8-19 Diệt đại quái ngư
+8-19 Huyễn thuật sư
+8-19 Quang thuật sư
+8-19 Đầu bếp bầu trời
+
+8-21 Thợ rèn thánh kiếm
+8-21 Kẻ làm giả
+
+8-23 Vũ công kiếm
+
+Khoảng nghỉ: Bạn của Orc ※Khoảng nghỉ: Nhà giả kim Orc
+
+9-4 Hộ dân quan
+9-4 Kẻ đoạt tội
+
+9-11 Bạn của Hắc long
+9-11 Kẻ nghiền núi
+9-11 Người sành ăn
+9-11 Kẻ ăn khỏe
+9-11 Cứu thế chủ
+9-11 Người được sùng bái
+
+9-13 Khách của rừng
+9-13 Người yêu của thiếu nữ rừng xanh
+
+9-26 Kẻ cưỡi hươu trời
+
+9-31 Kẻ nhanh nhẹn
+9-31 Bá chủ bầu trời
+
+10-29 Thiên địch của đạo tặc mê cung
+10-29 Người bảo vệ trật tự
+
+10-49 Diệt ma vương "Vua cổ đại chó đầu"
+10-49 Con cưng của nữ thần
+10-49 Ma thuật sư xẻ đất
+10-49 Ma thuật sư sập trời
+
+11-7 Người giải cứu
+11-7 Kẻ đào tẩu
+
+11-17 Người nuôi rồng
+11-17 Kỵ sĩ rồng
+
+12-28 Đồ đệ thần
+12-28 Kẻ phạm cấm kỵ
+12-28 Vua tra tấn
+12-28 Kẻ bạo dâm
+12-28 Thiên địch của Thiên long

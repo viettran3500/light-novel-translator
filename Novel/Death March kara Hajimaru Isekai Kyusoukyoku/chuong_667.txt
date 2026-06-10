@@ -1,0 +1,76 @@
+※ Đây là chương thứ hai trong ngày. Nếu bạn chưa đọc, hãy xem lại chương trước: "17-53. Thế giới yên bình, và rồi――"
+
+"Chào buổi sáng, ông bạn Metabo đâu rồi?"
+"Anh Metabo hả? Anh ấy bảo đi ăn sáng rồi, chạy ra cửa hàng tiện lợi gần đây ấy."
+"Ra vậy, cảm ơn nhé."
+
+Có lẽ vì đang vào giai đoạn cuối của việc phát triển game nên nhiều nhân viên vẫn đang cắm chốt lại văn phòng. Sắp sửa bị thanh tra lao động sờ gáy đến nơi rồi.
+
+『Xin thông báo tin trưa ngày 3 tháng 3 năm Tân Thế Kỷ 2013』
+
+Tiếng phát thanh viên vang lên từ chiếc màn hình lớn trong phòng họp. Có vẻ đám người đang ăn sáng trong đó đã bật nó lên.
+
+『Chương trình cứu viện cho dị thế giới Elancius vốn được tranh luận tại Quốc hội từ tháng trước đã chính thức được thông qua. Sau khi đạt được sự đồng thuận tại Nghị viện, Phủ Anh Hùng đã quyết định cử Á thần - Cẩu Anh Hùng Pochi-sama đi cứu trợ. Dự kiến, ngài sẽ lên đường ngay trong ngày hôm nay từ cổng số 7』
+
+Vừa nghe tin tức, tôi vừa nhấn nút khởi động máy tính.
+
+『Tôi là Irina Muno đang có mặt tại cổng số 7. Cánh cổng đã được các vị thần Carion và Urion truyền thần lực, sẵn sàng kích hoạt bất cứ lúc nào―― Á! Họ đến rồi! Là Cẩu Anh Hùng Pochi-sama! Pochi-sama! Ngài có thể chia sẻ cảm xúc hiện tại không ạ!』
+
+Nghe giọng điệu phấn khích của cô phát thanh viên, tôi quay lại nhìn. Phía bên kia màn hình, một cô gái nhân thú (người chó) đang nhảy cẫng lên và vẫy tay chào đầy nhiệt tình.
+
+『Ngài ấy đã nhận ra chúng ta và đang vẫy tay chào kìa. Vẫn là dáng vẻ đáng yêu như mọi khi, cả đội ngũ tác nghiệp chúng tôi ai cũng bị đổ gục hết rồi』
+
+Giữa chừng lời nói của cô ấy, góc quay camera thay đổi đột ngột. Một lát sau, góc độ trên màn hình cũng được chỉnh lại.
+
+『Là Miêu Nhẫn Tama-sama! Vì lần này không có kế hoạch xuất kích nên có vẻ ngài ấy đã đến để khích lệ em gái của mình - Pochi-sama. À, sau cái ôm thắm thiết, cả hai đang cùng nhau vẫy tay chào khán giả kìa』
+
+Cô phát thanh viên cũng đang ra sức vẫy tay đáp lại. Chắc hẳn cô ấy là một fan cứng của hai người họ rồi.
+
+Theo dõi thêm một lúc, hình ảnh chuyển về phía trường quay.
+
+『Cả hai đều thật gần gũi nhỉ』
+『Theo tin từ các nguồn tin thân cận, còn có tin đồn là Anh hùng của cuộc Đại chiến Dị giới, Liza Kishuresigalza-sama cũng sẽ tham gia cùng họ đấy』
+『Thật kinh ngạc quá. Chẳng khác nào tái hiện lại thời đại thần thoại vậy』
+
+Nữ phát thanh viên lớn tuổi và nam phát thanh viên trẻ tuổi đang trò chuyện như thế.
+
+"Âm lượng to quá đấy. Mau vặn nhỏ lại đi."
+"D-dạ, xin lỗi trưởng phòng Tachibana."
+
+Đám người trong phòng họp bị "Bà chằn Tổng vụ" quát mắng, vội vàng bò lê bò lết quay trở về bàn làm việc của mình.
+
+"Tiền bối Ichirou~, em không fix được bug này~"
+"Hậu bối đang gọi cậu kìa, Sa... Suzuki-san."
+
+Ông bạn Metabo, kẻ đã quay lại từ lúc nào không hay, chỉ tay về phía cô gái đang gọi tôi từ chiếc bàn ở phía xa.
+
+"Đợi tôi xong việc họp hành ở đây rồi sẽ qua giúp, cậu gửi mô tả lỗi qua tin nhắn cho tôi nhé."
+"Vâng, cảm ơn anh!"
+"Việc bên này để sau cũng được mà..."
+
+Có lẽ vì ưu tiên việc của hậu bối mà ông bạn Metabo khẽ đung đưa cái bụng phệ đặc trưng của loài Gnome.
+
+"Không thể làm thế được."
+
+Dù sao thì đây cũng là cuộc họp quan trọng cho tựa game tiếp theo mà. Tôi tập hợp Metabo và các thành viên chủ chốt rồi hướng về phía phòng họp.
+
+"Vậy Suzuki-san, bản thuyết trình cho Chủ tịch Kagura đã được thông qua rồi đúng không? Tựa đề của trò chơi mới là gì thế?"
+
+Tôi đưa bản kế hoạch cho Metabo xem.
+
+"Là『Death March Kara Hajimaru Isekai Kyousoukyoku - Bản hùng ca dị giới bắt đầu từ cuộc hành trình tử thần』."
+
+※ "Death March Kara Hajimaru Isekai Kyousoukyoku (Bản Web)" đến đây tạm thời kết thúc.
+
+Phiên bản sách in và manga vẫn sẽ tiếp tục, bản Web cũng sẽ không định kỳ đăng tải thêm các mẩu truyện "vụn vặt", "ngoại truyện", hay những "câu chuyện hậu trường" mà dưới góc nhìn của Satou không thể thấy được.
+
+Vì sẽ khá dài dòng, nên những suy nghĩ của tác giả về việc kết thúc tác phẩm, xin hãy xem tại mục Hoạt động báo cáo: "Death March đã kết thúc!".
+
+Chân thành cảm ơn các bạn đã theo dõi cho đến chương cuối cùng!
+Gửi lời cảm ơn sâu sắc nhất tới tất cả độc giả đã yêu mến Death March!!!
+
+Nếu được, tác giả sẽ rất vui nếu các bạn có thể viết lại những kỷ niệm về Death March, hay những dòng cảm xúc như "Chỗ này hay quá!", "Tôi thích tập này nhất!" vào phần bình luận.
+Ngoài ra, hãy nhấp vào phần "Đánh giá điểm" ở phía dưới, chọn từ ★ đến ★★★★★ để cho tác giả biết đánh giá chân thực nhất của các bạn nhé.
+
+【Quảng cáo】
+Dự kiến vào ngày 10 tháng 3 năm 2020, phiên bản sách in "Death March Kara Hajimaru Isekai Kyousoukyoku" tập 19 sẽ được phát hành. Ngoài phiên bản thường, dự kiến sẽ có thêm phiên bản đặc biệt đính kèm Drama CD đầu tiên của cả series. Hình như tại một số cửa hàng bán sớm đã bắt đầu trưng bày rồi. Chi tiết xin xem tại phần Hoạt động báo cáo.

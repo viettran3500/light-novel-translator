@@ -1,0 +1,96 @@
+Ra ra, hóa ra lũ rắn có thể di chuyển trên tường sao. Đúng là điểm mù mà.
+Dù cơ thể to lớn như vậy lại còn bị dính đầy chất nhờn trên tường, nhưng cái "Dốc Lotion" này lại bị vượt qua một cách dễ dàng bất ngờ. Có lẽ nguyên nhân là do tường không giữ được nhiều chất nhờn nên hiệu quả bị giảm sút.
+Thôi kệ, lũ Skeleton đã vấp ngã đúng như dự tính, vậy là ổn rồi.
+
+"Ôi chao, ngài chắc chứ? Phí công rửa trôi đống nước nhờn Tentacle Slime quý giá đó đi sao."
+"Tôi cứ nghĩ có thể câu giờ thêm chút nữa, nhưng không ngờ họ phá giải dễ dàng quá. ...Dù sao thì tôi cũng đã trữ thêm 3 phòng nữa để dùng ở tầng trên rồi."
+
+Thế là tôi mở cửa cống, rửa trôi tất cả như thể nhấn nút reset vậy.
+Chiêu tấn công bằng lũ quét này vẫn còn dùng tốt chán. Dù cảm giác cứ như đang xả nước bồn cầu vậy.
+
+À, còn về con dốc trơn trượt, lên tầng trên sẽ có Gargoyle quấy rối bằng ma thuật tấn công nên độ khó sẽ tăng lên. Còn có cả những đoạn cầu hẹp không có tay vịn nữa...
+...Khoan đã? Thế này chẳng phải lũ rắn mạnh bất ngờ sao? Rắn thì vốn leo trèo cành cây bình thường mà.
+Thôi kệ đi, rắn thì cứ để nó là rắn, cách xoay sở thì có đầy.
+
+"Mà này, con giáp đen thứ hai của đội Ma Vương vẫn chưa hành động sao?"
+"Ừ, nó vẫn đang ở căn phòng lối vào, chém lũ rắn và Golem tới tấp kìa. Đáng sợ thật."
+"Con cá xương Boss thì sao?"
+"Đang dùng cá mập để đuổi theo, nhưng lũ đó nhanh nhẹn bất ngờ. Chắc còn mất chút thời gian nữa!"
+
+Dungeon của đội Ma Vương giờ gần như đã ngập chìm trong nước.
+Các loại bẫy đặt ở lối đi cũng bị nước vô hiệu hóa, trở nên vô dụng, khiến cho đội Đế Vương đang tiến quân vô cùng thuận lợi. Nhưng theo lời Haku thì "số 6 không đời nào lại để kết thúc đơn giản thế này đâu".
+...Nói vậy nghĩa là, nếu là đội Long Vương thì có khả năng sẽ kết thúc ngay tại đây sao?
+
+À, đội Long Vương đã lên tới tầng 5 rồi à? Nhanh thật nhỉ. Không có Boss canh giữ sao? Đội Người Cá cũng bắt đầu nhàn rỗi rồi đây.
+
+"Chủ nhân, kẻ địch đã lên tới tầng 2."
+
+Nghe báo cáo của Niku, tôi nhìn vào màn hình. Đám rắn và xương đã bị trôi đi một lần, giờ đang bò ngược lên dốc một lần nữa. Lần này tôi cố tình không xả nước để dụ chúng vào. Đây là tư thế "không phải lúc nào cũng xả được đâu nhé", nhưng thực ra nước tấn công lúc nào chả được. Đợi chúng lên tầng trên rồi xả liên tục cho chúng trôi sạch, làm thế số lượng bị cuốn theo sẽ càng nhiều. Nước chảy từ trên xuống dưới mà lị.
+
+"Được rồi, dùng chút DP để chơi khăm chúng thôi."
+"Ôi chao Kema, anh định giở trò gì thế?"
+"Nhìn là biết."
+
+Tôi tiêu tốn DP để triệu hồi quái vật.
+
+---
+
+# Side đội Ma Vương
+
+"Ồ... Lần này nước không chảy tới sao?"
+
+Lõi số 666 nói với vẻ hụt hẫng.
+Nó vẫn đang tiếp tục cho đội Skeleton triệu hồi bằng [Summon Skeleton] tiến quân, nhưng tiến độ khá chậm.
+Hơn nữa, về phía đội Long Vương, vừa rồi họ đã dùng Living Armor thép đen chém đôi con sên khổng lồ có làn da cứng như thép dài 3 mét. Dù gọi là cứng nhưng chỉ là phần biểu bì, hơn nữa độ cứng cũng chỉ ngang sắt nên con Living Armor do Master điều khiển chém nhẹ như không. Chẳng uổng công đốt tiền DP vào đó.
+Dù chuyển động có hơi trì trệ vì nước - nước biển - nhưng có lẽ đó là Boss của tầng đó.
+Thôi thì, đám lính lác cứ giao cho phán đoán tại chỗ và đội Đế Vương xử lý đi.
+Master cũng có vẻ đang rất tận hưởng việc điều khiển Living Armor, mình không nên xen vào thì hơn.
+
+-- Điều quan trọng là dungeon của đội Đế Vương.
+
+Lõi số 666 nhếch mép thích thú, chờ đợi xem cái gì sẽ xuất hiện tiếp theo.
+Sau khi leo hết con dốc là một căn phòng nhỏ. Không có ngã rẽ nào cả. Dungeon này gần như chỉ có một con đường độc đạo, không cần phải thăm dò. Có lẽ là vì nó được thiết kế chuyên dụng để xả nước. Bởi lẽ càng ít chỗ trốn khỏi dòng nước lũ hung hãn thì càng tốt.
+
+Trong phòng nhỏ có Gargoyle. Nó bắn những quả cầu lửa và cầu nước, tấn công lũ Skeleton.
+
+"Chà, nhiều ghê. Không biết Skeleton có chịu nổi không đây -- nhưng mà, quân số bên mình đông hơn."
+
+Đám Skeleton do lõi số 666 điều khiển vây lấy một con Gargoyle, năm đánh một để đối kháng. Dù là thân xác xương và vũ khí xương, nhưng chỉ cần đập nát Gargoyle để làm nhiễu loạn ma lực là được. Không cần đòn chí mạng, cứ tích tiểu thành đại thì Gargoyle cũng sẽ gục ngã.
+
+Thế nhưng.
+Bite Snake bất ngờ tấn công đám Skeleton đang vây Gargoyle.
+
+"Ô kìa? Chắc là bị lú lẫn rồi sao?"
+
+Thứ lửa cháy bén vào người thì rũ bỏ. Nó gạt con Bite Snake ra rồi chặt đứt đầu nó.
+Thế rồi, chợt nhìn lại thì thấy đám Skeleton đang tự động lao vào đấm con Bite Snake mà không hề có mệnh lệnh.
+
+"...Chà. Nghĩ ra trò thú vị phết nhỉ."
+
+Tên đó, khi nhìn trên bản đồ không hề có dấu hiệu màu xanh của đồng minh.
+Trong trận chiến dungeon tam phân thiên hạ này, kẻ địch đều được đánh dấu đỏ đồng loạt. Nghĩa là, con Skeleton màu đỏ này chính là kẻ địch.
+Và, lũ rắn của đội Long Vương cũng có dấu đỏ... Nghĩa là, con Skeleton đó dưới mắt đội Long Vương chắc chắn là "Skeleton của đội Ma Vương".
+Có lẽ con Bite Snake vừa cắn mình cũng là quái vật của đội Đế Vương chăng. Hoặc, chỉ có đám Skeleton là bị trộn lẫn, còn con rắn của đội Long Vương chỉ đơn thuần bị lừa nên quay lại tấn công báo thù... Khả năng này cao hơn.
+Bởi vì chẳng cần thiết phải đưa thêm gợi ý để lừa kẻ địch làm gì.
+
+-- Trong trận chiến dungeon tam phân thiên hạ này, lõi số 666 giờ mới nhận ra mình đã quá "ngây thơ" khi nghĩ rằng "kẻ thù của kẻ thù là bạn".
+
+"Kukuku, lại còn pha cả chất độc vào nữa sao! Được, tuyệt lắm! Chơi thì chơi! Trước tiên tiêu diệt sạch lũ tượng đá, sau đó thì lũ rắn... Đồ sát sạch!"
+
+Đáng lẽ nên làm thế ngay từ đầu. Kẻ thù, dù là kẻ thù của kẻ thù thì vẫn là kẻ thù thôi. Chẳng việc gì phải hợp tác với lũ vô dụng cả.
+À, trận chiến này mới vui làm sao. Lõi số 666 mỉm cười từ tận đáy lòng.
+
+-- Lõi số 6 thì lặng lẽ quan sát điều đó.
+Trong trận chiến dungeon lần này, lõi số 6 hoàn toàn không can thiệp lấy một lời. Từ cách xây dựng dungeon cho đến mọi thứ đều giao phó hết cho lõi số 666 và Master của nó.
+
+Lõi số 6 hoàn toàn không tin tưởng Master của lõi số 666.
+Vốn dĩ, Master của lõi số 666 là một con người kiểu kiếm sĩ được nuôi dưỡng trong trại chăn nuôi người. Vốn dĩ, với súc vật thì không bao giờ có sự tin tưởng. Nếu có, thì cũng chỉ là kỳ vọng nó sẽ trở thành DP ngon lành mà thôi.
+Chuyện là, vào một ngày nọ, con người đáng lẽ đã bị 'xử lý' ấy lại trở thành Master của 666, rồi trở thành 'người hầu' phục vụ cho 666. Từ đó đến nay, con người này chưa bao giờ làm 666 phật ý -- dù nghe nói đôi khi vẫn bị mắng nhiếc và dạy bảo -- và cứ thế sống sót đến tận hôm nay.
+
+Lõi số 6 quyết định dùng trận chiến dungeon lần này như một hòn đá thử vàng để kiểm tra Master của 666.
+Nếu 'dùng được', vậy là tốt.
+Nếu 'không dùng được', thì cần phải tính toán lại điều gì đó. Nó thậm chí còn cân nhắc đến việc xử lý tên Master này dưới danh nghĩa 'giáo dục'.
+
+Lõi số 6 chỉ lặng lẽ quan sát cục diện trận chiến.
+
+(Cảm ơn các bạn rất nhiều vì những danh ngôn, ngạn ngữ. Có lẽ đây là lần đầu tiên phần bình luận sôi nổi đến mức này. Nhưng mà, JoJo vẫn đỉnh thật đấy.)

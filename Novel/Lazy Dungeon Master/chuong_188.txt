@@ -1,0 +1,76 @@
+"Ý ta là, cái lõi giả (dummy core), rất có khả năng là đang nằm trong tay lõi số 666."
+"......Ý anh là kiểu di động sao?"
+
+Tôi không rõ họ mang theo cái lõi giả bằng cách nào. Nhưng nhìn vào tình trạng dungeon của đội Ma Vương, mười phần thì chín là như vậy.
+Không có bẫy mới xuất hiện, ngay cả quái vật cũng không thấy bóng dáng, hơn nữa cửa và tường bị phá hỏng cũng chẳng tự sửa chữa.
+Đây gần như là trạng thái đã chết hẳn với tư cách là một dungeon. Tôi chợt lo lắng, liệu cứ đà này nó có sụp đổ luôn không nhỉ?
+
+"À ừ. Giả dụ như bên trong bộ giáp đen đó có lõi số 666, và giả sử chiều cao của nó chỉ khoảng 'nhỉnh một chút' thôi thì sao. Như vậy chẳng phải có thể đặt nó vào phần đầu bộ giáp hay sao?"
+"Ra là vậy."
+
+Kích thước của lõi giả cũng bằng với lõi dungeon, cỡ bằng quả bóng rổ. Nhân tiện thì lõi của Haku-san nghe đâu còn to hơn nữa, nên kích thước còn tùy thuộc vào từng cá nhân.
+......Nhưng với cái đầu của bộ giáp đó thì kích thước hơi khiêm tốn thật. Nếu thực thể của lõi số 666 không nhỏ, thì có lẽ nó được nhét trong phần thân chăng.
+Biết đâu cơ thể của lõi số 666 là dạng sương mù hoặc chất lỏng, đang lấp đầy bên trong bộ giáp đó cũng nên. Theo suy đoán của tôi, khả năng cao là cơ thể thực sự của lõi số 666 chính là bộ giáp đó, và nó đang khoác thêm một lớp Living Armor (giáp sống) màu đen to hơn ở bên ngoài. Giống như kiểu 'Overbody' của một siêu nhân nào đó ấy.
+
+Tuy nhiên, liệu để lõi giả không nằm trong dungeon có ổn không nhỉ?
+Nhưng vì 'Cha' – kẻ nắm giữ quyền phán xét và luật lệ – không nói gì, nên chúng tôi có ý kiến cũng vô ích.
+
+Ý tưởng này tự thân nó không tồi. Nếu lõi số 666 là một võ sĩ thiên hạ vô song, có khả năng lật ngược mọi nghịch cảnh, thì đây là nước cờ không thể tốt hơn.
+Nếu có thể liên tục thi triển những chiêu thức vô lý như [Crimson Road] khi nãy mà không tốn phí, không rủi ro, thì đúng là vô địch rồi còn gì. Một mình cậu ta chơi một kiểu game riêng.
+Nhưng thực tế lại đang là màn hỗn chiến với đám quái vật. Dù cậu ta vẫn đang chém giết tưng bừng, nhưng không thấy dấu hiệu mệt mỏi. Dẫu vậy, xem chừng cũng chưa đến mức thực lực "vô song".
+
+"Mà này, hóa ra có thể mang lõi ra ngoài dungeon được cơ à. ...Haku chị, chuyện này chắc chắn là có bất lợi đúng không? Những bất lợi đó là gì vậy?"
+"Câu hỏi hay đấy, xứng danh Roku-chan! Ừm, đầu tiên là trong một số trường hợp, dungeon sẽ sụp đổ. Dungeon của đội Ma Vương lần này có cấu trúc không sụp đổ ngay cả khi không có lõi. Tường và các căn phòng nhỏ rất nhiều, các tầng được đào dày dặn. Những dungeon kiểu này dù phá lõi thì hình dạng vẫn giữ được khá lâu. Nhưng, dù giữ được hình dạng mà không còn lõi, thì nơi đó cũng không còn là dungeon nữa. Nếu mang lõi vào lại thì cũng phải làm lại từ con số 0."
+
+Nói cách khác, vì lõi biến mất nên dẫn đến sụp đổ, hoặc nếu không sụp đổ thì khu vực dungeon cũng bị reset và phải xây dựng lại từ đầu. Chẳng hạn như việc thiết lập 5000 DP mỗi tầng cũng mất sạch. Đúng là bất lợi lớn.
+Haku-san tiếp tục giải thích.
+
+"Vì không còn là dungeon nữa nên đầu tiên là không thể tạo ra bẫy hay quái vật mới. Hầu hết các bẫy hiện có cũng sẽ ngừng hoạt động... Quái vật thì không biến mất ngay lập tức, nhưng ngoại lệ là những con quái vật được tạo ra từ 'Spawn Monster' sẽ chết sạch rất nhanh. Vì quái vật loại đó có cơ chế không thể sinh tồn nếu không ở trong dungeon."
+
+Một trong những nguồn thức ăn của quái vật chính là ma lực tràn ngập trong dungeon. Không có thức ăn thì tất nhiên sẽ chết đói. Ngược lại, nếu xây dựng được hệ sinh thái, có những ví dụ cho thấy chúng có thể trở nên hoang dã.
+Biết được những ví dụ như thế này, quả đúng là Haku-san, người đã có kinh nghiệm phá hủy vô số lõi dungeon.
+
+"Thế còn những con quái vật được triệu hồi bằng ma pháp hệ Summon thì sao?"
+"Cái đó hoạt động bằng ma lực của người triệu hồi nên không liên quan gì đến dungeon cả. Trừ khi kẻ triệu hồi vốn là quái vật của dungeon đó."
+
+Hệ Summon thì triệu hồi sư biến mất là chúng cũng biến mất, còn hệ Create thì vẫn giữ nguyên mệnh lệnh được giao.
+Nếu xét đến cả giai đoạn sau khi lõi dungeon bị phá hủy thì hệ Create có vẻ ưu việt hơn, nhưng việc tính toán dựa trên giả định chủ nhân sẽ chết là hạng mục mà Haku-san không đánh giá cao.
+Ví dụ như, sau khi tôi chết thì cái nhà trọ vẫn còn đó, nhưng tôi thì không còn ở đó nữa. Kiểu là vậy đấy. Nó chỉ có tác dụng để lại tài sản cho con cháu mà thôi.
+
+『Chà, hóa ra là như vậy. Số 89 giỏi thật đấy, ta không biết điều đó đâu.』
+"Ôi. Con cứ ngỡ ngài biết những chuyện thế này chứ, thưa Cha."
+『Ta đâu có rảnh rỗi mà đi soi mói mọi thứ? Hơn nữa, một cái dungeon sau khi mất lõi thì có gì đáng xem đâu.』
+"Chao ôi! Vậy thì, thật vinh dự khi con có thể giúp ích cho ngài, thưa Cha."
+
+――Ưm, lỡ nghe Haku-san kể lể hơi dài, nhưng giờ chuyện đó không quan trọng.
+Ưu tiên hàng đầu hiện tại là tiêu diệt lõi số 666 đang ở ngay trước mắt... không, là "lỡ tay" tiêu diệt... à không, là đánh bại cậu ta. Danh nghĩa rất quan trọng. Đây chỉ là một tai nạn đáng tiếc xảy ra do quá nhập tâm vào trận chiến dungeon mà thôi.
+
+Tôi kiểm tra tình hình.
+Nhìn vào màn hình và bản đồ, tôi thấy một con Living Armor đối địch vẫn còn sót lại trong căn phòng vốn được chuẩn bị làm "quái vật ốc" của tôi.
+Đám lâu la Skeleton đã bị tiêu diệt toàn bộ. Tentacle Slime-san đã nghiền nát tất cả thành bột xương. Dù có vài con di động linh hoạt, nhưng xét cho cùng vẫn chỉ là Skeleton, là lũ tép riu không thể làm gì trước đặc tính kháng vật lý của Slime.
+Tuy nhiên, lõi số 666 lại sở hữu Ma Kiếm Lửa. Trong lúc đang càn quét đám Skeleton, cậu ta đã gây ra không ít đòn tấn công lên lõi số 666, khiến những chiếc xúc tu bị chém đứt lìa, tình trạng đang vô cùng thảm hại.
+
+"Được rồi, Tentacle Slime-san... tên dài quá, thôi gọi là Ten-san vậy. Ten-san, rút lui tạm thời đi, bộ giáp đen đó dùng Ma Kiếm Lửa nên cậu cứ lui về hồi phục thể lực trước đã."
+
+À, hỏng rồi. Thế này là đang đặt tên sao? Liếc nhìn thử, cái tên "Ten" đã hiện chễm chệ trong danh sách quái vật có tên. Hì hì. Mà thôi, dù sao cũng đã lỡ rồi, thêm một tên nữa cũng chẳng sao. Dù gì nó cũng là đứa đóng góp nhiều nhất mà.
+Ten-san rút lui để phục hồi phần chất nhầy bị lõi số 666 chém trúng. Dịch Ten-san mà nó tích trữ rất hiệu quả cho việc hồi phục. Bằng cách hấp thụ ngược lại vào cơ thể Slime, nó mang lại hiệu quả vượt xa thuốc hồi phục.
+
+Để lấp chỗ trống khi Ten-san rời đi, lũ Gargoyle tiếp tục tấn công bằng ma pháp.
+Những mũi tên đá phóng ra như mưa bom bão đạn của lũ Gargoyle chạm vào bộ giáp đen kêu "cạch cạch". ...Nhưng, chẳng có mấy tác dụng! Đối thủ cứng quá đi mất!
+Thế này thì căng. Chỗ trống mà Ten-san để lại là quá lớn.
+
+Tôi ra lệnh cho đội quân Sahagin. Thứ mà tôi lấy ra là những sợi xích sắt có gắn quả nặng. Không chỉ một, mà là hàng chục sợi. Đây là thứ tôi vừa mới đổi bằng DP lúc nãy.
+Nếu không đánh bại được, thì trước tiên cứ trói nó lại đã. Là thế đó. Chất lượng của đối phương vượt trội hoàn toàn, nhưng số lượng thì ta áp đảo. Vậy thì không có lý do gì mà không tận dụng lợi thế đó.
+Dù là sắt thì cũng có thể bị chém đứt, nhưng đó chỉ là ở mức "có thể chém đứt bằng Ma Kiếm Lửa".
+
+Sau đó, đội quân Sahagin đồng loạt ném xích có gắn quả nặng.
+Một vài sợi bị gạt đi, nhưng vì số lượng xích nhiều đến mức không thể đếm xuể, bộ giáp đen không kịp xử lý và bị quấn chặt lấy toàn thân, khiến nó không thể cử động được... Tốt, trói được rồi!
+Giờ chỉ việc kết liễu nữa là xong. Ngay lúc tôi vừa nghĩ thế...
+
+"Kehma! Chưa đâu!"
+
+Bộ giáp đen nằm gục vì bị trói chặt.
+――Bên cạnh đó, một thiếu nữ tóc đỏ xinh đẹp xuất hiện, vẻ ngoài hoàn toàn không phù hợp với không khí nơi này.
+
+(Thôi chết, cứ đà này không kịp deadline mất?
+Vậy nên, hoặc là sẽ hơi trễ, hoặc là tôi sẽ chọn cách trốn tránh thực tại bằng việc duy trì tốc độ cập nhật 2 chương/tuần. Hebuha.)

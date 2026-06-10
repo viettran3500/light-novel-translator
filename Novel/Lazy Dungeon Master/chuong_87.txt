@@ -1,0 +1,136 @@
+Số lượng nhân sự có thể quản lý dungeon đã tăng lên.
+Điều này nghĩa là dù có mở rộng dungeon lớn hơn nữa thì vẫn có thể vận hành mà không gặp trở ngại gì.
+Tạm thời cứ mở rộng dungeon về phía chân núi, hướng về phía thị trấn Zier đi. Dưới lòng đất thì cứ thoải mái mà dùng.
+
+Nhắc mới nhớ, trong khi đang mở rộng lãnh thổ phía trên mặt đất của dungeon, nếu không chia nhỏ các tầng ra thì khi có kẻ xâm nhập sẽ rất khó đối phó.
+Ở khu vực 『Đại hang động xuyên núi Zier』, ban đầu vì không chia tầng nên chỉ cần có một tên nào đó lẻn vào là việc cải tạo bị gián đoạn. Tôi đã phải hoảng loạn chia khu vực đó thành vài tầng riêng biệt.
+Cả khoảng sân trước lối vào dungeon nơi có nhà trọ cũng đã được phân tầng cẩn thận để đảm bảo lãnh thổ dungeon.
+……Nghe nói không cần phải có cầu thang mới được tính là một tầng, khiến tôi cứ tự hỏi "thế rốt cuộc tầng là cái quái gì nhỉ" trong những ngày này.
+
+Hơn nữa, mỗi khi thiết lập một tầng mới sẽ tốn 5.000 DP.
+Dù thu nhập bây giờ đã cao hơn trước... nhưng đây vẫn là khoản chi phí khá lớn. Chẳng biết phải mất bao nhiêu ngày mới bù lại được.
+Mạo hiểm giả ghé thăm chỗ tôi thường ở hạng E đến C. Mỗi người tạo ra khoảng 30~80 DP tự nhiên mỗi ngày. Họ đi theo nhóm từ 2~5 người, và cứ 2, 3 nhóm thay phiên nhau vào.
+Nếu họ ở lì trong phòng nhà trọ thì thu nhập DP sẽ tăng gấp đôi, cộng thêm cả doanh thu từ nhà trọ nữa... tính toán phức tạp quá. Có nên làm sổ kế toán không nhỉ? ...Phiền chết đi được. Hy vọng sau này menu-san sẽ có thêm tính năng đó.
+
+Ngoài ra, mỗi lần Haku-san ghé qua ngủ lại, cô ấy lại để lại DP dưới dạng tiền thanh toán hoặc tiền bo cho Rokuko, nên nói mới thấy, có khi tính toán cũng bằng thừa. Cô nàng đó cứ phăm phăm tới rồi vung tiền một cách hào phóng.
+Cô ấy rất thích món kem soda, vào quán là gọi ngay một ly, bữa tối cũng làm một ly, rồi sau khi tắm xong hay trước khi đi ngủ cũng gọi tiếp. Mỗi lần như vậy cô ấy lại trả một đồng vàng, rồi mỗi khi Rokuko mang đồ tới lại bo thêm 5.000 DP nữa. Kiểu là thế đấy. Cưng chiều em gái quá mức rồi.
+
+Dù sao thì, cứ tăng thêm tầng rồi dời phòng Boss xuống sâu hơn nữa vậy.
+Hiện tại khu vực giải đố vẫn chưa bị ai phá giải, nhưng sau khi nó bị vượt qua thì chỉ còn mỗi lũ Golem canh giữ, cảm giác thật bất an.
+
+Cứ giả sử có một gã mạo hiểm giả chuyên trị Golem đi. Một gã mà chỉ cần gặp Golem là chắc chắn thắng không cần bàn cãi.
+Nếu tên đó vượt qua được khu vực giải đố, thì dungeon 『Hang động dục vọng』 của tôi coi như bị lột sạch sành sanh.
+
+……Golems thì chỉ biết tấn công vật lý thôi. Tối thiểu thì tôi cũng muốn có thứ gì đó biết dùng phép thuật.
+Mà muốn có thứ đó thì lại phải dùng DP để triệu hồi.
+
+"Làm tí kế hoạch kiếm tiền thôi."
+"Gì thế Kema? Sao tự nhiên lại đột ngột vậy? Chẳng phải tiền thu từ nhà trọ và phí qua hang động đã nhiều lắm rồi sao."
+
+À mà nhắc mới nhớ, số DP tôi mượn của Rokuko trong trận chiến dungeon với 『Hang động hỏa diễm』 vẫn chưa trả.
+Thực ra, khi phải cấp tốc chia tầng để đối phó với lỗi không thể cải tạo dungeon, tôi lại mượn thêm nữa. Dù đã đưa vàng làm vật thế chấp cho Rokuko, nhưng bản thân Rokuko có giữ vàng cũng chẳng biết dùng vào việc gì cả...
+
+"Cũng muốn trả nốt số DP đã mượn của Rokuko nữa."
+"Có sao đâu. Chẳng phải em và Kema là đối tác một lòng một dạ sao."
+"Chính vì là đối tác quan trọng nên những chuyện này mới cần phải rạch ròi. Anh không thích kiểu nhập nhằng rồi đến lúc lại rắc rối đâu."
+"……Nếu Kema đã nói thế thì thôi được, rạch ròi cũng tốt. Hừ hừ, chẳng còn cách nào khác, vì là đối tác quan trọng nên không muốn rắc rối rồi!"
+
+Hình như Rokuko đang tủm tỉm cười vẻ vui sướng lắm. Quả nhiên, đối với Rokuko – kẻ đã sống cô độc suốt bao năm trời – thì việc có một đối tác như tôi chắc là điều đáng mừng lắm.
+Tôi mở menu ra để kiểm tra DP.
+
+"À ừm, số DP nợ là 53.000 DP nhỉ. Số vàng đang giữ làm thế chấp là 53 đồng. ……Thế, DP của dungeon trừ phần của em ra là bao nhiêu?"
+"Tại hồi nọ triệu hồi 3 cô nàng nên... còn dư hơn 9.000 tí."
+
+Số vàng đang làm vật thế chấp kia, nếu đem đổi trực tiếp thì sẽ thành 53.000 DP, trả dứt điểm số nợ. Nhưng cái đau đầu ở đây là muốn đổi 53 đồng vàng ra DP thì lại cần đến 530.000 DP.
+Chính vì sự chênh lệch tỉ giá này nên tốt nhất là DP ra DP, tiền tệ ra tiền tệ thì hơn.
+Nếu muốn kiếm chác thì kiếm bằng DP ngay từ đầu sẽ đỡ tốn công hơn nhiều.
+
+"Dù sao thì nếu hủy thế chấp là xong nợ mà, cứ tiếp tục làm nhà trọ thì sớm muộn cũng trả được thôi? Anh tính bán cả đường nữa đúng không?"
+"……Thì đúng là vậy, nhưng mà vẫn cứ thấy cấn cấn. Không giải quyết xong là anh không ngủ ngon được."
+
+Nói về kế hoạch kiếm tiền, tôi đã có ý tưởng. Còn nhớ cánh đồng củ cải đường (củ cải ngọt) mà tôi đã tạo ra trước đó không?
+Mấy củ cải đường đó, hôm nọ cuối cùng cũng đã thu hoạch. Giờ là lúc làm đường.
+
+"Đường là món quý giá... vậy chắc chắn sẽ đổi được đống DP lớn!"
+"Ơ, mà hạt giống đó chẳng phải là đổi bằng DP à. ...Có ổn không đấy?"
+"Vàng mình kiếm được cũng là đổi từ DP ra DP mà, về lý thuyết thì ổn. ...Vấn đề là nó sẽ đổi được bao nhiêu DP thôi."
+
+Trước tiên, thử chuyển đổi trạng thái củ cải tươi sang DP xem sao. ……Được 5 DP.
+
+"Ồ, tăng rồi, tăng thật kìa!"
+
+1 set hạt giống (5 DP) mà thu hoạch được tận 50 củ cải, tính sơ sơ thì đã lãi gấp 50 lần rồi.
+Giờ chỉ còn xem sau khi tinh chế thành đường thì giá trị nó tăng lên bao nhiêu thôi.
+
+……
+
+Ơ? Mà làm sao để biến cái này thành đường nhỉ?
+
+*
+
+Dù khá chật vật, cuối cùng tôi cũng tạo được thứ đường nâu nâu, đóng tảng.
+
+May mà sau khi hỏng mất 2 củ, Rokuko bảo "Chẳng phải có thể đổi recipe bằng DP à?", nên tôi đã đổi được với giá 20 DP.
+Không ngờ là phải thái nhỏ, ngâm nước rồi nấu cô đặc nước cốt đường mới ra thành phẩm.
+
+"Cũng khá là vất vả nhỉ."
+"Ừ, cảm ơn bà đã giúp đỡ nhé, Kinue-san."
+
+Vì là việc bếp núc nên tôi đã nhờ Kinue-san, một Silky, giúp đỡ. Phải nói là cô ấy làm rất thuần thục. Nếu không có Kinue-san chắc tôi làm cháy mấy lần rồi cũng nên.
+
+"Này Kema. Sao lại gọi Kinue là 'Kinue-san' thế?"
+"……Cảm giác thôi? Với lại nhìn đi nhìn lại thì bà ấy cứ như bà quản gia của khu nhà nhân viên vậy."
+
+Với lại cái không khí điềm đạm cùng sở thích dọn dẹp đó đúng là mang lại cảm giác của một người vợ đảm.
+Đưa cho cái chổi tre thôi là tự giác ra ngoài quét dọn sạch bong luôn.
+
+"Giờ thì, tiếp đến là đường... nâu thế này, làm sao để cho nó trắng ra nhỉ?"
+
+Đáng tiếc là recipe chỉ ghi đến cách làm đường thô thôi.
+Tạm thời cứ đổi một tảng đường từ 1 củ cải đường sang DP xem sao.
+……10 DP à. Gấp đôi rồi.
+
+"Cũng gỡ lại vốn được recipe rồi. Phần còn lại cứ giao cho Golem đi... Kinue-san, nhờ bà chỉ đạo lũ Golem nhé."
+"Đã rõ, Master."
+
+Thế là 47 củ cải đường còn lại sẽ thành 470 DP.
+Từ lần sau, 5 DP sẽ thành 500 DP. ……Ừm, cũng ổn đấy chứ? Nếu bán cho thương nhân, biết đâu thông qua tiền mặt còn đạt được hiệu quả DP cao hơn.
+Làm cái này 100 lần là có 50.000 DP. ……Có nên mở rộng cánh đồng không nhỉ? Không, hay là làm luôn ruộng trong dungeon luôn?
+Hắc hắc hắc, "Vua nông nghiệp dungeon"... cũng được đấy. Nghe có vẻ sẽ biến cái dungeon này thành một nơi thật hòa bình và mục đồng.
+
+"Nhưng mà, mất bao nhiêu ngày mới thu hoạch được chứ. Anh bảo 500 DP, nhưng mấy party con người đang bị nhốt trong phòng thử kiếm ma kia thì một ngày đã kiếm được nhiều hơn thế rồi."
+
+……À mà đúng thật, bọn quý tộc và đám tùy tùng bị nhốt từ hôm qua, doanh thu một ngày là 500 DP.
+Vì khi nhốt chúng tôi có dùng kèm cửa phòng giam, nên hiệu quả phòng giam (x3) x hiệu quả nhốt (x2), tổng cộng là x6 doanh thu so với việc cứ để mặc chúng tự do đi lại.
+
+"Không phải nên nghĩ cách khác sao?"
+"Ừ thì... ừ, cậu nói đúng..."
+
+Chết tiệt, mình cứ tưởng là kế hoạch hoàn hảo rồi cơ chứ...
+
+*
+
+Vậy nên đổi hướng, tôi làm vài bức tượng bằng Golem rồi đem bán cho Ittetsu.
+
+Bán được rồi.
+
+Tôi gọi Ittetsu tới, bảo là: "Tôi vừa có được bức tượng rồng ở núi Zier. Định tặng cho Redora, ông thấy sao?", rồi cho gã xem bức tượng rồng Golem mạ vàng. Thế là gã cười khoái chí bảo: "Ồ, được đấy, chắc Redora sẽ thích mê cho xem", rồi trả tiền theo đúng giá tôi đưa ra.
+Tôi bảo 100.000 DP, gã cười lớn bảo "Giá này là hợp lý rồi chứ gì? Hahaha" rồi trả tiền ngay tại chỗ.
+
+100.000 DP. Nếu nghĩ đến việc một gói bánh kẹo giá 5 DP, thì quy đổi ra tiền Nhật chắc khoảng 10 triệu yên (khoảng hơn 1,6 tỷ VNĐ).
+Vung tiền nhanh gọn quá đấy. Rốt cuộc thì thu nhập của ông ta là bao nhiêu vậy?
+
+Thế là tôi có 100.000 DP để trả nợ. Mọi thứ diễn ra quá dễ dàng làm tôi thấy hụt hẫng.
+
+……Vậy bao nhiêu lo lắng của tôi rốt cuộc là vì cái gì chứ!
+
+"Không, nhưng mà làm bức tượng mạ vàng đó cũng mất 3 ngày còn gì, thì giá đó cũng hợp lý mà?"
+"Không không, 3 ngày mà được khoản thu nhập này... trong khi làm nông mỗi ngày cặm cụi mới được có 500 DP..."
+"Chắc là do anh không có khiếu làm nông thôi."
+
+Đúng thế nhỉ, mình là Dungeon Master mà. Làm nông chỉ là nghề tay trái thôi.
+
+Nhưng mà rau củ tươi cũng ngon, thôi thì cứ để lũ Golem tiếp tục công việc đồng áng vậy. Còn vụ củ cải đường thì cứ bán đường cho thương nhân là được.
+……Chả, chả phải là tôi luyến tiếc gì đâu nhé! Làm nghề phụ thì tích tiểu thành đại thôi chứ bộ, đồ ngốc!
+
+(Đã tụt khỏi top 5 bảng xếp hạng quý rồi! Lâu lắm mới đứng ở đó... ngậm ngùi ghê.)

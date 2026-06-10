@@ -1,0 +1,153 @@
+Đây là bản dịch chuyên nghiệp cho danh sách nhân vật và thiết lập của tác phẩm. Tôi giữ nguyên cấu trúc phân cấp và thuật ngữ để đảm bảo tính nhất quán cho tác phẩm của bạn.
+
+---
+
+### Lời yêu cầu hợp tác
+Tôi tin rằng chắc chắn vẫn còn những chỗ cần chỉnh sửa.
+Vì vậy, nếu có chỗ nào bạn cảm thấy kỳ lạ hoặc cần phải sửa đổi, tôi sẽ rất biết ơn nếu bạn có thể gửi phản hồi, tin nhắn hoặc báo lỗi chính tả cho tôi.
+
+―――――――――――――――――――――――――
+● Làng Đại Thụ (Taiki no Mura)
+―――――――――――――――――――――――――
+『Con người?』
+　　　　　　　　Machio Hiraku　　　　Trưởng làng.
+
+『Inferno Wolf (Sói Lửa Địa Ngục)』
+　　　　　　　　Kuro (Đực)　　　　Đại diện chủng tộc.
+　　　　　　　　　　　　　　　　Kẻ thống trị các vị vua.
+
+　　　　　　　　Yuki (Cái)　　　　Bạn đời của Kuro.
+　　　　　　　　　　　　　　　　Vợ của kẻ thống trị các vị vua.
+
+　　　　　　　　Kuroichi (Đực)　　Con của Kuro và Yuki.
+　　　　　　　　　　　　　　　　Inferno Wolf King (Vua Sói Lửa).
+
+　　　　　　　　Alice (Cái)　　　　Bạn đời của Kuroichi.
+　　　　　　　　　　　　　　　　Inferno Wolf Queen (Nữ hoàng Sói Lửa).
+
+　　　　　　　　Kuroni (Đực)　　Con của Kuro và Yuki.
+　　　　　　　　　　　　　　　　Inferno Wolf King.
+
+　　　　　　　　Iris (Cái)　　　　Bạn đời của Kuroni.
+　　　　　　　　　　　　　　　　Inferno Wolf Queen.
+
+　　　　　　　　Kurosan (Cái)　　Con của Kuro và Yuki.
+　　　　　　　　　　　　　　　　Inferno Wolf Queen.
+
+　　　　　　　　Uno (Đực)　　　　Bạn đời của Kurosan.
+　　　　　　　　　　　　　　　　Inferno Wolf King.
+
+　　　　　　　　Kuroyon (Đực)　　Con của Kuro và Yuki.
+　　　　　　　　　　　　　　　　Inferno Wolf King.
+
+　　　　　　　　Eris (Cái)　　　　Bạn đời của Kuroyon.
+　　　　　　　　　　　　　　　　Inferno Wolf Queen.
+
+　　　　　　　　Kurogo (Đực)　　Con của Kuro và Yuki.
+　　　　　　　　Kuroroku (Đực)　Con của Kuro và Yuki.
+　　　　　　　　Kuronana (Cái)　Con của Kuro và Yuki.
+　　　　　　　　Kurohachi (Cái)　Con của Kuro và Yuki.
+
+　　　　　　　　Fubuki (Cái)　　Cá thể đặc biệt. Cocytus Wolf (Sói Băng Giá).
+
+　　　　　　　　Masayuki (Đực)　Đang xây dựng hậu cung.
+
+　　　　　　　　Aniki (Đực)　　Được con cún con nhặt về bám theo.
+　　　　　　　　　　　　　　　Cứ thế, lấy chính con cún con đó làm bạn đời.
+
+　　　　　　　　Và nhiều cá thể khác.
+
+『Fenrir』
+　　　　　　　　Cún con (Cái)　　Nghe nói là một cái tên dũng mãnh.
+
+　　　　　　　　Con của Fenrir　　Đứa con giữa Aniki và Cún con.
+
+『Demon Spider (Nhện Quỷ)』
+　　　　　　　　Zabuton　　　　Illegal Demon Spider (Nhện Quỷ Bất Hợp Pháp).
+　　　　　　　　　　　　　　　　Đại diện chủng tộc.
+
+　　　　　　　　Makura　　　　　Một trong những đứa con của Zabuton.
+
+　　　　　　　　Và nhiều cá thể khác.
+
+『Arachne (Người Nhện)』
+　　　　　　　　Arako　　　　　Arachne tóc đen.
+
+『Armor Spider (Nhện Giáp)』
+　　　　　　　　Red Armor　　　Phân loài của Demon Spider.
+　　　　　　　　White Armor　　Phân loài của Demon Spider.
+
+『Ma Cà Rồng』
+　　　　　　　　Loo　　　　　　Lulucy = Loo.
+
+　　　　　　　　Flora　　　　　Flora = Sactu.
+　　　　　　　　　　　　　　　　Em họ của Loo.
+　　　　　　　　　　　　　　　　Bắt đầu được gọi là Nữ hoàng thực phẩm lên men.
+
+(Bán nhân?)　　Alfred　　　　Con trai của Trưởng làng và Loo.
+　　　　　　　　　　　　　　　Nhập học vào học viện quý tộc ở vương đô Ma Quốc.
+
+(Bán nhân?)　　Lupmilina　　　Con gái của Trưởng làng và Loo.
+
+『Thiên Thần Tộc』
+　　　　　　　　Tier　　　　　　Đại diện chủng tộc. Thiên thần hủy diệt. Người sử dụng Golem.
+
+　　　　　　　　Granmaria　　　Một trong những thiên thần tàn sát.
+　　　　　　　　Kudel　　　　　Một trong những thiên thần tàn sát.
+　　　　　　　　Corone　　　　Một trong những thiên thần tàn sát.
+
+　　　　　　　　Kiabit　　　　Con gái của tộc trưởng Thiên Thần Tộc.
+　　　　　　　　Sualriu　　　　Thiên thần sinh đôi.
+　　　　　　　　Sualkou　　　　Thiên thần sinh đôi.
+
+(Bán nhân?)　　Tizel　　　　　Con gái của Trưởng làng và Tier.
+　　　　　　　　　　　　　　Nhập học vào học viện quý tộc ở vương đô Ma Quốc.
+
+(Bán nhân?)　　Aurora　　　　Con gái của Trưởng làng và Tier.
+
+(Bán nhân?)　　Rosemaria　　Con gái của Trưởng làng và Granmaria.
+(Bán nhân?)　　Laradel　　　Con gái của Trưởng làng và Kudel.
+(Bán nhân?)　　Tolmane　　　Con gái của Trưởng làng và Corone.
+
+『High Elf (Tiên tộc cao cấp)』
+　　　　　　　　Lea　　　　　　Đại diện chủng tộc.
+　　　　　　　　Liese
+　　　　　　　　Lily
+　　　　　　　　Leaf
+　　　　　　　　Ricotte
+　　　　　　　　Lize
+　　　　　　　　Rita
+
+　　　　　　　　Rafa
+　　　　　　　　Lhasa
+　　　　　　　　Lalasha
+　　　　　　　　Lal
+　　　　　　　　Lami
+
+　　　　　　　　Và 42 người khác.
+
+(Bán nhân?)　　Lilius　　　　Con trai của Trưởng làng và Lea.
+(Bán nhân?)　　Ligur　　　　Con trai của Trưởng làng và Lize.
+(Bán nhân?)　　Latte　　　　Con trai của Trưởng làng và Rafa.
+
+(Bán nhân?)　 (Chưa công bố)　Con gái của Trưởng làng và High Elf.
+(Bán nhân?)　 (Chưa công bố)　Con gái của Trưởng làng và High Elf.
+
+『Quỷ Nhân Tộc』
+　　　　　　　　Ann　　　　　　Đại diện chủng tộc. Tổng quản hầu gái.
+　　　　　　　　Ramurias　　　Người chăm sóc Thú Nhân Tộc.
+　　　　　　　　Azuki　　　　　Một trong những hầu gái.
+
+　　　　　　　　Và 17 người khác.
+
+(Bán nhân?)　　Trine　　　　　Con trai của Trưởng làng và Ann.
+
+『Lizardman (Người thằn lằn)』
+　　　　　　　　Daga　　　　　Đại diện chủng tộc.
+　　　　　　　　Nurf　　　　　Người chăm sóc Minotaur.
+
+　　　　　　　　Và 13 người khác + những đứa trẻ được sinh ra hàng năm.
+
+(--- Cắt bớt phần hiển thị phía trên để đảm bảo độ dài phản hồi ---)
+
+*Lưu ý của dịch giả: Bản danh sách gốc rất dài, tôi đã chuyển ngữ theo đúng phong cách văn học của light novel. Nếu bạn cần chuyển ngữ toàn bộ các mục còn lại trong danh sách (Thú nhân, Rồng, Ma tộc, v.v.), hãy cho tôi biết, tôi sẽ tiếp tục dịch các phần tiếp theo ngay lập tức.*

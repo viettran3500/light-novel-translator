@@ -1,0 +1,97 @@
+Sau khi báo cáo xong với Haku-san, chúng tôi quay trở lại hầm ngục.
+Vì không được giao thêm công việc mới nào nên có vẻ như lần này tôi có thể thong thả nghỉ ngơi một chút.
+
+“...Cơ mà, Keima, chẳng phải bình thường cậu vẫn luôn thong thả kể cả khi có việc đó sao?”
+“Đó là vấn đề tâm lý thôi. Khi đang trong tình trạng có việc phải làm, mình không cảm thấy thực sự được nghỉ ngơi.”
+“Ra là vậy à?”
+“Ừ. Tại bản tính mình vốn nghiêm túc mà.”
+
+“Hiểu rồi,” Rokuko gật đầu. ...Cô nàng không phủ nhận sao? Thật bất ngờ.
+
+“Khi nào thì món ‘Mũ ngủ của Thần’ mà em gửi chị gái sẽ đến?”
+“Chắc là gần đây thôi. Khi nào nhận được, hay là mình thử hỏi cha cách dùng nó xem sao?”
+“...Keima này, tuy hơi muộn rồi nhưng mà, không phải đang trong buổi họp mặt mà vẫn liên lạc được với cha thì đúng là khá kinh ngạc đấy chứ?”
+“Dù sao thì cũng là Thần Bóng Tối mà.”
+
+Chà, trong danh mục GP trên menu có cả mục yêu cầu gửi câu hỏi cho cha, ngay cả Haku-san cũng có thể liên lạc tùy ý. Cho đến khi tính năng gửi email được tích hợp thì đây là cách duy nhất, nhưng với Haku-san thì chắc chắn là đã làm được rồi. Dù sao người cũng là Nữ thần Trắng mà.
+Mặc dù cá nhân tôi thì đang nói chuyện được bằng tính năng gửi email.
+
+...Nghĩ tới đây, không biết Giáo hoàng có thể gửi câu hỏi cho Thần Ánh Sáng được không nhỉ?
+Nếu vậy thì chiêu "xóa sổ sự tồn tại" – kiểu đòn 'one-hit-kill' ngay lần đầu chạm trán đó – chắc chắn là năng lực của Thần Ánh Sáng rồi.
+
+Nhưng mà, nếu lõi hầm ngục có thể gửi câu hỏi cho Thần Bóng Tối, thì việc Dũng sĩ như tôi gửi câu hỏi cho Thần Ánh Sáng cũng chẳng có gì lạ. Hiện tại tôi chưa biết là do cấp độ Dũng sĩ còn thấp nên không gửi được, hay là cần phải có nghi lễ đặc biệt nào đó.
+
+“...Không, khoan đã. Liệu mình có gửi được email cho Thần Ánh Sáng không nhỉ?”
+“Hả?”
+
+Vừa nghe tôi nói vậy, Rokuko thốt lên một tiếng ngạc nhiên.
+
+“Cậu đang nói cái gì vậy? Email cho Thần Ánh Sáng á?”
+“Nếu có thể gửi email cho cha – Thần Bóng Tối, thì gửi cho Thần Ánh Sáng chắc cũng được chứ nhỉ?”
+“Không, nhưng mà, phe phái khác nhau mà... À ừm, nhưng dù sao Keima cũng là Dũng sĩ đang gắn bó với hầm ngục, nên việc có thể gửi được... cũng không hẳn là lạ?”
+“Được thôi, được thôi. Có lẽ vậy. Mà, thử thì cũng đâu mất gì.”
+
+Tôi mở menu và khởi động tính năng email.
+Ở phần người nhận, tôi để là "Thần Ánh Sáng", còn nội dung thì...
+
+『 Kính gửi Thần Ánh Sáng.
+Lâu rồi không gặp. Ngài vẫn khỏe chứ?
+Chỗ chúng tôi thì, tuy may mắn là vẫn đang gặp đủ thứ chuyện rắc rối,
+À thì, thật khó để giải thích bằng lời, nhưng tôi vẫn đang tận hưởng cuộc sống dị giới một cách thong thả.
+
+Thêm nữa, nhân chuyến ghé thăm hậu trường của Giáo hội Ánh Sáng gần đây,
+Tôi nghe nói tên Giáo hoàng khốn nạn đã bỏ trốn.
+Một kẻ như hắn rốt cuộc là ai,
+Và hiện tại hắn đang ở đâu vậy ạ?
+
+Nếu Ngài biết, xin hãy chỉ cho tôi, tôi sẽ rất cảm kích.
+Xin cảm ơn Ngài. 』
+
+“Rồi, thế là xong.”
+“Nếu người ta chịu chỉ cho danh tính và nơi ở của Giáo hoàng thì đúng là tiện thật đấy... nhưng mà liệu email có đến nơi không nhỉ?”
+“Không đến nơi cũng chẳng sao. Biết đâu Thần Bóng Tối lại chuyển tay giúp.”
+“Cha chuyển tay á? Cái đó thì ra thể thống gì chứ.”
+
+Mặc kệ Rokuko đang nghiêng đầu thắc mắc, tôi đã gửi email đi.
+Ngay lập tức, có email trả lời... Người gửi là "Thần Ánh Sáng".
+
+“...Thế là đến nơi thật à.”
+“...Có vẻ như không phải là "Mailer Daemon" (quỷ báo lỗi email) nhỉ.”
+“Quỷ thư từ á?”
+“Là tên gọi của hệ thống tự động trả lời khi email không gửi được ấy mà. Thôi, giờ không liên quan nên không cần bận tâm đâu.”
+
+Tôi mở email từ Thần Ánh Sáng. Rokuko rướn người lại gần nhìn trộm, nên tôi để cô nàng đọc cùng luôn.
+
+『 Ta thực sự ngạc nhiên đấy. Không ngờ ngươi lại trở thành đồng bọn của Thần Bóng Tối.
+Ta cứ tưởng đó là trò đùa quá trớn, nhưng ta cũng đã nghe trực tiếp từ chính Thần Bóng Tối rồi.
+Ồ, không ngờ một Dũng sĩ lại trở thành chúa tể hầm ngục!
+
+À, vì thời gian ở Thần giới và chỗ các ngươi trôi khác nhau, nên ta đã nghe hết mọi chuyện rồi.
+Ừm, thôi thì, sao cũng được. Danh tính của Giáo hoàng cũng là một lõi hầm ngục mà.
+Tên Giáo hoàng tự ý bỏ trốn đó đang ẩn nấp trong hầm ngục của chính hắn ở Thánh Vương Quốc đấy.
+
+Tái bút: Vật phẩm may mắn là 『 Chăn đắp của Thần 』!! 』
+
+...Ừm.
+Danh tính của Giáo hoàng đã lộ diện một cách dễ dàng. Và nơi ẩn náu cũng đã rõ.
+
+“Ể, Giáo hoàng là lõi hầm ngục? Nghĩa là sao chứ?”
+“À, ừm. Bức email này còn nhiều điểm đáng lưu tâm lắm... Về việc đó, chắc phải gửi email cho Haku-san hỏi thử thôi.”
+
+Việc nghe trực tiếp từ Thần Bóng Tối, hay thời gian ở Thần giới trôi khác nhau, đó cũng là những điểm đáng quan tâm.
+Thần Ánh Sáng và cha có mối quan hệ thân thiết đến mức thường xuyên gặp mặt nói chuyện ư? Dù hai phe đang đối địch nhau?
+
+Vật phẩm may mắn là 『 Chăn đắp của Thần 』, ý bảo là hãy dùng nó sao?
+...Mặc dù tôi tự hỏi "tại sao chứ?", nhưng chắc cứ thử dùng rồi sẽ biết thôi.
+
+“Rokuko, cho mượn 『 Chăn đắp của Thần 』 đi.”
+“Được thôi, nhưng mà... Vật phẩm may mắn gì đó, làm theo lời Thần Ánh Sáng nói có ổn không vậy?”
+“...Chà, nếu không làm thì có lẽ chuyện còn rắc rối hơn đấy.”
+“Ể, ý cậu là sao?”
+“Có vẻ như, ngài ấy muốn gặp mặt mình... dù mình chẳng hề cầu xin điều đó.”
+
+Tôi nhìn lại nội dung bức email. Xét theo cách viết, có vẻ ngài ấy không hề tức giận.
+Lựa chọn không gặp, trì hoãn – làm vậy chỉ tổ chuốc lấy sự giận dữ của thần linh, nên không thể làm thế được.
+
+Thế nhưng, nếu gặp mặt thật, cũng có khả năng mình bị "xóa sổ sự tồn tại"...
+...Liệu mình có nên luyện trước tư thế quỳ lạy (dogeza) không nhỉ?

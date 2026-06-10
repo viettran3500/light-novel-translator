@@ -1,0 +1,309 @@
+Đây là bản tóm tắt ngắn gọn.
+Bạn có thể lướt qua nếu muốn.
+
+※Hôm qua có 2 chương được đăng, nên những ai mới chỉ xem 1 chương thì hãy chú ý nhé!
+
+※Đã chỉnh sửa một phần vào ngày 11/8.
+
+Nội dung được trình bày theo định dạng: "Tên (Cấp độ kỹ năng) Số chương có được".
+Những kỹ năng đã sở hữu nhưng nhân vật không nhận ra thì sẽ ghi chương mà nhân vật nhận ra chúng. Phía cuối có đính kèm dấu ※ để phân biệt.
+
+Mức độ kỹ năng:
+Lv1……Người mới bắt đầu
+Lv3……Người lành nghề
+Lv5……Chuyên gia
+Lv7……Đạt nhân
+Lv9……Thiên tài
+Lv10……Thần kỹ
+
+---
+
+### ● Kỹ năng Vũ khí ( 61p )
+*   Xạ kích (Lv10) 1-9
+*   Thương (Lv10) 1-9 ◎Lv0 ⇒ Lv10 ở 3-8
+*   Cung (――) 1-9
+*   Kiếm đơn (Lv10) 1-9
+*   Gậy đơn (――) 1-9
+*   Đoản kiếm (Lv10) 1-9 Lv0 ⇒ Lv10 ở 6-2
+*   Ném (Lv1) 1-9 ▼
+*   Gậy đôi (――) 1-9
+*   Đại kiếm (――) 1-10
+*   Rìu đơn (――) 1-10
+*   Đại rìu (――) 1-10
+*   Đại chùy (Lv10) 1-10 ◎Lv0 ⇒ Lv10 ở 3-8
+*   Chùy đơn (――) 1-10
+*   Cận chiến (Lv10) 1-10 ▼
+
+### ● Kỹ năng Chiến đấu Vật lý ( 225p )
+*   Ngắm bắn (Lv10) 1-9
+*   Bắn tỉa (Lv10) 1-9
+*   Đánh lén (Lv10) 1-9 Lv0 ⇒ Lv10 ở 6-2
+*   Dũng mãnh (――) 1-9
+*   Rút kiếm (Iai) (Lv10) 1-9 Lv0 ⇒ Lv10 ở 6-2
+*   Khiên (Lv10) 1-9
+*   Né tránh (Lv10) 1-9
+*   Gạt đòn (Lv10) 1-9
+*   Khiên kích (Lv5) 1-9 Lv0 ⇒ Lv5 ở 6-2
+*   Cước kích (Lv10) 1-9 Lv0 ⇒ Lv10 ở 6-2
+*   Phá giáp (Lv10) 1-10 Lv0 ⇒ Lv10 ở 6-2
+*   Không chiến (Lv10) 1-10 Lv0 ⇒ Lv10 ở 6-2
+*   Phá vũ khí (Lv10) 1-10 Lv0 ⇒ Lv10 ở 6-2
+*   Song kiếm (Lv10) 1-10 Lv0 ⇒ Lv10 ở 6-2
+*   Liên kích (Lv10) 3-8, Lv0 ⇒ Lv10 ở 6-2
+*   Tâm nhãn (Lv10) 6-3
+*   Đâm (Lv10) 6-3
+*   Cường đả (Lv10) 6-3
+*   Xuyên thấu (Lv10) 6-3
+*   Ma đao (Lv10) 6-3
+*   Toàn phong thương (Lv10) 6-3
+*   Thiểm quang trảm (Lv10) 7-20
+*   Thánh đao (Lv10) 7-21
+*   Dự đoán: Đối nhân (Lv10) 8-23
+
+### ● Kỹ năng Chiến thuật ( 60p )
+*   Rút lui (Lv10) 1-8, Lv0 ⇒ Lv10 ở 6-2
+*   Phối hợp (Lv10) 1-9, Lv0 ⇒ Lv10 ở 6-2
+*   Chỉ huy (Lv10) 2-8, Lv0 ⇒ Lv10 ở 6-2
+*   Biên chế (Lv10) 2-8, Lv0 ⇒ Lv10 ở 6-2
+*   Tác chiến (Lv10) 2-12, Lv0 ⇒ Lv10 ở 6-2
+*   Khiêu khích (Lv10) 6-13
+
+### ● Kỹ năng Vận động ( 70p )
+*   Tật tẩu (Lv10) 1-4 ※
+*   Nhảy vọt (Lv10) 1-4 ※
+*   Lập thể cơ động (Lv10) 1-4 ※
+*   Quái lực (Lv10) 1-10, Lv0 ⇒ Lv10 ở 6-2
+*   Vượt địa hình hiểm (Lv10) 5-14
+*   Thiên khu (Lv10) 7-7
+*   Súc địa (Lv10) 7-20
+
+### ● Kỹ năng Ma thuật ( 150p )
+*   Triệu hồi ma thuật: Dị giới (Lv10) 1-2
+*   Thuật lý ma thuật: Dị giới (Lv10) 1-2
+*   Cầu nguyện (――) 1-4
+*   Lôi ma thuật: Ác ma (――) 1-9
+*   Hỏa ma thuật (Lv10) 1-10, Lv0 ⇒ Lv10 ở 7-7
+*   Phong ma thuật (Lv10) 1-10, Lv0 ⇒ Lv10 ở 7-7
+*   Lôi ma thuật (Lv10) 1-10, Lv0 ⇒ Lv10 ở 8-7
+*   Thổ ma thuật (Lv10) 1-10, Lv0 ⇒ Lv10 ở 7-7
+*   Thủy ma thuật (Lv10) 1-10, Lv0 ⇒ Lv10 ở 8-7
+*   Băng ma thuật (Lv10) 1-10, Lv0 ⇒ Lv10 ở 7-7
+*   Quang ma thuật (Lv10) 1-10, Lv0 ⇒ Lv10 ở 7-7
+*   Sinh hoạt ma thuật (Lv10) 2-1
+*   Thần thánh ma thuật: Giáo phái Parion (――) 2-1
+*   Khế ước (――) 3-3
+*   Tinh thần ma thuật (――) 3-4 ※
+*   Ảnh ma thuật (――) 5-9
+*   Thuật lý ma thuật (Lv10) 6-7
+*   Đặt tên (――) 6-Khoảng nghỉ: Họ của Satou
+*   Trọng lực ma thuật: Ác ma (――) 7-20
+*   Không gian ma thuật: Ác ma (――) 7-20
+*   Phá hoại ma thuật: Ác ma (――) 7-21
+*   Bộc liệt ma thuật: Ác ma (――) 7-21
+*   Viêm ma thuật (Lv10) 8-7
+*   Bộc liệt ma thuật (Lv10) 8-7
+*   Phá hoại ma thuật (Lv10) 8-7
+*   Không gian ma thuật (Lv10) 8-13 đến 15
+*   Thần thánh ma thuật: Giáo phái Tenion (――) 8-26
+
+### ● Kỹ năng Kháng tính ( 204p )
+*   Lôi kháng (Lv10) 1-9
+*   Ma tê kháng (Lv10) 1-9
+*   Khổ thống kháng (Lv10) 1-9
+*   Đả kích kháng (Lv10) 1-9
+*   Khủng bố kháng (Lv3) 1-9, Lv0 ⇒ Lv3 ở 6-2
+*   Độc kháng (Lv10) 1-9
+*   Thạch hóa kháng (Lv10) 1-9
+*   Hỏa kháng (Lv10) 1-10, ◎Lv0 ⇒ Lv10 ở 3-8
+*   Phong kháng (Lv10) 1-10, Lv0 ⇒ Lv10 ở 6-2
+*   Thổ kháng (Lv10) 1-10, Lv0 ⇒ Lv10 ở 6-2
+*   Thủy kháng (Lv10) 1-10, Lv0 ⇒ Lv10 ở 6-2
+*   Băng kháng (Lv10) 1-10, Lv0 ⇒ Lv10 ở 6-2
+*   Quang kháng (Lv10) 1-10, Lv0 ⇒ Lv10 ở 6-2
+*   Hủ bại kháng (Lv10) 1-10
+*   Tinh thần kháng (Lv10) 3-4 ※
+*   Ảnh kháng (Lv10) 5-9
+*   Tửu tinh kháng (Lv1) 7-4, Lv0 ⇒ Lv1 trước chương 8
+*   Trọng lực kháng (Lv10) 7-20
+*   Không gian kháng (Lv10) 7-20
+*   Phá hoại kháng (Lv10) 7-21
+*   Bộc liệt kháng (Lv10) 7-21
+*   Tức tử kháng (Lv10) 7-22
+
+### ● Kỹ năng Sản xuất ( 150p )
+*   Mộc công (Lv10) 1-4, Lv4 ⇒ Lv10 ở 6-4
+*   Thuộc da (Lv10) 1-4, Lv4 ⇒ Lv10 giữa chương 6 và 7
+*   Chế tạo vũ khí (Lv10) 1-4, Lv4 ⇒ Lv10 ở 6-10
+*   Rèn (Lv10) 1-10, Lv4 ⇒ Lv10 giữa chương 6 và 7
+*   Điều hợp (Lv10) 4-9
+*   Luyện thành (Lv10) 4-9
+*   Cường hóa vũ khí (Lv10) 6-3
+*   Chế tạo giáp (Lv10) 6-4
+*   Điêu khắc (Lv10) 6-10
+*   Kim hoàn (Lv10) 6-10
+*   Chế tạo ma cụ (Lv10) 6-10
+*   Chế tác xương (Lv10) 7-12
+*   Chế tác thủy tinh (Lv10) 8-5
+*   May vá (Lv10) 8-12
+*   Làm giả (Lv10) 8-21
+
+### ● Kỹ năng Học thuật ( 113p )
+*   Số học (Lv10) 1-4
+*   Tri thức đã mất (――) 1-4
+*   Ngôn ngữ quốc gia Shiga (Lv10) 1-5
+*   Ngôn ngữ ác ma (Lv5) 1-9, Lv1 ⇒ Lv5 ở 7-13
+*   Giám định (Lv10) 2-2 ▼
+*   Suy luận (――) 2-6
+*   Giải đố (Lv10) 3-8
+*   Thực nghiệm (Lv10) 4-5, Lv0 ⇒ Lv10 ở 6-2
+*   Xác minh (Lv10) 4-5, Lv0 ⇒ Lv10 ở 6-2
+*   Giáo dục (Lv10) 5-2, Lv0 ⇒ Lv10 ở 6-2
+*   Ngôn ngữ tộc Chuột Xám (Lv1) 5-4, Lv0 ⇒ Lv1 ở 6-2
+*   Ngôn ngữ tộc Vảy Xanh (Lv1) 5-4, Lv0 ⇒ Lv1 ở 6-2
+*   Ngôn ngữ Elf (Lv10) 5-4, Lv3 ⇒ Lv10 ở 6-10
+*   Giải phẫu (――) 6-2
+*   Lễ nghi phép tắc (Lv5) 6-14, Lv0 ⇒ Lv5 ngay trước chương 7
+*   Xã giao (Lv5) 6-Khoảng nghỉ: Họ của Satou
+*   Huy chương học (Lv5) 6-Khoảng nghỉ: Họ của Satou
+*   Giải mã (Lv10) 8-26
+*   Ngôn ngữ tộc Bạch Hổ (Lv1) 8-25
+
+### ● Kỹ năng Nghệ thuật ( 33p )
+*   Ca hát (――) 1-4 ※
+*   Hội họa (――) 1-4
+*   Du hý (――) 1-4
+*   Khuếch âm (Lv3) 2-7 ▼, Lv1 ⇒ Lv3 ở 6-2
+*   Đọc líu lưỡi (Lv10) 6-1
+*   Phát âm (Lv10) 6-1
+*   Biểu diễn (Lv10) 6-6, Lv0 ⇒ Lv10 ở 6-7
+*   Diễn kịch (――) 6-22
+*   Thuật nói bụng (――) 8-5
+*   Vũ đạo (――) 8-11
+
+### ● Kỹ năng Thương mại ( 70p )
+*   Thương lượng (Lv10) 1-5
+*   Biện minh (Lv10) 1-5
+*   Giá cả thị trường (Lv10) 1-6
+*   Mặc cả (Lv10) 1-6
+*   Vô cảm (Lv5) 1-7, Lv0 ⇒ Lv5 ở 6-2
+*   Che giấu (――) 1-8
+*   Thuyết phục (Lv5) 1-8 ▼, Lv3 ⇒ Lv5 ở 6-2
+*   Hối lộ (Lv5) 1-8, Lv0 ⇒ Lv5 ở 6-2
+*   Xã giao từ lệnh (Lv5) 2-3, Lv0 ⇒ Lv5 ở 6-2
+*   Thủ đoạn bụng dạ (Lv10) 6-22, Lv0 ⇒ Lv10 giữa chương 6 và 7
+
+### ● Kỹ năng Lao động ( 75p )
+*   Dã ngoại (――) 1-4 ※
+*   Giặt giũ (――) 1-4 ※
+*   Khai khẩn (Lv10) 1-4, Lv0 ⇒ Lv10 ở 6-13
+*   Canh tác (――) 1-4
+*   Thu hoạch (――) 1-4
+*   Cắt cỏ (――) 1-4
+*   Đốn củi (――) 1-4
+*   Dọn dẹp (――) 1-4
+*   Giám sát (Lv10) 1-7, Lv0 ⇒ Lv10 ở 6-2
+*   Bắt giữ (Lv10) 1-10, Lv0 ⇒ Lv10 ở 6-2
+*   Phục vụ (――) 3-4
+*   Vận chuyển (――) 4-3
+*   Điều khiển xe (Lv5) 4-6, Lv3 ⇒ Lv5 ở 6-2
+*   Đóng gói (――) 5-14
+*   Nấu ăn (Lv10) 6-2
+*   Giải thể (Lv10) 6-2
+*   Thái tập (Lv10) 6-13
+*   Cưỡi (Lv10) 6-15
+*   Cưỡi ngựa (――) 6-15
+
+### ● Kỹ năng Mê cung ( 59p )
+*   Giải bẫy (Lv10) 2-10, ◎Lv0 ⇒ Lv10 ở 3-8
+*   Sử dụng bẫy (Lv5) 2-10, Lv0 ⇒ Lv5 ở 6-2
+*   Phát hiện bẫy (Lv10) 2-10
+*   Khai quật (Lv10) 2-10, Lv0 ⇒ Lv10 ở 6-2
+*   Phát hiện báu vật (Lv10) 2-10, Lv0 ⇒ Lv10 ở 6-2
+*   Mở khóa hòm báu (Lv10) 2-10, Lv0 ⇒ Lv10 ở 6-2
+*   Kho báu (Lv4) 3-5, ◎Lv2 ⇒ Lv4 ở 5-2
+
+### ● Kỹ năng Đặc biệt ( 276p )
+*   Đọc môi (Lv10) 1-5, Lv0 ⇒ Lv10 ở 6-2
+*   Lừa lọc (Lv10) 1-5
+*   Mật thám (Lv10) 1-9
+*   Tự chữa trị (Lv10) 1-9
+*   Thay đồ nhanh (Lv10) 1-10
+*   Cải trang (Lv10) 1-10
+*   Nghe lén (Lv10) 1-6, Lv0 ⇒ Lv10 ở 6-2
+*   Ám dược (Lv10) 2-6, Lv0 ⇒ Lv10 ở 6-2
+*   Bắt cóc (Lv10) 2-6
+*   Ám sát (Lv10) 2-6, Lv0 ⇒ Lv10 ở 6-2
+*   Âm mưu (――) 2-6
+*   Đoạn tội (――) 2-6
+*   Oan sai (――) 2-6
+*   Thẩm vấn (Lv5) 3-4, Lv3 ⇒ Lv5 ở 6-2
+*   Kỹ năng tình dục (性技) (――) 4-10
+*   Lời âu yếm (睦言) (――) 4-10
+*   Dụ hoặc (誘惑) (――) 4-10
+*   Sách địch (Lv10) 6-3
+*   Cảm nhận nguy cơ (Lv10) 6-3
+*   Nắm bắt không gian (Lv10) 6-3
+*   Thao tác ma lực (Lv10) 6-3
+*   Phụ ma lực (Lv10) 6-3
+*   Chữa trị bằng ma lực (Lv10) 6-22
+*   Viễn thị (Lv10) 6-32
+*   Phủ khám thị (Lv10) 6-32
+*   Vọng xa (Lv10) 6-32
+*   Thủ tiêu chứng cứ (Lv10) 6-33
+*   Ám thị (Lv10) 7-3
+*   Điều chỉnh quang lượng (Lv10) 7-3
+*   Tử linh thị (Lv1) 7-4
+*   Cảm nhận ma lực (Lv10) 7-8
+*   Tiềm phục (Lv10) 7-19
+*   Ẩn hình (Lv10) 7-19
+*   Nhẫn nại bước chân (Lv10) 7-19
+*   Biến giọng (Lv10) 8-20
+*   Ủy phủ (――) 8-22
+
+*   Tổng điểm kỹ năng đã sử dụng: 1536 điểm (Còn lại 1544 điểm)
+
+---
+
+### Danh sách Danh hiệu
+(Thứ tự: Chương đạt được, Tên danh hiệu)
+1-2 Người diệt ma vật, Người diệt tộc Vảy, Tai ương của tộc Vảy, Thiên địch của tộc Vảy, Người diệt dực long, Người diệt rồng [Hạ cấp], [Ấu long], [Thành long], [Cổ long], [Tên riêng], Thiên địch của tộc Rồng, Người diệt thần.
+1-4 Người sùng đạo.
+1-10 Chiến trường thường tại, Chiến sĩ thuần thục, Người khiêu vũ với ác ma, Dũng giả.
+2-1 Người cầu nguyện minh phúc, Người cứu hộ, Người bảo vệ thư tịch.
+2-7 Người khám phá mê cung.
+2-8 Người diệt trùng.
+2-9 Người huấn luyện.
+2-12 Người diệt bất tử, Người diệt ma tộc.
+3-8 Người vượt mê cung.
+5-12 Người diệt bất tử vương, Người vượt mê lộ.
+5-13 Người sống sót.
+5-15 Bạn của Elf.
+6-3 Thợ rèn ma thương.
+6-5 Thợ săn tiền thưởng.
+6-7 Thuật sĩ bàn ăn.
+6-22 Dược sĩ, Trị liệu sĩ, Thánh giả, Diễn viên tồi, Hề.
+7-4 Thợ rèn tiên kiếm, Bợm nhậu, Mãng xà, Tửu tiên, Bạn của Dwarf.
+7-7 Thợ rèn ma thuật, Người bay không cánh.
+7-22 Người diệt Ma vương, "Vua lợn vàng", Dũng giả chân chính, Anh hùng vô danh.
+8-14 Thợ rèn ma kiếm, Thợ rèn vũ khí ma thuật.
+8-19 Người diệt quái ngư, Huyễn thuật sĩ, Quang thuật sĩ, Đầu bếp thiên không.
+8-21 Thợ rèn thánh kiếm, Người làm giả.
+8-23 Vũ giả của kiếm.
+Khoảng nghỉ: Bạn của Orc (Khoảng nghỉ: Nhà giả kim Orc).
+
+Phần thưởng:
+"Huân chương Thương huy lãnh nam tước Muno"
+"Huân chương nhất đẳng quân đội nam tước Muno"
+"Huân chương vinh dự công dân Muno"
+"Huân chương vinh dự công dân Grurian"
+"Huân chương Thương viêm lãnh công tước Ouyogoc"
+
+---
+▼ Thời điểm gán cấp độ không rõ ràng.
+"Cận chiến (sử dụng ở 2-6)"
+"Ném (sử dụng ở 2-9)"
+"Giám định (sử dụng ở 2-10)"
+"Thuyết phục (sử dụng ở 2-11)"
+"Khuếch âm (sử dụng ở 2-12)"
+
+※ Phần chính của truyện dự kiến sẽ đăng vào buổi tối.

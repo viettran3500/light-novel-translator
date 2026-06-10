@@ -1,0 +1,103 @@
+(Trong chương này, tôi đã thêm thắt và sửa đổi đôi chút đoạn thiết lập điểm hồi sinh cho Iron Golem ở phần đầu)
+
+Chà, việc giải quyết vấn đề thiếu nhân lực đã xong, phượng hoàng Phi cũng đã nở, giờ tôi định sẽ nâng cấp thêm cho khu vực nhà trọ. Còn về phần hầm ngục thì… thôi cứ để đó đi. Khu vực giải đố vẫn đang hoạt động ổn định mà.
+
+Thế nên, tôi bắt đầu suy nghĩ xem quán trọ "Búp Bê Nhảy Múa" của mình còn thiếu thứ gì.
+Về khoản ăn uống và chỗ ngủ, tôi tự tin là chẳng đâu sánh bằng.
+Khách đến đây vì hai mục đích chính: khám phá hầm ngục và thư giãn tại suối nước nóng. Một đội hình tuyệt vời.
+…Nhưng, vẫn còn thiếu một thứ.
+
+Đó là giải trí.
+
+Không phải là kiểu giải trí "người lớn" đâu nhé. Dù những thứ đó có thể cần thiết, nhưng quán tôi có trẻ con nên tôi muốn tránh xa mấy thứ đó. Vả lại, chủ quán là tôi mà, nếu để Haku-san biết được chắc cô ấy sẽ cằn nhằn về việc làm hỏng giáo dục rồi giết tôi mất.
+Vì vậy, thứ tôi muốn thêm vào là một cái gọi là "phòng trò chơi". Kiểu như mấy khu vui chơi hay thấy ở các nhà trọ suối nước nóng ấy.
+Thật lòng thì tôi muốn đặt một bàn bóng bàn, nhưng vì không có bóng nên không thể làm ra nếu không tốn DP, thế nên tôi quyết định tạm hoãn kế hoạch đó. Nếu có thể làm bằng những vật liệu sẵn có trong thế giới này thì tôi sẽ cân nhắc sau.
+
+Quay lại với phòng trò chơi… Chà, game điện tử thì không thể rồi, nên cứ đánh bạc vậy. Thứ đầu tiên làm là máy slot (máy xèng). Về vẻ ngoài, nó là một cái hộp gỗ có các bảng hiển thị xoay tròn… gọi là trục quay (drum reel) thì phải. Tôi dùng Golem để chế tạo và lắp đặt chúng, kèm theo một cái cần gạt để tạo lực xoay.
+Cấu trúc bên trong khá tùy tiện, tôi chỉ cố gắng tạo ra cơ chế sao cho khi gạt cần gạt xuống, nó sẽ quay. Điểm mấu xẻ là thay vì dùng lực xoay trực tiếp, tôi tích năng lượng như kiểu búng tay, đến một mức nào đó thì nó sẽ quay vù vù một lượt.
+Việc dừng lại và phán đoán xem có khớp hình hay không là công việc của Golem trục quay.
+Hơn nữa, nếu trúng thưởng thì Golem cũng sẽ là kẻ nhả tiền ra.
+Nếu lỡ có bị tháo tung ra mà ai đó hỏi "tại sao nó lại hoạt động thế này?", thì cứ bảo đấy là ma cụ (dụng cụ ma thuật) là xong. Tiện thật đấy.
+
+Về cái trục quay, nếu lực xoay yếu đi thì nó tự dừng, hoặc nhấn nút phía trước cũng dừng. Tôi cũng đã điều chỉnh sao cho nếu sắp trúng giải độc đắc thì tỉ lệ cao nó sẽ bị lệch đi. Tất nhiên là đôi khi vẫn phải cho thắng để làm màu, nhưng về cơ bản thì tôi đã tính toán để nhà cái luôn có lãi.
+…Hèn hạ á? Ăn gian á? Đây không phải là từ thiện, mấy trò này là chuyện hiển nhiên thôi.
+
+Dù sao thì nguyên mẫu đã xong, tôi gọi Ichika đến.
+Đằng nào thì quầy tiếp tân cũng đang giao cho người mới, khách cũng chẳng có mấy đâu.
+
+"Vậy nên, đây là máy slot. Ichika, chơi thử đi. Này, 500 đồng đồng cho cô đấy."
+"Ồ! Đây là máy slot hả! Cứ để đó cho em, em sẽ biến chỗ này thành gấp đôi cho xem!"
+
+Ừ, cho dù cô có biến nó thành gấp đôi, thì tiền đó cũng là ngân sách của hầm ngục này thôi.
+
+"Hiểu rồi hiểu rồi, bỏ đồng đồng vào lỗ này rồi gạt cần xuống, hả..."
+
+*Lạch cạch, lạch cạch*, cô ấy bỏ 3 đồng đồng vào rồi gạt mạnh cần gạt.
+*Vù vù*, trục quay xoay mạnh mẽ.
+
+"Ồ, quay rồi quay rồi. Hê, thế này thì… ấn nút này để dừng à."
+
+*Cạch, cạch, cạch*. Khi nhấn nút, trục quay dừng lại.
+
+"Ồ… Ơ, thế này là sao thế?"
+"Trượt rồi. Chơi tiếp đi."
+"Ừ, biết rồi!"
+
+Ichika lại bỏ tiền vào rồi quay tiếp. Ừm, có vẻ hơi nhạt nhẽo nhỉ, có nên thêm hiệu ứng gì đó vào không ta?
+
+*
+
+"Uooooooo! Vào đi, vào đi, về đi mà! Ự… áaaaaaa! Tiếc quá!"
+
+Một tiếng sau. Sau khi trúng vài lần nhỏ lẻ, cũng có lúc cô ấy vượt quá 500 đồng tiền vốn ban đầu, nhưng rốt cuộc thì số tiền hiện tại chỉ còn dưới 50 đồng.
+Cô ấy đang say sưa đến mức suýt thì đập nát cái máy slot luôn rồi. Thế này thì chưa cần thêm hiệu ứng gì đâu, bao giờ chán thì tính tiếp.
+…À, hay là làm lại phần thân bằng sắt nhỉ. Chỗ Ichika đang bám vào cứ kêu răng rắc kìa.
+
+"Ichika. Tầm này là được rồi đấy."
+"C-chuyện đó… Không được! Em vẫn còn tiền mà! Từ giờ, từ giờ em sẽ lật kèo! Này, lúc nãy suýt chút nữa là trúng 1000 đồng đồng rồi đó, tiếc thật! Lần tới chắc chắn sẽ trúng!"
+
+À, đây đúng là hạng người không cứu nổi rồi. Kiểu người nợ nần vì cờ bạc rồi lại muốn dùng tiền cờ bạc để trả nợ. Dù đã rơi xuống làm nô lệ mà vẫn không chừa, đúng là cứng đầu thật.
+
+"Ừ, đáng tiếc là không thể đâu. Tôi không thiết kế để nó có thể thắng được như thế."
+"Cái… gì cơ…?"
+
+Ichika sụp đổ với khuôn mặt tuyệt vọng. Ừm, tôi không ngờ chỉ với 456 đồng đồng mà lại thấy được biểu cảm tuyệt vời đến thế.
+
+"…Thực ra thì đừng nên hút máu lộ liễu thế này nhỉ, để điều chỉnh lại cho dễ trúng hơn chút vậy. Cảm ơn cô, coi như là tài liệu tham khảo cho tôi."
+"Ư… Thì ra là mình nằm trong lòng bàn tay của chủ nhân sao… Chết tiệt…"
+"Yên tâm đi, tôi không bắt cô nợ khoản đã thua đâu. Nhưng số còn lại thì trả lại cho tôi đấy."
+"Á…! Ư, đành vậy…!"
+
+Mà này, cô ấy dính bẫy ngọt xớt luôn. Có lẽ Ichika là trường hợp đặc biệt, nhưng cứ đà này thì chuẩn bị thêm 3 cái nữa đặt trong phòng giải trí mới là được.
+
+Nhưng, nếu phòng giải trí chỉ có mỗi máy slot thì cũng chán nhỉ. Làm thêm cái khác thôi.
+
+"Nhắc mới nhớ, còn loại hình cờ bạc nào khác không?"
+"Ưm, anh có biết 'Xúc xắc' không? Cái thứ vuông vuông mà các vị dũng giả tạo ra ấy, có từ 1 đến 6 mặt… Đó mới là thứ phổ biến."
+
+Ra vậy. Xúc xắc à. Chắc cũng dễ tái tạo thôi. Tiện thể tôi có hỏi về bài tây, nhưng cô ấy bảo là do công nghệ in ấn còn kém với chất lượng giấy ở thế giới này không tốt nên không làm được. Hình như có người làm bằng tấm kim loại nhưng… thứ đó rất hiếm và đắt đỏ. Có vẻ không phổ biến lắm.
+
+"Về cơ bản là trò chơi hoàn toàn dựa vào vận may nhỉ. Không có trò nào thiên về đấu trí à?"
+"Đấu trường, với cả đua ngựa cũng có đấy."
+
+Hừm, tái tạo ở quán mình thì hơi khó. …Khoan đã? Nếu dùng chuột thì đua chuột được không nhỉ? Có khi đây là cơ hội tốt cho lũ chuột mà tôi đã thu phục rồi để đấy không làm gì. Giờ chúng chỉ có mỗi công việc làm camera an ninh quanh hầm ngục.
+…À, mà khách ít thế này thì tổ chức đua cũng khó. Tạm hoãn.
+
+Trong cái thế giới thiếu thốn giải trí này, nếu bài tây được sản xuất hàng loạt thì chắc sẽ hot lắm đây. Hay là cho nó vào danh sách rớt vật phẩm của hầm ngục luôn nhỉ? Dù sao thì cái ghế massage tôi cũng bảo là nhặt được trong hầm ngục mà. Máy slot cũng dự định làm thế.
+
+Được rồi, cho bài tây vào rương báu luôn. Để nó phổ biến thì cần phải rải ra một chút. Sau đó, ở phòng giải trí cứ bảo là "Nhặt được trong hầm ngục" là xong.
+Chuẩn bị một cái bàn trải nỉ, rồi để khách chơi ở đó chắc sẽ ổn.
+
+Tiện thể, tôi có hỏi về các trò cờ bạc bằng xúc xắc.
+
+◎ Tower & Dice (Tháp và xúc xắc).
+"Luật đơn giản thôi. Tung xúc xắc, rồi chồng số chip bằng với số điểm hiện ra. Thay phiên làm vậy 3 lần, ai có chồng chip cao nhất thì thắng."
+
+◎ Big Small (Tài xỉu).
+"Đầu tiên người chơi đặt bao nhiêu chip tùy thích. Cái (nhà cái) có quyền không nhận. Nếu không trả được thì coi như không nhận. Rồi sau khi nhận xong, cái sẽ tung xúc xắc. Lần tung thứ nhất. Sau đó, người chơi sẽ đặt cược xem lần tung thứ hai lớn hơn hay nhỏ hơn lần đầu. Trúng thì gấp đôi, trượt thì mất hết. Nếu bằng điểm thì cộng dồn, nhưng chỉ riêng số 6 thì nếu bằng điểm, cái sẽ ăn trọn."
+
+"Vẫn cơ bản là trò may rủi nhỉ."
+
+Ngoài ra, hình như còn có cả trò Chinchiro và Chohan (Chẵn lẻ) nữa.
+
+(Đã đạt 10 triệu PV)

@@ -1,0 +1,160 @@
+Đây là bản dịch chuyên nghiệp cho danh sách nhân vật và thiết lập của tác phẩm.
+
+---
+
+Do có nhiều yêu cầu nên tôi tạm thời cập nhật như sau.
+31/05/2017 Cập nhật thêm. Đã thêm bản đồ khu vực. Bản đồ đã được tách riêng.
+02/06/2017 Thay đổi vị trí của Rusty trong mục mối quan hệ nữ giới của thôn trưởng. Ngoài ra có thay đổi thứ tự một chút.
+　　　　　　Thêm Death Ball vào mục Ma vật/Ma thú trong rừng.
+
+―――――――――――――――――――――――――
+● Thôn Đại Thụ
+―――――――――――――――――――――――――
+『Con người?』
+　　　　　　　　Machio Hiraku　　　Thôn trưởng.
+
+『Inferno Wolf (Sói Lửa Địa Ngục)』
+　　　　　　　　Kuro (♂)　　　　Đại diện chủng tộc.
+　　　　　　　　Yuki (♀)　　　　Bạn đời của Kuro.
+　　　　　　　　Kuroichi (♂)　　Con thế hệ thứ nhất của Kuro.
+　　　　　　　　Alice (♀)
+　　　　　　　　Kuroni (♂)　　　Con thế hệ thứ nhất của Kuro.
+　　　　　　　　Iris (♀)
+　　　　　　　　Kurosan (♀)　　Con thế hệ thứ nhất của Kuro.
+　　　　　　　　Uno (♂)
+　　　　　　　　Kuroyon (♂)　　Con thế hệ thứ nhất của Kuro.
+　　　　　　　　Elis (♀)
+　　　　　　　　Kurogo (♂)　　Con thế hệ thứ hai của Kuro.
+　　　　　　　　Kuroroku (♂)　Con thế hệ thứ hai của Kuro.
+　　　　　　　　Kuronana (♀)　Con thế hệ thứ hai của Kuro.
+　　　　　　　　Kurohachi (♀)　Con thế hệ thứ hai của Kuro.
+　　　　　　　　Fubuki (♀)　　　Cá thể đặc biệt. Cocytus Wolf.
+　　　　　　　　Masayuki (♂)　Đang xây dựng harem.
+　　　　　　　　Aniki (♂)　　　Được chú chó con nhặt được bám đuôi.
+　　　　　　　　Và nhiều cá thể khác.
+
+『Fenrir』
+　　　　　　　　Chó con (♀)　　Nghe nói có cái tên rất dũng mãnh.
+
+『Demon Spider (Nhện Quỷ)』
+　　　　　　　　Zabuton　　　　Illegal Demon Spider.
+　　　　　　　　Makura　　　　Một trong những đứa con của Zabuton.
+　　　　　　　　Và nhiều cá thể khác.
+
+『Ma cà rồng』
+　　　　　　　　Loo　　　　　　Lulucy = Loo.
+　　　　　　　　Flora　　　　　Em họ của Loo.
+(Lai?)　　　　 Alfred　　　　Con trai của thôn trưởng và Loo.
+
+『Tộc Thiên thần』
+　　　　　　　　Tier　　　　　　Đại diện chủng tộc. Thiên thần hủy diệt. Người điều khiển Golem.
+　　　　　　　　Grandmaria　　Một trong những Thiên thần diệt chủng.
+　　　　　　　　Kudel　　　　　Một trong những Thiên thần diệt chủng.
+　　　　　　　　Corone　　　　Một trong những Thiên thần diệt chủng.
+　　　　　　　　Kiarbit　　　　Con gái tộc trưởng Thiên thần.
+　　　　　　　　Sualriu　　　　Thiên thần song sinh.
+　　　　　　　　Sualkou　　　　Thiên thần song sinh.
+(Lai?)　　　　 Tizel　　　　　Con gái của thôn trưởng và Tier.
+
+『High Elf』
+　　　　　　　　Lia　　　　　　Đại diện chủng tộc.
+　　　　　　　　Ries, Lily, Leaf, Ricott, Lize, Rita.
+　　　　　　　　Rafa, Rasa, Larasha, Lal, Rami.
+(Lai?)　　　　 Lilius　　　　Con trai của thôn trưởng và Lia.
+(Lai?)　　　　 Rigur　　　　Con trai của thôn trưởng và Lize.
+(Lai?)　　　　 Latte　　　　Con trai của thôn trưởng và Rafa.
+　　　　　　　　Và 42 người khác.
+
+『Tộc Quỷ nhân』
+　　　　　　　　Ann　　　　　Đại diện chủng tộc. Tổng quản giúp việc.
+　　　　　　　　Ramurias　　Người chăm sóc tộc Thú nhân.
+(Lai?)　　　　 Tryne　　　　Con trai của thôn trưởng và Ann.
+　　　　　　　　Và 18 người khác.
+
+『Lizardman』
+　　　　　　　　Daga　　　　　Đại diện chủng tộc.
+　　　　　　　　Naf　　　　　Người chăm sóc Minotaur.
+　　　　　　　　Và 13 người khác + những đứa trẻ sinh ra hằng năm.
+
+『Tộc Thú nhân』 25 người (di cư trước) + 3 người (vợ chồng Gatt) + 2 người (đệ tử) + 4 người (vợ chồng Gulf)
+　　　　　　　　Sena　　　　　Đại diện chủng tộc. Người di cư từ thôn Howling.
+　　　　　　　　Mam　　　　　Người chăm sóc ở Nhất Thôn.
+　　　　　　　　Các cậu bé Thú nhân: Lúc đến thôn khoảng 4 tuổi?
+　　　　　　　　Và 20 người di cư trước khác.
+　　　　　　　　Gatt.
+(Người)　　　　Narsy　　　　Vợ Gatt.
+(Lai)　　　　　 Nart　　　　Con gái Gatt.
+　　　　　　　　Đệ tử A, Đệ tử B của Gatt.
+　　　　　　　　Gulf: Chiến binh mạnh nhất thôn Howling.
+　　　　　　　　Vợ Gulf.
+　　　　　　　　Con trai Gulf: Đã có người trong lòng ở thôn Howling.
+　　　　　　　　Con gái Gulf A, B: Một trong những người di cư đầu tiên từ Howling.
+
+『Rồng』
+　　　　　　　　Rusty　　　　Rustysmoon. Đại diện chủng tộc.
+　　　　　　　　Hakuren　　　Con gái cả của Dors. Là dì của Rusty.
+　　　　　　　　Grull　　　　Con gái của Hắc ám long Giral.
+(Lai?)　　　　 Hiichirou　　Con trai của thôn trưởng và Hakuren.
+
+『Tộc Ác ma』
+　　　　　　　　Bulga　　　　Hầu nữ (người làm) của Rusty.
+　　　　　　　　Stifano　　　Hầu nữ (người làm) của Rusty.
+
+『Ma tộc/Nhóm thiếu nữ Văn quan』
+　　　　　　　　Frau　　　　Fraurem. Quan đại diện của thôn. Tổng quản nhóm thiếu nữ Văn quan. Đại diện chủng tộc.
+　　　　　　　　Rasshashi　Người chăm sóc Nhân mã.
+　　　　　　　　Và 9 người khác.
+
+『Elder Dwarf (Người lùn già)』 Hơn 50 người
+　　　　　　　　Donovan　　　Đại diện chủng tộc.
+　　　　　　　　Wilcox, Cross.
+　　　　　　　　Và nhiều người khác (Tổng cộng hơn 50 người).
+
+『Sơn Elf』
+　　　　　　　　Ya　　　　　Đại diện chủng tộc.
+　　　　　　　　Và 20 người khác.
+
+『Tộc Harpy』
+　　　　　　　　Mach　　　　Đại diện chủng tộc.
+　　　　　　　　Và 41 người khác.
+
+『Anh hùng?』
+　　　　　　　　Urza　　　　Urburaza. Cựu Tử linh vương, hiện là một đứa trẻ.
+
+『Búp bê đất』
+　　　　　　　　Búp bê đất　　Tòng sĩ của Urza.
+
+『Gnosis Bee』
+　　　　　　　　Ong chúa　　Đang tận hưởng cuộc sống tại thôn Đại Thụ.
+
+『Slime』
+　　　　　　　　Slime rượu　Đảm nhận vai trò chữa lành của thôn.
+
+『Mèo?』
+　　　　　　　　Mèo　　　　　Cựu Lạc thần? Đang cạnh tranh vị trí chữa lành với Slime rượu?
+
+『Ngựa』
+　　　　　　　　Ngựa　　　　Belford.
+　　　　　　　　Ngựa cái.
+　　　　　　　　Ngựa con　　Con trai của Belford.
+
+--- (Các mục địa điểm khác tương tự, giữ nguyên tên riêng) ---
+
+[Thông tin thêm về Ma vật/Ma thú]
+『Killer Rabbit』 Thỏ có răng nanh. Ngon.
+『Gate Boar』 Lợn lòi khổng lồ. Ngon.
+『Intelli Fennec』 Chồn chân dài.
+『Death Ratel』 Chồn mập.
+『Grappler Bear』 Một trong bốn kẻ mạnh nhất rừng. Gấu khổng lồ. Vị trung bình.
+『Bloody Viper』 Một trong bốn kẻ mạnh nhất rừng. Rắn khổng lồ. Vị khá, có tác dụng tăng cường sinh lực? Trứng của nó rất ngon.
+『Panic Caribou』 Hươu hung bạo. Rất khó tìm. Gạc cực kỳ ngon.
+『Earth Rat』 Chỉ sống ở một phần trong rừng. Chuột chũi khổng lồ.
+『Catafoot』 Rết khổng lồ.
+『Poison Rock Hecaton』 Rết siêu khổng lồ.
+『Death Ball』 Con tê tê lớn.
+
+[Ghi chú]
+Bốn kẻ mạnh nhất rừng: Inferno Wolf, Demon Spider, Grappler Bear, Bloody Viper.
+
+---
+Vui lòng gửi phản hồi hoặc tin nhắn nếu bạn thấy khó đọc, thiếu thông tin hoặc cần thêm chi tiết nào khác. Về phần tuổi tác thì tôi vẫn đang phân vân nên để ở giai đoạn nào... vì có mấy đối tượng khá phức tạp.

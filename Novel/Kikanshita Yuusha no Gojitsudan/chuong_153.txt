@@ -1,0 +1,129 @@
+Xin lỗi vì sự chậm trễ trong việc cập nhật.
+Tôi đã viết gần xong một chương nhưng lại không ưng ý, nên đã viết lại toàn bộ.
+
+---
+
+"Được rồi! Cứ giữ nguyên thế nhé! Ồ, sang trái chút nữa đi."
+"Rõ!"
+Tôi làm theo chỉ dẫn của ông già, dịch chuyển nhẹ khối động cơ đang đỡ. Ông già lập tức dùng bu lông siết tạm vào khung xe để điều chỉnh lại cân bằng.
+Phần khung của chiếc xe máy trước mặt hầu như đã bị tháo rời hết các linh kiện, chỉ còn lại bộ khung xương gắn động cơ và bánh xe.
+Hỏi chúng tôi đang làm gì á?
+Vẫn như mọi khi thôi, đang phụ giúp ông già ở tiệm sửa xe.
+
+Như đã biết, tuần trước ông già đã ngỏ ý mời tôi: "Sau khi tốt nghiệp thì đến làm ở tiệm này đi". Và sau một tuần vắt óc suy nghĩ, tôi đã đưa ra quyết định.
+...Kết quả thì chắc mọi người cũng đoán được rồi đấy.
+Đừng có nói là "có gì đâu mà phải suy nghĩ" nhé!
+Dù sao tôi cũng đã tốn bao công sức vào đại học để học kinh tế, giờ lại chui về làm thợ sửa xe, không biết như thế có ổn không? Tôi thích lái xe thôi chứ sửa chữa thì cũng chẳng rành lắm, liệu có đảm đương nổi công việc tiệm xe không? Hay là nên vào trường kỹ thuật hoặc trường nghề học lại từ đầu? Tôi đã cân nhắc rất nhiều điều.
+Đặc biệt là cảm giác có lỗi với bố mẹ, những người đã bỏ ra số tiền không nhỏ cho học phí và các chi phí khác của tôi.
+Nhưng khi những email từ chối từ các công ty sau buổi phỏng vấn cứ nối đuôi nhau gửi đến, trong tình thế mà dù có đi phỏng vấn tiếp cũng khả năng cao là vô ích, thì việc được một người hiểu rõ mình như ông già chủ động ngỏ lời khiến tôi nghĩ rằng: chẳng việc gì phải câu nệ chuyện công ty lớn hay nhỏ nữa.
+
+Bố mẹ tôn trọng suy nghĩ của tôi, còn các cô người yêu, đứng đầu là Akane, thì hoàn toàn ủng hộ: "Anh làm công việc gì bọn em cũng sẽ ủng hộ hết mình, không sao cả!".
+Ayumi thì khăng khăng rằng tôi nên mở rộng việc bán phụ kiện online ra quy mô chuyên nghiệp hơn, nhưng vì cái giọng "em muốn anh kiếm được nhiều tiền hơn" nó lộ liễu quá nên tôi lờ đi luôn. À, tôi vẫn sẽ tiếp tục bán phụ kiện thôi. Tháng này tung ra mấy mẫu mới là hết sạch ngay trong ngày, dại gì mà bỏ.
+Và thế là hôm nay tôi đến tiệm để báo kết quả, vừa mới mở lời xong là bị ông già bắt "đã đến rồi thì giúp tay một chút đi" ngay lập tức.
+
+Việc ông già đang làm là phục chế một chiếc xe máy cổ được mệnh danh là danh tác.
+Phục chế (restore) là thuật ngữ trong giới mô tô, nghĩa là "khôi phục" lại toàn bộ xe bằng cách sửa chữa, thay thế và bảo dưỡng để chiếc xe trở về trạng thái như mới.
+Có một khái niệm tương tự là đại tu (overhaul), nhưng đó là việc tháo rời bảo dưỡng định kỳ sau một số năm nhất định.
+
+Chiếc xe đang được phục chế là 650-W1 (thường gọi là Dab-Wan) - một danh tác vang bóng một thời của Kawasaki.
+Nghe nói ngày xưa ở Nhật có gần 200 hãng sản xuất xe máy, nhưng dần dần bị đào thải, phá sản hoặc bị các hãng còn tồn tại thâu tóm.
+Một trong số đó là hãng Meguro Seisakusho. Sau khi Kawasaki thâu tóm Meguro, họ đã cùng hợp tác phát triển dựa trên dòng Meguro K2 (dung tích 500cc) và tung ra chiếc xe này vào năm 1966, cách đây hơn nửa thế kỷ.
+Đó là dòng xe naked cổ điển 650cc 2 xi-lanh, phanh đùm cả trước lẫn sau, không có bộ cân bằng triệt tiêu rung lắc động cơ nên tiếng ồn và độ rung kinh khủng (đến mức nếu chống chân giữa rồi nổ máy, nó sẽ tự di chuyển nhờ độ rung). Một thông số mà thời nay không ai có thể tưởng tượng nổi.
+Ông già đang tháo rời hoàn toàn chiếc xe này, chế tác lại linh kiện rồi tự tay lắp ráp. Xét về mặt kinh tế thì mua xe mới còn rẻ hơn gấp bội.
+Nhưng vấn đề đâu nằm ở tiền nong.
+
+"Phù. Tạm thời tới đây là xong. Còn lại phải lắp hoàn chỉnh rồi mới tinh chỉnh được. Hiroya, vất vả cho cậu rồi."
+"Nhìn xe cổ cấu trúc có vẻ thô sơ quá nhỉ. Động cơ bắt trực tiếp vào khung luôn."
+"Ừ. Xe bây giờ tích hợp đủ thứ chức năng, cấu tạo lại tinh xảo nữa. Nhưng chính vì thế mà xe cũ mới có cá tính riêng, dù cùng một đời xe, và chỉ cần chỉnh sai một chút là máy móc 'giở chứng' ngay. Nhưng bù lại thì nó thú vị."
+Đúng là nghe có vẻ thú vị. Nhưng cũng khó nhằn thật đấy.
+Liệu mình có làm được không nhỉ?
+Mà thôi, đã quyết định rồi thì phải cố gắng hết sức thôi.
+
+"À này, dù sao cũng đã chốt là cậu đến làm rồi, tôi cũng được nhờ nhiều việc. Dù chính thức là sau khi tốt nghiệp, nhưng lúc nào rảnh thì cứ ghé qua nhé. Còn nhiều thứ phải dạy lắm, mà tôi cũng muốn sớm được nhàn thân. Lương làm thêm cứ lấy đi. Với lại, ơ... xin lỗi, có điện thoại..."
+Ông già vẫn cái mặt lạnh như tiền đó, cầm chiếc điện thoại nắp gập để trên quầy lên nghe.
+
+Mà này, trước đây chỉ ghé qua thỉnh thoảng nên tôi không để ý, chứ cái tiệm này sở hữu thiết bị khá chuyên nghiệp trong cái nhà kho phía sau (tôi cứ tưởng đó là kho, hóa ra là xưởng gia công linh kiện). Có máy tiện, máy phay, máy nén khí, vân vân.
+Có rất nhiều loại máy tôi chưa từng thấy bao giờ, à không, phải nói là hầu hết đều là lần đầu tôi thấy.
+Thật sự không hiểu sao cái không gian nhỏ thế này mà chứa được ngần ấy thứ.
+Góc nhìn thay đổi, mọi thứ trông thật mới mẻ. Tôi lại dạo quanh ngắm nghía trong tiệm.
+
+"Hả?! Thật sao! Đợi, đợi tí! ... Này Hiroya! Cậu nói được tiếng Anh hay tiếng Ý không?"
+"Hả? À, vâng, cả hai đều được ạ."
+Đang hí hoáy với cái cần cẩu ròng rọc thủ công, tôi bất ngờ bị ông già hỏi.
+Ừ thì, nhờ có kỹ năng gian lận (cheat) về hiểu ngôn ngữ nên cả hai tôi đều thạo. Nhưng mà, có chuyện gì vậy?
+
+"Tốt! Nghỉ đại học từ lúc nào? À, không phải dịp đầu năm, là sau đó ấy."
+"Dạ, từ tuần cuối tháng 1 đến đầu tháng 4 ạ."
+"Ừ, hiểu rồi! ... Alo, không thể ngay được nhưng đầu tháng 2 tôi sẽ qua! Cứ giữ chỗ đó cho tôi đến lúc ấy nhé. Hả, ồn ào quá, thì lo mà xử lý đi chứ! Rồi! Nhờ cả vào cậu đấy!"
+...Không hiểu sao, tôi cảm giác như mình vừa bị lôi vào một chuyện gì đó rồi.
+
+"Hừ hừ hừ. Được, được rồi! Hiroya! Chuẩn bị trống lịch tầm 2 tuần từ đầu tháng 2 đi."
+Ông già tuyên bố một cách đơn phương với vẻ mặt hớn hở chưa từng thấy.
+"Này, thế cũng được thôi, nhưng mà là chuyện gì thế ạ?"
+"Giờ tôi sẽ giải thích đây. Mà này, cậu có hộ chiếu không? Hộ chiếu ấy!"
+...Mình có nhỉ? À, hình như là có, hồi cấp 3 lúc sang thăm chỗ làm việc của bố. Hộ chiếu vị thành niên có thời hạn 5 năm, chắc vẫn còn dùng được.
+"Tốt! Chúng ta sẽ đi Naples của Ý và Manchester của Anh!!"
+"Hả?!"
+Này, ông là chủ tiệm xe cơ mà? Sao lại đi đến tận đó? Xem bóng đá à?
+
+"Nghe nói có một tay buôn ở bên đó đang giữ chiếc xe mà tôi tìm bấy lâu nay! Nhưng muốn gửi về thì phải chốt mua ngay tại chỗ. Chứ chưa nhìn thấy hàng mà chỉ riêng phí vận chuyển đã tốn hơn 50 vạn yên thì tôi chịu."
+"Cháu hiểu rồi, nhưng tại sao lại là cháu?"
+"Không phải khoe đâu, chứ tiếng Anh tiếng Ý tôi có biết chữ nào đâu! Nghe nói phiên dịch bên đó không tin tưởng được, nên cậu lo được chứ? Cậu đang là sinh viên mà."
+Ông già này nghĩ sinh viên là cái gì cơ chứ? Sinh viên bình thường cùng lắm chỉ biết tiếng Anh thôi! Mà thôi, tôi thì biết thật.
+
+"Haizz, thôi cũng được. Với lại cháu cũng tò mò về chiếc xe mà ông phải cất công đến thế."
+"Phù phù phù, sẽ không làm cậu thất vọng đâu. Chiếc tìm được ở Ý là 'Fenderlight' của Vespa!"
+"Fenderlight, chẳng lẽ là..."
+"Đúng! Hơn nữa còn là chiếc '125' đời đầu sử dụng cần số dây cáp năm 1950!"
+
+Thật á?!
+...Để tôi giải thích cho!
+Vespa là hãng xe Ý rất nổi tiếng ngay cả ở Nhật. Với kiểu dáng tròn trịa đáng yêu, nó được người hâm mộ trên khắp thế giới yêu thích. Chiếc xe đưa tên tuổi hãng lên đỉnh cao chính là chiếc 'Vespa 125' mà công chúa Ann do Audrey Hepburn thủ vai đã lái khi dạo quanh Rome trong bộ phim kinh điển 'Roman Holiday'.
+Vespa đời mới bây giờ đèn pha gắn trên tay lái, nhưng Vespa thời đó thì đèn lại gắn ngay trên chắn bùn trước.
+Dòng Fenderlight này có nhiều phiên bản, ngoài khác biệt về dung tích, thì thời mới ra mắt hệ thống sang số là loại rod-change (dùng thanh sắt nối thay vì dây cáp như phanh xe đạp ngày xưa), đến năm 1950 mới chuyển sang loại dây cáp.
+Xét về giá trị hiếm thì loại rod-change cao hơn, nhưng chiếc xuất hiện trong phim là loại dây cáp, nên nếu là đời đầu thì đúng là món đồ khiến các tay chơi thèm khát.
+
+"Nghe nói nó bị bỏ quên trong kho của một công ty ở Naples, vùi lấp trong đống giấy tờ cũ, nên hình như hầu như không bị rỉ sét."
+Vespa đời cũ toàn bộ đều là sắt trừ lốp và yên, nên gần như không bao giờ có chuyện không bị rỉ. Nếu là thật thì đúng là một món hời lớn.
+"Còn chiếc kia là 'Thunderbird 6T' của Triumph, đời 1953, bản mạ chrome."
+Đó là chiếc xe danh tiếng mà Marlon Brando (người đóng vai chính trong phim 'Bố Già' - được gọi là diễn viên vĩ đại nhất thế kỷ 20) đã lái trong bộ phim 'The Wild One'.
+Màu thân xe mạ chrome chỉ được sản xuất trong thời gian ngắn do giá thị trường chrome tăng cao và dễ bị rỉ sét trên tàu vận chuyển xuất khẩu.
+Dù cả hai còn tùy vào tình trạng, nhưng chắc chắn là những món đồ cực kỳ khó săn lùng.
+Tôi vốn không đặc biệt thích xe cổ, nhưng đúng là cũng muốn được tận mắt chứng kiến và chạm tay vào thử một lần.
+Mà này, 2 tuần không phải là hơi dài sao?
+
+"Chỉ lấy 2 chiếc đó thì phí quá. Nhân tiện sang đó phải săn thêm vài chiếc nữa. Tất nhiên chi phí tôi lo, cậu cứ theo tôi đi."
+............Phù! Chút nữa thôi, không không, chẳng phải là rất đáng mong đợi sao?
+Nói đến Ý là nói đến thánh địa của xe máy. Có rất nhiều hãng mà ở Nhật ai cũng biết.
+Địa điểm du lịch lịch sử á? Chuyện đó tính sau!
+Giờ chỉ còn lo làm sao để nói với Akane và các cô ấy thôi...
+
+***
+
+Năm mới đã qua, không khí Tết cũng đã tan hết, tháng 2 đã đến.
+Để lên chuyến bay tới Rome, Ý, tôi đã lái xe máy đến sân bay Narita. Tất nhiên là vừa đến nơi tôi đã cất chiếc CB1300SF vào Item Box. Không muốn bị ai phá hoại hay đánh cắp.
+Tôi hẹn gặp ông già gần quầy làm thủ tục của hãng Alitalia tại nhà ga số 1 chuyến bay quốc tế.
+Có vẻ như tôi đến hơi sớm nên chưa thấy ông già đâu, nhưng nghe bảo ông đi tàu điện tới nên cũng không đáng lo. Chuyến bay đi Rome là sau 1 giờ chiều nên vẫn còn hơn 3 tiếng nữa.
+
+"Rồi? Sao tiền bối lại ở đây?"
+"À, á ha ha, không, ừm, anh có nghe phong phanh nên hỏi ông già, nghe bảo em và ông già sắp sang Ý nhập xe nên anh nài nỉ. Ông bảo 'nếu tự trả tiền đi thì đi cùng cũng được'. Anh là mê xe Ý nhất mà. Hơn nữa anh cũng đã đỗ lên đại học rồi nên có thời gian. Nhưng anh không biết ngoại ngữ, đi một mình sợ lắm, nghe nói em biết tiếng Ý nên anh mới mạn phép mong được đi cùng..."
+Đúng vậy. Người đang nở nụ cười tươi rói đón tôi tại sân bay chính là 'Vua hèn nhát' của chúng ta, tiền bối Akio.
+
+"...Dạ, nếu ông già đã đồng ý thì em cũng không có ý kiến gì, nhưng chúng ta đi tận 2 tuần, tiền bối đã nói với chị Mitsuoka đàng hoàng chưa đấy?"
+"Ứ! Đ-đ-đ-được, th-thừa sức! Anh đã nói rõ là 'đi làm giúp việc cho Hiroya' rồi... ơ, Hiroya? Sao nhìn anh ghê thế?"
+Cái gã hèn nhát này, tự nhiên lại đùn đẩy trách nhiệm cho tôi.
+"C-còn em thì sao, em đã nói với Akane và các cô ấy như thế nào?"
+"Em nói thẳng là đi làm thêm ạ. Vì đó là sự thật mà."
+Dù Akane và Leiria cũng muốn đi cùng lắm. Nhưng chi phí chuyến đi cũng không nhỏ, lại còn phải giữ ý với ông già nên tôi đã tìm cách thuyết phục họ.
+Đổi lại, tôi phải hứa là cứ 2 ngày một lần sẽ dùng dịch chuyển tức thời về nhà.
+Chênh lệch múi giờ giữa Nhật và Ý là 7 tiếng, với Anh là 8 tiếng, nên nếu dịch chuyển về thì chắc là tầm sáng sớm, mà đang là kỳ nghỉ xuân nên ít nhất cũng gặp nhau được.
+
+Dù vậy, nghĩ lại thì đi công tác cùng một người tiền bối thân thiết cũng là một điều thoải mái.
+Quyết định rồi, đến Naples phải bắt ông ấy mời ăn pizza ngập mặt mới được.
+"Này! Hai đứa chuẩn bị xong chưa?"
+Trong lúc đang đùa nghịch với tiền bối Akio thì thời gian cũng trôi qua.
+Ông già cuối cùng cũng tới, vừa kéo chiếc va li du lịch to đùng vừa gọi.
+
+"Xong rồi ạ!"
+"Thế thì làm thủ tục thôi!"
+Chuyến công tác chính thức bắt đầu.

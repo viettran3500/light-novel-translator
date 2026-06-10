@@ -1,0 +1,395 @@
+Tôi là Satou. Trong giai đoạn cuối của dự án phát triển game, khi đang trong tình trạng "tử chiến" (deadline sát nút), việc mã nguồn mà bạn sửa để giải quyết một vấn đề lại vô tình kích hoạt một vấn đề khác là chuyện thường như cơm bữa.
+
+Nhưng mà, dù biết vậy thì vẫn không thể không sửa lỗi, đó chính là nỗi bi ai của dân lập trình.
+
+◇
+
+"A wa wa wa~?"
+"Nguy rồi, nguy to rồi ạ!"
+
+Trước những vấn đề phun trào từ khắp nơi, ngay cả Tama và Pochi cũng đang luống cuống chân tay.
+
+"Hai người bình tĩnh lại đi."
+
+Quả nhiên là Liza. Cô ấy có vẻ vẫn giữ được sự bình tĩnh.
+
+"Trước tiên là――"
+
+Liza quay mặt về phía các nam thần đang vùng vẫy trong đám bùn đen.
+
+"Chúng ta phải dọn dẹp kẻ đầu sỏ trước đã."
+
+――Sai rồi.
+
+Có lẽ họ đúng là kẻ đầu sỏ trong chuyện lần này, nhưng họ vẫn là những sự tồn tại cần thiết đối với thế giới này. Xét về phương diện giống như những đê chắn sóng vậy.
+
+"Liza, em cũng bình tĩnh lại đi."
+"Thần xin lỗi, thưa Chủ nhân."
+
+Chà, tôi cũng hiểu cảm giác sốt ruột của họ.
+
+Khởi nguồn của chuyện này là việc các nam thần nghĩ rằng nữ thần Parion đã bị Ma thần bắt cóc, nên họ đã dẫn theo các sứ đồ để xâm lược Ma giới.
+
+Tại Ma giới đó, các nam thần đã bị đám bùn đen――"Cấm kỵ chi lực" sản sinh ra chướng khí nồng độ cao xâm thực, rồi họ hoảng loạn sơ tán khẩn cấp trở về Nhân giới.
+Đến đó thì không sao, nhưng vấn đề là khi chạy trốn vào Nhân giới, họ đã xé toạc kết giới mà tôi dựng lên ở biên giới giữa Ma giới và Nhân giới.
+Đặc biệt là khi đám đông sứ đồ ồ ạt nối gót theo sau các nam thần, vết thương đó càng bị mở rộng thêm.
+
+Kết quả là, Ma giới đã bắt đầu hợp nhất với Nhân giới một lần nữa.
+
+Tạm thời, cần phải xử lý các nam thần và sứ đồ bị bùn đen xâm thực, rồi sửa chữa vết nứt của thế giới.
+Việc tái thiết lập kết giới ngăn cách với Ma giới là chuyện của bước sau.
+
+Nào, cùng hợp tác với các đồng đội để dọn dẹp đợt nhiệm vụ khẩn cấp này thôi.
+
+◇
+
+"――Quyết định là vậy, nhưng mà."
+
+Tôi nhìn lên các nam thần vẫn đang gào thét "Nhơ bẩn quá~" và thực hiện các hành động phá hoại trong thành phố, cùng vô số sứ đồ đang bay lượn tung hoành trên bầu trời với vẻ ngán ngẩm.
+Người dân vương quốc Pialook đã sơ tán đến dị giới nên không có thiệt hại về người, nhưng các tòa nhà trên mặt đất dường như đã tan tành mây khói cả rồi.
+
+Thà rằng như Liza nói, dọn dẹp sạch sẽ không để lại hậu họa――.
+
+『――Đợi đã. Nóng nảy là thiệt, Satou nên chờ đợi. Karion cũng nói thế.』
+『Tôi không nói, đó là lời vọng tưởng của Urion. Nhưng, đúng là cần thêm chút thời gian trước khi hành động.』
+
+Hai nữ thần thiếu nữ ồn ào xuất hiện ngay trước mắt tôi.
+
+Chẳng phải việc xuất hiện ở Nhân giới tốn kém thần lực lắm sao?
+
+『Đây là avatar. Bản thể vẫn ở trong Thần giới.』
+『Đúng như Karion nói. Ta chuyển thần thác (lời phán truyền) nén chặt vào cơ thể nữ tế gần nhất rồi tự động tái tạo.』
+
+Ra là vậy, nhắc mới để ý, sự thần thánh cũng không nhiều đến thế, nếu nhìn kỹ thì đường nét mái tóc vàng kim cũng chỉ là màu sắc cá nhân của từng vị thần mà thôi.
+Việc chuyển dịch nữ tế từ vị trí gần nhất cũng tốn kém, nhưng với các vị thần thì chắc đó là chuyện nhỏ. Ngay cả nữ thần Parion còn chuyển dịch cả chiến hạm của Anh hùng――tàu tiềm hành không gian Jules Verne đến vị trí của Anh hùng mà.
+
+Dù gọi là tự động tái tạo nhưng cảm giác hơi có tính tương tác, cứ coi đó là kỹ thuật của thần linh đi cho đỡ thắc mắc.
+
+"Vậy các cô tìm tôi có việc gì?"
+『Có hai điều muốn truyền đạt.』
+『Điều thứ nhất là, hãy lấy "Sách Trí Tuệ" Calisefel ra.』
+
+Tôi làm theo lời họ, lấy thần khí được nữ thần Karion ban tặng từ trong kho (storage) ra.
+
+Cuốn Sách Trí Tuệ lấy ra tự động lật trang, và trên mặt sách hiện ra những ma pháp trận xếp lớp phức tạp.
+
+『Đợi chút.』
+
+Nữ thần Karion nói vậy rồi chọc ngón tay của avatar vào ma pháp trận.
+Cô ấy cử động ngón tay như đang chơi trò đan dây, các đường nét cấu thành ma pháp trận bị sắp xếp lại, biến đổi thành một ma pháp mới.
+
+『Thế này là được. Nếu dùng ma pháp này, có thể chịu đựng được "Cấm kỵ chi lực" trong một khoảng thời gian.』
+
+――Ồ, cái này thì tôi thành thật cảm kích.
+
+Tôi vừa cảm ơn nữ thần Karion vừa giải mã ma pháp đã được cải biến bởi Sách Trí Tuệ.
+Có một vài điểm có thể tối ưu hóa cho bản thân tôi, nên tôi nhanh chóng sửa chữa và tạo ra một phiên bản nâng cấp.
+
+Mà này, nếu có ma pháp như thế này thì đáng lẽ phải niệm cho các nam thần đang lao vào Ma giới chứ.
+À, mà có khi là niệm rồi mà vẫn ra cái nông nỗi đó cũng nên.
+
+Tạm thời cứ niệm thử xem sao.
+
+――Ừm, ổn đấy.
+
+『Kinh ngạc.』
+『Kinh ngạc cái gì? Ma pháp được dạy mà dùng được ngay là chuyện bình thường. Karion làm quá lên rồi.』
+『Sai rồi, Urion thiếu quan sát. Trong thời gian ngắn ngủi này mà đã cải tạo ma pháp thành của riêng mình. Tốc độ này là dị thường. Satou là dị thường.』
+
+Xin đừng cứ lặp đi lặp lại "dị thường" mãi, mất hết cả động lực làm việc.
+Có lẽ cảm nhận được bầu không khí chán nản của tôi, nữ thần Karion vẫn đang trong trạng thái kinh ngạc, còn nữ thần Urion thì bỏ qua và tiếp tục câu chuyện.
+
+『Điều thứ hai là về chiến đấu. Sứ đồ giống như ma tộc, chúng là máy móc chiến đấu nên cứ tiêu diệt đi. Dù có giết thì cũng sẽ được tái sản xuất cá thể tương tự từ các nguyên mẫu (archetype) ở nơi ươm mầm.』
+
+――Nguyên mẫu? Giống như High Elf của Azer-san sao?
+
+『Urion nói năng thiếu ý tứ. High Elf là thứ khác, đó là tác phẩm nghệ thuật do Sáng Thế Thần tạo ra. Sứ đồ thì được tạo ra bằng cách nén thần lực vào khuôn mẫu. Chúng không có tự ngã không cần thiết cho việc thực thi nhiệm vụ, chỉ là những cỗ máy sản xuất hàng loạt hoạt động theo các chỉ dẫn hành động đã được khắc sâu.』
+
+Chuyện này thì mãi sau tôi mới biết, trường hợp của ma tộc thì nghe nói là ma tộc nguyên thủy gọi là Mother sẽ nhào nặn chướng khí nồng độ cao để tạo ra. Ma tộc cấp cao hình như có tự ngã được hình thành từ tàn dư của chướng khí, nhưng vì chúng là tồn tại bất tử giống như Ma Vương, nên giết rồi cũng sẽ có ngày tái sinh.
+
+『Karion nói dài quá. Truyền đạt xong rồi. Heralion bọn họ muốn đánh đập cũng được, nhưng đừng giết. Karion cũng nói thế.』
+『Tôi không nói――mà cũng không phải không nói. Dù là Zaikuon đó thì cũng cần thiết cho việc duy trì kết giới và thực thi thiên phạt. Nhưng Zaikuon cần phải chịu đau đớn một chút để tự kiểm điểm.』
+
+Có vẻ các nữ thần cũng đã chán ngấy các nam thần như nữ thần Zaikuon rồi.
+
+『Hết việc muốn nói rồi.』
+『Cơ thể này sẽ tự quay về chỗ cũ, cứ mặc kệ nó đi. Karion cũng nói thế.』
+『Sự xâm thực của Ma giới cứ để Heralion bọn họ tự sửa đi.』
+
+Bị nữ thần Karion lấn át, nữ thần Urion có vẻ hơi bất mãn.
+
+『Galrion và Zaikuon làm việc tỉ mỉ rất kém nên khuyến nghị để Heralion làm. Karion cũng nói thế.』
+『Tôi không nói. Nhưng, đồng ý với ý kiến của Urion. Galrion đặc biệt vụng về.』
+『Còn lại giao cho ngươi. Karion cũng nói thế.』
+『Ừm, cố lên nhé.』
+
+Cuộc hội thoại kết thúc, dáng vẻ của hai vị thần biến mất.
+
+◇
+
+"Mọi người, tập hợp lại!"
+
+Tôi niệm "Chướng khí chướng bích" nhận được từ nữ thần Karion lên các cô gái thú nhân.
+Vì có khả năng sẽ có đòn tấn công tinh thần khác giống như bùn đen bám trên chiếc cúp vàng của nữ thần Zaikuon, tôi niệm đè thêm cả "Tự bế", một loại phòng thủ tinh thần bằng ma pháp tinh thần lên nữa.
+
+"Lấp lánh~?"
+"Cái, cái này là?"
+"Là vô địch ạ!"
+"Đây là Chướng khí chướng bích được thần linh dạy đấy. Có thể lại gần đám bùn đen đó một chút nhưng đừng chạm trực tiếp vào nhé."
+
+Tôi nghĩ nếu chỉ một, hai lần chạm trực tiếp thì nó cũng chống đỡ được, nhưng không được chủ quan.
+Liza bao bọc các đồng đội bằng kỹ năng độc nhất "Cương tâm anh hùng" được nữ thần Galrion cho mượn.
+
+『Hikaru, Alisa, chị gửi ma pháp nhận được từ nữ thần Karion qua. Hãy tích hợp nó vào mạch tính toán ma thuật của tàu không gian hạng nặng, làm sao để có thể sử dụng được nhé.』
+『Ừm, rõ rồi!』
+『Cứ để cho Alisa-chan này lo!』
+
+Tôi dùng ma pháp chuyển dịch vật chất để gửi "Sách Trí Tuệ" Calisefel vào buồng lái của tàu không gian hạng nặng.
+Ở bên đó có Sera sở hữu "Ẩn mật ẩn giả" của nữ thần Tenion và Mia sở hữu "Thánh vực cảnh bị" của nữ thần Urion.
+Chắc chắn sẽ không bị các sứ đồ bùn đen tấn công cho đến khi chuẩn bị xong.
+
+"Ba người hãy tấn công các sứ đồ từ xa rồi kéo chúng lên không trung nhé."
+"Kéo khoảng bao nhiêu ạ~?"
+"Đến độ cao của tàu không gian đang lơ lửng ấy. Làm được không?"
+"Chuyện nhỏ như con thỏ luôn ạ!"
+"Vâng, cứ để bọn em lo ạ."
+
+Các cô gái thú nhân thu hút sự chú ý của các sứ đồ bằng hơi thở của Ryuuryu và pháo hỗ trợ từ trang bị tăng cường, bắt đầu tạo ra một đoàn tàu (train).
+Đó là khoảng cách tinh tế, không quá xa cũng không quá gần.
+
+Giờ tôi mới để ý, trong đoàn tàu đó còn trộn lẫn cả vài chiếc thuyền ngự vàng giống cái mà Zaikuon đã cưỡi.
+Pháo quang từ thuyền vàng tấn công các cô gái thú nhân, nhưng không thể bắt được họ, những người đang tận dụng tối đa Thuấn động và Nhị đoạn nhảy giữa không trung. Những lúc suýt bị trúng đòn, họ khéo léo dùng Phalanx dùng một lần để gạt bỏ.
+
+Sau khi dõi theo một chút, tôi quyết định làm việc mà chỉ mình tôi có thể làm.
+
+"Trước tiên là――"
+
+Tôi chuyển dịch đến bên cạnh các nam thần bằng cách bố trí đơn vị thị giác.
+
+Tôi niệm chồng đè ma pháp quang cấp cao "Thần uy quang huy tịnh hóa" mà tôi từng dùng cho các nàng tiên bị bùn đen xâm thực trước đây.
+
+Tôi không thể spam liên tục "Thần thoại băng hoại: Liệt" giống như lúc với nữ thần Zaikuon được.
+Nữ thần Zaikuon có hình xăm đó lúc ấy đang trong trạng thái được bùn đen cường hóa, nhưng với các nam thần đang suy yếu hiện tại thì có khi tôi sẽ giết chết họ mất.
+
+"Nuooo, mất hết cả sức lực rồi."
+"Nhân tộc kia! Ngươi định nhân cơ hội này để tiễn bọn ta đi sao!"
+"Không phải, sự nhơ bẩn cũng đã mất đi sức mạnh rồi. Tranh thủ lúc này mà tẩy sạch đi."
+
+Lẽ ra đây không phải là ma pháp có tác dụng với thần linh, nhưng có vẻ chính sự nhơ bẩn đang giành giật sức mạnh từ các vị thần để kháng cự việc bị tẩy sạch chướng khí.
+
+Tôi dùng ma pháp tiếp theo.
+
+――Chướng khí chướng bích.
+
+"Cái, cái này là?"
+"Sự xâm thực đã dừng lại rồi!"
+"Tranh thủ lúc này mà tẩy sạch nhơ bẩn đi! Hãy giúp ta, Galrion! Zaikuon!"
+"Ồn ào quá, chính ngươi mới phải giúp đi."
+"Các ngươi, vào lúc này mà còn cãi nhau thì ngu ngốc đến thế là cùng! Tại sao lại không hiểu là phải hợp tác chứ!"
+
+Vì thần Galrion tương đối ổn hơn nên hãy cứu ông ấy trước.
+
+Tôi niệm chồng đè "Chướng khí chướng bích" lên cả bản thân mình, rồi thử dùng ma pháp nguyên thủy để sao chép và cường hóa hiệu quả đó.
+
+Thế này thì chắc được.
+
+"Ng, ngươi làm gì thế?"
+"Tôi sẽ giúp."
+
+Tôi nắm lấy đám bùn đen đang bám lấy thần Galrion rồi ném đi.
+Tôi dùng nhiều tầng ma pháp kết giới bao bọc đám bùn đen, rồi dùng "Thần thoại băng hoại" để hủy diệt nó.
+
+――Hự.
+
+Chắc là kết giới không đủ, nên nó không chịu nổi uy lực của Thần thoại băng hoại và bị rách.
+Tàn dư của bùn đen bị văng ra, nhưng ở mức độ đó thì "Chướng khí chướng bích" có thể ngăn được, và cỡ này thì "Thần uy quang huy tịnh hóa" cũng có thể xóa sạch.
+
+"Tiếp theo là ta, người đứng đầu các vị thần!"
+"Nhân tộc! Ưu tiên cho ta!"
+
+Nữ thần Heralion và Zaikuon gào thét.
+
+◇
+
+『Chủ nhân, em đã tích hợp Chướng khí chướng bích vào tàu không gian rồi. Tiếp theo phải làm gì ạ?』
+『Hãy dùng pháo chính tiêu diệt các sứ đồ mà Liza và mọi người đang dẫn train nhé.』
+『Anh Ichirou! Nếu không có thêm người dẫn dụ thì không thể thu gom tất cả vào phạm vi của pháo chính được ạ!』
+
+Kiểm tra bản đồ, các cô gái thú nhân đang làm rối loạn các sứ đồ, nhưng có vẻ họ không dẫn dụ sứ đồ khéo léo được như chó chăn cừu gom cừu.
+Tôi cần thêm hai hoặc ba người giúp đỡ nữa.
+
+『Satou-san! Tôi cũng ra trận đây.』
+『Em cũng sẽ chiến đấu cùng với Zena ạ.』
+
+Là Zena-san và tiểu thư Karina.
+Dựa vào vị trí điểm sáng trên bản đồ, có vẻ hai người họ đang leo lên các tàu tiềm hành không gian loại chiến đấu cơ.
+
+Zena-san có "Phá tà thánh giả" được cho mượn từ nữ thần Heralion, còn tiểu thư Karina thì có Raka. Ở đây hãy tin tưởng và giao phó cho hai người họ.
+
+『Tôi đã rõ. Khi nguy hiểm hãy tiềm hành không gian để trốn thoát ngay nhé.』
+
+Zena-san và tiểu thư Karina đồng thanh đáp "Vâng".
+
+『Tôi cũng sẽ lên cùng với Zena-san. Chướng khí chướng bích thì tôi không dùng được, nhưng ma pháp thần thánh của tôi chắc là chống lại nhơ bẩn được một chút.』
+『Hỗ trợ cho Karina-dono cứ để tôi lo.』
+
+Tiếng của Sera và Raka truyền đến.
+
+Bên cạnh tàu tiềm hành không gian được phóng ra từ máy phóng của tàu không gian hạng nặng, một đơn vị hình nón khổng lồ xuất hiện.
+
+『Satou, Full Burnern, Four.』
+
+Tiếng của Mia truyền đến.
+
+Đó là Tinh linh giả (pseudo-spirit) chuyên dụng cho không trung Full Burnern 4.
+Chắc là tối ưu nhất cho việc làm người dẫn dụ dùng một lần.
+
+『Tôi cũng sẽ hỗ trợ.』
+
+Golem không trung loại nhỏ do công chúa Sistina điều khiển được phóng ra từ tàu không gian hạng nặng, đảm nhận nhiệm vụ hộ tống trực tiếp.
+
+Trong lúc đó, pháo kích từ tàu không gian hạng nặng do Lulu điều khiển đang bào mòn lực lượng sứ đồ.
+Alisa và Hikaru có vẻ đang bận rộn chuẩn bị pháo chính, còn Nana thì đang bận điều khiển tàu và phòng thủ.
+
+"Nhân tộc kia làm cái gì thế!"
+"Ngươi đang chần chừ cái gì đấy! Ngươi cũng giúp đi chứ Galrion!"
+
+Ái chà, nữ thần Heralion và Zaikuon bị bỏ rơi đang nổi cáu.
+Tôi giải phóng lần lượt nữ thần Heralion và Zaikuon khỏi bùn đen theo trình tự như lúc cứu thần Galrion.
+Tôi đã phát mệt vì nữ thần Zaikuon, người bị để lại sau cùng, cứ ồn ào không dứt.
+
+"Vất vả cho ngươi. Đã làm rất tốt."
+
+Nữ thần Heralion nói lời cảm ơn với giọng điệu bề trên.
+
+"Làm tốt lắm, nhân tộc. Thật là, lúc nào cũng bị Zaikuon làm cho khổ sở."
+
+Thần Galrion cũng an ủi tôi với giọng điệu bề trên, nhưng ngay lập tức chuyển sang càm ràm về nữ thần Zaikuon.
+
+"Kẻ sai là Ma thần. Hơn nữa, nhân tộc kia! Để ta lại sau cùng là quá vô phép rồi!"
+
+Nữ thần Zaikuon không một lời cảm ơn, ngay lập tức tuôn ra những lời biện minh và than phiền.
+Một kẻ không đáng để cứu.
+
+『Đi đi đi đi đi đi đi đi đi đi đi!』
+『Téyaaaaaaaa!』
+
+Tiếng hét của Alisa và Hikaru truyền đến qua ma pháp đàm thoại chiến thuật.
+Ngay sau đó, những tia sáng lấp lánh chạy dọc bầu trời, hàng loạt vụ nổ giống như trong anime nối tiếp nhau xảy ra.
+
+Trong lúc đối phó với các vị thần, có vẻ họ đã gom được các sứ đồ và quét sạch một lượt.
+Đáng tiếc là tôi đã bỏ lỡ cảnh các đồng đội thể hiện.
+
+◇
+
+"Từ giờ tôi sẽ sửa chữa biên giới giữa Nhân giới và Ma giới. Các ngài hợp tác với tôi chứ?"
+
+Tôi thông báo cho các nam thần rằng hãy giúp tôi dọn dẹp hậu quả của họ.
+Nữ thần Zaikuon đang quay mặt đi chỗ khác, nhưng hai vị thần còn lại tuy miễn cưỡng nhưng dường như không có ý kiến phản đối.
+
+Tôi dùng ma pháp không gian để kiểm tra các vết nứt chiều không gian.
+Nó còn nát bươm hơn tôi tưởng. Dù các vết nứt lớn thì ít, nhưng vết nứt nhỏ thì nhiều vô kể.
+
+"Không còn cách nào khác. Zaikuon và Galrion, cho ta mượn thần lực. Việc sửa chữa tỉ mỉ cứ để ta làm."
+
+Ồ, có vẻ nữ thần Heralion sẽ làm cho.
+Tôi sẽ chuyển sang hỗ trợ.
+
+Nữ thần Heralion dệt ra những thứ giống như sợi chỉ bằng thần lực, rồi ra lệnh "Đi đi", những sợi chỉ đó tự động cử động và bắt đầu khâu lại các vết nứt chiều không gian.
+Đó là một kỹ năng khá tiện lợi. Phải cố gắng sao chép bằng mắt thôi.
+
+Vì có vẻ khó khâu, tôi dùng ma pháp không gian để làm phẳng vùng mà nữ thần Heralion đang thực hiện công việc.
+
+Những sợi chỉ do nữ thần Heralion điều khiển đang khâu lại các vết nứt không gian.
+
+"――Hự."
+
+Việc khâu lại làm cho không gian bị kéo căng, có vẻ như vết nứt ở nơi khác lại bị mở rộng ra.
+Dù rất khó chịu nhưng nữ thần Heralion vẫn tiếp tục công việc, nhưng cứ sửa chỗ này thì chỗ khác lại nứt ra.
+
+Nó giống như việc cố gắng sửa chữa một tấm vải đã bị mòn và hư hại sợi vải vậy.
+Cũng giống như tấm vải bị kéo căng hoặc bị rách, không gian dường như cũng đang bị vặn vẹo và nứt toác.
+
+Tôi cũng dùng hết sức để hỗ trợ, nhưng thật khó để đáp ứng hoàn toàn những sự vặn vẹo đột ngột.
+
+"――Chậc, không gian yếu đuối!"
+
+Nữ thần Heralion nổi cáu.
+
+Nếu cứ mặc kệ cho cô ấy buông xuôi thế này thì khó mà xong việc.
+
+"Để tôi thay cho."
+"Ngươi á?"
+"Thôi đi, nhân tộc thì đừng có mà tự phụ!"
+
+Tôi phớt lờ nữ thần Zaikuon, kẻ đã quên mất việc bị chính nhân tộc đó đánh cho tơi bời, rồi nhìn về phía nữ thần Heralion.
+
+"Ngươi không có thần lực mà dám nói là sẽ điều khiển thần lực sao?"
+"Vâng, nếu chỉ là điều khiển thì."
+
+Việc có thể điều khiển bằng ma pháp nguyên thủy, tôi đã thử lén lút lúc nãy rồi.
+
+"Vậy thì làm thử xem."
+
+Không biết là do đã mệt mỏi hay sao, nữ thần Heralion hất cằm cho phép tôi thử.
+
+Xoẹt xoẹt xoẹt.
+
+Kỹ năng may vá vốn đã lâu không được sử dụng giờ lại phát huy tác dụng cực lớn.
+
+"Kh, không thể nào!"
+"Nhân tộc mà lại có kỹ năng như thế này..."
+"Làm tốt đấy chứ. Chuyện gì vậy Heralion, sắc mặt cô tệ thế?"
+
+Làm ơn đừng có cãi nhau vì những chuyện vặt vãnh nữa.
+
+"Dù sao cũng đã khâu lại được rồi..."
+"Ừm, áp lực từ Ma giới mà làm rách lại thì chỉ là vấn đề thời gian thôi."
+
+Đúng như nữ thần Heralion nói, có rất nhiều chỗ vết nứt đang chực chờ bùng phát trở lại.
+
+"Để bảo vệ Nhân giới, không còn cách nào khác ngoài việc loại bỏ kẻ đầu sỏ."
+"Đúng thế! Hãy đột nhập vào Ma giới và loại bỏ nhơ bẩn khỏi Ma thần đi! Nếu làm được vậy thì Ma thần chắc chắn sẽ tự giải quyết đám nhơ bẩn đang lan tràn trong Ma giới!"
+"Câm mồm Zaikuon. Tại sao ngươi không hiểu là nếu làm được vậy thì đã không khổ sở đến thế này!"
+
+Quả nhiên, gốc rễ của vấn đề nằm ở đó sao.
+
+Nếu biết kẻ ngốc nào đó đã nhét "Cấm kỵ chi lực" vào Bạch Thiên Uy Huy Tinh (hạt tinh thể tỏa sáng) bị đánh cắp từ Thần giới mà không nghĩ đến hậu quả, tôi muốn spam Thần thoại băng hoại vào mặt kẻ đó.
+
+"Nhân tộc kia nhìn cái gì! Vô phép quá!"
+
+Nữ thần Zaikuon nhận ra ánh mắt của tôi và gào lên.
+
+"Không, đúng rồi. Là ngươi! Ngươi, kẻ đã bóc tách nhơ bẩn khỏi bọn ta, chắc chắn có thể đi đến Ma giới và lau sạch nhơ bẩn khỏi Ma thần!"
+
+Nữ thần Zaikuon hiếm khi nói đúng trọng tâm.
+
+"Câm mồm Zaikuon! Đưa hắn đi gặp Ma thần, rồi nếu bị Ma thần nuốt chửng thì sao! Chuyện đó mà ngươi cũng không hiểu à!"
+"Không, chuyện đó hình như không còn nữa đâu ạ."
+
+Nữ tiểu nữ màu tím từng nói rằng Ma thần đã trở thành thể hoàn chỉnh nhờ các con rối giả mà các vị thần đã chuẩn bị.
+
+Nếu có thể, tôi muốn im lặng và để các vị thần tự dọn dẹp hậu quả, nhưng nếu khoanh tay đứng nhìn thì sợ sự việc sẽ càng trở nên rắc rối hơn, nên tôi đành phải đứng dậy.
+Thật là, chắc chắn tí nữa sẽ bị Alisa cằn nhằn cho xem.
+
+"Vậy thì không vấn đề gì. Đúng không Heralion!"
+"Ừm. Nhân tộc――Satou Pendragon, ta ra lệnh cho ngươi. Hãy đến Ma giới và tẩy sạch nhơ bẩn của Ma thần!"
+"Tiện thể giải cứu luôn Parion đi!"
+
+Nữ thần Zaikuon thuận nước đẩy thuyền mà nói ra những lời dư thừa, nhưng tôi không có ý định gật đầu với chuyện đó.
+Vì tình hình thực sự bị bắt cóc hay không cũng còn nghi vấn, tôi không thể nhận một nhiệm vụ bất cẩn như thế được.
+
+"Đúng thế, nếu tìm thấy Parion thì hãy giải cứu về đây. Nếu hoàn thành mệnh lệnh trước đó và giải cứu được Parion, bọn ta bảy vị thần sẽ ban cho ngươi mỗi người một quyền năng, và ban cho ngươi thần cách."
+
+――Ồ?
+
+Có vẻ cờ cưới với Azer-san sắp được dựng lên nhờ cú "từ trên trời rơi xuống" này.
+Tôi không biết bảy vị thần có thể ban thần cách cho người khác hay không, nhưng về cơ bản thì thần linh không bao giờ nói dối. Khi thực hiện nhiệm vụ tẩy sạch nhơ bẩn của Ma thần ở bên đó, nếu tìm thấy nữ thần Parion thì tôi sẽ mang về.
+
+Nếu không có ở đó thì thôi, còn nếu mang về thành công thì cứ coi đó là phần thưởng kèm theo để lấy cờ cưới với Azer-san.
+
+Nếu có thể, tôi muốn họ thiết lập phần thưởng riêng cho hai nhiệm vụ, nhưng bây giờ thì thời gian đàm phán không còn nhiều.
+
+Tạm thời, để xác nhận xem có thể thực hiện nhiệm vụ hay không, hãy thử ghé qua Ma giới một chuyến xem sao――.
+
+※ Lần cập nhật tiếp theo dự kiến là ngày 8/12 (Chủ nhật).

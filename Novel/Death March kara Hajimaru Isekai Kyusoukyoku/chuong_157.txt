@@ -1,0 +1,173 @@
+Đây là bản dịch tiếng Việt cho đoạn văn bạn cung cấp:
+
+※ 15/9: Đã sửa lỗi chính tả.
+※ 13/8: Đã bổ sung và chỉnh sửa một phần.
+
+Là Satou đây. Khi làm việc với các môi trường lập trình tích hợp, đôi khi tôi lại cảm thấy hoài niệm về thời sinh viên, cái thời mà tôi vừa ngắm nhìn bảng chuyển đổi binary của mnemonic, vừa cố gắng cắt giảm dung lượng và tối ưu hóa tốc độ.
+　Dẫu vậy, tôi không hề muốn quay lại thời đó đâu. Suy cho cùng, kỹ thuật là phải tiến bộ mà.
+
+◇
+
+　Chiếc mũi khoằm, nếp nhăn giữa chân mày, bộ ria mép được tỉa tót kỹ càng cùng mái tóc vàng sẫm chải ngược ra sau. Ánh mắt ông ta tràn đầy sự mạnh mẽ, toát lên ý chí kiên định.
+
+　Đây thực sự là anh em với Torma sao?
+
+　Đứng cạnh nhau trông ông ta giống cha của Torma hơn. Gương mặt có phần già dặn, chẳng ai nghĩ ông ta mới 34 tuổi cả.
+
+"Cảm ơn vì đã cứu Torma."
+
+　Thật kỳ lạ. Dù là đang được cảm ơn, nhưng tôi lại có cảm giác như đang bị cấp trên quở trách vậy.
+　Đó chính là anh trai của Torma, Tử tước Horsalis Siemens.
+
+"Xin lỗi nhé, ngài Satou, anh trai ta chỉ biết nói chuyện kiểu đó thôi."
+"Thật bất lịch sự. Torma, cách nói chuyện của ta có chỗ nào không ổn chứ?"
+
+　Bản thân câu chữ thì bình thường, nhưng cách nói của ngài Horsalis lại mang phong vị của một giáo viên khó tính đang mắng mỏ những học sinh kém cỏi. Thực tế, ở bên cạnh, Arisa đang tỏa ra bầu không khí như sắp chảy nước miếng tới nơi. Tôi cứ có cảm giác như cô nàng đang rò rỉ ra một thứ hào quang bóng bẩy đến lạ lùng.
+
+　Vấn đề đáng lo ngại nhất là việc tham quan xưởng chế tác đã được cấp phép mà không gặp trở ngại nào.
+　Về phần các cuộn giấy ma thuật (magic scroll) đã hứa làm thù lao cho thanh đoản kiếm của Torma, dù không được ưu tiên hàng đầu, nhưng họ cũng đã dành ra một dây chuyền sản xuất để ưu tiên cho tôi.
+
+"Vậy ra, ngài đã xảy ra mâu thuẫn với Hoàng tử Shaloric sao, ngài Pendragon? Hãy hết sức cẩn thận. Ngài ấy có xu hướng muốn giải quyết rắc rối một cách đơn giản bằng bạo lực đấy."
+
+　Theo ngài Horsalis, có vẻ vị hoàng tử này cũng bị xem là kẻ phiền toái ngay tại kinh đô. Khoảng 10 năm trước, từng có một vụ ầm ĩ khi ngài ta ra tay với con gái của một lãnh chúa địa phương đã được định hôn ước, suýt chút nữa khiến một vùng lãnh địa Bá tước nổi loạn chống lại Vương quốc Shiga. Việc tiểu thư Ringrande hủy hôn với Hoàng tử cũng là do vụ việc này mà ra.
+　Đáng lẽ ra, với cái danh nghĩa "dưỡng bệnh", ngài ta nên bị giam lỏng ở tu viện vùng biên giới hoặc cung điện biệt lập, nhưng nhờ có tài kiếm thuật xuất chúng nên mới được cho phép lập thân với tư cách Thánh kỵ sĩ. Nghe đồn kể từ khi trở thành Thánh kỵ sĩ, những lời đồn đại đen tối về ngài ta vẫn không hề dứt, chỉ là không gây ra những vụ bê bối chấn động như thời còn ở lãnh địa địa phương mà thôi.
+
+　Thật không hiểu sao người ta lại có thể tin tưởng trao Thánh kiếm cho một kẻ như thế.
+
+◇
+
+"Cho nên, hãy dùng loại mực pha từ sương của hoa Huỳnh Linh Lan đi ạ~"
+"Đúng là với loại mực đó thì có thể thao tác chính xác trên bàn phụ ma, nhưng ngươi có biết nó đắt đến thế nào không?"
+"Chuyện đó... thì mấy thứ như bột vảy rồng hay bột sừng xoắn mà ngài Jang nói cũng đâu có tính được lợi nhuận đâu ạ~"
+
+　Tiếng người vọng ra từ sau cánh cửa dẫn tới hành lang.
+　Chắc đó là những nghệ nhân làm cuộn giấy mà ngài Horsalis đã gọi đến.
+
+"Thưa ngài, ngài đã về rồi."
+"Ngài Horsalis, mừng ngài đã về!"
+
+　Một người đàn ông trung niên béo phì đến mức khiến từ "béo bụng" trở nên nực cười, cùng một cô bé tóc ngắn màu vàng tro đeo kính với những đốm tàn nhang nhỏ được mời vào phòng. Cô bé đó là một phụ nữ người lùn (Gnome) với gương mặt phổ thông, không thể nói là xinh đẹp nhưng cũng chẳng đến nỗi xấu xí.
+
+"Người kia là Jang, quản đốc xưởng. Dù ngoại hình như vậy nhưng về mặt cuộn giấy, ông ta là kỹ sư số một Vương quốc Shiga. Còn cô bé kia là Natalina. Xét về mặt sáng tạo và khéo léo thì cô bé đứng đầu xưởng này. Chắc chắn sẽ đáp ứng được kỳ vọng của ngài Pendragon."
+
+　Sáng tạo và khéo léo, nghĩa là không làm mấy món hàng bán chạy, mà là tạo ra những cuộn giấy kỳ quặc, hoặc lấy danh nghĩa "sáng tạo" để đốt ngân sách như nước. Đúng là nhân tài dành cho tôi rồi.
+
+　Sau khi giới thiệu hai người, ngài Horsalis cùng Torma rời đi. Vốn dĩ tôi cũng chỉ định chào hỏi trong lúc chờ đợi trước khi họ đi ra ngoài nên chẳng có vấn đề gì cả.
+
+◇
+
+　Tôi đưa danh sách các cuộn giấy mong muốn cho ngài Jang xem để kiểm tra xem có làm thành cuộn giấy được không, nhưng quả nhiên, những phép thuật thuộc cấp cao là bất khả thi.
+　Ngoài ra, những phép thuật có thể dùng cho tội phạm hoặc tình báo như "Thông tin ngụy trang" (Fake Information) hay "Mở khóa" (Unlock) cũng không được nhận làm.
+
+　Phép chiến đấu thì được mà phép tội phạm lại không à?
+
+　Thế mà mấy phép như "Xuyên thấu" (Clairvoyance) hay "Sợi chỉ lý lực" (Magic Thread) – loại phép mà tùy cách dùng có thể ứng dụng để mở khóa – lại không sao cả.
+
+　Hơn nữa, việc tạo cuộn giấy đòi hỏi người hoàn thiện phải có kỹ năng của phép thuật đó, nên những phép như "Trọng lực", "Bóng tối", "Tinh thần", "Tử linh" dường như không thể tạo ra được.
+　Tôi có chút kỳ vọng liệu có dùng được phép "Không gian" không, nhưng họ bảo rằng với "Không gian" và "Phá hủy", chỉ có người làm được đến cấp sơ cấp mà thôi.
+　Họ cũng nói rằng cuộn giấy ma thuật thần thánh không thể làm được do lý do tôn giáo. Không biết về mặt kỹ thuật thì có khả thi không nhỉ.
+
+"Nè, ngài Sĩ tước. Tôi biết ngài là người sưu tầm, nhưng những phép thuật trong bảng này dù dùng cuộn giấy thì hiệu quả cũng chẳng đáng là bao đâu? Ngài có thực sự chắc chắn không?"
+"Natalina, dùng kính ngữ đàng hoàng hơn chút đi."
+"Ê~ Tôi dùng kính ngữ chuẩn mà, ngài Sĩ tước."
+"Tuy hơi suồng sã một chút, nhưng tôi là kẻ mới phất lên, nếu khó dùng kính ngữ thì cứ nói chuyện bình thường cũng không sao đâu."
+
+　Nghe vậy, Natalina liền reo lên "Thật á? Tuyệt quá" trong khi giơ hai tay lên, và ngay lập tức bị ngài Jang gõ vào đầu.
+　Về danh sách chú văn, tôi cũng đã hứa là dù hiệu quả có yếu thì cũng sẽ không phàn nàn. Vì khoảng một nửa số chú văn đã có sẵn trong kho, nên tôi đã đánh dấu thứ tự ưu tiên và hoàn tất việc đặt hàng.
+
+"Chú văn kỳ lạ thật đấy? Dễ nhìn đấy, nhưng hiệu suất kém quá. Tuy nghĩ là có thể gói gọn trong cấp sơ cấp, nhưng niệm chú dài quá, dùng bất tiện lắm."
+
+　Chú văn của thế giới này giống như "spaghetti code" trong lập trình vậy. Nó đan xen vào nhau như một trò xếp hình, giống như ngôn ngữ Assembly của thời kỳ CPU còn yếu kém ngày xưa. Chính vì thế mà cực kỳ khó phân tích. Tôi thậm chí còn nghi ngờ không biết họ làm vậy có phải là để mã hóa làm khó người khác không nữa.
+　Vì vậy, khi tạo ra chú văn của riêng mình, tôi đã thử áp dụng tư duy lập trình cấu trúc, chia nhỏ chú văn theo chức năng thành các module. Kết quả là tôi có được những chú văn có khả năng đọc cực cao, nhưng nhược điểm là chú văn trở nên dài dòng và tiêu tốn nhiều MP hơn. Có lẽ những chú văn truyền thống kia là kết quả của việc tối ưu hóa suốt bao nhiêu năm trời.
+
+"Có thể biến nó thành cuộn giấy không?"
+"À, chuyện đó thì OK. Dù hơi lạ nhưng có vẻ nó không đi chệch khỏi quy tắc của thuật lý ma pháp, nên có lẽ sẽ làm được... ạ."
+
+　Có lẽ vì ngài Jang lườm một cái mà cuối câu cô bé đã cố thêm vào một chút kính ngữ.
+
+"Vậy thưa ngài Sĩ tước, vì cần chút thời gian để lấy hàng trong kho, trong lúc đó ngài có muốn tham quan xưởng không ạ?"
+"Vâng, rất sẵn lòng."
+
+　Tôi dẫn Arisa đi tham quan xưởng. Xưởng nằm dưới tầng hầm trong khuôn viên nhà Tử tước, được canh gác nghiêm ngặt bởi nhiều nhân viên bảo vệ. Tất cả bảo vệ đều từ level 20 trở lên, sở hữu các kỹ năng chống thám tử như "Nhìn thấu" hay "Giám sát".
+
+　Xưởng được chia thành nhiều phòng nhỏ, mỗi phòng chỉ phụ trách một quy trình cụ thể. Vì thế, người biết toàn bộ quy trình chỉ đếm trên đầu ngón tay. Dù trông có vẻ kém hiệu quả nhưng đây là cách triệt để để giữ bí mật công nghệ.
+
+　Giấy làm cuộn giấy hình như được làm ở nơi khác, kết quả phân tích là "Giấy làm cuộn giấy, loại B". Qua cuộc trò chuyện với hai kỹ thuật viên, tôi biết được mực cần phải có bột ma hạch. Việc Tử tước tới kinh đô cũng là để thu mua ma hạch có độ tinh khiết cao. Ma hạch cần thiết để tạo cuộn giấy ma thuật trung cấp chỉ có thể lấy được từ những quái vật mạnh từ level 30 trở lên. Họ có cho tôi xem loại chưa qua gia công, màu đỏ đậm hơn chút so với ma hạch tôi lấy được từ con Giáp Tỉnh Thủ lần trước.
+
+"Phòng này là nơi làm mực."
+
+　Ngài Jang mở hé cửa cho tôi xem, có vẻ không cho vào trong. Ở đây hình như họ làm "Mực làm cuộn giấy, loại A". Tôi đã hiểu được phần nào nguyên liệu, nhưng một trong số đó lại là "Mực làm cuộn giấy, loại B". Khá là hóc búa đây.
+
+　Nói là làm cuộn giấy, nhưng không đơn giản chỉ là viết chú văn bằng giấy và mực chuyên dụng, mà còn cần qua rất nhiều công đoạn. Vì vậy, đối với hàng có sẵn thì mất 2-4 ngày, còn hàng đặt làm riêng thì phải đợi thêm 1-2 ngày nữa.
+
+　Các chú văn có sẵn trong kho gồm những loại sau:
+
+　Thuật lý ma pháp: Tự tại thuẫn (Trung cấp)
+　Thuật lý ma pháp: Tự tại khải (Trung cấp)
+　Thuật lý ma pháp: Xuyên thấu (Trung cấp)
+　Thuật lý ma pháp: Ma lực nhượng độ (Trung cấp)
+　Thuật lý ma pháp: Ma lực cường đoạt (Trung cấp)
+　Thuật lý ma pháp: Ma pháp phá hủy (Trung cấp)
+　Thuật lý ma pháp: Lý lực chi thủ (Trung cấp)
+　Thuật lý ma pháp: Sợi chỉ lý lực
+　　Thổ ma pháp: Nghiền mài
+　　Thổ ma pháp: Tạo khuôn
+　　Thủy ma pháp: Giải độc (Trung cấp)
+　　Thủy ma pháp: Trị liệu (Trung cấp)
+　　Thủy ma pháp: Khinh trị liệu
+　　Phong ma pháp: Phong phòng
+
+　Hầu hết là những món được coi là hàng mẫu không có người mua. Món cũ nhất thậm chí còn có từ hơn 100 năm trước.
+
+　Tôi đã thương lượng giá là 1 đồng vàng cho 3 cuộn cấp thấp, và 2 đồng vàng cho 1 cuộn trung cấp. Bản gốc thì được tính là 3 đồng vàng, nhưng tôi đã xin giảm còn 1 đồng vàng bằng cách cho phép họ sao chép chú văn của mình.
+　Trong việc đàm phán này, Arisa đã thể hiện rất tốt, nhưng nghĩ đến việc cô bé yêu cầu "quấy rối tình dục" làm thù lao, tôi lại thấy thà trả thêm tiền cho xong còn hơn.
+
+　Thật vui khi trong kho có những phép thuật tuy trầm lắng nhưng hữu ích như "Nghiền mài" hay "Tạo khuôn". Với cái này, tôi sẽ bớt được công đoạn làm khuôn cát từ khuôn gỗ khi đúc.
+
+　Tôi đã tìm thử xem có phép tạo ra các tấm khiên nhỏ mà Raka từng dùng khi chiến đấu với Ma tộc ở thành phố Gururian – thứ mà tôi được biết có tên là "Tích tầng lý lực tiểu thuẫn" – hay không, nhưng không thấy.
+　Tôi có hỏi xem có thể đặt làm không, nhưng họ bảo vì là thuật lý ma pháp cấp cao nên không được. Tiếc thật.
+　Nghe nói đó là loại phép được phát triển để tái hiện lại các tấm khiên nhỏ mà Trư Vương từng sử dụng bằng thuật lý ma pháp, nhưng với tư cách là người đã tận mắt chứng kiến, tôi buộc phải nói rằng độ tái hiện vẫn còn kém một bậc. Hay là nếu kỹ năng cao thì phép thuật sẽ đạt được hiệu quả tương đương nhỉ?
+
+　Những thứ tôi đã đặt hàng như sau:
+
+　Thuật lý ma pháp: Khinh khí tuyệt (Nguyên bản)
+　Thuật lý ma pháp: Dẫn dụ khí tuyệt đạn (Nguyên bản)
+　Thuật lý ma pháp: Ghi âm (Nguyên bản)
+　Thuật lý ma pháp: Chụp ảnh (Nguyên bản)
+　Thuật lý ma pháp: Lý lực kiếm (Nguyên bản)
+　　Thủy ma pháp: Thao tác chất lỏng (Nguyên bản)
+　　Phong ma pháp: Thao tác chất khí (Nguyên bản)
+　　Lôi ma pháp: Thao tác điện khí (Nguyên bản)
+　　Hỏa ma pháp: Pháo hoa (Nguyên bản)
+　　Quang ma pháp: Huyễn pháo hoa (Nguyên bản)
+
+　Không gian ma pháp: Viễn kiến
+　Không gian ma pháp: Viễn nhĩ
+　Không gian ma pháp: Viễn thoại
+
+　Sinh hoạt ma pháp: Nhu tẩy tịnh
+　Sinh hoạt ma pháp: Khô táo
+　Sinh hoạt ma pháp: Chỉ huyết
+
+　Dòng gây choáng được đặt làm cho người dùng, với giới hạn uy lực. Ghi âm, chụp ảnh dùng để ghi chép thí nghiệm và chụp ảnh lưu niệm khi đi du lịch. Dòng thao tác thì tôi chuẩn bị để dùng khi chế tạo các đạo cụ ma thuật. Các phép còn lại là những phép tuy trầm lắng hoặc quá hiếm nên chưa được làm thành cuộn giấy.
+
+　Xuyên thấu không phải dùng để nhìn xuyên quần áo đâu nhé. Nếu là hồi mới 10 tuổi thì có lẽ tôi sẽ nghĩ ngay đến mục đích đó, nhưng đây là phép dùng để quan sát tình trạng gia công khi chế tạo ma kiếm đúc.
+
+　Lý lực kiếm là phép tạo ra thanh kiếm thẳng có lưỡi trong suốt. Tôi nảy ra ý tưởng này khi nhìn thấy bức tranh của ngài Yamato ở bảo tàng. Kiếm trong suốt, đúng là đậm chất fantasy.
+
+　Thực ra, Lý lực kiếm là ma pháp trung cấp, nhưng có vẻ nó đã chạm đến "điểm huyệt" của Natalina nên cô bé đã đồng ý xử lý nó như những phép nguyên bản khác.
+
+　Cuối cùng, phần tiền vượt quá giá cuộn giấy, tôi đã thanh toán bằng tiền mặt để bù vào.
+
+　Khi chuyến tham quan xưởng cuộn giấy kết thúc, ngài Jang đã cho tôi biết ngày dự kiến hoàn thành. Có vẻ như đúng lúc đang có nhân viên sử dụng được ma pháp không gian rảnh rỗi, nên 3 loại "Viễn kiến", "Viễn nhĩ", "Viễn thoại" dự kiến xong sau 3 ngày, còn lại là "Thao tác chất khí" sẽ xong sau 5 ngày. Những phép khác thì phải sau đó nữa. Đặc biệt là các phép sinh hoạt ma pháp, do người có thể làm được đang nghỉ phép dài hạn với lý do đi xem đại hội, nên phải đợi sau khi đại hội kết thúc họ mới bắt tay vào làm.
+
+　Lúc về, việc lôi kéo Nana đang bám riết lấy Mayuna-chan về cũng làm tôi vất vả hết sức.
+
+*Các dòng phép thuật đã mua ở tiệm ma thuật cùng với Torma lần trước sẽ không công khai. Về cơ bản toàn là ma pháp tấn công và ma pháp phổ thông.*
+
+*Đã đổi Lý lực chi thủ thành trung cấp. Theo đó giá tiền cũng thay đổi, nên tôi đã thêm mô tả về việc thanh toán phần chênh lệch bằng tiền mặt.*
+
+*Đã bổ sung mô tả về các tấm khiên nhỏ mà Raka sử dụng ở phần mua cuộn giấy. (Tìm kiếm từ khóa "Raka" sẽ thấy).*
+
+*Về việc phản hồi nhận xét
+Vì không thể theo kịp phản hồi nhận xét cá nhân, tôi xin phép được phản hồi chung qua báo cáo hoạt động.*

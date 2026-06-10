@@ -1,0 +1,95 @@
+Đầu tiên, đào hầm ngục.
+Để tiết kiệm DP dù chỉ một chút, sau khi dùng DP triệu hồi Golem, tôi để chúng dùng cuốc và xẻng để đào bới.
+
+Đây là phòng Master tạm thời trong lõi giả (Dummy Core). Đối với trận chiến hầm ngục lần này, 'Cha' đã đặc biệt cung cấp một lõi giả, trong đó có chuẩn bị sẵn căn phòng Master tạm thời như một nơi nghỉ ngơi cho đàn anh và hậu bối. (Tôi thì không thấy sự khác biệt gì so với phòng Master chính thức cả, nhưng theo lời Roko và Haku-san thì nó mang lại "cảm giác như vậy").
+Và rồi, tôi chui vào trong đó, đưa ra mệnh lệnh cho Golem và bắt chúng đào đất.
+
+Tóm lại là đào hầm. Cứ thế mà nện cuốc xuống đào điên cuồng.
+
+"Thật là nhỏ nhen."
+"Nhỏ nhen cũng có sao đâu, dù gì chúng ta cũng đâu có thiếu thời gian."
+
+Khi tôi đang tạo hầm ngục, Haku-san lên tiếng.
+Đất đào lên được thu gom lại liên tục, rồi dần dần mở rộng khu vực. Thỉnh thoảng tôi ném Ma thạch vào đống đất vừa thu gom, dùng [Create Golem] để tạo thành Golem, tăng thêm nhân lực cho công việc.
+
+"Vậy, chỗ đất đào lên này định làm gì?"
+"Sau này dùng để xây tường hoặc lấp đầy các chỗ trống. Còn nữa thì như cô thấy đó, có thể dùng làm nguyên liệu tạo Golem."
+"Hừm. Chà, sử dụng những thứ có sẵn là điều cơ bản mà... Nhưng mà, cậu lại tiết kiệm theo kiểu này à. Dùng đất sau khi đào làm nguyên liệu cho [Create Golem] đúng là rất hữu dụng đấy."
+"Vâng, đại khái là vậy."
+
+Những thủ thuật tiết kiệm như thế này tuy có chút tiểu tiết, nhưng phô bày ra cũng chẳng sao. Chỉ là tiết kiệm thôi mà, với Haku-san thì nó chẳng có ý nghĩa gì cả. Giống như việc tiết kiệm từng đồng xu lẻ khi đang vận hành ngân sách quốc gia vậy.
+Chà, miễn là "thủ thuật gian lận chỉnh sửa ma pháp" lấy [Create Golem] làm chủ đạo của tôi không bị lộ là được.
+
+"Với Haku-san thì chắc chẳng cần tham khảo làm gì, dù sao cô cũng có lượng DP dồi dào mà không cần phải tiết kiệm."
+"Phải nhỉ. ...Trong những quy tắc giới hạn DP như lần trước cậu làm với Keima hay lần này thì đúng là hữu ích thật, nhưng bình thường chẳng mấy khi có kiểu trận chiến hầm ngục như vậy. Khi làm thì đa phần là không giới hạn."
+
+Chà, trường hợp của tôi thì kể cả lần này, trong 3 trận chiến đã có 2 trận là quy tắc giới hạn DP rồi.
+
+"Phư phư, Keima giỏi nhất là cái trò tiết kiệm DP một cách lắt nhắt đấy."
+"Đừng có gọi là lắt nhắt."
+"Nhưng phải thừa nhận rằng việc vận hành rất giỏi là sự thật không thể chối cãi."
+"Đúng vậy, Keima là một kẻ hèn hạ, nếu điều kiện DP ngang nhau thì đến Haku-nee-sama cũng bị cậu ta thắng đấy!"
+"Này, hai người định khen hay chê tôi thế?"
+"Ơ, đang khen mà. Gọi là kẻ hèn hạ đấy thôi."
+
+Hèn hạ là lời khen sao? Văn hóa Dungeon Core thật đáng sợ.
+
+À, nhắc mới nhớ, cuối cùng thì Haku-san cũng bắt đầu thực hiện cái kỹ năng phi thường là mang tài liệu ra ngoài, vừa làm việc vừa ở cùng Roko. Thế nên, ngay bên cạnh Roko đang giám sát đám Golem làm việc, cô ấy đang thản nhiên viết lách các loại tài liệu và thư từ.
+
+"...Crowe-san. Có được phép mang những tài liệu mà chỉ Haku-san mới có thể xử lý ra ngoài như vậy không?"
+"Không tốt cho lắm, nhưng nếu làm vậy mà Haku-sama cảm thấy thoải mái khi làm việc thì không có vấn đề gì. Nếu có chuyện gì xảy ra thì Haku-sama chỉ việc chịu trách nhiệm thôi."
+
+À, ra là vậy. Người đứng đầu cao nhất đã nói tự mình chịu trách nhiệm rồi thì có tốt hay xấu cũng bỏ qua hết, mang đi thoải mái.
+
+"Keima không có công việc gì kiểu như trưởng làng à?"
+"Hửm? Bên ta thì ta giao hết cho cấp dưới rồi. Chà, nếu có vấn đề gì thì ta mới ra mặt giải quyết, nhưng hiện tại mọi thứ vẫn đang thuận lợi."
+
+Có khi chính vì tôi không ló mặt ra nên mọi thứ mới vận hành trơn tru cũng nên.
+
+"Thật đáng ghen tị. À đúng rồi Keima-san, giúp tôi chút việc với đống tài liệu này đi, thu chi không khớp, cậu có biết nguyên nhân ở đâu không?"
+"Có khi là do quý tộc nào đó tham ô nên mới ra nông nỗi này không? Với lại, đừng có cho tôi xem mấy tài liệu cơ mật của Đế quốc, nhỡ tôi bị ám sát thì tính sao?"
+"Ơ kìa? Keima-san chẳng phải đã biết bí mật tối cao của Đế quốc là tôi là Dungeon Core rồi sao? Giờ còn nói mấy lời đó làm gì."
+
+Nhắc mới nhớ, đúng là vậy nhỉ?!
+
+"Ơ, vậy nghĩa là Keima đang bị Haku-nee-sama nhắm tới tính mạng à?! Không được đâu nee-sama! Keima là đối tác của em mà!"
+"Ôi chao. Không sao đâu, ta không nhắm tới mạng sống của cậu ta đâu."
+"À, tốt quá. Vậy thì không sao rồi."
+
+Đó chẳng phải có nghĩa là cô ấy sẵn sàng làm mọi thứ không liên quan đến mạng sống sao?
+Tôi lịch sự trả lại tài liệu mà không dám xem nội dung bên trong.
+T-tạm thời cứ tập trung vào việc tạo hầm ngục vậy...
+
+Dù nói vậy, vì chỉ cần ra lệnh cho Golem đào và mở rộng hầm ngục theo kế hoạch đã định sẵn, nên một lúc nữa tôi sẽ rảnh rỗi. Đám Golem chuyên đào đất tôi cũng đã tạo đủ rồi, và vì Golem cũng hấp thụ Mana của hầm ngục nên chúng sẽ không dừng lại.
+
+...À, nhắc mới nhớ, Roko cũng học được [Create Golem] từ bao giờ ấy nhỉ. Nếu rảnh rỗi thì cứ giao việc giám sát hầm ngục cho Roko là xong. Thậm chí [Create Golem] của con bé chắc chắn sẽ làm tự nhiên hơn của tôi nhiều.
+
+"Roko, một lát nữa ta giao cho em nhé?"
+"Được thôi, còn Keima thì sao? Đi ngủ à?"
+"Ta phải suy nghĩ xem dùng cạm bẫy nào ở đâu đây."
+
+Bình thường thì tôi muốn nói là đi ngủ, nhưng chừng nào Haku-san còn ở đây thì tôi không thể bỏ Roko lại mà đi ngủ được. Khốn thật, cảm giác dạo này tôi thức hơi nhiều rồi đấy!
+
+Chà, gác chuyện đó sang một bên, hãy suy nghĩ xem nên áp dụng những loại cạm bẫy nào.
+...Vì định nhấn chìm bằng nước nên chắc phải cần điện giật nhỉ. Hay là thả chất độc?
+Nhưng nếu đối phương là loại phi sinh vật thì tính sao đây... Quả nhiên, theo lời khuyên của Haku-san thì dùng khối lượng đè bẹp là tốt nhất. Haizz, nếu có thể dùng [Create Golem] thì dùng bao nhiêu cũng miễn phí, nhưng lại phải mất DP để tạo từng con một à.
+
+"Bẫy đá rơi và bẫy gai đâm là được nhỉ."
+
+Nhân tiện, lực lượng tôi chuẩn bị sẽ chủ yếu là "đàn cá mòi", "cá mập" và "người cá". Người cá có thể chiến đấu cả trên cạn nên nếu không thành công trong việc tấn công bằng nước vào hầm ngục đối phương thì vẫn dùng được.
+Quả là lựa chọn đúng chất Haku-san. ...Đúng rồi, thêm cả bạch tuộc vào nữa nhỉ. Ninja của đại dương, bạch tuộc. Dùng màn khói, ngụy trang, xâm nhập vào không gian hẹp, là những trinh sát cực kỳ ưu tú.
+Về phần cạm bẫy, tôi phải chú ý cài đặt sao cho không ảnh hưởng đến phía mình.
+Có vẻ sẽ phải tốn nhiều công sức để điều chỉnh đây.
+
+"Cái đó, thưa Keima-sama. Dagon này là cái gì vậy? Trong catalog mà tôi biết không có cái này..."
+
+Khi tôi đang xem catalog, Crowe ghé sát người vào nhìn cùng.
+Tôi cũng không cố ý giấu giếm gì... à, có mùi hương dịu nhẹ tỏa ra. Nhắc mới nhớ, cô ta ăn mặc kiểu nam giới nhưng thực chất là Succubus.
+Nhưng mà, ra là vậy. Haku-san, hay ít nhất là trong catalog DP mà Crowe có thể tiếp cận không có sinh vật thần thoại này.
+
+"...À, đây là sinh vật thần thoại từ thế giới khác. Cố gắng đừng nhắc tên nó ra nhé. Catalog cũng đừng nhìn vào. Vì nó sẽ làm giảm chỉ số SAN (sự tỉnh táo) đấy."
+"Chỉ cần nhìn thôi đã mất trí rồi sao. Thật đáng sợ."
+"Vâng. Đó là thứ không nên đụng vào."
+
+Tôi lặng lẽ ẩn Dagon đi. Nếu trong catalog của Haku-san không có, thì có lẽ đó là đặc tính do tôi là người từ thế giới khác. Liệu quái vật cũng có loại như vậy sao? Nếu vậy thì có lẽ tôi nên cẩn thận hơn một chút với lũ quái vật định sử dụng thì hơn.
+Tạm thời cứ sử dụng những con quái vật an toàn mà Haku-san đã liệt kê vậy, cứ thế đi.

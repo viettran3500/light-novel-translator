@@ -1,0 +1,362 @@
+*※ Cập nhật sửa lỗi chính tả vào ngày 27/01.*
+
+Dưới đây là danh sách được trình bày theo định dạng: **"Tên kỹ năng ( Cấp độ kỹ năng ) Số chương đạt được"**.
+Những kỹ năng đã đạt được nhưng chưa kịp nhận ra sẽ ghi chương phát hiện, có ký hiệu ※ ở cuối để phân biệt.
+
+**Bảng tham chiếu cấp độ kỹ năng:**
+　Lv1……Người mới bắt đầu
+　Lv3……Đủ trình độ
+　Lv5……Người lành nghề
+　Lv7……Cao thủ
+　Lv9……Thiên tài
+　Lv10……Thần kỹ
+
+---
+
+### ● Nhóm kỹ năng Vũ khí ( 61p )
+
+　Bắn súng　　　　（　Lv10　）　1-9
+　Thương　　　　（　Lv10　）　1-9　◎Lv0⇒Lv10 tại 3-8
+　Cung　　　　　（　――　）　1-9
+　Kiếm một tay　　（　Lv10　）　1-9
+　Chùy một tay　（　――　）　1-9
+　Đoản kiếm　　　（　Lv10　）　1-9　Lv0⇒Lv10 tại 6-2
+　Ném　　　　　　（　Lv1 　）　1-9　▼
+　Chùy hai tay　（　――　）　1-9
+　Kiếm hai tay　　（　――　）　1-10
+　Rìu một tay　　（　――　）　1-10
+　Rìu hai tay　　（　――　）　1-10
+　Búa hai tay　　（　Lv10　）　1-10　◎Lv0⇒Lv10 tại 3-8
+　Búa một tay　　（　――　）　1-10
+　Cận chiến　　　（　Lv10　）　1-10　▼
+
+---
+
+### ● Nhóm kỹ năng Chiến đấu vật lý ( 235p )
+
+　Ngắm mục tiêu　　（　Lv10　）　1-9
+　Bắn tỉa　　　　（　Lv10　）　1-9
+　Đánh lén　　　　（　Lv10　）　1-9　Lv0⇒Lv10 tại 6-2
+　Dũng khí bạo tàn　（　――　）　1-9
+　Rút kiếm nhanh (Iai)　（　Lv10　）　1-9　Lv0⇒Lv10 tại 6-2
+　Khiên　　　　　（　Lv10　）　1-9
+　Né tránh　　　　（　Lv10　）　1-9
+　Gạt đòn　　　　（　Lv10　）　1-9
+　Khiên kích　　　（　Lv5 　）　1-9　Lv0⇒Lv5 tại 6-2
+　Đá　　　　　　（　Lv10　）　1-9　Lv0⇒Lv10 tại 6-2
+　Phá giáp đầu (Kabutowari)　（　Lv10　）　1-10　Lv0⇒Lv10 tại 6-2
+　Không chiến　　（　Lv10　）　1-10　Lv0⇒Lv10 tại 6-2
+　Phá vũ khí　　（　Lv10　）　1-10　Lv0⇒Lv10 tại 6-2
+　Song kiếm　　　（　Lv10　）　1-10　Lv0⇒Lv10 tại 6-2
+　Liên kích　　　（　Lv10　）　3-8　Lv0⇒Lv10 tại 6-2
+　Tâm nhãn　　　（　Lv10　）　6-3
+　Đâm　　　　　　（　Lv10　）　6-3
+　Cú đánh mạnh　（　Lv10　）　6-3
+　Xuyên thấu　　（　Lv10　）　6-3
+　Ma nhận　　　　（　Lv10　）　6-3
+　Loa toàn thương kích（　Lv10　）　6-3
+　Thiểm quang trảm kích（　Lv10　）　7-20
+　Thánh nhận　　（　Lv10　）　7-21
+　Dự đoán trước: Đối kháng người　（　Lv10　）　8-23
+　Ma nhận pháo　（　Lv10　）　9-29 đến 10-3
+
+---
+
+### ● Nhóm kỹ năng Chiến thuật ( 60p )
+
+　Rút lui　　　　（　Lv10　）　1-8　Lv0⇒Lv10 tại 6-2
+　Liên kết　　　　（　Lv10　）　1-9　Lv0⇒Lv10 tại 6-2
+　Chỉ huy　　　　（　Lv10　）　2-8　Lv0⇒Lv10 tại 6-2
+　Biên chế　　　（　Lv10　）　2-8　Lv0⇒Lv10 tại 6-2
+　Tác chiến　　　（　Lv10　）　2-12　Lv0⇒Lv10 tại 6-2
+　Khiêu khích　　（　Lv10　）　6-13
+
+---
+
+### ● Nhóm kỹ năng Vận động ( 80p )
+
+　Tật tẩu　　　　（　Lv10　）　1-4　※
+　Nhảy cao　　　（　Lv10　）　1-4　※
+　Cơ động lập thể（　Lv10　）　1-4　※
+　Quái lực　　　（　Lv10　）　1-10　Lv0⇒Lv10 tại 6-2
+　Vượt địa hình xấu（　Lv10　）　5-14
+　Thiên khu (Bay)（　Lv10　）　7-7
+　Súc địa (Dịch chuyển ngắn)　（　Lv10　）　7-20
+　Du hành vũ trụ　（　――　）　9-23
+　Thiểm khu　　　（　Lv10　）　9-31
+
+---
+
+### ● Nhóm kỹ năng Ma pháp ( 150p )
+
+　Triệu hồi ma pháp: Dị giới　（　Lv10　）　1-2
+　Thuật lý ma pháp: Dị giới　（　Lv10　）　1-2
+　Cầu nguyện　　　（　――　）　1-4
+　Lôi ma pháp: Ác ma　（　――　）　1-9
+　Hỏa ma pháp　　（　Lv10　）　1-10　Lv0⇒Lv10 tại 7-7
+　Phong ma pháp　（　Lv10　）　1-10　Lv0⇒Lv10 tại 7-7
+　Lôi ma pháp　　（　Lv10　）　1-10　Lv0⇒Lv10 tại 8-7
+　Thổ ma pháp　　（　Lv10　）　1-10　Lv0⇒Lv10 tại 7-7
+　Thủy ma pháp　　（　Lv10　）　1-10　Lv0⇒Lv10 tại 8-7
+　Băng ma pháp　（　Lv10　）　1-10　Lv0⇒Lv10 tại 7-7
+　Quang ma pháp　（　Lv10　）　1-10　Lv0⇒Lv10 tại 7-7
+　Sinh hoạt ma pháp（　Lv10　）　2-1
+　Thần thánh ma pháp: Giáo hội Parion　（　――　）　2-1
+　Khế ước　　　　（　――　）　3-3
+　Tinh thần ma pháp（　――　）　3-4　※
+　Ảnh ma pháp　　（　――　）　5-9
+　Thuật lý ma pháp（　Lv10　）　6-7
+　Đặt tên　　　　（　――　）　6-幕間：Tên gia tộc Satou
+　Trọng lực ma pháp: Ác ma　（　――　）　7-20
+　Không gian ma pháp: Ác ma　（　――　）　7-20
+　Phá hoại ma pháp: Ác ma　（　――　）　7-21
+　Bạo liệt ma pháp: Ác ma　（　――　）　7-21
+　Thần thánh ma pháp: Giáo hội Tenion　（　――　）　8-26
+　Viêm ma pháp　（　Lv10　）　8-7
+　Bạo liệt ma pháp（　Lv10　）　8-7
+　Phá hoại ma pháp（　Lv10　）　8-7
+　Không gian ma pháp　（　Lv10　）　8-13 đến 15
+　Lôi ma pháp: Rồng（　――　）　9-10
+　Ám ma pháp: Rồng（　――　）　9-10
+　Viêm ma pháp: Rồng　（　――　）　9-10
+　Phong ma pháp: Rồng　（　――　）　9-10
+　Sâm ma pháp　　（　――　）　9-13
+　Tinh linh ma pháp（　――　）　9-19
+　Tinh linh ma pháp: Gia tinh　（　――　）　10-18
+
+---
+
+### ● Nhóm kỹ năng Kháng cự ( 217p )
+
+　Kháng lôi　　　　（　Lv10　）　1-9
+　Kháng tê liệt　（　Lv10　）　1-9
+　Kháng đau đớn　（　Lv10　）　1-9
+　Kháng vật lý (Đánh)　（　Lv10　）　1-9
+　Kháng sợ hãi　（　Lv3 　）　1-9　Lv0⇒Lv3 tại 6-2
+　Kháng độc　　　（　Lv10　）　1-9
+　Kháng hóa đá　（　Lv10　）　1-9
+　Kháng hỏa　　　（　Lv10　）　1-10　◎Lv0⇒Lv10 tại 3-8
+　Kháng phong　　（　Lv10　）　1-10　Lv0⇒Lv10 tại 6-2
+　Kháng thổ　　　（　Lv10　）　1-10　Lv0⇒Lv10 tại 6-2
+　Kháng thủy　　　（　Lv10　）　1-10　Lv0⇒Lv10 tại 6-2
+　Kháng băng　　（　Lv10　）　1-10　Lv0⇒Lv10 tại 6-2
+　Kháng quang　　（　Lv10　）　1-10　Lv0⇒Lv10 tại 6-2
+　Kháng hủ bại　（　Lv10　）　1-10
+　Kháng tinh thần（　Lv10　）　3-4　※
+　Kháng ảnh　　　（　Lv10　）　5-9
+　Kháng cồn (rượu)（　Lv1 　）　7-4　Lv0⇒Lv1 trước chương 8
+　Kháng trọng lực（　Lv10　）　7-20
+　Kháng không gian（　Lv10　）　7-20
+　Kháng phá hoại（　Lv10　）　7-21
+　Kháng bạo liệt（　Lv10　）　7-21
+　Kháng tử tức (chết ngay)　（　Lv10　）　7-22
+　Kháng ám　　　（　Lv10　）　9-10
+　Kháng ác xú (mùi hôi)（　Lv3 　）　10-29
+
+---
+
+### ● Nhóm kỹ năng Sản xuất ( 150p )
+
+　Mộc công　　　（　Lv10　）　1-4　Lv4⇒Lv10 tại 6-4
+　Thuộc da　　　（　Lv10　）　1-4　Lv4⇒Lv10 giữa chương 6 và 7
+　Tạo vũ khí　　（　Lv10　）　1-4　Lv4⇒Lv10 tại 6-10
+　Rèn sắt　　　　（　Lv10　）　1-10　Lv4⇒Lv10 giữa chương 6 và 7
+　Điều chế (Pha chế)（　Lv10　）　4-9
+　Luyện thành　　（　Lv10　）　4-9
+　Cường hóa vũ khí（　Lv10　）　6-3
+　Tạo giáp　　　（　Lv10　）　6-4
+　Điêu khắc　　　（　Lv10　）　6-10
+　Kim hoàn (Chế tác vàng bạc)　（　Lv10　）　6-10
+　Tạo ma cụ　　　（　Lv10　）　6-10
+　Cốt công (Thủ công xương)　（　Lv10　）　7-12
+　Thủy tinh công　（　Lv10　）　8-5
+　May vá　　　　（　Lv10　）　8-12
+　Làm giả (Ngụy tạo)　（　Lv10　）　8-21
+
+---
+
+### ● Nhóm kỹ năng Học thuật ( 111p )
+
+　Số học　　　　（　Lv10　）　1-4
+　Tri thức đã mất（　――　）　1-4
+　Ngôn ngữ Shiga（　Lv10　）　1-5
+　Ngôn ngữ ác ma　（　Lv5 　）　1-9　Lv1⇒Lv5 tại 7-13
+　Giám định　　　（　Lv10　）　2-2 ▼
+　Suy luận　　　（　――　）　2-6
+　Giải đố　　　　（　Lv10　）　3-8
+　Thực nghiệm　（　Lv10　）　4-5　Lv0⇒Lv10 tại 6-2
+　Kiểm chứng　　（　Lv10　）　4-5　Lv0⇒Lv10 tại 6-2
+　Giáo dục　　　（　Lv10　）　5-2　Lv0⇒Lv10 tại 6-2
+　Ngôn ngữ tộc Chuột xám（　Lv1 　）　5-4　Lv0⇒Lv1 tại 6-2
+　Ngôn ngữ tộc Vảy xanh（　Lv1 　）　5-4　Lv0⇒Lv1 tại 6-2
+　Ngôn ngữ Elf　（　Lv10　）　5-4　Lv3⇒Lv10 tại 6-10
+　Giải phẫu　　　（　――　）　6-2
+　Lễ nghi　　　　（　Lv5 　）　6-14　Lv0⇒Lv5 ngay trước chương 7
+　Xã giao　　　　（　Lv5 　）　6-幕間：Tên gia tộc Satou
+　Huy chương học（　Lv5 　）　6-幕間：Tên gia tộc Satou
+　Giải mã　　　　（　Lv10　）　8-26
+　Ngôn ngữ tộc Bạch hổ（　Lv1 　）　8-25
+　Long ngữ　　　（　Lv5 　）　9-10
+　Ngôn ngữ Sylga　（　Lv3 　）　9-11
+
+---
+
+### ● Nhóm kỹ năng Nghệ thuật ( 43p )
+
+　Ca hát　　　　（　――　）　1-4　※
+　Hội họa　　　　（　――　）　1-4
+　Trò chơi　　　（　――　）　1-4
+　Khuếch đại âm thanh（　Lv3 　）　2-7　▼ Lv1⇒Lv3 tại 6-2
+　Đọc nhanh/Líu lưỡi（　Lv10　）　6-1
+　Khẩu âm rõ ràng（　Lv10　）　6-1
+　Biểu diễn nhạc cụ（　Lv10　）　6-6　Lv0⇒Lv10 tại 6-7
+　Diễn kịch　　　（　――　）　6-22
+　Thuật nói bụng (Ventriloquism)（　Lv10　）　8-5　Lv0⇒Lv10 tại 9-10
+　Vũ đạo　　　　（　――　）　8-11
+
+---
+
+### ● Nhóm kỹ năng Thương mại ( 70p )
+
+　Đàm phán　　　（　Lv10　）　1-5
+　Biện minh　　　（　Lv10　）　1-5
+　Giá cả thị trường（　Lv10　）　1-6
+　Mặc cả　　　　（　Lv10　）　1-6
+　Vô biểu cảm　　（　Lv5 　）　1-7　Lv0⇒Lv5 tại 6-2
+　Thao túng/Che giấu（　――　）　1-8
+　Thuyết phục　　（　Lv5 　）　1-8　▼ Lv3⇒Lv5 tại 6-2
+　Hối lộ　　　　（　Lv5 　）　1-8　Lv0⇒Lv5 tại 6-2
+　Xã giao từ ngữ　（　Lv5 　）　2-3　Lv0⇒Lv5 tại 6-2
+　Bụng dạ (Thủ đoạn)（　Lv10　）　6-22　Lv0⇒Lv10 giữa chương 6 và 7
+
+---
+
+### ● Nhóm kỹ năng Lao động ( 75p )
+
+　Dã doanh (Cắm trại)（　――　）　1-4　※
+　Giặt giũ　　　（　――　）　1-4　※
+　Khai phá　　　（　Lv10　）　1-4　Lv0⇒Lv10 tại 6-13
+　Canh tác　　　（　――　）　1-4
+　Thu hoạch　　　（　――　）　1-4
+　Cắt cỏ　　　　（　――　）　1-4
+　Đốn củi　　　　（　――　）　1-4
+　Dọn dẹp　　　　（　――　）　1-4
+　Giám sát　　　（　Lv10　）　1-7　Lv0⇒Lv10 tại 6-2
+　Bắt giữ　　　　（　Lv10　）　1-10　Lv0⇒Lv10 tại 6-2
+　Phụng sự　　　（　――　）　3-4
+　Vận chuyển　　（　――　）　4-3
+　Điều khiển xe　（　Lv5 　）　4-6　Lv3⇒Lv5 tại 6-2
+　Đóng gói　　　（　――　）　5-14
+　Nấu nướng　　　（　Lv10　）　6-2
+　Giải thể (Xẻ thịt quái)（　Lv10　）　6-2
+　Thái tập (Thu lượm)（　Lv10　）　6-13
+　Cưỡi thú　　　（　Lv10　）　6-15
+　Cưỡi ngựa　　　（　――　）　6-15
+　Thuần hóa　　　（　――　）　9-26
+　Huấn luyện　　（　――　）　9-26
+
+---
+
+### ● Nhóm kỹ năng Mê cung ( 59p )
+
+　Giải bẫy　　　（　Lv10　）　2-10　◎Lv0⇒Lv10 tại 3-8
+　Sử dụng bẫy　　（　Lv5 　）　2-10　Lv0⇒Lv5 tại 6-2
+　Phát hiện bẫy　（　Lv10　）　2-10
+　Đào bới　　　　（　Lv10　）　2-10　Lv0⇒Lv10 tại 6-2
+　Phát hiện bảo vật（　Lv10　）　2-10　Lv0⇒Lv10 tại 6-2
+　Mở khóa rương　（　Lv10　）　2-10　Lv0⇒Lv10 tại 6-2
+　Kho báu　　　　（　Lv4 　）　3-5　◎Lv2⇒Lv4 tại 5-2
+
+---
+
+### ● Nhóm kỹ năng Mật thám ( 140p )
+
+　Trá thuật (Lừa đảo)（　Lv10　）　1-5
+　Đọc môi　　　　（　Lv10　）　1-5　Lv0⇒Lv10 tại 6-2
+　Nghe lén　　　（　Lv10　）　1-6　Lv0⇒Lv10 tại 6-2
+　Mật thám (Gián điệp)（　Lv10　）　1-9
+　Thay đồ nhanh　（　Lv10　）　1-10
+　Cải trang　　　（　Lv10　）　1-10
+　Ám nhảy (Hoạt động ngầm)（　Lv10　）　2-6　Lv0⇒Lv10 tại 6-2
+　Bắt cóc　　　　（　Lv10　）　2-6
+　Ám sát　　　　（　Lv10　）　2-6　Lv0⇒Lv10 tại 6-2
+　Âm mưu　　　　（　――　）　2-6
+　Vu oan　　　　（　――　）　2-6
+　Tiêu hủy chứng cứ（　Lv10　）　6-33
+　Tiềm phục　　　（　Lv10　）　7-19
+　Ẩn hình　　　　（　Lv10　）　7-19
+　Rón rén (Bước chân ẩn)（　Lv10　）　7-19
+　Thay đổi giọng nói（　Lv10　）　8-20
+
+---
+
+### ● Nhóm kỹ năng Ma lực ( 81p )
+
+　Tự chữa lành　　（　Lv10　）　1-9
+　Thao túng ma lực（　Lv10　）　6-3
+　Truyền ma lực (Enchant)（　Lv10　）　6-3
+　Chữa lành ma lực（　Lv10　）　6-22
+　Tử linh thị　　（　Lv1 　）　7-4
+　Cảm ứng ma lực　（　Lv10　）　7-8
+　Kiểm soát ma lực（　Lv10　）　9-18
+　Kiểm soát tinh linh quang（　Lv10　）　9-18
+　Tinh linh thị　　（　Lv10　）　9-18
+
+---
+
+### ● Nhóm kỹ năng Đặc biệt ( 110p )
+
+　Đoạn tội (Kết tội)（　――　）　2-6
+　Thẩm vấn　　　（　Lv10　）　3-4　Lv5⇒Lv10 tại 9-6
+　Kỹ thuật phòng the (Tình dục)（　――　）　4-10
+　Lời âu yếm　　（　――　）　4-10
+　Quyến rũ　　　（　――　）　4-10
+　Sách địch (Tìm địch)（　Lv10　）　6-3
+　Cảm giác nguy hiểm（　Lv10　）　6-3
+　Nắm bắt không gian（　Lv10　）　6-3
+　Viễn kiến　　　（　Lv10　）　6-32
+　Phủ lãm thị (Nhìn toàn cảnh)（　Lv10　）　6-32
+　Vọng viễn　　　（　Lv10　）　6-32
+　Ám thị (Nhìn ban đêm)（　Lv10　）　7-3
+　Điều chỉnh ánh sáng（　Lv10　）　7-3
+　An ủi　　　　（　――　）　8-22
+　Sinh tồn　　　（　Lv10　）　9-23
+　Uy hiếp　　　　（　Lv10　）　10-29　※Không mô tả việc tăng cấp
+
+*   **Tổng điểm kỹ năng đã sử dụng:** 1642 điểm (Còn lại 1468 điểm)
+
+---
+
+### ● Danh sách danh hiệu (Chỉ ghi theo thứ tự chương đạt được và tên)
+
+1-2 Diệt quái vật; 1-2 Diệt tộc Vảy; 1-2 Thảm họa tộc Vảy; 1-2 Thiên địch tộc Vảy; 1-2 Diệt Dực long; 1-2 Diệt rồng [Hạ cấp]; 1-2 Diệt rồng [Ấu long]; 1-2 Diệt rồng [Thành long]; 1-2 Diệt rồng [Cổ long]; 1-2 Diệt rồng [※Tên riêng※]; 1-2 Thiên địch tộc Rồng; 1-2 Diệt Thần.
+1-4 Kẻ sùng đạo.
+1-10 Chiến trường thường trú; 1-10 Chiến sĩ lành nghề; 1-10 Kẻ khiêu vũ với ác ma; 1-10 Dũng giả.
+2-1 Kẻ cầu nguyện siêu độ; 2-1 Kẻ cứu hộ; 2-1 Người bảo vệ sách.
+2-7 Người thám hiểm mê cung.
+2-8 Diệt trùng.
+2-9 Kẻ huấn luyện.
+2-12 Diệt bất tử; 2-12 Diệt Ma tộc.
+3-8 Kẻ chinh phục mê cung.
+5-12 Diệt Bất tử vương; 5-12 Kẻ vượt mê lộ.
+5-13 Người sống sót.
+5-15 Bạn của Elf.
+6-3 Rèn ma thương.
+6-5 Thợ săn tiền thưởng.
+6-7 Ma thuật sư bàn ăn.
+6-22 Dược sĩ; 6-22 Trị liệu sư; 6-22 Thánh giả; 6-22 Diễn viên tệ hại (Đóng kịch kém); 6-22 Chú hề.
+7-4 Rèn yêu tinh kiếm; 7-4 Bợm nhậu; 7-4 Kẻ nghiện rượu (Trăn); 7-4 Tiên rượu; 7-4 Bạn của Dwarf.
+7-7 Rèn ma thuật; 7-7 Kẻ không cánh vẫn bay.
+7-22 Diệt Ma vương; 7-22 Diệt Ma vương "Trư vương vàng"; 7-22 Dũng giả chân chính; 7-22 Anh hùng vô danh.
+8-14 Rèn ma kiếm; 8-14 Rèn vũ khí ma thuật.
+8-19 Diệt đại quái ngư; 8-19 Huyễn thuật sư; 8-19 Quang thuật sư; 8-19 Đầu bếp bầu trời.
+8-21 Rèn thánh kiếm; 8-21 Kẻ làm giả.
+8-23 Kiếm vũ giả.
+幕間: Bạn của Orc (幕間: Luyện kim thuật sư Orc).
+9-4 Hộ dân quan; 9-4 Kẻ kết tội.
+9-11 Bạn của Hắc long; 9-11 Kẻ nghiền núi; 9-11 Kẻ ăn ngon; 9-11 Kẻ phàm ăn; 9-11 Cứu thế chủ; 9-11 Người được tôn sùng.
+9-13 Khách của rừng; 9-13 Người yêu của thiếu nữ rừng; 9-26 Kẻ cưỡi Thiên lộc; 9-31 Kẻ nhanh nhẹn; 9-31 Bá chủ bầu trời.
+10-29 Thiên địch của kẻ trộm mê cung; 10-29 Kẻ bảo vệ trật tự.
+10-49 Diệt Ma vương "Cổ vương đầu chó"; 10-49 Con cưng của Nữ thần; 10-49 Ma thuật sư địa liệt; 10-49 Ma thuật sư thiên băng.
+
+Lần này kỹ năng không tăng thêm nhiều.

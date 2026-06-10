@@ -1,0 +1,88 @@
+Sau vài lần được Rokuko chỉ dạy, cuối cùng Soto cũng đã học được cách chuyển giao DP.
+Tôi quyết định để con bé đi gặp nhóm Narikin để trao 1000 DP ngay. Tôi đã thông báo trước cho Narikin về việc này, và họ đang chờ sẵn trong phòng trọ.
+Dù sao thì nhờ chức năng giám sát, tôi có thể theo dõi tầm nhìn của nhóm Narikin ngay từ 'Hang Động Ham Muốn' này, nên việc quan sát tình hình bên đó hoàn toàn nằm trong tầm kiểm soát.
+
+"Không biết Soto có làm được tử tế không nhỉ?"
+"Chà, chắc là được thôi."
+
+Tôi, Rokuko, và tiện thể có cả Niku – chủ nhân của Soto – cùng đứng xem con bé thực hiện nhiệm vụ.
+
+"Thưa chủ nhân. Soto-sama đã di chuyển đến chỗ nhóm Narikin an toàn rồi ạ."
+"…Có thể đi đi về về ở khoảng cách này mà không hề có độ trễ, đúng là năng lực hack game thật sự mà, con bé Soto."
+
+Chỉ cần gửi những con quái vật đã học được kỹ năng 【Lưu trữ】 đi khắp thế giới, là có thể tạo ra một mạng lưới thông qua Soto. Nguy hiểm thật. Rõ ràng là cực kỳ nguy hiểm.
+Để vận chuyển hay di chuyển, không có phương tiện nào tuyệt vời hơn thế này. Thậm chí chẳng cần cả công trình xây dựng như đặt đường ray nữa.
+…Tôi nghĩ là sớm muộn gì cũng nên thiết lập nó, nhưng dù sao thì nếu cái 'Hang Động Ham Muốn' này gặp nguy, mọi thứ coi như kết thúc, nên cũng chẳng có lý do gì phải vội vàng cả. Giờ thì cứ theo dõi nhiệm vụ của Soto trước đã.
+
+『Ieee! Papa, Mama, chị Niku, mọi người đang xem chứ? Con bắt đầu chuyển DP đây!』
+
+Con bé vẫy tay hình chữ V đầy tươi tắn với Narikin, rồi nắm chặt lấy tay của Rokufa. Nắm chặt bằng cả hai tay, rồi nắn nắn xoa xoa… cần thiết phải xoa xoa sao? Hả, kỹ thuật kích thích tiết mồ hôi để tăng độ bám dính à? À thì ra là có lý do tử tế đàng hoàng, chà…
+…Kết quả là, dù Rokufa có vẻ nhột nhạt mà ngọ nguậy, nhưng việc chuyển giao DP vẫn diễn ra trơn tru.
+
+『Xong rồi!』
+『V, vâng… nhận được đủ rồi ạ. Cảm ơn Soto-sama nhiều lắm.』
+『Vậy thì hôm nay con về đây nhé!』
+
+Sau đó, Soto lại đi xuyên qua 【Lưu trữ】 của Narikin để trở về. Di chuyển chỉ trong một cái chớp mắt. Con bé "bộp" một cái hiện ra từ 【Lưu trữ】 của tôi.
+
+"Con về rồi đây! Mọi người, thế nào ạ?"
+"Chuẩn luôn. Làm tốt lắm."
+"Đúng là con gái của ta."
+"Hì hì!"
+
+Khi tôi và Rokuko xoa đầu, Soto đầy tự hào ưỡn ngực.
+
+"Chị Niku cũng khen con đi!"
+"Em đã làm rất tốt."
+"Vậy con được phép dụi đầu vào đuôi chị nhé?"
+
+Niku liếc nhìn tôi như để xác nhận xem có được phép không. Chà, tùy cậu vậy.
+
+"Cứ tự nhiên."
+"Ưiii!! Ha… đúng là không bõ công mình chọn chị làm chủ nhân."
+
+Ngay khi Niku vừa cho phép, Soto liền vùi mặt vào đuôi của Niku rồi hít hà dụi dụi. Dù là con gái mình, nhưng sao con bé lại biến thái đến mức đó cơ chứ. Chẳng lẽ mình nên giáo dục để con bé biết tiết chế hơn…?
+
+Ồ, trước đó phải đưa chỉ thị cho Narikin đã.
+
+"Narikin. Hãy dùng số DP vừa nhận được để triệu hồi đám côn trùng như nhện, thả chúng vào thị trấn để thu thập thông tin đi. …Cơ mà thả một lúc nhiều quá thì lộ liễu lắm, cứ đợi đến mai trong lúc đi dạo quanh thị trấn thì thả mỗi chỗ một con là được."
+『Đã rõ, thưa ngài.』
+
+Ừm, thế là ổn.
+Nghĩ lại thì, việc có thể sử dụng 'Liên lạc' với quái vật ở khoảng cách xa tận nước ngoài từ 'Hang Động Ham Muốn' này… mình đáng lẽ phải nhận ra sớm hơn mới phải. Tôi tắt màn hình giám sát.
+Đúng lúc đó, Rokuko xem qua bảng thực đơn, rồi nhăn mặt: "Ái chà".
+
+"A, Kehma. Vừa rồi việc giám sát và liên lạc tốn mất 300 DP rồi."
+"Hả?"
+
+…Có lẽ vì khoảng cách quá xa nên tốn phí liên lạc, DP cứ thế vơi đi vèo vèo.
+Vì đó là số tiền trừ vào phần sản xuất DP liên tục ở ngôi làng, nên thực tế số tiêu thụ còn nhiều hơn cả 300 DP.
+…Liệu lúc 'Ám nhập' có bị trừ không nhỉ? Nếu vậy, tốt nhất là cứ phó mặc việc điều tra Thánh Vương Quốc cho nhóm Narikin, còn liên lạc thì nên giữ ở mức tối thiểu.
+
+"Để anh thử 'Ám nhập' vào Tran xem sao, em kiểm tra giúp anh nhé."
+"Được, em nhìn đây."
+
+Sau khi kiểm tra như thế, hóa ra lúc 'Ám nhập' thì chỉ tốn một chút lúc bắt đầu và kết thúc thôi.
+…Ừm, có nghĩa là trao đổi hình ảnh và âm thanh ở khoảng cách xa thì sẽ tiêu tốn DP. Nếu là liên tục thì nó sẽ trừ không ngừng nghỉ.
+Còn 'Ám nhập' thì giống như việc di chuyển linh hồn qua lại vậy.
+
+Ngoài ý muốn, 'Ám nhập' lại chính là phương thức tối ưu.
+Mà này, hình như ban đầu việc "Thử dùng ám nhập xem sao" là đề xuất của Toy mà nhỉ? …Có khi nào mình bị Leona dẫn dắt, hoặc vô tình bắt chước kết quả nghiên cứu của cô ấy không ta.
+
+"Hiểu rồi! Chị Niku ơi, lần tới đi xa chị cũng nên dùng 'Ám nhập' nhé!"
+"Phải nhỉ. …Soto-sama, lần tới chúng ta thử triệu hồi Kobold đi."
+"Kobold! Nghe giống chị Niku quá, tuyệt ghê!"
+
+À phải rồi, Niku cũng trở thành Master nên có thể ám nhập vào quái vật.
+…Hử? Vậy có nghĩa là, Niku đã có thể tận dụng triệt để cảm quan chiến đấu của mình rồi… phải không nhỉ?
+
+"Niku có thể thỏa thích 'Ám nhập' vào đám quái vật sản xuất hàng loạt rồi lao vào chiến đấu…?"
+
+Cái này chẳng phải là một sự cường hóa đáng gờm sao? Thiếu sức mạnh cơ bắp thì đã có Golem Assist hỗ trợ. Không giống như tôi – người chiến đấu bằng cách điều khiển quái vật qua bộ điều khiển – Niku mạnh hơn khi trực tiếp lao vào kẻ địch chiến đấu. Nếu bản thân không chết, mà quái vật bị 'Ám nhập' chết thì lại triệu hồi con khác thay thế để tiếp tục chiến đấu… ừm.
+
+"…Kehma, hay là cứ đặt mấy cái Kobold Spawn ở hầm ngục của Soto trước đi?"
+"Được đó. Rokuko, em chia bớt DP cho Soto đi."
+"Tuân lệnh."
+
+Quái vật Spawn thay thế không giới hạn, hơn nữa còn thoắt ẩn thoắt hiện thông qua 【Lưu trữ】.
+Ừm, năng lực này đúng là quá đỗi hung tàn.

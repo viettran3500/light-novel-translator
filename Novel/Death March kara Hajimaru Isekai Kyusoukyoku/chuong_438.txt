@@ -1,0 +1,420 @@
+※2015/12/7 Đã sửa lỗi chính tả.
+※2015/12/8 Đã chỉnh sửa một phần.
+
+Tôi là Satou. Có lần tôi gặp rắc rối vì email công việc không tới do bộ lọc thư rác. Phải đảm bảo an toàn xong mới được kiểm tra đồ trong hòm thư, nếu ở thế giới thực thì đúng là một viễn cảnh phản địa đàng (dystopia) rồi.
+
+
+◇
+
+
+Chọn mục "Hòm thư" (Post) trong cột giao lưu của Menu, tên người gửi sẽ hiện ra.
+
+Tên người gửi là "UNKNOWN".
+
+Nghe thì có vẻ là tên không xác định, nhưng tôi cứ có cảm giác nó ám chỉ cô bé bí ẩn đã xuất hiện trong trận chiến ở đầu chó.
+Nếu theo thông số của WW hay FFW, việc gửi nhận vật phẩm lẽ ra chỉ có thể thực hiện nếu đã kết bạn, thế mà dù không có tên trong danh sách, vật phẩm vẫn được gửi từ "UNKNOWN".
+
+Trong phần nhận đồ từ hòm thư còn có mục "Trả lời", nhưng lỡ gửi lại rồi chọc giận cô bé bí ẩn kia thì cũng là một vấn đề.
+
+――Phải làm sao đây?
+
+Dù hơi do dự, nhưng tôi chọn cách đậy nắp vấn đề lại và để dành sau này tính.
+Dù nghĩ là không có đâu, nhưng tôi vẫn sợ dính bẫy kiểu ngựa gỗ Trojan.
+
+Hơn nữa, việc gửi vật phẩm từ hòm thư không thể thực hiện được vì không chỉ định được người nhận.
+Mà này, tôi còn chẳng biết nó có chức năng như thế này đấy.
+
+
+◇
+
+
+"Hiến tế đúc (Hono-uchi)? À, của mấy ông người lùn ở Boluerhart chứ gì."
+
+Hỏi Hikaru, tôi nhận được câu trả lời như vậy.
+
+"Tôi không rõ lắm, nhưng là cái trò làm ra những thanh kiếm để hiến tế cho thần linh khi thay đời đổi kiếp đúng không?"
+"Các hạt nhân đô thị khác cũng làm được à?"
+"Chịu? Chắc là không được đâu nhỉ?"
+
+Theo Hikaru, việc thực hiện nghi lễ hiến tế khi thay đổi lãnh chúa là phong tục cổ xưa chỉ có tộc Tiên mới làm.
+
+Tôi cất công tìm đến chỗ Aze-san để hỏi, thì được biết vào thời các vị vua khởi tổ, bất kỳ lãnh địa nào khi thay đời đổi kiếp cũng đều hiến tế những món quà để tạ ơn vì đã cho mượn sức mạnh.
+
+Nơi nhận hiến tế hình như là vị thần đã mang hạt nhân đô thị đến cho các vị vua khởi tổ, nhưng Aze-san và mọi người cũng không biết đó là vị thần nào.
+Vì có thông tin mục kích rằng những món đồ hiến tế đã được các tinh anh ở Thung lũng Rồng trang bị, nên người ta đồn rằng có lẽ đó là Long Thần.
+
+Chỉ là, trong tình trạng tôi đã giết chết Long Thần như hiện tại, hình như các vị thần khác cũng có thể can thiệp vào Long Mạch, nên việc cướp lấy đồ hiến tế cũng là điều có thể xảy ra.
+
+……Hôm nay có nhiều chuyện mới nghe lần đầu quá.
+
+
+◇
+
+
+"Mọi người giúp tôi không? Có chuyện này tôi muốn thử chút."
+"Tất nhiên rồi, được chứ."
+"Okie."
+
+Tôi dẫn theo hai người Hikaru và Arisa, đi đến lãnh địa thuộc quyền kiểm soát của tôi tại Thần quốc Parion.
+Có vẻ kết giới ở gian hạt nhân đô thị vẫn chưa bị phá.
+
+"Ồ! Đây là hạt nhân đô thị sao! Lần đầu em thấy, đẹp thật đấy."
+
+Arisa nhìn hạt nhân đô thị, thốt lên đầy ngưỡng mộ.
+
+"Thế, làm gì ở đây nào?"
+"Tôi định xem thử liệu lúc thay đổi lãnh chúa, có thực hiện được việc hiến tế đúc hay hiến tế bình thường không."
+
+Tôi vừa lấy thiết bị đầu cuối của hạt nhân đô thị ra, vừa trả lời câu hỏi của Hikaru.
+
+"Hạt nhân đô thị, thay đổi lãnh chúa. Có thực hiện được hiến tế đúc không?"
+『Không thể. Chức năng tùy chọn chưa được cài đặt.』
+
+Ồ, là tùy chọn sao.
+Vậy thì――.
+
+"Làm sao để cài đặt chức năng tùy chọn?"
+『Không rõ.』
+
+Dù biết là khó nhưng tôi vẫn thử hỏi, có vẻ không được rồi.
+
+"Vậy, có thể hiến tế không?"
+『Có thể.』
+
+Cái này thì hình như được.
+
+"Có thể chỉ định nơi nhận hiến tế không? Nếu không thể, nơi nhận mặc định là ai?"
+『Không thể chỉ định. Là Chủ nhân.』
+
+……Hừm.
+
+"Chủ là ai?"
+『Không rõ ý nghĩa câu hỏi. Chủ nhân là Chủ nhân.』
+
+Không phải là Thần sao?
+Tạm thời cứ tiếp tục thử nghiệm vậy.
+
+"Vậy, bắt đầu nghi lễ đi."
+『Đã rõ. Vui lòng chỉ định lãnh chúa tiếp theo.』
+"Lãnh chúa là Mito."
+『Đã đăng ký đặt trước. Vui lòng chỉ định người đại diện đời kế tiếp.』
+
+Tôi nhìn Hikaru, rồi chỉ tay về phía Arisa.
+
+"Là Arisa-chan."
+『Đã đăng ký đặt trước. Vui lòng thực hiện hiến tế.』
+
+Tôi ném thanh đao làm bằng kim cương theo quy chuẩn thánh kiếm vào cái lối vào vừa hiện ra trước hạt nhân đô thị.
+Đây là món đồ tôi đặc biệt làm ra cho cuộc thí nghiệm lần này.
+
+Tôi đã gắn điểm đánh dấu (marker) vào đó.
+
+『Đã hoàn tất hiến tế. Kết thúc nghi lễ.』
+
+Tôi mở danh sách điểm đánh dấu trong Menu để xác nhận vị trí hiện tại.
+
+……Không có, nhỉ.
+
+Tôi đã hy vọng biết được nơi nhận hiến tế, nhưng có vẻ vật phẩm đó đã biến mất hoàn toàn rồi.
+
+"Sao rồi?"
+"Không được rồi. Có vẻ nó đã biến mất."
+
+Có vẻ mọi chuyện không suôn sẻ như vậy.
+
+Ngoài ra, thanh đao kim cương cũng không hề được gửi tới hòm thư trong cột giao lưu.
+
+
+◇
+
+
+Trong lúc tôi đang xác minh, chiếc phi thuyền vẫn tiến thẳng một cách mẫn cán và đi vào lãnh địa Bá tước Muno.
+
+Tôi cho phi thuyền hạ cánh xuống khu vườn rộng lớn của thành Muno.
+Dưới mặt đất, người của thành Muno có vẻ đang đến đón.
+
+Mấy cô hầu gái loli đang vẫy tay rối rít chào mừng.
+
+"““Ngài Sĩ tước!””"
+"Này, ngốc à! Giờ không còn là ngài Sĩ tước nữa đâu."
+"À, đúng rồi nhỉ. Lên tước vị nào rồi ấy nhỉ?"
+"Ngài Tử tước đó."
+"Giống với ngài Nina, chấp chính quan sao?"
+"Đúng thế! Oai lắm đấy!"
+"Woa, xịn thật."
+"……Cá chép hóa rồng."
+"May mắn thì làm tình nhân."
+
+Kỹ năng "Vểnh tai nghe" của tôi đã thu thập được những lời xì xào bàn tán của đám hầu gái.
+
+Nếu muốn nhắm đến vị trí tình nhân, ít nhất cũng phải đợi sau hai mươi tuổi đã.
+Mà dù có quá tuổi, tôi cũng chẳng tuyển đâu.
+
+"““Ngài Satou, mừng ngài đã trở về!””"
+
+Cho phi thuyền hạ xuống khu vườn rộng, tôi ló mặt ra khỏi cầu thang, những tiếng nói đồng thanh của gia nhân trong thành Muno vang lên.
+Dù nghĩ là sẽ không nghe thấy do tiếng động cơ phi thuyền, tôi vẫn hét lớn "Tôi về rồi đây" và vẫy tay thật mạnh.
+
+"Tôi về rồi đây~?"
+"Pochi đã trở về rồi đây!"
+
+Tama và Pochi tạo dáng "Shuta" trước mặt đám hầu gái.
+
+"Tama-chan, đáng yêu quá!"
+"Pochi-chan cũng vậy!"
+"Này, mấy cô kia! Tama-san và Pochi-san là nhà thám hiểm cấp Mithril đấy nhé?"
+"Đúng đúng! Họ đã diện kiến bệ hạ và giờ là ngài Sĩ tước danh dự, gọi trống không như thế là tội bất kính, bị đuổi việc đấy!"
+
+Người lên tiếng cảnh báo đám hầu gái đang hò hét là một binh sĩ người Thỏ trông có vẻ là lính mới.
+Vì tước hiệu ghi là "Cựu nhà thám hiểm", chắc là họ đến từ Thành phố Mê cung Selbira.
+
+"Thật hả?"
+"Đáng yêu thế này mà, giỏi thật!"
+"Mềm quá~"
+
+Đám hầu gái bán tín bán nghi, vừa ngạc nhiên vừa lao vào ôm ấp, xoa nắn bộ lông của Tama và Pochi.
+Cả hai cũng tỏ ra rất thích thú và nhiệt tình hưởng ứng.
+
+"Ngài Liza với cây thương ma thuật kìa!"
+"Trong lúc ở lại, liệu ngài ấy có dạy mình luyện tập không nhỉ? Liệu có không nhỉ?"
+"Tôi thì muốn được dạy bí quyết về lưỡi kiếm ma thuật."
+"Liza-san đỉnh lắm. Dù là người thằn lằn nhưng lại là quý tộc, đã vậy còn là Nữ Chuẩn nam tước danh dự nữa đấy."
+"Ừ, bọn mình cũng có ngày sẽ――"
+
+Các binh sĩ đang hướng ánh nhìn đầy ngưỡng mộ về phía Liza, người vừa xuất hiện sau Tama và Pochi.
+Có vẻ binh lính mới chủ yếu là á nhân, đặc biệt là người thú và tộc có vảy nhiều hơn cả nhân tộc.
+
+
+◇
+
+
+"Phố xá trở nên nhộn nhịp hơn hẳn nhỉ."
+"Ừ, cũng nhờ công của anh cả đấy."
+
+Sau khi được dẫn vào phòng tiếp khách của thành Muno, chúng tôi vừa trò chuyện phiếm với Nina-san trong lúc chờ Bá tước Muno đến.
+Có vẻ Bá tước Muno đang cùng con trai trưởng, cậu Orion, làm gì đó ở gian hạt nhân đô thị dưới lòng đất.
+
+"Nói đến công lao, là việc thu thập lương thực và nhân lực ở Công đô sao?"
+"Ừ, tất nhiên đó cũng là một phần giúp ích, nhưng không chỉ có thế thôi đâu."
+
+Nina-san lắc đầu với nụ cười khổ.
+
+"Nhờ có sự hoạt động tích cực của anh ở thành phố Mê cung và Vương đô, độ nhận diện của lãnh địa Bá tước Muno đã lan rộng. Số lượng người mong muốn ra làm quan và thương nhân ghé thăm lãnh địa đã tăng vọt."
+
+Dựa trên tìm kiếm bản đồ, dân số trong thành phố đã tăng 50%, dân số toàn lãnh địa tăng 20%.
+Số binh lính vốn chỉ có 120 người, giờ chỉ tính quân thường trực thôi đã gần 2.000.
+Xét theo tỷ lệ dân số thì tôi cảm thấy có chút tăng quá đà, nhưng có lẽ nữ sĩ Nina có dự tính gì đó.
+
+"Mà này, Satou. Anh có biết trong lãnh địa Muno có bao nhiêu đô thị và thị trấn không?"
+
+Tôi phân vân không biết nên trả lời câu hỏi của nữ sĩ Nina thế nào.
+
+Dưới quyền kiểm soát của Bá tước Muno là thành phố Muno và hai thị trấn dọc theo con đường chính.
+Có vẻ một vài nơi tôi từng đánh giá là làng mạc lúc đầu thực chất lại là thị trấn.
+
+Những thị trấn này chuyên sản xuất hàng loạt quả Gabo, dân cư cũng ít.
+Nông sản dư thừa ở các làng nông thôn quanh thị trấn được thương nhân chính ngạch mua lại, rồi vận chuyển cùng với quả Gabo về thành phố Muno.
+Các thị trấn không có hộ vệ, nghe nói đều cử quan văn bình dân đến làm đại quan.
+
+"Lãnh địa Bá tước này có 4 đô thị, 7 thị trấn. Trong đó, 1 đô thị và 2 thị trấn nằm dưới quyền kiểm soát của Bá tước Muno, 3 thị trấn do hào tộc địa phương nắm giữ, số còn lại thì bị quái vật và man tộc chiếm đóng rồi."
+
+Tôi kiểm tra bản đồ ngay sau khi nghe câu trả lời vội vã của nữ sĩ Nina.
+
+Ở vùng đất trống vốn là bản đồ riêng trong lần trước ghé lãnh địa Muno, có 3 đô thị và 2 thị trấn.
+Vì nơi này không nằm dưới quyền kiểm soát của lãnh chúa nên nó mới hiện là bản đồ riêng.
+
+Trong số đó, 2 đô thị là đô thị tử linh do lũ quái vật thuộc dòng undead hung ác khoảng cấp 50 cai trị, còn 2 thị trấn thì bị lũ Hydra và Chimera cấp 40 chiếm làm tổ.
+Ngoài ra, thứ mà nữ sĩ Nina gọi là man tộc chắc là lũ Kobold đã chiếm đóng thành phố mỏ bỏ hoang trong vùng núi.
+Kobold giống như Goblin hay Orc, hình như là một nhánh của tộc Tiên chứ không phải quái vật.
+
+"Và, vấn đề là thế đấy. Vì quân lực đã đầy đủ, nên sắp tới tôi định thu hồi 3 thị trấn đang bị các hào tộc chiếm đóng trái phép về dưới quyền của Bá tước Muno――"
+
+Ra là vậy, chắc bà ấy muốn mượn lực lượng của chúng tôi để tái chiếm đây mà.
+
+Tôi đã đoán vậy, nhưng dự tính của nữ sĩ Nina có chút khác biệt.
+
+"――Trước đó, lại phát sinh một vấn đề. Lũ Kobold ở thành phố mỏ bỏ hoang đang bắt đầu gây hấn với mỏ bạc ở lãnh địa Bá tước Kuhanou nằm ở phía đông bắc."
+
+Thế thì phiền phức rồi.
+
+Nếu sơ sẩy, có khả năng Bá tước Kuhanou sẽ tiêu diệt lũ Kobold ở thành phố mỏ, rồi chiếm luôn cả vùng lãnh địa đó.
+
+"Ý bà là, ngăn không cho lũ Kobold tấn công mỏ bạc?"
+"Ừ, đúng vậy. Tôi muốn Satou và mọi người hãy đuổi lũ định tiến về phía mỏ bạc đi."
+"Chỉ cần đuổi đi thôi ạ?"
+
+Tôi cứ tưởng sẽ bị yêu cầu đuổi chúng khỏi thành phố mỏ bỏ hoang cơ.
+
+"Phía thành phố mỏ bỏ hoang thì tôi sẽ để Haut lo. Với 500 quân lãnh địa và 1500 lính đánh thuê thì chắc là đủ để bắt lũ Kobold phải phục tùng. Số lính đánh thuê đó là do cái thương hội Echigoya gì đó sắp xếp."
+
+Tôi định nói "Tôi không nghe chuyện đó"―― nhưng hình như tôi đã từng thấy báo cáo về việc sắp xếp lính đánh thuê rồi.
+Sau khi tra cứu tài liệu Tifriza đưa, tôi thấy nó được ghi trong những tập hồ sơ lúc tôi còn bận rộn ở Vương quốc Yohork hay Thần quốc Parion.
+Có vẻ họ đã tập hợp dân lưu vong từ lãnh địa Bá tước Lesseu và đưa đến bằng đường thủy qua lãnh địa Công tước Oyugock.
+Số dân tăng lên trong lãnh địa chắc chắn là đám lính đánh thuê và gia đình họ.
+
+Với lãnh địa Bá tước Muno đang thiếu hụt dân cư thì có lẽ lại vừa khéo.
+
+
+◇
+
+
+"Chào nhé, để cậu chờ lâu rồi, Satou-kun."
+
+Bá tước Muno xuất hiện với vẻ gần gũi như mọi khi.
+
+"Tôi về rồi đây~?"
+"Thưa Nam tước, bọn em đã trở về rồi ạ!"
+"Ồ! Tama-kun và Pochi-kun có vẻ khỏe mạnh, ta vui lắm."
+
+Không thèm đính chính lỗi sai của Pochi, Bá tước Muno ôm lấy cả hai với nụ cười rạng rỡ trên khuôn mặt.
+Vẫn là một kẻ cuồng thú (kemono) như mọi khi.
+
+"Thưa cha, cha thật là, quá đáng quá."
+
+Karina-jou phồng má vì màn ôm ấp hội ngộ bị đẩy lùi về sau.
+
+"Karina, mừng con đã về. Con vẫn hòa thuận với ngài Satou chứ?"
+"Chị Solna!"
+
+Tiểu thư trưởng Solna xuất hiện phía sau Bá tước Muno và ôm chầm lấy Karina-jou.
+Vật thể bị kẹt giữa hai người họ biến dạng với cường độ như thể sắp làm trồi lên cả lục địa.
+
+"Anh Satou, anh nhìn nhiều quá đấy?"
+
+Serah lách người chắn tầm nhìn của tôi và mỉm cười dịu dàng.
+
+"Nhanh thật."
+"Chậm chân mất rồi."
+
+Cặp đôi "Bức tường sắt" bị cướp mất đất diễn, thì thầm đầy tiếc nuối: "Serah, đúng là một cô gái đáng sợ."
+
+"Ngài Pendragon, có vẻ ngài vẫn bình an nhỉ."
+
+Người xuất hiện sau lưng tiểu thư Solna là em trai của tiểu thư Solna và Karina-jou, đồng thời là người thừa kế lãnh địa Bá tước Muno đời kế tiếp, cậu Orion.
+Bên cạnh cậu ta là một tiểu thư xinh đẹp kiểu dịu dàng mà tôi chưa từng gặp.
+Hình như tiểu thư đó 15 tuổi, cùng tuổi với cậu ta.
+
+"Để ta giới thiệu, đây là hôn thê của ta, Muse, con gái ngài Nam tước Lagock."
+
+Cậu Orion giới thiệu tiểu thư đó với tôi.
+Khi tôi ở Công đô, đã nghe nói hôn ước là với vị tiểu thư Công tước 7 tuổi là em gái cùng cha khác mẹ của Serah, nên chắc cô ấy là ứng viên vợ hai.
+
+"Rất vui được gặp cô, tiểu thư Muse. Tôi là Tử tước Satou Pendragon."
+"R-rất vui được gặp ngài Tử tước. Đ-được diện kiến ngài là vinh hạnh của tôi."
+
+Có vẻ là người đoan trang, cô ấy chào tôi với vẻ rất căng thẳng.
+
+"Tiểu thư Muse, cô không cần phải căng thẳng đến vậy đâu."
+"Hả? S-Serah-sama?! Tại sao cô lại ở đây?"
+
+Thấy Serah lên tiếng để giải tỏa căng thẳng cho Muse, cô ấy còn cứng đờ hơn cả lúc chào tôi nữa.
+
+"Ngài Pendragon, tại sao Thánh nữ tương lai lại ở đây?"
+
+Cậu Orion thì thầm với tôi bằng giọng nhỏ.
+Thánh nữ tương lai mà cậu ta nói chắc là Serah.
+
+"Ngài không được Bá tước Muno báo cáo ạ? Lần này tôi được bổ nhiệm làm Phó bộ trưởng Bộ Du lịch Vương quốc Shiga, còn Serah-sama đi cùng với tư cách là tùy tùng."
+"Ph-Phó bộ trưởng?"
+
+Xem ra cậu ta chỉ nghe chuyện tôi trở thành Tử tước thôi thì phải.
+
+Người hắng giọng một cách cố ý ở phía sau tôi là công chúa Sistina, một tùy tùng khác.
+
+"Ngài Pendragon, quý cô này cũng là người quen của ngài sao?"
+
+Cậu Orion, một người có khuynh hướng ưa sạch sẽ, hỏi với vẻ mặt hơi khó chịu.
+Chắc là cậu ta cảm thấy khó coi khi thấy tôi dẫn theo nhiều người phụ nữ trẻ tuổi như vậy.
+
+"Vị này cũng như Serah-sama, là tùy tùng của chức vụ Phó bộ trưởng――"
+"Ồ, không giống đâu ạ."
+
+Công chúa Sistina đứng dậy khỏi ghế sofa và sóng đôi bên cạnh tôi.
+
+"Rất vui được gặp ngài Orion. Tôi là công chúa thứ sáu của Vương quốc Shiga, Sistina. Là hôn thê của Satou."
+"“Công... Công chúa”"
+
+Orion và tiểu thư Muse cùng đồng thanh lên tiếng kinh ngạc.
+Sức ảnh hưởng của danh xưng "Công chúa" quá lớn nên họ bỏ qua luôn chuyện "hôn thê", thật là may quá.
+
+Sau khi cú sốc qua đi, tôi giới thiệu Zena-san đầy khiêm nhường với Orion và mọi người.
+
+
+◇
+
+
+"Vậy, hãy tiếp tục câu chuyện lúc nãy thôi."
+
+Để lại các cô gái ở phòng khách, tôi và Arisa cùng với nữ sĩ Nina và Orion đến văn phòng của Bá tước Muno. Tất nhiên là cả Bá tước cũng đi cùng.
+
+"Đợi đã, Nina-dono."
+"Gì vậy? Ngài người kế nhiệm."
+"Đừng gọi là người kế nhiệm nữa. Hơn nữa! Tại sao lại dẫn theo trẻ con đến nơi quyết định chính sách thế này, ngài Pendragon!"
+
+Người mà Orion nhắm tới tất nhiên là Arisa.
+Còn nhân vật chính Arisa thì đang thú vị dõi theo diễn biến sự việc.
+
+"Arisa-dono là người tôi đã gọi."
+
+Người trả lời câu đó không phải tôi mà là nữ sĩ Nina.
+
+"Phần lớn phương châm tái sinh lãnh địa Bá tước đều là nhờ đề xuất của con bé. Nếu bị vẻ ngoài trẻ con đó đánh lừa thì sẽ bị nghi ngờ về tư cách làm lãnh chúa đấy?"
+
+Bị nữ sĩ Nina vặn lại, Orion "Gư gư" rên rỉ rồi im bặt.
+
+Tôi nghĩ việc nhìn thấu nội tâm Arisa ngay lần đầu gặp mặt là chuyện bất khả thi.
+Tôi thầm ủng hộ cậu Orion trong lòng.
+
+Dù có chút tranh cãi như vậy, cuộc họp vẫn diễn ra suôn sẻ.
+
+Ít nhất là cho đến giữa chừng――.
+
+"Vậy, Satou và mọi người bắt giữ hoặc đánh lui lũ Kobold ở phía mỏ bạc bằng phi thuyền là được chứ?"
+"Vâng, tôi đã rõ."
+
+Tôi gật đầu trước sự xác nhận của nữ sĩ Nina.
+
+"Khoan đã, tại sao lại là bắt giữ hoặc đánh lui? Chẳng phải thuộc hạ của ngài mạnh đến mức không xem lũ tôm tép đó ra gì sao? Tại sao không xử lý luôn lũ nghịch tặc đang tàn phá lãnh thổ tại chỗ đi?"
+
+Orion chất vấn tôi bằng giọng điệu như đang giận dữ.
+Nếu trả lời thẳng là "Vì không muốn giết" thì chắc cậu ta sẽ càng giận hơn.
+
+"Ngắn hạn thì đúng là cách của Orion-sama hiệu quả hơn thật."
+
+Arisa nhìn Orion với nụ cười trên môi.
+
+"Đúng thế! Thuộc hạ của ngài cũng――"
+"Nhưng nếu thực hiện hành động tàn sát dễ dàng như vậy, về lâu dài sẽ để lại vết sẹo sâu sắc giữa các dân tộc và trở thành nguyên nhân cản trở sự phát triển của lãnh thổ ạ."
+
+Đó là trường hợp tôi từng thấy rất nhiều ở khu vực Trung Đông của thế giới cũ.
+
+"Nhưng, nếu tỏ ra yếu nhược thì――"
+"Đúng là như vậy ạ."
+
+Không đợi Orion phản biện xong, Arisa khẳng định.
+
+"Vì vậy, đối với kế hoạch đánh lui mà mọi người vừa đề cập, tôi xin đưa ra thêm một đề xuất nữa."
+
+Sau khi ném cho Orion một nụ cười nhếch mép, Arisa thông báo nội dung đó cho nữ sĩ Nina và Bá tước Muno.
+
+"Chúng ta hãy khắc sâu nỗi sợ hãi vào tận xương tủy lũ trẻ nghịch ngợm đó, để chúng không bao giờ dám nghĩ đến việc chống đối lần thứ hai nữa ạ."
+"Nhờ cô làm vừa phải thôi nhé."
+
+Nữ sĩ Nina cười khổ ngăn lại Arisa, người vừa kết thúc bằng một nụ cười đáng sợ.
+Không hiểu sao, ánh mắt của nữ sĩ Nina lại hướng về phía Orion.
+
+※ Lịch cập nhật tiếp theo như sau:
+　12/08 (Thứ 3) 12:00　14-17. Lãnh địa Bá tước Muno (2)
+　12/09 (Thứ 4) 12:00　14-18. Lãnh địa Bá tước Muno (3)
+　12/10 (Thứ 5) 12:00　14-19. Lãnh địa Bá tước Muno (4)
+　12/13 (Chủ nhật) 18:00　14-20. Vương quốc tuyết (1)
+
+※ 2015/12/6 Về vị hôn thê của Orion-kun:
+　Tôi đã bổ sung thêm thông tin về vị tiểu thư Công tước 7 tuổi.
+※ 2015/12/8 Đã bổ sung thêm thông tin về số lượng đô thị ở lãnh địa Muno.
+
+【Quảng cáo】
+　Còn 4 ngày nữa là phát hành sách mới!
+
+　Tập 6 của tác phẩm này "Death March Kara Hajimaru Isekai Kyousoukyoku" và tập 2 phiên bản truyện tranh sẽ được phát hành cùng lúc vào ngày 12/10 (Thứ 5).
+　Chi tiết xin vui lòng xem báo cáo hoạt động.

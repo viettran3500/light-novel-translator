@@ -1,0 +1,143 @@
+Dưới đây là bản dịch các thông tin thiết lập nhân vật/chủng tộc tính đến chương 1000:
+
+---
+
+### **Thiết lập chủng tộc: Thiên Sứ**
+*   **Địa vị:** Có năng lực đến mức được Vương quốc Garret coi như đối tượng tín ngưỡng.
+*   **Vai trò:** Từng dẫn dắt giới thượng tầng của Vương quốc Garret.
+*   **Hiện trạng:** Gần đây đã di cư đến Làng Đại Thụ.
+*   **Nhiệm vụ:** Từng bảo vệ mầm cây của Thế Giới Thụ.
+*   **Đặc điểm:** Chủng tộc chỉ toàn nữ giới.
+*   **Cơ thể:** Cơ thể không thể tăng cân (nhưng cánh thì có thể).
+*   **Danh tiếng:** Ngoài Vương quốc Garret ra, danh tiếng của họ không tốt lắm.
+*   **Lịch sử:** Quá khứ từng tự xưng là "Thần Nhân Tộc" (hiện tại, cụm từ "Thần Nhân Tộc" là điều cấm kỵ).
+*   **Thành tích:** Từng nắm quyền kiểm soát Thành phố Mặt Trời (Solar City).
+
+---
+
+### **Danh sách nhân vật Thiên Sứ**
+
+**● Malbit**
+*   **Chức vụ:** Tộc trưởng Thiên Sứ.
+*   **Nơi ở:** Làng Đại Thụ.
+*   **Công việc:** Tổng quản lý Thiên Sứ tại Làng Đại Thụ.
+*   **Hôn nhân:** Đã kết hôn.
+*   **Con cái:** Kierbit.
+*   **Ghi chú:** Có vẻ ngoài ngây ngô nhưng là người quyết đoán. Bạn chơi cờ với Kuroyon.
+
+**● Kierbit**
+*   **Chức vụ:** Cựu nữ tư tế Vương quốc Garret.
+*   **Nơi ở:** Học viện hoặc Vương thành tại Vương quốc Ma Vương.
+*   **Công việc:** Hỗ trợ Tryne.
+*   **Ghi chú:** Đang cải trang. Đến Vương đô Ma quốc để tiếp cận Tryne (một trong những người con trai của Thôn trưởng). Thực tế rất tài giỏi.
+
+**● Ruinshia**
+*   **Chức vụ:** Trưởng bộ phận hỗ trợ.
+*   **Nơi ở:** Làng Đại Thụ.
+*   **Công việc:** Trợ lý cho Malbit.
+*   **Hôn nhân:** Đã kết hôn.
+*   **Con cái:** Tia.
+*   **Ghi chú:** Không giỏi giao tiếp với con cái (nhưng giao tiếp bằng cánh thì rất giỏi).
+
+**● Tia**
+*   **Biệt danh:** Thiên Sứ Hủy Diệt.
+*   **Nơi ở:** Làng Đại Thụ.
+*   **Công việc:** Đại diện Thiên Sứ tại Làng Đại Thụ.
+*   **Hôn nhân:** Hiraku (Thôn trưởng).
+*   **Con cái:** Tiselle, Aurora.
+*   **Ghi chú:** Thành viên đời đầu của Làng Đại Thụ. Người điều khiển Golem. Thích chiến đấu đơn lẻ nhưng không giỏi tác chiến tập thể. Cảm thấy việc chỉ huy chủng tộc rất phiền phức. Đối thủ của Ru.
+
+**● Tiselle**
+*   **Biệt danh:** Không có.
+*   **Nơi ở:** Vương quốc Liên minh Vùng Keilrand.
+*   **Công việc:** Cố vấn cho Vương quốc Liên minh Vùng Keilrand.
+*   **Ghi chú:** Đau đầu vì danh tiếng xấu của tộc Thiên Sứ. Người điều khiển Golem (chỉ một con, phải chạm chân xuống đất mới triệu hồi được). Nỗ lực vì lợi ích của Làng Đại Thụ.
+
+**● Aurora**
+*   **Biệt danh:** Không có.
+*   **Nơi ở:** Làng Đại Thụ.
+*   **Công việc:** Còn nhỏ.
+
+**● Razmaria**
+*   **Biệt danh:** Không rõ.
+*   **Nơi ở:** Làng Đại Thụ.
+*   **Công việc:** Trợ lý cho Malbit.
+*   **Hôn nhân:** Đã kết hôn.
+*   **Con cái:** Granmaria.
+*   **Ghi chú:** Phái ôn hòa của tộc Thiên Sứ. Đóng vai trò như người mẹ của Koodel và Corone.
+
+**● Granmaria**
+*   **Biệt danh:** Thiên Sứ Thảm Sát (khi đi cùng bộ ba).
+*   **Nơi ở:** Làng Đại Thụ.
+*   **Công việc:** Hỗ trợ Tia, cảnh giới trên không tại Làng Đại Thụ.
+*   **Hôn nhân:** Hiraku (Thôn trưởng).
+*   **Con cái:** Rosemaria.
+*   **Ghi chú:** Một phần của bộ ba Thiên Sứ Thảm Sát: Granmaria, Koodel, Corone.
+
+**● Rosemaria**
+*   **Biệt danh:** Không có.
+*   **Nơi ở:** Làng Đại Thụ.
+*   **Công việc:** Còn nhỏ.
+
+**● Koodel**
+*   **Biệt danh:** Thiên Sứ Thảm Sát (khi đi cùng bộ ba).
+*   **Nơi ở:** Làng Đại Thụ.
+*   **Công việc:** Hỗ trợ Tia, cảnh giới trên không tại Làng Đại Thụ.
+*   **Hôn nhân:** Hiraku (Thôn trưởng).
+*   **Con cái:** Laradel.
+*   **Ghi chú:** Một phần của bộ ba Thiên Sứ Thảm Sát. Rất thích ném bom bổ nhào (Sừng của Kuro là nhất).
+
+**● Laradel**
+*   **Biệt danh:** Không có.
+*   **Nơi ở:** Làng Đại Thụ.
+*   **Công việc:** Còn nhỏ.
+
+**● Corone**
+*   **Biệt danh:** Thiên Sứ Thảm Sát (khi đi cùng bộ ba).
+*   **Nơi ở:** Làng Đại Thụ.
+*   **Công việc:** Hỗ trợ Tia, cảnh giới trên không tại Làng Đại Thụ.
+*   **Hôn nhân:** Hiraku (Thôn trưởng).
+*   **Con cái:** Tormane.
+*   **Ghi chú:** Một phần của bộ ba Thiên Sứ Thảm Sát.
+
+**● Tormane**
+*   **Biệt danh:** Không có.
+*   **Nơi ở:** Làng Đại Thụ.
+*   **Công việc:** Còn nhỏ.
+
+**● Sualrow**
+*   **Biệt danh:** Cựu Thiên Sứ mạnh nhất, người đứng đầu phái Rohier (Cực đoan).
+*   **Nơi ở:** Làng Đại Thụ.
+*   **Công việc:** Trợ lý cho Malbit.
+*   **Hôn nhân:** Đã kết hôn.
+*   **Con cái:** Sualriou, Sualkou.
+*   **Ghi chú:** Phái cực đoan. Xem Razmaria là đối thủ. Trông trẻ hơn cả hai người con Sualriou và Sualkou. Rất cưng chiều con cái. Đang trong tình trạng "phát cuồng" vì con gái Sualriou và Sualkou mang thai.
+
+**● Sualriou**
+*   **Biệt danh:** Thiên Sứ Sinh Đôi.
+*   **Nơi ở:** Làng Đại Thụ.
+*   **Công việc:** Hỗ trợ Tia, cảnh giới trên không tại Làng Đại Thụ.
+*   **Hôn nhân:** Hiraku (Thôn trưởng).
+*   **Ghi chú:** Chị em sinh đôi với Sualkou. Ham học hỏi về hài kịch (đang đau đầu không biết nên làm vai tấu hài hay vai tung hứng). Gần đây đã phát hiện mang thai.
+
+**● Sualkou**
+*   **Biệt danh:** Thiên Sứ Sinh Đôi.
+*   **Nơi ở:** Làng Đại Thụ.
+*   **Công việc:** Hỗ trợ Tia, cảnh giới trên không tại Làng Đại Thụ.
+*   **Hôn nhân:** Hiraku (Thôn trưởng).
+*   **Ghi chú:** Chị em sinh đôi với Sualriou. Ham học hỏi về hài kịch (đang phân vân về vị trí đứng trái hay phải). Gần đây đã phát hiện mang thai.
+
+**● Reginlief**
+*   **Chức vụ:** Trưởng lão Thiên Sứ.
+*   **Nơi ở:** Làng Đại Thụ.
+*   **Công việc:** Hộ vệ cho Thôn trưởng.
+*   **Hôn nhân:** Không (không có duyên).
+*   **Ghi chú:** Người già nhất tộc. Trước đây thường ngủ hàng năm trời, nhưng từ khi đến Làng Đại Thụ đã sinh hoạt bình thường. Mạnh một cách bình thường. Có một người chị là Skuld (Thiên Sứ vĩ đại thời xưa).
+
+---
+
+### **Nhân vật không tên**
+*   **Thiên Sứ tự xưng là Skuld:**
+    *   Ghi chú: Kỳ cựu (gần bằng cấp trưởng lão)? Tính cách phóng khoáng. Không mạnh nhưng tinh thần rất vững vàng.
+*   **Thiên Sứ làm mứt:**
+    *   Ghi chú: Mứt do cô làm rất nổi tiếng.

@@ -1,0 +1,88 @@
+（少 chút đau đầu nên viết ngắn thôi. Uống nước rồi đi ngủ sớm cho lành……）
+
+Maiodol đã gia nhập giáo phái.
+
+Vừa lúc tôi thức dậy một lúc, cô nàng hầu đã tiến hành «thanh tẩy» cái bàn bị dính đầy nước dãi, rồi bế công chúa Maiodol đang ngủ say sưa đi mất.
+
+“Thiếp đã có một giấc ngủ ngon…… Thật kinh ngạc, giáo phái Chăn Ấm (Ofuton-kyou) này. Thiếp sẽ tiến cử cả với phụ thân đại nhân nữa.”
+
+Sau đó, tôi nhận được sự đảm bảo chắc nịch từ Maiodol như vậy, nhưng việc có phái quản lý xuống đây hay không thì lại không thấy đả động gì.
+Khi nhập đạo, họ bảo sẽ cho tôi mượn ‘Gối của Thần’. Nhân tiện, họ còn dặn “Đừng có sử dụng nhé”… khốn thật.
+Nhưng mà, họ chẳng hề xác nhận xem nên đặt cái gối đó ở đâu hay những vấn đề tương tự, liệu có phải họ hoàn toàn tin tưởng tôi trong khoản phòng trộm không nhỉ?
+
+Về phần lời hứa với Rokuko… việc giải quyết vấn đề quản lý nhà thờ trong vòng 1000 DP — vẫn chưa có tiến triển gì cả.
+Thế nên kết quả là tôi vẫn chưa tốn 1 DP nào, làm sao đây nhỉ.
+
+Dù nói là tiết kiệm DP, nhưng việc cần làm thì đã quyết rồi.
+Hoặc là xoay xở bằng 【Tạo Golem】 như mọi khi, hoặc là lôi cổ một kẻ nào đó từ đâu về làm quản lý thôi.
+
+Tuy nhiên, giao cho Golem làm quản lý thì hoàn toàn miễn bàn.
+Quản lý là phải biết lắng nghe con người và ứng biến tùy tình hình, chứ Golem làm gì có trí thông minh đến mức đó.
+Nếu vậy thì tất yếu chỉ còn cách tuyển dụng một trong số những người đang ở đây.
+Và việc dùng Golem để làm chân tay hỗ trợ cho nhân sự đó thì cũng được. Nếu vậy, xét từ người nhà ra thì ứng cử viên là——
+
+“…………Niku và Ray…… Ichika cũng được nhỉ. Vậy thì——”
+
+Việc tạp vụ thì để Golem làm, giờ phải nghĩ xem đặt ai vào vị trí quản lý là tốt nhất.
+
+Với Niku, vì em ấy có tố chất làm linh vật của làng nên có lẽ sẽ rất tốt để biến dân làng thành tín đồ, nhưng chỉ được thế thôi. Với tư cách là quản lý của một cơ sở mà người ngoài cũng sẽ ghé tới thì em ấy quá đỗi non nớt.
+
+Nếu là Ichika, vì cái miệng rất dẻo nên có lẽ tín đồ sẽ tăng lên kha khá, nhưng dáng vẻ của con bé chẳng giống sơ chút nào. Nếu không phải nô lệ thì còn có mặt là nó sẽ biển thủ tiền cúng dường để lấy tiền đi chơi đấy…… Nếu là nhà thờ ở vùng đất thời mạt thế cần thực lợi thì chắc cũng ổn, nhưng đối với nhà thờ đầu tiên của một tôn giáo mới thì không hợp lắm.
+
+Nếu là Ray thì…… có lẽ cô ấy sẽ hoàn thành công việc không khen không chê.
+Dù cô ấy là ma cà rồng. Ma cà rồng thì thuộc hệ undead (bất tử). Undead mà làm quản lý nhà thờ thì ra thể thống gì nữa… Nhưng chừng nào còn sống như con người thì chắc cũng là vấn đề nhỏ thôi.
+Chuyện đó cũng thường thấy mà, sơ thực ra là phi nhân loại gì đó.
+Thậm chí so với đế quốc nơi mà những người đứng đầu tổ chức quan trọng toàn là quái vật thì thế này vẫn còn đỡ chán.
+
+“Quả nhiên, người dễ dùng nhất trong những lúc thế này là Ray. ……Được rồi, lấy Ray làm quản lý đi. Thế là giải quyết xong!”
+
+Chà, nghĩ kỹ lại thì đây chẳng phải vấn đề chẳng cần tốn đến 1 DP nào sao.
+
+＊
+
+“Không được. Ray đã kín lịch massage đến 1 tháng sau rồi.”
+
+Kế hoạch đó bị Rokuko bác bỏ một cách gọn lẹ.
+
+“……Thật á. Vậy thì bắt đầu chính thức từ tháng sau vậy.”
+“Cái đó cũng không được. Maiodol đã đi rêu rao về giáo phái Chăn Ấm khắp nơi rồi. Kể cả không có chuyện đó thì ngay khoảnh khắc nhà thờ đó được xây lên, ở nhà ăn hay quán rượu cũng đã bàn tán xôn xao rồi đấy.”
+
+Chết tiệt. Đáng lẽ mình nên dành nhiều thời gian hơn để xây dựng một cách cẩn thận mới phải……
+
+“Nè Kehma. Về vụ lần này, tôi biết một cách giải quyết rất tuyệt vời đây. Cậu có muốn tôi dạy cho không?”
+“……Là gì?”
+“Kehma cứ thế mà tự mình làm quản lý đi. Hoặc là, ngoan ngoãn bỏ cuộc rồi triệu hồi quái vật, sau đó nghe lời tôi một việc. Thế nào?”
+
+Rokuko mỉm cười tủm tỉm.
+
+……Không thể nào.
+Chẳng lẽ Rokuko đang bắt mình chọn giữa “Làm việc” hoặc “Nghe theo Rokuko một việc nào đó” sao?
+
+“Phư phư phư, Kehma? Một đề nghị tuyệt vời đúng không nào.”
+“Chẳng lẽ cô định bác bỏ các phương án khác mà tôi đưa ra sao?”
+“Đâu có. Nếu cậu đưa ra một phương án hoàn hảo không thể bắt bẻ được thì tôi sẽ không bác bỏ đâu. ……Kehma, nếu không làm thế này thì cậu sẽ không chịu làm việc đúng không nào?”
+
+Rokuko đã thấu hiểu cách đối phó với mình rồi sao!?
+Thấu hiểu rồi, còn ép mình vào thế lưỡng nan thế này nữa!?
+
+“……Ro, Rokuko, cô…… gần đây quả nhiên có gì đó không ổn đúng không? Có phải là hàng thật không đấy?”
+“Kehma mới là kẻ thất lễ gần đây đấy nhé!?”
+“Chắc chắn là cô đã ăn cái gì đó lạ đời rồi. ……À! Hay là Dungeon? Đã phát triển phía Dungeon nên não bộ cũng nhiều nếp nhăn hơn đúng không!”
+“Tôi không hiểu cậu đang nói gì, nhưng tôi từng nghe nói là Dungeon càng phức tạp thì Core càng trở nên thông minh hơn đấy.”
+“Tôi không nghĩ sự tiến bộ của Rokuko gần đây ở cái cấp độ đó đâu……”
+
+Tôi lặng lẽ lôi dụng cụ ma thuật phát hiện nói dối ra.
+
+“Rokuko, thử nói câu ‘Tôi là Rokuko hàng thật’ xem nào.”
+“Thất lễ quá đấy! Tôi là Rokuko hàng thật! Thế này đã thỏa mãn chưa!?”
+
+Dụng cụ ma thuật không phát sáng màu đỏ. Tuy nhiên, dụng cụ này không có tác dụng với việc bản thân người đó thực tâm tin là như vậy……
+
+“Tôi là người phụ nữ biết trưởng thành mà, Kehma…… Phù.”
+“Ồ, ừ.”
+
+Rokuko cười ra vẻ ta đây ngầu lòi. À, đây là hàng thật rồi. May quá——.
+
+……
+
+Mà này, phải giải quyết vụ quản lý nhà thờ thôi…… Nếu không làm nhanh thì kiểu gì mình cũng bị ép thành quản lý cho xem.

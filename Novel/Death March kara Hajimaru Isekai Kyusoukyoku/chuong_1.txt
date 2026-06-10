@@ -1,0 +1,218 @@
+※2016/12/17 Gửi những người mới đọc (đặc biệt là fan đến từ phiên bản anime & manga)
+　Diễn biến câu chuyện của bản web khác biệt rất nhiều so với bản anime (và manga, bản in ấn).
+　Ngoài ra, vì bản web của tác phẩm này chưa qua chỉnh sửa kể từ khi tôi bắt đầu viết tiểu thuyết lần đầu tiên, nên hãy lưu ý rằng sẽ có rất nhiều đoạn miêu tả còn thiếu sót hoặc những đoạn văn giải thích thừa thãi.
+　Nếu bạn muốn đọc một văn bản dễ tiếp cận hơn, hãy xem qua bản đọc thử trên BOOKWALKER hoặc bản in ấn.
+
+※2014/6/30 Đã sửa các lỗi đánh máy.
+
+Sao băng rơi.
+　Rất nhiều, rất nhiều.
+　Bạn đã từng nhìn thấy sao băng bao giờ chưa?
+　Có kẻ bị thu hút bởi vẻ phù du của nó, có kẻ lại thầm thì những điều ước, mỗi người mỗi ý.
+
+　Thế nhưng, chắc hẳn chưa ai từng tận mắt chứng kiến cảnh thiên thạch xé toạc bầu trời mà rơi xuống, phải không?
+　Cảnh tượng nó xẻ dọc không trung cùng tiếng gầm thét, rồi đập mạnh xuống mặt đất bằng khối lượng và tốc độ kinh hoàng.
+
+　Có lẽ trong số đó, cũng có người từng thấy qua trên tivi hay các trang video. ...Dẫu vậy, chắc chẳng ai muốn nhìn thấy nó rơi xuống ngay trước mắt mình đâu.
+
+　Đúng vậy, lúc này đây, gần một trăm thiên thạch đang liên tiếp rơi xuống mặt đất ngay trước mắt tôi.
+
+　Không.
+
+　Lẽ ra không nên nói như thể đó là chuyện của người khác. Bởi vì, kẻ gây ra thiên tai đó, không ai khác chính là bản thân tôi.
+
+　Lựa chọn thiếu suy nghĩ từ 10 phút trước, giờ đây đã trở thành những ngôi sao băng đang đào xới mặt đất.
+　Những ngôi sao băng cắm phập xuống cách đó mươi cây số, giày xéo "kẻ địch" đang ở đó, những dấu chấm trên radar ở góc tầm nhìn biến mất, và tại nơi rơi xuống, những sinh mạng cũng bị dập tắt.
+
+　Và khi hầu hết sao băng đã biến mất vào lòng đất, cuối cùng thì âm thanh rơi trễ nhịp mới truyền đến, theo sau đó một chút là chấn động của mặt đất rung chuyển.
+
+　Ngay trước khi sóng bụi đất tựa như trườn trên mặt đất ập đến...
+
+　Đột nhiên, một cơn đau buốt tựa như thiên phạt ập tới.
+
+　Như muốn chẻ đôi đầu óc tôi.
+
+　Như muốn xé nát cơ thể tôi thành từng mảnh.
+
+　Ngay sau khi đánh mất ý thức vì cơn đau đó, cơ thể tôi đã bị sóng bụi đất cuốn phăng đi.
+
+
+　◇
+
+
+　Thời gian quay ngược lại một chút.
+
+　Tôi đang phải tăng ca ngày nghỉ để kịp tiến độ cho dự án vốn đã trễ quá mức cho phép. Tôi là một lập trình viên tại công ty thầu phụ, chuyên nhận làm các ứng dụng game điện thoại hay game trình duyệt cho PC từ những tập đoàn lớn.
+
+　Dù công ty có là "công ty đen" (black company - công ty bóc lột sức lao động) đến đâu thì bình thường cũng chẳng ai giao cho một người quá hai dự án. Thế nhưng, do thay đổi quy cách và vô số lỗi phát sinh, lập trình viên hậu bối trẻ tuổi đã mất tích ngay trước ngày bàn giao! Đáng buồn thay!
+　Vì tỷ lệ nghỉ việc ở công ty rất cao, nên lập trình viên ở đây chỉ có tôi và cậu hậu bối đó. Chẳng thể mong đợi việc bổ sung nhân sự gấp rút, thế nên tôi đành phải gánh vác cả dự án của mình lẫn dọn dẹp đống đổ nát từ dự án đang "cháy" của hậu bối.
+
+"Được rồi, hoàn thành nhập xuất và chú thích cho tất cả các class rồi, giờ chỉ cần dùng autodocumenter tạo tài liệu và biểu đồ tương quan từ source code, sau đó là bắt đầu rà soát lỗi thật sự thôi～"
+
+　Tôi vươn vai một chút, tiếng cổ kêu răng rắc.
+　Nhìn quanh, đây là văn phòng quen thuộc nơi mọi người đều đi làm dù là ngày nghỉ. Ở bàn bên cạnh, người phụ trách đội ngũ kiểm thử (debug) đang lầm bầm độc thoại trong khi làm việc, nhưng chẳng ai nhìn cậu ta bằng ánh mắt kỳ thị cả. Chắc là họ chẳng còn dư dả tâm trí cho việc đó. Các designer và planner xung quanh đều đang thẫn thờ như những xác sống, lặng lẽ tiếp tục công việc của mình.
+
+　Khi tôi pha cà phê trở lại bàn, PC đã hoàn thành xong công việc, trên màn hình hiển thị thông báo đã xuất tài liệu cần thiết cho việc debug.
+
+　Dẫu vậy, làm việc mà không có tài liệu thì bảo sao không cháy dự án cho được.
+
+　Dù có phàn nàn với cậu hậu bối bị ném vào thực chiến mà không có lấy thời gian để OJT (đào tạo tại chỗ) thì cũng chẳng ích gì. Nghĩ lại thì nửa năm trước khi hậu bối vào công ty, vốn có 4 lập trình viên, giờ chỉ còn mỗi mình tôi, tôi thấy công ty này thật sự có vấn đề.
+
+"À... Anh Suzuki này, khách hàng vừa khiếu nại bảo độ khó của phần WW hơi quá sức với người mới chơi, phải sửa lại ạ."
+
+　Vừa định gọi là "Sato" rồi đấy à, đồ khốn. Làm việc cùng đội nửa năm rồi mà còn suýt nhầm tên à!
+
+　Quay lại, gã Director kiêm Planner "béo bụng" đang hỏi tôi với khuôn mặt khó xử quen thuộc.
+　Hơn nữa, dù đang gặp chuyện rắc rối, trông gã vẫn có vẻ gì đó vui mừng. Tại sao dân làm phát triển game lại có nhiều kẻ mang xu hướng M (Masochist - thích bị ngược đãi) đến thế nhỉ.
+
+　WW là tên viết tắt của "WAR WORLD", game trình duyệt PC đang được phát triển cấp tốc. Nó là một game chiến thuật chính thống, được thêm thắt một chút tính năng giao lưu xã hội.
+
+"Chẳng phải đã bàn là nếu hạ độ khó xuống nữa thì nhóm khách hàng mục tiêu sẽ không chơi nên không làm à?"
+
+　Đúng vậy, độ khó hiện tại đã được quyết định sau nhiều lần họp hành với khách hàng. Lẽ nào khoảng thời gian vô nghĩa đó thực sự là vô nghĩa thật sao? Thật không cam lòng.
+
+"Hay là tặng kèm bonus như là 'toàn bộ bản đồ được dò quét' chỉ trong lần đầu tạo nhân vật và bom quét sạch bản đồ khoảng 3 lần, cái thứ mà lần trước bị gạt bỏ ấy, có được không? Nếu không dùng mà vẫn clear được thì tặng danh hiệu hiếm, dẫn dắt mấy đứa giỏi không cần dùng đến chúng xem?"
+
+"Giờ cũng chẳng còn thời gian nữa rồi, cứ làm vậy đi. Thế nhé, nhờ anh Suzuki triển khai giúp."
+　Gã béo vẫn vô tư như mọi khi.
+
+"Đợi đã. Hiện giờ phần debug của game MMO-RPG trên điện thoại đang bị đè tiến độ, nên anh đi xin khách hàng cái OK trước đi. Lỡ nhúng vào mà bị từ chối thì chẳng còn thời gian sửa đâu."
+"Okey. Tôi gọi điện xác nhận ngay đây~"
+
+　Gã béo vừa rung cái cơ thể đồ sộ vừa biến mất vào khu vực hút thuốc với chiếc điện thoại trên tay.
+
+　Từ đó, tôi vừa lầm bầm độc thoại vừa lặng lẽ đẩy nhanh công việc.
+　Giữa chừng, sau khi nhận được tín hiệu GO từ gã béo, tôi vừa lót dạ bằng đồ ăn vặt vừa trải qua đêm dài.
+
+　Tôi sửa vô số lỗi bất cẩn mà hậu bối để lại cho đến tận đêm khuya, rồi giao lại phần sau cho đội debug.
+　Mà này, tên nó là gì nhỉ? Vì lúc nào cũng gọi là MMO hay Roleplay nên tôi quên mất tên chính thức. À phải rồi, là "FREEDOM FANTASY WORLD". Vì nó dễ gây nhầm lẫn với tên cũ của WW là "FANTASY WAR WORLD" nên không ai gọi tên đó nữa. Nhớ lại thì trên tài liệu quy cách có ghi chữ viết tắt FFW. Sau đó vì phần "FANTASY" đã được bỏ khỏi WW nên giờ cũng không còn gây nhầm lẫn đến mức đó nữa, nhưng thôi đã muộn rồi.
+
+　Vừa sửa lỗi cho WW, tôi vừa lần lượt xử lý các báo cáo phát hiện lỗi từ đội debug của FFW... Hôm nay lại thức trắng đêm nữa rồi.
+
+　Việc kiểm tra kéo dài đến tận sáng hôm sau, và kỳ diệu thay, chương trình client của game MMO-RPG đã được bàn giao.
+
+　Tất nhiên là vẫn còn lỗi tồn đọng, nhưng vì đã có bảo kiếm mang tên "bản vá cập nhật" (patch update) trong dịch vụ trực tuyến nên chắc không cần lo lắng gì. Dù nghe như sắp có tiếng gào thét của người dùng, nhưng tôi buồn ngủ quá. Sau khi chuyển gói thực thi của WW mà tôi đã sửa trong lúc đội debug làm việc cho gã béo qua email nội bộ, tôi chìm vào giấc ngủ an lành sau 30 tiếng đồng hồ ngay tại "miền đất hứa" dưới gầm bàn.
+
+　À, hạnh phúc làm sao. Muốn cười thì cứ cười là nô lệ của công ty đi. Giờ đây, giấc ngủ mới là chính nghĩa!
+
+
+　◇
+
+
+　Bạn có biết từ "giấc mơ sáng suốt" (lucid dream) không?
+　Là giấc mơ mà bản thân nhận thức được đó là mơ.
+
+　Tôi hiện đang ở trên một vùng hoang dã.
+
+　Rất muốn nói câu thoại nổi tiếng của Por-san nhưng thôi bỏ đi.
+
+　Đúng, hoang dã. Tưởng tượng đến vùng Grand Canyon của Mỹ là hợp lý nhất.
+
+　Tại sao tôi biết là mơ?
+
+　Một là vì tôi nhớ mình vừa mới chìm vào giấc ngủ dưới gầm bàn. Hai là vì tôi có thể nhìn thấy 4 cái "icon" ở góc dưới bên phải tầm nhìn và thiết bị ghi chữ "Menu" ở góc trên bên phải.
+
+　Đó là thứ giống hệt của WW mà tôi vừa làm việc tới tận lúc nãy.
+
+　Thế nhưng! Đây không phải lần đầu tiên tôi debug trong mơ khi đang ngủ lúc đang ở giai đoạn "đến chết" (death march). Dù rằng việc không phải ở phòng làm việc hay phòng riêng mà lại ở vùng hoang dã thì đúng là bí ẩn...
+
+　Chắc là do phòng bị khô hay gì đó, chắc lý do đại loại thế.
+
+　Tôi thử dùng ngón tay chạm vào menu để mở màn hình menu. Một cửa sổ bán trong suốt thường thấy trong các thể loại viễn tưởng tương lai hiện ra trong tầm nhìn. ...Quả là trí tưởng tượng nghèo nàn, mình mà làm planner hay designer thì tiêu đời rồi.
+
+　Menu được chia thành các tab, ngoài những mục quen thuộc như "INFO", "MAP", "Quản lý đơn vị", "Kho lưu trữ", "Giao lưu", "Log", "Cài đặt" thì còn có thêm những mục không tồn tại trong WW như "Trạng thái", "Trang bị", "Ma pháp", "Kỹ năng".
+
+　Chắc do đêm qua vừa debug cả FFW nên bị trộn lẫn vào nhau rồi.
+
+　Thôi, đòi hỏi tính logic trong mơ là sai lầm rồi.
+
+　Nhìn vào Trạng thái, thấy cấp độ 1, HP, MP, các chỉ số năng lực đều là 10 điểm. Đây là giá trị trạng thái cơ bản khi chưa cộng điểm thưởng. À phải rồi, dường như đây là giá trị của nhân vật trong lần kiểm tra tạo hình cuối cùng.
+
+　Hử? Tại sao lại có những mục không tồn tại trong tham số của FFW như chức nghiệp, giải thưởng/hình phạt thế này? Có cái gì đó bị lẫn vào rồi.
+　Tuổi 15... Lẽ nào tiềm thức của mình muốn quay lại cuộc sống học sinh một lần nữa à?
+　"Chức nghiệp: Quản lý" á, trong khi giờ làm gì còn nhân viên nào dưới quyền đâu!
+　Thêm nữa, việc viết "Thuộc quyền: Không" có phải là biểu hiện của mong muốn chuyển việc không...
+
+　Nội dung thật đầy ẩn ý. ...À, muốn có ngày nghỉ quá.
+
+　Việc trong kỹ năng đặc biệt có ghi "Tạo đơn vị" hay "Bố trí đơn vị" chắc là do WW bị lẫn vào, nhưng "Menu" thì có cần thiết phải viết vào mục kỹ năng đặc biệt không cơ chứ?
+　Hơn nữa, chữ "Bất diệt" ở cuối mục đó là gì? Giấc mơ thật kỳ lạ.
+
+　Trang bị thì có áo polo, quần chinos, giày sneaker. Chính là bộ đồ lúc nãy. Kho lưu trữ thì có ví tiền, điện thoại và 1 hộp thực phẩm bổ sung cân bằng dinh dưỡng với cái hộp màu vàng gây ấn tượng. À phải rồi, trước khi ngủ định ăn cái đó, cuối cùng thua cuộc trước cơn buồn ngủ nên bỏ lại trên bàn.
+
+　"Ma pháp" và "Kỹ năng" để trống.
+　Nói đến kỹ năng thì trong màn hình trạng thái có ghi 10 điểm kỹ năng, nhưng buồn thay lại chẳng có kỹ năng nào để cộng.
+
+　Tôi mở "Cài đặt" rồi thêm bản đồ và radar vào hiển thị cơ bản. Bản đồ hiển thị địa hình diện rộng và vị trí của bản thân. Radar gần giống với bản đồ, nhưng hiển thị tất cả đơn vị bất kể địch ta hay trung lập trong khu vực đã dò quét bằng các dấu chấm phân loại màu sắc.
+
+　Trên radar chỉ có một chấm trắng nhỏ biểu thị chính mình. Ngoài khu vực 100m quanh mình được hiển thị màu sắc thì những chỗ khác đều được sơn màu xám biểu thị chưa thăm dò.
+
+"Ừm, không có kẻ địch trong tầm mắt. Rảnh rỗi quá. Ít nhất nếu là đồng cỏ thì đã có thể nằm dài mà đánh một giấc rồi."
+　Tôi không có sở thích nằm trên mặt đất lởm chởm đá.
+
+　Tôi lơ đãng nhìn 4 icon ở góc dưới bên phải. Một cái là "Dò quét toàn bản đồ", 3 cái là "Mưa sao băng". Là kế hoạch cứu trợ người mới mà tôi đã tùy tiện dựng lên trong buổi họp với gã béo.
+
+　"Dò quét toàn bản đồ" đúng như cái tên, toàn bộ phạm vi trong bản đồ sẽ được dò quét. Ngoài ra còn có thể xem thông tin chi tiết bao gồm cả điểm yếu của mọi đơn vị.
+　Tuy nhiên tôi nghĩ nếu không có kiến thức nhất định thì thông tin quá nhiều sẽ chẳng biết tận dụng ra sao, nhưng nó đã được cài đặt theo ý muốn mạnh mẽ của gã béo.
+
+　Thử chạm ngón tay vào như dùng smartphone để thực hiện xem sao.
+　Radar quét sạch toàn bộ, vô số kẻ địch hiện ra bằng những dấu chấm màu đỏ. Tôi giảm tỉ lệ radar để hiện thị phạm vi rộng.
+　Vì kẻ địch quá đông nên một nửa phía trên của bản đồ chỉ toàn thấy màu đỏ. ...Địch, đông quá mức rồi nhỉ?
+
+　Phải chọn loại "Đơn vị" phe mình dễ đối phó với số đông mới được!
+　Đánh bại đại quân với binh lực ít ỏi, nghe thật hào hứng nhỉ!
+
+
+　◇
+
+
+　...Đã từng có thời kỳ tôi suy nghĩ như thế.
+
+"Tạo đơn vị" ...Không có đơn vị nào có thể tạo.
+"Bố trí đơn vị" ...Không có đơn vị nào đã được tạo.
+
+"Định bắt nhân vật cấp 1 đi xung kích à, LOL"
+　Đúng là giấc mơ. Vô lý đến mức độ này là cùng.
+
+　Tôi liếc nhìn icon "Mưa sao băng" ở góc dưới bên phải.
+
+　Đây chẳng phải là ý trời muốn mình dùng "Mưa sao băng" để tiêu diệt hết chúng hay sao!
+
+　Vì tôi đã thiết lập tham số trong trạng thái hưng phấn của việc thức trắng đêm, nên uy lực của nó vô lý đến mức đủ để đánh bại mọi thứ trừ trùm cuối hoặc trùm ẩn trong kịch bản chiến dịch.
+
+　Tôi muốn gửi thông điệp cho người mới rằng: "Bản đồ nào không clear được thì cứ dùng cái này mà càn quét nhé."
+
+　Nhấn thử không?
+　　＞Có
+　　　YES
+　　　Yarutze-Burakkin (câu đùa chế từ "làm tới bến đi")
+
+　Cái cuối cùng có gì đó sai sai.
+　Chắc là do dư âm hưng phấn của việc thức trắng đêm vẫn còn, tôi chạm vào một trong những icon đó.
+
+　...Sự im lặng thật đau đớn.
+　Đã kỳ vọng vào cái gì đó kinh khủng lắm, thế mà chẳng có gì xảy ra cả?
+
+　Có chút buồn bã, tôi lăn ra đó nằm vạ. Lưng đau nhức vì mặt đất lởm chởm.
+　Và rồi, khi nhìn lên bầu trời, thứ đó đã lọt vào tầm mắt tôi...
+
+
+
+　Để các bạn đợi lâu rồi.
+
+　Cuối cùng cũng quay trở lại cảnh mở đầu rồi đấy.
+
+　Tên thật, Suzuki Ichiro. Tên nhân vật, Satou. Cuộc sống ở dị giới đã bắt đầu như thế đó.
+
+Lần đầu tiên tôi viết tiểu thuyết.
+Viết lách khó thật đấy.
+
+
+
+
+
+
+
+
+※Chú ý※
+　Kỹ năng độc nhất (kỹ năng đặc biệt/ability) của Satou ngoại trừ Menu sẽ không có đất diễn cho đến tận gần cuối câu chuyện.

@@ -1,0 +1,128 @@
+Số DP nhận được từ Haku-san là 150.000 DP.
+Kết quả của trận chiến Dungeon, còn lại 30.000 DP... trong đó 10.000 DP tôi để cho Rokuko tùy ý sử dụng, trừ đi khoản đó còn 20.000, cộng lại tôi có khoảng 170.000 DP đang nằm trong tay và có thể tự do sử dụng.
+
+Hãy dùng số tiền "từ trên trời rơi xuống" này (dù nó là DP) để chuẩn bị mọi thứ thôi.
+Đầu tiên, tôi biến cả khu rừng gần hang động thành lãnh địa Dungeon và kiếm được 10 cái "Củ cải củ đường (10 DP)". ...Đó là loại củ cải dùng để làm nguyên liệu sản xuất đường. Tôi sẽ cày xới một mảnh đất ở nơi không cản trở công việc của Dungeon để trồng thêm, ở đây thì đường là loại hàng cao cấp đấy.
+Việc dùng DP để lấy đường rồi bán thì dễ thật, nhưng sau đó sẽ không duy trì được lâu. Như vậy thì tiền có tăng nhưng DP lại chẳng tăng lên. À, hình như 50 đồng đồng đổi được 5 DP nên cũng không hẳn là không tăng, nhưng thôi.
+Nếu thất bại trong việc trồng củ cải đường thì tính sau cũng được.
+
+Tiếp theo, tôi lấy thêm vài cuộn giấy ma pháp.
+Cuộn giấy ma pháp Đất cấp thấp "Stone (700 DP)"
+Cuộn giấy ma pháp Nước cấp thấp "Water (500 DP)"
+Cuộn giấy ma pháp Gió cấp thấp "Air Voice (400 DP)"
+Cuộn giấy ma pháp Lửa cấp thấp "Fireball (500 DP)"
+Cuộn giấy ma pháp Ánh sáng cấp thấp "Light (400 DP)"
+Cuộn giấy ma pháp Bóng tối cấp thấp "Blind (500 DP)"
+Cuộn giấy ma pháp Không gian - Thời gian cấp thấp nhất "Osaifu (Ví tiền) (600 DP)"
+Mỗi loại lấy 3 bản. Cho tôi, Rokuko và Niku. Thử học qua tất cả các thuộc tính xem sao. Biết đâu lại dùng được việc gì đó. ...Cơ mà, chỉ có mỗi ma pháp Không gian - Thời gian là cấp thấp nhất, cái "Osaifu" là cái quái gì thế không biết. Theo đúng cái tên thì nó là không gian lưu trữ dị giới cỡ cái ví tiền. Này cái chức năng dịch thuật ơi, ý ngươi là sao hửm...
+
+Và, cuộn giấy ma pháp Không gian - Thời gian cấp trung mà Haku-san đề xuất, thứ gì đó khá là tiện lợi "Cuộn giấy Lưu trữ (10.000 DP)"... Đúng là đắt thật, nhưng dù sao cũng là tiền dễ kiếm nên cũng lấy 3 bản luôn.
+Tôi lập tức cho cái "Gối thiên đường" vào đó. ...Có vẻ chứa được dung lượng bằng cả cái tủ âm tường đấy. Cho cả chăn vào luôn đi. Thế này thì dù giường ở quán trọ có cứng cũng chẳng lo nữa.
+
+Vậy nên, tổng cộng tôi đã dùng khoảng 80.000 DP, còn lại 90.000 DP. Vẫn còn khá nhiều, nhưng số này để dành cải tạo Dungeon tiếp vậy.
+
+...Chà, giờ nhìn lại thấy hoài niệm cái thời mà mỗi khi tiêu DP là tiền lại về con số hàng đơn vị quá.
+Giờ là hàng vạn, hàng vạn đấy nhé. Đúng là tiểu phú gia mà.
+
+À phải rồi. Hình như vì mở rộng lãnh thổ Dungeon nên thu nhập DP cơ bản không biết từ bao giờ đã là 100 DP mỗi ngày. Hình như là thu nhập từ địa mạch thì phải.
+...Tăng gấp 10 lần ư... Chà, so với cái thời Dungeon chỉ có mỗi một căn phòng thì độ mở rộng đâu chỉ dừng lại ở gấp 10. Liệu có điểm nào giúp tăng thu nhập DP không nhỉ? Kiểu như điểm tụ linh (Power spot) ấy.
+Nếu mỗi ngày có 100 DP thì cứ nằm ngủ thôi cũng được rồi. Không làm gì mà mỗi ngày vẫn có 10.000 yên đó?
+
+Rồi, sau trận chiến Dungeon, khi xem kỹ thực đơn, tôi thấy một cái bẫy... hay đúng hơn là một thiết bị có tên "Spawn Monster" vừa được thêm vào danh mục DP.
+Nó tốn gấp 100 lần số DP của con quái vật được chỉ định, nhưng bù lại, thiết bị đó sẽ khiến con quái vật đó xuất hiện định kỳ.
+Có vẻ như khi Dungeon đạt đủ điều kiện thì sẽ có thêm một số mục mới được thêm vào menu. Haku-san đã dạy tôi như thế.
+...Điều kiện để có "Spawn Monster" chắc có lẽ là số lượng triệu hồi quái vật nhỉ?
+
+Nói về việc cải tạo Dungeon, tôi định biến nơi này thành "nơi mà con người thường xuyên ghé thăm, lưu trú và để lại DP cùng tiền bạc".
+Đúng vậy, xây một "quán trọ" trong Dungeon. Đó là kế hoạch của tôi.
+Hự hự hự, ăn cả tiền trọ lẫn DP, lãi kép rồi đây!
+
+...Hả? Keo kiệt á? Kệ chứ, chừng đó đã là gì.
+Nếu nổi bật quá thì tiên phong của thần sẽ kéo đến đúng không? Thế rồi, ôi thôi, chẳng phải sẽ chết sao. Chết rồi thì ngủ nghê gì nữa. Tôi không công nhận vĩnh miên (cái chết) là một giấc ngủ đâu nhé.
+
+Dù sao thì, để ngủ được yên tâm, tôi cũng muốn đạt đến cấp độ đủ để đối phó với tiên phong của thần, nên mục tiêu đặt ra là trở thành "Mê cung Trắng" và Đế đô. Đó là tấm gương thành công dễ hiểu nhất.
+Người dân tập trung ở Đế đô, DP tăng lên.
+Dùng DP tích lũy để mở rộng Dungeon.
+Người dân lại tập trung đến Đế đô để tìm kho báu của Dungeon.
+Và cứ thế là một vòng lặp vĩnh cửu.
+
+Để đẩy lùi tiên phong của thần, phải lớn mạnh đến mức như "Mê cung Trắng".
+Được biết Dungeon gốc của "Mê cung Trắng" là "ít nhất đã vượt quá 150 tầng". Chênh lệch tận hai chữ số luôn.
+Chưa kể, bản thân Đế đô chính là "Mê cung Trắng" nên nó đi kèm với con tin là "Nếu phá hủy lõi Dungeon của Mê cung Trắng thì Đế đô cũng sẽ sụp đổ, khiến dân chúng vô tội bị liên lụy".
+Thế mà Haku-san vẫn khiến bọn tiên phong của thần hài lòng bằng cách để cho các kỵ sĩ đoàn đi càn quét các Dungeon khác.
+Phải đến mức đó mới gọi là không bị tiên phong của thần tấn công.
+Con đường còn xa quá, chắc tôi già chết mất thôi.
+
+Vậy nên, là thế đấy.
+
+Tôi định làm cái quy mô nhỏ hơn là quán trọ.
+Chính xác hơn là, tôi định bắt người khác làm quán trọ.
+Và tôi thì muốn cứ nằm ườn mãi ở căn phòng sâu thẳm trong quán trọ đó. Vì thế, tôi sẽ làm một quán trọ thật thu hút để có thể nằm mãi không rời.
+Nhưng mà, ở cái nơi khỉ ho cò gáy này thì chẳng ai rảnh mà đến đâu. ...Dù cũng có Dungeon thật đấy.
+Nếu muốn dùng Dungeon làm "gấu trúc để kéo khách" thì... ừm, tốt nhất là nên lắp đặt các thiết bị kiểu "Spawn Monster".
+
+Chà, nếu tuổi thọ của tôi - một Dungeon Master - có lên đến 200 hay 500 năm, hoặc trở thành bất tử, thì lúc đó tôi sẽ nhắm đến "Mê cung Trắng" sau.
+
+*
+
+"Chết tiệt, quên sạch sành sanh luôn."
+
+Hai ngày sau trận chiến Dungeon. Tôi chợt nhớ ra là mình đã nói với tên lính gác ở Zier là sẽ quay lại trong 2, 3 ngày. ...Chà, nếu không có chuyện gì xảy ra thì chỉ trễ một chút cũng chẳng sao nhỉ.
+Hửm? Mà khoan, thực ra mình còn cần phải là mạo hiểm giả nữa không nhỉ... Dù nghĩ vậy nhưng danh phận mạo hiểm giả lại khá tiện để vào thị trấn. Dù Haku-san đã dạy nhiều thứ nhưng thông tin của tôi vẫn còn thiếu hụt quá.
+
+Hơn nữa, để xây quán trọ thì thiếu nhân lực.
+Không phải thiếu sức lao động đâu, vì nếu là việc đó thì cứ để Golem lo là được.
+Thứ tôi cần là "người". Tôi cần "người" để tiếp khách.
+Hiện tại đội hình của chúng tôi là "1 nam, 2 bé gái, đông đảo Golem, đông đảo chuột", đội ngũ tiếp khách quá là... thiếu hụt.
+Tôi không muốn ngồi quầy tiếp tân làm việc đó. Để bé gái ngồi tiếp tân thì khách hàng có khi chẳng thèm ngó ngàng tới. Golem thì tiếp khách quá khó, còn chuột thì đừng hòng.
+
+Mà đây là Dungeon, bí mật nhiều kinh khủng. Vì quá nhiều bí mật nên chắc không thể thuê người bình thường được. Vậy thì phải làm sao?
+
+Nô lệ.
+Tôi sẽ mua nô lệ. Dù cần phải lo chuyện ăn ở, nhưng những nô lệ bị ràng buộc bởi cái gọi là ma pháp khế ước sẽ không bao giờ tiết lộ bí mật, trốn việc hay tham ô. Niku là minh chứng cho thấy chỉ cần giáo dục tốt thì họ sẽ trở thành nhân viên vô cùng ưu tú.
+
+"Vậy nên, ta sẽ đi thị trấn. Tiện thể lần này ta định mua nô lệ."
+"E, em không được sao ạ?!"
+
+Ồ, ồ, đây là lần đầu Niku thể hiện cái tôi dữ dội thế này đấy.
+
+"Cả chữ viết, cả ma pháp em đều đã học được rồi, em, em muốn, muốn giúp ích cho chủ nhân nhiều hơn nữa!"
+"Không, ừ, cảm ơn em nhé. Việc đó thì cứ tiếp tục cố gắng đi. Sau này còn phải chăm sóc cả hậu bối nữa đấy."
+"Phê, ư, em không bị bán đi sao ạ?"
+"Không bán. Bình tĩnh nào, sao lại cởi đồ?"
+
+Tôi xoa dịu Niku đang hơi hoảng loạn và ngăn cô bé lại khi cô bé định cởi đồ.
+Nghe này, đừng có cởi. Đừng có cởi tất ra. Cởi cái đó là ám hiệu bắt đầu cuộc chiến đêm đấy nhé.
+
+"Ngay từ đầu nếu định bán thì ta đã chẳng dạy ma pháp cho em rồi... Với lại em cũng biết về Dungeon của chúng ta, biết cả mặt sau của Dungeon rồi nên... đúng hơn là không thể trả em về làm người bình thường được nữa rồi."
+"...Vậy, vậy là nô lệ cho đến chết ạ!"
+
+Ừm, thì đúng là vậy, nhưng... thôi, thấy em ấy vui vẻ là được rồi.
+
+"Còn có con đường nô lệ ngay cả khi chết đấy? Ma pháp Bóng tối cấp vương có cái gọi là [Necromancy] (Thuật chiêu hồn) đấy."
+"Vâng! Xin hãy làm thế ạ!"
+
+Rokuko-san, làm ơn đừng nói những điều dư thừa.
+...Nhìn vào danh mục thì "Cuộn giấy Necromancy" tốn tận 800 triệu DP cơ. Còn xa vời lắm.
+
+*
+
+Tôi đổi 10.000 DP lấy 100 đồng bạc, cho vào [Osaifu]. Một đồng tiền vàng, chắc là đủ rồi... liệu có đủ không nhỉ? Thôi thì cứ cho cả số tài sản thừa của lũ cướp vào luôn vậy.
+Với cả, tôi cũng mang theo cả túi vải đựng tiền để ngụy trang cho việc kích hoạt kỹ năng [Osaifu]. ...Hả? Bị lộ vì niệm chú á? Không, [Osaifu] hoàn toàn không cần niệm chú. Hoàn toàn không niệm chú. Vì vậy có thể dùng mà không gây chú ý. Tại sao lại có thông số này thì tôi không biết, nhưng đã vậy rồi thì đành chịu. Biết đâu thực ra là vì mỗi lần lấy tiền ra mà cứ "Osaifu, Osaifu" thì trông như kiểu người quên mất mình cất ví ở đâu ấy, nên người ta mới cố tình làm không cần niệm chú chăng, cũng có khả năng đó lắm chứ.
+
+Dù sao thì, còn 80.000 DP. Phải, phải dùng một cách cẩn thận từ giờ thôi.
+
+Rồi, để Rokuko lại trông nhà, tôi lại đến thị trấn Zier.
+Rokuko cũng bảo muốn đi theo, nhưng tôi không định biến Dungeon thành nơi chỉ toàn Golem và chuột. Nếu có ai đó đến thì chắc họ cũng không phá giải ngay được, nhưng lúc cần kíp thì quyền hạn để lấy thứ gì đó ra từ DP hay kích hoạt "nhập thành" (di chuyển lõi) để sơ tán lõi chỉ có tôi là Master và Rokuko là Lõi mới có thể làm được.
+(Hiện tại, tôi đã tạo một căn phòng nhỏ phía sau cánh cửa đố chữ đang thi công dở và đặt lõi ở đó).
+
+"Ồ, còn sống à."
+
+Vừa bị tên lính gác nói vậy, tôi vừa trả mỗi người 1 đồng đồng rồi bước vào Zier.
+Có vẻ việc kế hoạch không như dự tính là chuyện thường thấy với mạo hiểm giả rồi. Thế giới không có tàu điện mà.
+
+"Tạm thời thì... nên ghé qua Guild nhỉ. Syria-san chắc đang lo lắng đấy."
+
+...Ủa, mình có độ thiện cảm đến mức được người ta lo lắng sao?
+
+Phần viết dự trữ đã hết, tôi đã đuổi kịp tiến độ rồi.

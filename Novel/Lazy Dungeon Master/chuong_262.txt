@@ -1,0 +1,109 @@
+Ngủ một giấc dậy rồi nghĩ lại.
+　Nói chung là cứ đi tuần tra cho có lệ, nhưng có lẽ cũng chẳng cần thiết lắm.
+
+　Mà dù có tuần tra thì phía Zier cũng chẳng có động tĩnh hay thắc mắc gì cả.
+　……Bình tĩnh nào, mới chỉ tầm một, hai ngày thôi. Rất có khả năng lãnh chúa chỉ đang tích lũy sức mạnh mà thôi.
+　Thậm chí, biết đâu họ đang làm thế này để khiêu khích, khiến ta dao động cũng nên.
+
+　Khốn kiếp! Chết tiệt thật. Thế này thì chỉ có cách chế tạo một con Dungeon Boss mới để phân tán sự chú ý thôi.
+
+　Thực ra, ý tưởng này ta đã nung nấu từ lâu rồi.
+　Ta vốn dùng ma cụ để chế tạo vũ khí, nhưng các hiện tượng sinh ra bởi ma cụ thì về cơ bản, bẫy vẫn mạnh hơn. Ví dụ nếu muốn tạo nước thì dùng "Nguồn nước", muốn tạo lửa thì dùng "Bẫy lửa". Ngay cả với một đứa có ít hạng mục như ta – kẻ mà catalogue DP không có mấy loại bẫy – thì đây vẫn là sự thay thế vượt trội.
+
+　……Ồ? Có thể tùy chỉnh bẫy được rồi này. Hình như trước đây đâu có đâu.
+　Dù nói là tùy chỉnh, nhưng thực chất chỉ là điều chỉnh một chút phạm vi tác dụng khi đặt thôi… ừm, nhân tiện đây, cứ thử dùng thật nhiều bẫy trong catalogue xem có mở khóa được thành tựu gì không.
+　Tốn DP phết đấy, nhưng mà thôi, cũng đáng.
+
+　Vì trong Master Room của lõi Dungeon không thể đặt bẫy, nên ta phải ra phòng Boss để làm việc.
+　Trước tiên, thử xem có đặt bẫy lên Golem được không.
+　Ta mang một con Iron Golem vào phòng Boss rồi mở catalogue ra.
+
+　……Ừ, không được. Không thể chọn đối tượng để đặt bẫy.
+
+　Tiếp theo là xem có đặt bẫy lên tường được không… cái này thì bình thường, nên ta tháo rời Iron Golem ra thành các thỏi thép. Sau đó dát mỏng chúng, dán lên tường rồi thử đặt bẫy lên đó.
+　Tạm thời thì… "Nguồn nước" à, làm thế phòng ướt nhẹp mất, thôi dùng "Bẫy lửa" cho lành.
+
+　Đặt xong, lửa phun ra từ bức tường của dungeon, còn miếng sắt dán lên thì đóng vai trò như cái nắp.
+　……Không được à. Nếu làm được cái này, ta có thể phát triển thêm kiểu gắn "Bẫy lửa" lên tượng các thứ cơ.
+　Hay là do lấy Iron Golem làm gốc nên mới hỏng nhỉ? ……Thôi, cái này để dành khi nào xây phòng tắm hơi ở làng Succubus vậy.
+
+　Đang làm thì ta chợt nhận ra catalogue DP có mục "Nội thất".
+　Nhìn vào thì thấy đủ loại đồ trang trí. Gọi là nội thất thì chắc là để trang trí dungeon rồi.
+　Trước giờ toàn tự tay làm đồ trang trí nên ta chưa bao giờ để ý, hóa ra cũng nhiều thứ phết. Cột, tường, tượng… Khoan đã.
+　Ta chọn một bức tượng đá (100 DP) trong đó rồi lấy ra.
+　Một bức tượng Goblin đang thủ kiếm đầy đe dọa xuất hiện ngay trước mắt. ……Một bức tượng Goblin bằng 5 con Goblin. Nghĩ bình thường thì chả dùng được vào việc gì cả.
+
+　Nhưng không ngờ, bức tượng Goblin này lại có thể đặt bẫy được.
+　Có vẻ như những món trong mục Nội thất được coi là một phần của Dungeon, nên có thể gắn bẫy.
+
+　……Cảnh tượng ngọn lửa từ "Bẫy lửa" phun ra từ ngực tượng Goblin trông đúng là siêu thực.
+　Ta dùng [Create Golem] lên bức tượng Goblin để thay đổi hình dáng của nó. Có vẻ như nếu thay đổi phạm vi đã đặt bẫy thì nó sẽ không hoạt động, nên khi ta đổi nó thành hình cái ống đơn giản thì nó tịt ngóm.
+　Hình như hệ thống coi đó là hành động "phá hủy" bẫy rồi.
+　Thế là ta thử dùng DP để sửa bẫy. Kết quả là nó hoạt động đúng ý, lửa phun ra từ cái ống như kỳ vọng. Ồ, đây chính là súng phun lửa rồi.
+
+　Tốt, vậy là biết được thay đổi hình dáng vẫn dùng được bẫy.
+　Đây là một bước tiến lớn. Ví dụ như có thể nhét súng phun lửa này vào miệng con Golem hình rồng chẳng hạn.
+　……À, nhưng mà sau khi chỉnh sửa bằng [Create Golem] thì không thể đặt thêm bẫy mới. Phiền phức thật. Chỉ có thể sửa chữa thôi sao.
+　Hơn nữa, nếu làm cái ống hẹp quá thì lửa bị cuốn ngược vào trong ống gây cháy luôn cả cái ống. ……Nếu mà cầm trên tay thì bỏng nặng rồi. Nguy hiểm thật.
+
+　Dù đã tùy chỉnh thu hẹp phạm vi của "Bẫy lửa", nhưng có vẻ tối thiểu vẫn cần đường kính khoảng 30cm.
+　Tùy chỉnh cũng chỉ thực hiện được lúc đặt, nên phải tính toán kỹ trước khi làm thôi.
+
+　Sau đó ta lại phát hiện thêm một nhược điểm nữa.
+　Khi ta mang súng phun lửa ra khỏi phòng Boss để đem đi khoe thì nó không hoạt động nữa. Nhưng khi mang trở lại vào phòng Boss thì nó lại hoạt động bình thường.
+
+　Sau khi làm thí nghiệm kiểm chứng thêm, ta hiểu ra rằng bẫy chỉ hoạt động trên cùng một tầng mà nó được đặt.
+　Sở dĩ mang ra khỏi phòng Boss là tịt luôn là vì để ứng phó khẩn cấp, ta đã tách riêng tầng phòng Boss để có thể "triệu hồi" quái vật.
+　Có lẽ, bẫy vốn dĩ là loại cố định. Nếu giả định bẫy được dùng như những câu đố trong phòng, thì có lẽ phạm vi di chuyển của nó chỉ gói gọn trong cùng một tầng mà thôi.
+
+　Hơi rắc rối chút, nhưng chỉ cần nhớ là bẫy chỉ dùng được trong phạm vi tầng đó là được. Về cơ bản là cấm mang đi nơi khác.
+
+　Chà, nếu coi nhược điểm này là một hạn chế thì mình hoàn toàn có thể chế tạo loại Golem đời mới gắn bẫy.
+　Được rồi, cố gắng chế tạo một con Rồng Golem phun lửa tung trời thôi nào. Hú.
+
+　　＊
+
+　Ta đã ngủ một giấc. Chào buổi sáng.
+
+　Con Rồng Golem vẫn đang chế dở, còn ta thì quay về phòng trưởng làng chợp mắt một lát.
+　Dù sao thì cứ thong thả mất một, hai tuần để hoàn thiện cũng được. Đằng nào thì cũng chẳng có ai mò đến được tận phòng Boss.
+
+"À, Kehma. Chào buổi sáng."
+"Chào buổi sáng, Rokuko. Chuyện bên phía Zier có tiến triển gì không?"
+"Chẳng có gì cả. Tốt cho anh còn gì."
+
+　Ưm, cứ thấy bứt rứt thế nào ấy.
+　Biết là mình ích kỷ, nhưng cứ phải lo ngay ngáy không biết khi nào họ đến. Nhờ thế mà hôm nay ta cũng chỉ ngủ được có 8 tiếng.
+　Có phải là, vì ta đã bảo cho mượn tên trong một tháng, nên nếu trong một tháng tới không có chuyện gì xảy ra thì coi như là xong xuôi luôn không?
+　Nghĩa là――
+
+　――Mình sẽ phải chịu cảnh bứt rứt này lâu nhất là một tháng sao?
+
+　Đùa chắc. Đời nào ta để chuyện đó xảy ra.
+
+"Được rồi, tấn công Zier thôi."
+"Khoan đã Kehma? Đột ngột quá em theo không kịp, giải thích đi chứ?"
+"Xin lỗi, anh nói bừa thôi."
+
+　Tấn công thì đúng là hơi nóng vội thật.
+　Nhưng mà, ta cũng phải làm gì đó để thay đổi tình hình mới được……
+
+"……Ưm. Em nghĩ phải làm sao đây? Anh thấy bứt rứt quá."
+"Thì cứ mặc kệ đi?"
+
+　Rokuko nói tỉnh bơ như chuyện của người khác vậy. Không, dù đúng là theo phương châm ban đầu của ta thật.
+
+"Cứ thấy bận tâm là nó cứ bận tâm thôi."
+"Em hiểu anh muốn nói gì. ……Vậy thì, thế này nhé. Nếu có một vụ việc khác xảy ra thì chẳng phải anh sẽ quên đi được sao?"
+
+　Vụ việc khác à… kiểu gì thì kiểu, cuối cùng cũng vẫn là mất ngủ thôi.
+　Không có chuyện gì xảy ra là tốt nhất, nhưng mà…
+
+"À mà nhắc mới nhớ, sắp đến lúc Wataru quay lại rồi nhỉ?"
+"Wataru mà đến thì cho Nelne nghỉ phép đặc biệt vậy. Thông tin của thằng đó quan trọng phết đấy."
+
+　Mà, việc Wataru sắp mang đến một món quà tai họa đặc biệt… thì ngay lúc này đây, ta
+
+　……Không hiểu sao, ta cứ có linh cảm mơ hồ là như vậy.
+
+(Bắt đầu chương mới từ đoạn này, các phân đoạn nhỏ kèm tiêu đề chương ta sẽ bổ sung sau)

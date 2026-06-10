@@ -1,0 +1,253 @@
+Vòng bi (Ball Bearing).
+
+Đó là một thiết bị thường dùng trong các trục xoay, giúp giảm ma sát để việc quay trở nên dễ dàng hơn.
+
+Tôi đã nghĩ đến việc áp dụng nó cho xe ngựa.
+
+Nhưng, không được.
+
+Khá là bế tắc.
+
+Trước hết, đúng như cái tên của nó, vòng bi cần phải có các viên bi.
+
+Cần phải lắp nhiều viên bi xung quanh trục, mà vì nó phải chịu tải trọng lớn, nên chúng phải cực kỳ cứng.
+
+Hơn nữa, tất cả các viên bi đó phải có kích thước bằng hệt nhau.
+
+Với kỹ thuật luyện kim hiện tại thì điều đó là không thể.
+
+Vì tôi đã tự mình làm một mẫu vòng bi bằng gỗ bằng [Nông cụ vạn năng] nên mới không nhận ra vấn đề đó sớm hơn.
+
+"Tiếc quá, dù nó quay rất mượt mà."
+
+Cô nàng tộc Sơn Elf đang mân mê xoay tròn cái mẫu vòng bi bằng gỗ mà tôi làm ra.
+
+Tôi từng nghĩ có thể tạo ra món đồ chơi nào đó từ nó, nhưng rồi chẳng nảy ra được ý tưởng gì.
+
+Tôi thấy thất vọng vì sự thiếu sáng tạo của bản thân.
+
+***
+
+Tiếp theo, tôi suy nghĩ về phần trục xe ngựa.
+
+Hiện tại, bánh xe ngựa thông thường được cố định vào trục, và toàn bộ trục sẽ quay theo bánh.
+
+Ưu điểm là dễ chế tạo.
+
+Nhược điểm là vì trục phải hứng chịu trực tiếp sự rung lắc của thân xe, nên hư hại dễ tích tụ lại ở đó.
+
+Nghe nói nó rất hay bị gãy.
+
+Chà, vì thân xe chỉ có hai lỗ cố định để luồn trục qua, nên nếu thân xe hơi mất thăng bằng, tổn thương sẽ dồn thẳng vào trục.
+
+Hơn nữa, đường sá cũng đâu có bằng phẳng.
+
+Đường gồ ghề mới là phổ biến.
+
+Chỉ cần chiều cao hai bên bánh xe chênh lệch nhau thôi là trục đã bị áp lực rồi, bảo sao mà chẳng gãy.
+
+Hệ thống giảm xóc mà tôi cùng các Sơn Elf chế tạo từ trước đến nay, được đặt ở giữa phần cố định thân xe và trục.
+
+Vì thế, dù là về vấn đề rung lắc hay độ bền của trục thì nó đều nhận được phản hồi tốt.
+
+Tuy nhiên, không có nghĩa là nó không gãy.
+
+Vậy phải làm sao?
+
+Tôi quyết định cố định trục vào thân xe, và biến phần tiếp giáp giữa trục và bánh xe thành bộ phận quay.
+
+Nếu áp dụng được vòng bi lúc nãy vào đây thì tốt biết mấy, nhưng dùng vòng bi thường cũng được.
+
+"Trưởng thôn, làm như vậy thì chỗ gãy sẽ chuyển sang phần bánh xe, thiệt hại cũng không thay đổi bao nhiêu đâu ạ?"
+
+"Đừng vội. Cái chính là ở đây này."
+
+Tôi cắt đôi cái trục ra.
+
+Sau đó, cố định nó vào phần đáy trung tâm của thân xe sao cho nó có thể chuyển động lên xuống.
+
+Và lắp hệ thống giảm xóc vào phần gần bánh xe.
+
+Thấy sao?
+
+"Hả? Làm thế này thì... à, bánh xe hai bên hoạt động độc lập, nên dù là đường gồ ghề, thiệt hại cũng khó truyền thẳng vào trục hơn."
+
+Trước đây, tôi sử dụng giảm xóc chủ yếu để giảm rung lắc cho thân xe, nhưng lần này tôi dùng nó để giữ cho bánh xe hai bên hoạt động độc lập và bám chặt xuống mặt đất.
+
+Cách này cũng giúp hạn chế rung lắc, chắc là không có vấn đề gì.
+
+"Quả đúng là trưởng thôn! Thiên tài!"
+
+Ha ha ha ha.
+
+Chỉ là kiến thức từ thế giới cũ thôi mà.
+
+...
+
+Thất bại.
+
+Toàn bộ trọng lượng của thân xe đổ dồn lên một bên bánh, khiến bánh xe văng ra ngoài.
+
+"Chiếc xe ngựa thử nghiệm làm ở Làng Đại Thụ vẫn ổn mà... Tại sao chứ!"
+
+Nghe nói cây ở Rừng Tử Thần rất cứng chắc.
+
+Ra là vậy.
+
+Không, hình như trước đây cũng đã từng nghe ai đó nói thế...
+
+Dù sao thì, thật may vì đã thử nghiệm ở Làng Năm trước khi đem phổ biến rộng rãi.
+
+Cải tiến.
+
+Cái gì chứ, chỉ cần làm cái trục thật chắc chắn là được.
+
+Tôi đổi trục sang loại bằng sắt.
+
+...
+
+Hóa ra sắt lại dễ cong đến thế sao.
+
+Tôi cứ tưởng nó phải cứng hơn chứ.
+
+Hơn nữa, nó lại còn nặng nữa.
+
+Sau khi làm đủ trò, kết quả là chỉ có duy nhất một chiếc xe ngựa đời mới bằng gỗ được vận hành tại Làng Đại Thụ.
+
+Công nghệ là sự tích lũy.
+
+Mùa thu năm nay đã dạy cho tôi rằng, không có gì có thể làm xong trong một sớm một chiều cả.
+
+***
+
+Trong khi đó, mẫu vòng bi tôi làm lúc trước lại trở nên nổi tiếng với lũ trẻ.
+
+"Chỉ là quay thôi mà? Thứ đó thú vị đến vậy sao? ...Không hiểu nổi."
+
+Không hiểu thật, nhưng vì chúng muốn nên tôi vẫn làm cho.
+
+"Bố ơi, con cảm ơn ạ!"
+
+Trông chúng mãn nguyện lắm.
+
+***
+
+Vì cánh đồng được mở rộng nên nước bắt đầu thiếu hụt.
+
+Dù có giếng nên không đến mức cạn kiệt, nhưng mực nước ở ao chứa đã giảm xuống.
+
+Có lẽ lượng nước thoát ra nhiều hơn lượng nước nạp vào.
+
+Cứ thế này thì không ổn.
+
+Phải nghĩ biện pháp thôi.
+
+...
+
+À, dù sao thì gần đây cũng có một con sông.
+
+Đơn giản là chỉ cần mở rộng mương nước hiện tại, hoặc đào thêm mương mới là giải quyết được vấn đề.
+
+Khác với ngày xưa, bây giờ đã có nhân lực.
+
+À, không phải là tôi không hài lòng với đôi bàn tay của con cái Zabuton đâu nhé.
+
+Mấy đứa cũng giúp ta một tay mà, đúng không?
+
+Lần này mấy đứa cũng giúp chứ?
+
+Ha ha. Được rồi, nhờ cả vào mấy đứa nhé.
+
+Quyết định đào một con mương mới từ sông dẫn vào ao.
+
+Tôi làm nó chạy song song ngay cạnh con mương cũ.
+
+Vì có tre nên tôi cũng nghĩ đến việc làm bằng tre, nhưng xét đến chuyện mục nát, thì cứ làm bằng đất như lần trước cho lành.
+
+"Triển thôi!"
+
+"Ồ!"
+
+Các High Elf, Sơn Elf, người lùn, tộc Thú nhân, người thằn lằn cùng tập trung lại và bắt đầu công việc.
+
+Loo dùng ma thuật, Tia thì tạo ra các Golem, cả hai đều làm việc rất chăm chỉ.
+
+Lũ trẻ của Zabuton cũng giúp một tay vận chuyển đất.
+
+Cảm ơn các con.
+
+Con mương dài năm cây số đã hoàn thành chỉ trong khoảng mười ngày.
+
+Nước từ con mương mới bắt đầu đổ vào ao.
+
+Nhanh thật.
+
+Có lẽ một phần là do tôi đã quen dùng [Nông cụ vạn năng], nhưng đúng là nhờ nỗ lực của mọi người cả.
+
+Phải có chút quà đáp lễ mới được.
+
+Để chúc mừng hoàn thành con mương mới, tôi mở một bữa tiệc BBQ gần ao.
+
+Cạn ly nào.
+
+À này, đừng chỉ ăn thịt, phải ăn cả rau nữa chứ.
+
+Hả? Nướng cả cà chua à?
+
+Không, nướng lên thì chắc cũng ngon thôi nhưng mà...
+
+Vậy thì, nướng kèm măng tây bên cạnh nhé.
+
+À, tại tôi trồng hơi nhiều quá.
+
+Nên bắt buộc phải ăn hết.
+
+Cậu cũng ăn đi này.
+
+"Trưởng thôn, trưởng thôn."
+
+"Hửm? Sao thế?"
+
+"À thì... em vừa mới nhận ra..."
+
+Một cô nàng High Elf chỉ tay về phía ao.
+
+Cái gì vậy?
+
+...
+
+Tôi cứ tưởng có con quái vật nào lọt vào ao, nhưng có vẻ không phải.
+
+"Có chuyện gì thế?"
+
+"Mực nước ạ."
+
+Mực nước?
+
+Ao chứa vốn là một cái ao khá lớn.
+
+Nó không thể dễ dàng lên xuống mực nước như vậy được.
+
+Chính vì vậy nên việc mực nước bị hạ thấp mới trở thành vấn đề.
+
+"Dù sao thì để mực nước dâng lên cũng phải mất vài ngày chứ."
+
+"Không phải ý đó ạ. Dù lượng nước sử dụng tăng lên, nhưng so với lượng nước đổ vào thì lượng nước thoát ra lại ít... Chẳng phải chúng ta cũng cần phải đào một con mương thoát nước sao ạ?"
+
+...
+
+.....................
+
+A.
+
+***
+
+Sau bữa tiệc BBQ, tôi bắt đầu đi đào con mương từ ao dẫn ngược ra sông.
+
+Việc này chỉ đơn thuần là đào đất thôi.
+
+Dù có được mọi người giúp đỡ vận chuyển đất, nhưng phần việc chính vẫn là của tôi.
+
+Thời hạn cuối cùng là cho đến khi nước trong ao tràn bờ.
+
+Để không biến ngôi làng thành biển nước, tôi phải cố gắng lên thôi.

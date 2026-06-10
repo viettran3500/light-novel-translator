@@ -1,0 +1,359 @@
+※2018/1/3 Đã sửa lỗi chính tả.
+
+Tôi là Satou. Trong game mô phỏng hải chiến, tôi thích thể loại chú trọng vào việc tìm kiếm kẻ địch giống như game tàu ngầm. Cảm giác đau đầu suy tính làm sao để phát hiện địch trước mà không bị chúng phát hiện thật sự rất thú vị.
+
+◇
+
+『Satou, tôi đã xem xét xong các câu chú mà anh đưa cho rồi.』
+『Ừm, vất vả cho cô rồi.』
+『Cảm ơn anh. Có vấn đề gì không ạ?』
+『Hoàn hảo.』
+『Mã hỗ trợ điều khiển ma lực đã bị cắt bỏ hoàn toàn, nên dù là pháp sư lão luyện cũng sẽ thấy khó khăn khi kiểm soát, nhưng tôi không thấy đoạn mã nào có khả năng gây lỗi hoạt động cả.』
+
+Tốt quá.
+Dù sao thì tôi cũng đã kiểm tra vận hành vào đêm muộn rồi, nhưng kiểm tra chéo (cross-check) là thủ tục bắt buộc để đề phòng sự cố trước khi đưa vào thực tế.
+
+『Mà này, anh đã phát triển những câu chú đó từ khi nào vậy?』
+『Vì lúc đi tàu cũng rảnh rỗi mà.』
+
+Tôi đã thử làm một câu chú “Sáng tạo thuyền buồm ma thuật sắt” để giết thời gian. Mã cơ bản dùng loại có sẵn nên cũng khá dễ dàng.
+
+Đây là ma thuật tạo ra thuyền buồm Golem bằng sắt, đồng thời tạo luôn cả những "Living Statue" (Tượng sống) làm thủy thủ giả.
+Điều khó nhất chính là làm sao cho những "Living Statue" này trông giống con người thật.
+Ngoài ra, vì thuyền Golem chỉ trang bị 10 khẩu pháo ma lực nên nếu xét theo cấp độ Golem thì nó chỉ ở mức yếu, khoảng cấp 50.
+Tất nhiên, nó không thể bay như phi thuyền được.
+
+Mỗi lần có thể tạo ra 12 chiếc, nên nếu sử dụng ma thuật vài lần thì chắc chắn sẽ giúp ích cho việc diệt hải tặc lần này.
+Nếu trang bị pháo ma lực uy lực cao thì sức chiến đấu sẽ tăng vọt, nhưng vì sẽ bị cạn kiệt ma lực ngay lập tức nên tôi đã không lắp chúng vào ma thuật lần này.
+Lúc nào rảnh rỗi sẽ cải tiến sau vậy.
+
+◇
+
+“――Đô đốc! Đội tàu hộ vệ đang chậm lại.”
+
+Giọng của một thủy thủ báo cáo với Đô đốc lọt vào tai tôi.
+
+“Chậc, mấy tên hám tiền đó, chắc lại đang tiết kiệm lõi ma lực rồi.”
+
+Trước báo cáo của cấp dưới, Đô đốc tặc lưỡi.
+Ông ta dường như quên mất rằng chính mình cũng đang vắt kiệt sức các pháp sư hệ Phong mà không cho họ dùng lõi ma lực.
+
+Hạm đội lần này bao gồm 9 chiến hạm của thành phố Garleon, 12 tàu hộ vệ, và 4 tàu chi viện từ các thành phố khác trong Liên minh Garleon đang ghé cảng, tổng cộng là 25 chiếc.
+
+Ngoài ra, trong số các tàu hộ vệ có 7 chiếc đang bị nhóm hải tặc trà trộn vào, và một nửa số tàu chi viện cũng có hải tặc lẻn lên.
+Nếu chúng định làm phản thì chắc chắn sẽ là giữa lúc hỗn chiến, nên tôi chỉ giám sát chúng ở mức độ vừa phải thôi.
+
+『Satou.』
+
+Giọng của Mia vang lên qua ma thuật không gian “Chiến thuật Luân thoại”.
+
+『Hải tặc, hướng hoàng hôn.』
+『Cảm ơn nhé, Mia.』
+
+Có vẻ như con hải tặc đã bị phát hiện từ phi thuyền đang tuần tra trên không.
+Gần như cùng lúc, chiếc đèn flash dùng để liên lạc quang học gắn ở phần dưới phi thuyền cũng gửi cùng nội dung đó.
+
+Việc dữ liệu từ tín hiệu quang học nhiều hơn lời Mia nói là một bí mật nhé.
+
+『Đánh chặn à?』
+『Không, vì anh muốn biết thực lực của đội thảo phạt nên cứ tiếp tục quan sát đi.』
+
+Nhìn trên bản đồ thì không thấy tàu nào đang bị hải tặc tấn công nên vẫn ổn.
+
+“Đô đốc! Phát hiện bóng tàu ở hướng 2 giờ! Không treo quốc kỳ.”
+
+Khoảng nửa giờ sau, báo cáo đó được mang tới bởi một chiến binh người chim đang đi tuần tra.
+
+“Tốt! Có thể có quân mai phục, các pháp sư hệ Phong!”
+
+Pháp sư đang dùng ma thuật để tăng tốc tàu liền hủy bỏ ma thuật đó và bắt đầu niệm chú ma thuật dò tìm.
+
+“Bộ phận động cơ! Tăng sản lượng lò ma lực lên!”
+“Rõ!”
+
+Rung chấn và dao động ma lực truyền đến từ dưới boong tàu trở nên mạnh mẽ hơn.
+
+“Đô đốc, có cho chuẩn bị pháo ma lực không ạ?”
+“Ừm... lính trinh sát! Có bao nhiêu bóng tàu!”
+“Có một chiếc ạ!”
+“Nếu vậy thì đánh chìm nhanh gọn để tăng sĩ khí hạm đội. Tiến hành chuẩn bị pháo ma lực.”
+“Rõ!”
+
+Các cổng pháo ở mạn tàu mở ra, bên dưới boong, lớp vải chống thấm phủ trên các khẩu pháo ma lực được tháo bỏ.
+
+“Đô đốc! Hướng 2 giờ, khoảng cách 2200, có 1 bóng tàu.”
+
+Khi việc chuẩn bị pháo ma lực hoàn tất, pháp sư hệ Phong mới báo cáo thông tin vừa tìm được.
+Đơn vị đo lường của Liên minh Garleon có vẻ gần với đơn vị Yard. Khoảng cách đó chừng 2 km.
+
+“Tốt, không có phục binh.”
+
+Đô đốc nhếch mép cười.
+
+『Gọi không?』
+『――Không, không cần tinh linh đâu.』
+
+Mia hỏi có cần chuẩn bị tinh linh giả để hỗ trợ không, nhưng nếu dùng tinh linh giả thì quá dư thừa (overkill) nên tôi đã từ chối.
+
+『Hừm.』
+『Đừng lo, lát nữa sẽ đến lượt em thôi, cứ chờ nhé.』
+『Thiếp cũng muốn tham gia ạ.』
+『Vâng, tất nhiên rồi. Công chúa Sistina cũng hãy đợi đến lúc chính thức nhé. Trước đó, người có thể hỗ trợ tuần tra bằng đội Gargoyle được không ạ?』
+『Vâng, thiếp đã hiểu.』
+
+Lượt tham gia thực sự của Mia và mọi người là khi đội chủ lực của hải tặc tập kết.
+Nhưng có lẽ tiểu thư Karina và công chúa Sistina sẽ có đất diễn sớm hơn.
+Những chấm đỏ lớn hiển thị trên bản đồ đã cho thấy điều đó.
+
+Tôi kiểm tra những chấm đỏ đang bơi ngay dưới tàu hải tặc.
+Danh tính của các chấm đỏ đó là hai loại: Mực ngư lôi và Ma thú dạng Mực. Loại trước có 12 con cấp độ khoảng 20, loại sau chỉ có 1 con nhưng tới cấp 45.
+Không, còn khoảng 30 con Sea Orc cấp độ một chữ số đang bám theo nữa.
+
+Tất cả các ma thú này đều đang trong trạng thái hiếm gọi là “Chi phối lệ thuộc”.
+Có lẽ là một dạng huấn luyện.
+Vì những ma thú này đang di chuyển dưới biển nên ma thuật dò tìm bằng hệ Phong không phát hiện ra chúng là điều dễ hiểu.
+Nhìn qua thì có vẻ vị hạm trưởng bỏ qua việc dò tìm bằng ma thuật hệ Thủy là kẻ vô dụng, nhưng cũng khó trách khi họ không muốn tiêu hao lượng lớn ma lực cho việc đó.
+Dù có hải tặc đi cùng các á nhân hệ hải dương, nhưng xét về sức chiến đấu thì không bằng một con tàu hải tặc.
+
+Ngoài ra, đội chủ lực đang bám theo sau con tàu hải tặc đó đang cách xa khoảng 10 đến 20 km và số lượng đang tăng dần, nên ma thuật hệ Phong lúc nãy không dò ra được.
+Ở phía đó cũng có nhiều ma thú dạng Mực bám theo, nên tôi nghĩ Mia và công chúa Sistina sẽ có nhiều đất diễn lắm đây.
+
+◇
+
+“Nhìn thấy bóng tàu!”
+
+Chẳng bao lâu sau, tàu hải tặc đã xuất hiện nơi đường chân trời.
+
+“Tàu hải tặc màu đen?”
+“Này! Nhìn lá cờ đó đi!”
+“Rắn biển quấn quanh đầu lâu――Tàu hải tặc của Đại công Xương (Skeleton Archduke)!”
+
+Theo bản đồ thì Đại công Xương không có trên con tàu đó.
+Có lẽ để gây rối và uy hiếp, hắn cũng cho cấp dưới mang lá cờ của mình.
+
+“Lá cờ đó, lạ thế～?”
+“Vậy sao ạ?”
+
+Tama và Pochi từ trong bóng đổ dưới chân tôi bước ra, nhoài người lên lan can mạn tàu lầm bầm.
+Chắc là giờ nghỉ trưa rồi nhỉ?
+
+May mắn là xung quanh đang bận rộn chuẩn bị chiến đấu nên không ai để ý đến hai đứa.
+
+“Hai đứa, tàu này cấm phụ nữ nên hãy đến tàu có tiểu thư Karina mà xem nhé.”
+
+Gương mặt của hai đứa ngước nhìn tôi buồn thiu.
+
+“Nyu～?”
+“Tiếc thật ạ.”
+
+Dù vậy, hai đứa vẫn ngoan ngoãn chui qua cái bóng để di chuyển tới phi thuyền trên không.
+
+『Làm tín hiệu giả đi.』
+『Tuân lệnh～』
+
+Tôi nhờ Brownie, người lái phi thuyền, làm tín hiệu ánh sáng giả.
+Người hoa tiêu chú ý đến tín hiệu đó nhìn tôi với vẻ thắc mắc.
+
+“Đô đốc, có vẻ như khả năng địch có mang theo ma thú là rất cao.”
+『Mang theo? Nếu là Sea Orc đã được huấn luyện thì ta đã bắt được từ lâu rồi.”
+“Không phải, ý tôi là...”
+“Ngài Pendragon! Ta đang bận chiến đấu. Đã là quan sát viên thì hãy làm đúng vai trò của mình, lặng lẽ quan sát cuộc chiến của chúng ta đi!”
+
+Tôi định cảnh báo về lũ Mực ngư lôi và Mực ma thú, nhưng có vẻ ông ta không chịu nghe.
+Cứ thế này thì hạm đội sẽ bị thiệt hại mất, nên ngay khi lũ Mực ma thú xuất hiện, tôi sẽ thả "Bom Karina" xuống để diệt chúng vậy.
+Dù sao thì nếu có tới 25 chiến hạm, thì đối phó với số lượng Mực ngư lôi ít hơn một nửa kia chắc cũng không thành vấn đề.
+
+『Tiểu thư Karina, sắp đến lượt rồi đấy――』
+
+Tôi dặn trước với tiểu thư Karina đang chán nản trên không.
+
+◇
+
+“Tên đó, hắn đâm thẳng vào luôn kìa. Hắn liều mạng rồi sao?”
+“Hừ, đám hải tặc vô dụng chỉ thế thôi. Kéo thật gần rồi nã pháo ma lực đồng loạt đi.”
+
+Hạm đội chiếm vị trí bán bao vây, hướng mạn tàu về phía tàu hải tặc.
+
+“Không thấy hải tặc tấn công nhỉ?”
+
+Tôi hỏi người hoa tiêu.
+
+“Vì bên kia đang ở thế cuối gió nên chắc vẫn nằm ngoài tầm bắn của tên.”
+
+Có thật vậy không nhỉ?
+Dù khoảng cách giữa hai bên chỉ chừng 100 mét.
+
+“Pháo ma lực, chuẩn bị đồng loạt――Bắnnnnnnnnnnnnnnnnn!”
+
+Cùng với lệnh của Đô đốc, pháo ma lực của soái hạm phun lửa, và các tàu hộ vệ nhìn thấy tín hiệu từ người cầm cờ cũng lần lượt nã pháo.
+
+“Ồ?”
+
+Trước thân tàu màu đen của tàu hải tặc, một bức tường nước hiện ra, lần lượt hất văng cơn mưa đạn lửa của pháo ma lực.
+Đó chắc là ma thuật của con Mực ma thú đang ở dưới biển.
+
+“K-không thể nào! Nạp đạn tiếp!”
+
+Trước cảnh đó, Đô đốc hoảng loạn ra lệnh.
+
+“Vẫn chưa nạp xong pháo ma lực ạ.”
+
+Cứ đà này, có vẻ như tàu hải tặc sẽ đâm sầm vào mất.
+Ở mũi tàu hải tặc đang lao tới có gắn một cái sừng kỳ lân siêu lớn dùng làm mũi húc.
+Có vẻ chúng đã nhắm đến việc đâm va rồi cập mạn tấn công từ đầu.
+
+Tôi lấy từ túi chứa đồ ra cây ma cung và mấy mũi tên bằng thép.
+
+“Đô đốc! Tàu địch đang đi theo quỹ đạo va chạm!”
+“Chết tiệt, bẻ lái!”
+
+Soái hạm bẻ lái gấp để tránh va chạm, nhưng vì cơ động ép buộc nên tốc độ đã giảm xuống.
+Ngay lúc đó, lũ Mực ngư lôi lao tới.
+
+“Đô đốc! Ma thú dưới mặt nước!”
+“Kệ bọn Sea Orc đó đi!”
+“Không phải, là Mực ngư lôi!”
+“C-cái gì cơ――”
+
+Có vẻ người trên soái hạm cuối cùng cũng nhận ra lũ Mực ngư lôi.
+Con này tuy chỉ cấp 20 thôi nhưng chiều dài của nó bằng nửa con soái hạm đấy.
+
+“Tôi giúp một tay nhé.”
+
+Tôi từ chối lời khuyên của họ và bắn mũi tên về phía Mực ngư lôi đang lao đi như ngư lôi dưới nước.
+
+“Tên mà đòi xuyên qua kẻ địch dưới nước ư――”
+
+Tôi bắn ba mũi tên sau khi tính toán thời điểm, hạ gục 7 con Mực ngư lôi.
+Vì nghĩ rằng tự mình giành hết công trạng thì cũng không hay nên tôi để lại 3 con chỉ bị thương nửa chết nửa sống.
+
+“――Không những bắn trúng mà còn hạ gục luôn ư?”
+
+Vị Đô đốc vừa định chế nhạo liền trố mắt kinh ngạc.
+Không, thay vì phản ứng thế thì hãy lo chỉ huy hạm đội đi chứ.
+
+Trong lúc ông ta kinh ngạc, cấp dưới đã hành động, các pháp sư hệ Thủy bắn lao nước vào Mực ngư lôi, các pháp sư hệ Phong thì niệm chú tránh tên.
+Các thủy thủ cũng đang cố hết sức điều khiển dây thừng để chỉnh buồm nhằm tăng tốc lại con tàu.
+
+“Sắp tới rồi đấy.”
+
+Tôi chỉ vào mặt biển đang dâng lên phía trước mà báo.
+
+Xé mặt biển hiện ra đầu tiên là 10 chiếc xúc tu.
+Ở đầu mỗi xúc tu có những cái móng nhọn như lao, mỗi chiếc giác hút còn to hơn cả một người trưởng thành.
+
+“K-Kraken!”
+“C-chạy mau! Tàu sẽ bị chìm mất!”
+
+Trước hình ảnh đó, các thủy thủ hoảng loạn.
+Tất nhiên, không chỉ soái hạm mà tất cả các tàu hộ vệ đều như vậy.
+
+Ngay cả khi thân chính của con Mực ma thú còn chưa lộ ra, cảnh tượng đã hỗn loạn như địa ngục.
+Đến cả Đô đốc và các hạm trưởng, những người lẽ ra phải trấn an tình hình, cũng đang chật vật kiểm soát nỗi sợ của chính mình.
+
+『Tiểu thư Karina, làm đi.』
+『Đợi mãi đấy!』
+
+Giọng vui vẻ của tiểu thư Karina vọng qua ma thuật không gian.
+
+『Vì gió đang thổi mạnh về hướng Tây nên――』
+『KUNFUUUUUUUU, KIIIIIIIIIIIICK, đấy ạ!』
+
+Chưa kịp dặn là hãy cẩn thận đừng để gió thổi bay, tiểu thư Karina đã lao xuống cùng tiếng hét tên chiêu thức.
+Không, không, không nên hét tên chiêu thức ở đây chứ.
+Chắc là chẳng có ai rảnh mà nghe đâu nhỉ.
+
+Tiểu thư Karina lao xuống nhanh như sao băng, đá vào không khí để chỉnh quỹ đạo rồi đâm sầm vào đầu con Mực ma thú.
+
+『V-Vorpal Piercing ạ!』
+『Vanquish Tornado～?』
+
+Pochi và Tama bị lôi cuốn bởi tiểu thư Karina cũng lao xuống cùng chiêu thức mới.
+Thanh máu của Mực ma thú đã về 0 rồi, nhưng tôi sẽ giữ im lặng về chuyện đó.
+
+“Toàn quân! Bắt giữ tàu hải tặc!”
+
+Tôi gồng bụng hét lớn vào những người vẫn còn đang đờ đẫn vì sự xuất hiện bất ngờ của các vì sao băng.
+
+Pháo ma lực đã nạp đầy nã vào cột buồm của tàu hải tặc vốn đã mất sự bảo hộ của Mực ma thú, tạo ra một lỗ hổng lớn trên thân tàu hải tặc.
+
+Nhóm hải tặc tràn lên con tàu số 2 vốn vừa kịp tránh cú đâm va.
+Ở phía đối diện, họ cập mạn và tràn lên tàu hải tặc.
+
+“Có tên mạnh đấy.”
+“Chắc là Zamud, hiệp sĩ xương, một trong những tay chân của Đại công Xương.”
+
+Dù tên là hiệp sĩ xương Zamud, nhưng hắn không phải ma thú hay ma tộc mà là cựu hiệp sĩ của Thần quốc Parion đang đeo mặt nạ hình xương.
+Nghe nói hắn là dạng chuyên chiến đấu cận chiến với cấp độ lên tới 38.
+
+Nếu để mặc thì lính hải quân sẽ chết nhiều lắm, nên ra tay giúp một chút vậy.
+
+“Phập, phập.”
+
+Tôi dùng ma cung bắn bay thanh kiếm của Zamud, rồi xuyên thủng cánh tay thuận của hắn.
+Tiện thể luôn con thuyền trưởng tàu hải tặc――.
+
+“Panchi (cú đấm) ạ!”
+
+――Nắm đấm của tiểu thư Karina với đám rong biển đội trên đầu đấm bay hắn.
+Tên thuyền trưởng hải tặc bay ngược ra sau, nảy người trên boong tàu.
+
+“Pochi có mặt ạ!”
+“Tama cũng có mặt～?”
+
+Pochi và Tama trèo lên thân tàu, tạo tư thế "Shupi!".
+
+“Pochi, Tama, nhờ hai em mà chị đã tiêu diệt được tên đầu sỏ kẻ xấu rồi!”
+
+Có vẻ tiểu thư Karina đã ném hai đứa từ mặt biển lên boong tàu lúc nãy.
+
+“Nankurunaisa～?”
+“Vẫn chưa được lơ là đâu ạ!”
+
+Pochi đá bay tên hải tặc đang tấn công từ phía sau tiểu thư Karina ra ngoài biển.
+Tama và tiểu thư Karina quét sạch lũ hải tặc đang xông tới cùng lúc.
+
+Chắc chúng bị ngoại hình dễ thương của ba đứa lừa rồi, nhưng ba người này còn hung dữ hơn cả con Kraken khổng lồ lúc nãy đấy.
+
+『Bắt được rồi.』
+
+Có vẻ các tinh linh nước của Mia đã bắt giữ lũ hải tặc đang định chạy trốn.
+
+『Satou, từ Gargoyle đang tuần tra có báo cáo rằng hơn 20 con tàu hải tặc đang tập kết ạ.』
+『Cảm ơn công chúa Sistina.』
+
+Chà, vẫn còn thời gian trước khi đội chủ lực của địch tập kết, nên trước đó làm những việc cần làm đã nhỉ.
+
+“Ngài Pendragon, cảm ơn sự hỗ trợ của ngài, nhưng mong ngài hãy tiết chế hành vi vượt quyền!”
+
+Đô đốc phun nước miếng, tiến lại gần.
+Đối phó với ông ta còn chán nản hơn cả đánh địch nhiều.
+
+Số tàu địch còn lại là 62 chiếc.
+Chúng đang chờ đợi hạm đội chúng ta tại nơi hiểm trở đầy rạn san hô và quần đảo do dòng thủy triều phức tạp thống trị, chia làm 3 nhóm, mỗi nhóm khoảng 20 chiếc.
+Nếu mắc bẫy vào cái nơi nổi bật nhất mà chúng bày ra thì chắc chắn sẽ bị bao vây.
+
+Nếu giao phó cho tên Đô đốc này thì chắc chắn sẽ xảy ra chuyện đó.
+Tôi thích kiểu bao vây tiêu diệt hơn là bị bao vây tiêu diệt.
+
+※ Lần cập nhật tới dự kiến vào ngày 1/7 (Chủ nhật).
+
+※ Đây là lần cập nhật cuối cùng trong năm nay.
+Chúc các độc giả một năm mới vui vẻ～
+
+※ Từ hôm nay tôi đã đổi tiêu đề một chút.
+Vì ngày càng có nhiều người mới đọc "Death March" từ bản manga hay bản sách mà cảm thấy bối rối trước sự khác biệt với bản gốc đăng trên "Shousetsuka ni Narou", nên tôi đã thêm "(bản web)" vào cuối tiêu đề.
+
+【Quảng cáo】
+Tập EX của "Death March kara Hajimaru Isekai Kyousoukyoku" dự kiến vào ngày 10/1 (Thứ Tư). Một số cửa hàng bán sớm dường như đã bắt đầu bày bán từ 6/1 (Thứ Bảy).
+Đáng chú ý là tập truyện vừa hoàn toàn mới "Câu chuyện đấu tranh ở thế giới khác của công chúa Arisa" và truyện ngắn "Người quen cũ của Liza", cùng với các SS特典 (truyện ngắn tặng kèm) từ tập 1 đến 9 đã nhận được nhiều yêu cầu trong báo cáo hoạt động (có cả những SS mới chưa từng công bố).
+Hơn nữa còn có hình ảnh chưa từng công bố như tài liệu thiết lập nhân vật chính, thiết kế nhân vật và minh họa khách mời nữa!
+Chi tiết xin xem báo cáo hoạt động.
+
+※ Dưới đây là từ Twitter chính thức của Anime:
+【Death March kara Hajimaru 2018】
+Quà tặng lì xì cho tất cả mọi người là poster có chữ ký của người lên sân khấu (chỉ 1 người may mắn, không chọn được) và thẻ minh họa mới vẽ của thầy shri và thầy Aya Megumu!!
+Ghế ngồi chỉ còn rất ít, ai chưa có hãy nhanh tay nhé!
+
+【Ngày mai là ngày đầu năm Pochi!】
+Kỷ niệm năm Tuất sắp tới, "Death March kara Hajimaru Isekai Kyousoukyoku" sẽ xuất hiện trên báo Mainichi (phiên bản toàn quốc) vào ngày 1 tháng 1, ngày đầu năm mới! (Dự kiến) Hãy đón chờ nhé!!

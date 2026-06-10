@@ -1,0 +1,85 @@
+“——thế nên, nói tóm lại là vậy đấy. Chúng ta đã bị ép tham gia vào một cuộc chiến Dungeon.”
+
+Rokuko biến mất suốt ba ngày trời, vừa mới quay về đã ném ngay cho tôi cái tin sét đánh ngang tai về cuộc chiến Dungeon. Mà này, cái nhân vật được gọi là “Cha” đó rốt cuộc là ai chứ? Thần linh ư? Chắc chắn là thần rồi còn gì nữa.
+
+“...Tiện thể hỏi luôn, đó là ngày đầu tiên đúng không? Hai ngày còn lại cô đã làm gì thế?”
+“Hả? Thì ăn uống, tiệc tùng, trà chiều... Dù sao thì ta cũng đang đứng hạng 210 mà? Lại còn từng đánh bại Ittetsu, lõi số 112 đang đứng hạng 63 nữa chứ? Ư hứ hứ hứ.”
+
+Con nhỏ này, đúng là đang đắc ý quá đà rồi. Hạng 210 thì có gì mà oai đến mức đó cơ chứ? Nhưng thôi, vấn đề quan trọng nhất cần phải làm rõ lúc này là cuộc chiến Dungeon kia.
+
+“Thế, tại sao chúng ta lại phải thay Haku-san tham gia chiến đấu chứ?”
+“Đó là ý nguyện của cha, nên chẳng còn cách nào khác ngoài việc phục tùng thôi, đúng không nào?”
+“...Nếu từ chối thì sẽ thế nào?”
+“Trong trường hợp đó, chúng ta sẽ trở thành kẻ thù của chị Haku đấy. Anh chắc chắn không muốn điều đó đâu nhỉ?”
+
+À, ừm. Đó đúng là điều tôi không muốn nhất. Chắc chắn là chết chắc.
+
+“...Rồi, luật lệ là... thi đấu 3 đội à?”
+“Đúng thế.”
+
+Theo lời Rokuko, đây là một cuộc chiến đồng đội theo thể thức dị biệt: Đội ‘Ma Vương’ gồm lõi số 6 và số 666, đội ‘Long Vương’ gồm lõi số 5 và các lõi từ 650 đến 652, và cuối cùng là đội ‘Đế Vương’ của Haku-san và tụi này.
+Mỗi bên sẽ xây một Dungeon mới và chuẩn bị đúng một lõi giả (dummy core).
+Ai bị phá hủy lõi giả trước thì thua. Lần này là phải phá hủy chứ không phải chỉ chạm vào là xong.
+DP được phép sử dụng tối đa là 500.000, bao gồm cả chi phí cho lõi giả.
+Cuộc chiến bắt đầu sau một tháng. Trong khoảng thời gian đó, phải chuẩn bị xong Dungeon.
+
+...Và đây chính là điều khiến tôi cảm thấy khó chịu.
+
+Đó là phải xây Dungeon trên lãnh địa của lõi cấp cao, sử dụng DP của lõi cấp cao, và phải hợp tác với lõi cấp cao đó để thực hiện.
+
+Nếu muốn nghiêm túc tham gia, tôi buộc phải phơi bày hết các thủ đoạn của mình cho Haku-san thấy. Còn nếu không muốn phơi bày, thì nghĩa là phải tự xây Dungeon mà không được dùng [Create Golem].
+...Tôi vốn muốn giấu [Create Golem] như là con bài tẩy trong những lúc hiểm nghèo, nhưng nếu làm vậy thì cách xây Dungeon từ trước đến nay của chúng tôi sẽ chẳng còn tác dụng gì cả.
+500.000 DP nghe thì có vẻ nhiều, nhưng đối thủ cũng có điều kiện tương đương. Bí quyết nằm ở chỗ làm sao để tiết kiệm DP mà vẫn nhồi nhét được nhiều nội dung vào đó...
+
+Nhắc mới nhớ, phe lõi cấp cao không được mang vật phẩm từ bên ngoài vào, nhưng phe lõi cấp thấp thì được phép. ...Nghĩa là không được mượn viện trợ từ Haku-san.
+Cũng không được nhặt mấy cái ma kiếm hay đồ đạc linh tinh mà Haku-san vứt bỏ đúng không nhỉ? Chắc là không được rồi.
+
+...Hay là cứ để Rokuko đi quay Gacha 1000 DP khoảng 200 lần nhỉ? Với vận may của Rokuko, chắc là sẽ có lãi đấy.
+
+“Hửm? Mà trong lúc chiến đấu ở Dungeon kia thì Dungeon của chúng ta ở đây tính sao? Cứ thế bỏ hoang thì nguy hiểm quá.”
+“Chuyện đó ấy à. Cha nói là trong thời gian đó, ngài ấy sẽ nối liền không gian lại với nhau. Nên là mỗi ngày chúng ta đều có thể quay về Dungeon của mình.”
+“Nối liền không gian... giống như trong chiến đấu Dungeon à?”
+
+Đúng là cái gã đáng ngờ mang danh “Cha” đó. Những chuyện phi lý như vậy mà hắn cũng làm được một cách tỉnh bơ.
+
+“Mà nghe bảo chính cha là người kết nối không gian cho mấy trận chiến Dungeon đó đấy.”
+“Bố cô ghê gớm thật đấy. Tôi cũng muốn được diện kiến một lần xem sao.”
+“Chà, có khi lần này lúc bắt đầu trận chiến Dungeon anh sẽ được thấy đấy?”
+
+Tiện thể, menu cũng đã được cập nhật thêm mục hiển thị hạn mức DP và DP đang sử dụng cho cuộc chiến Dungeon lần này. Phản ứng nhanh thật đấy.
+
+“Rồi, nó nối từ đâu đến đâu? Nếu mà mở cổng thông thẳng từ giữa làng đến Đế đô thì không phải là đại náo bình thường đâu đấy.”
+“Hình như là nối từ phía sâu trong Dungeon của chúng ta, ngay chỗ đấu trường ấy, đến ly cung nơi chị Haku đang ở tại Đế đô. Cha bảo nếu Kema chọn xong chỗ xây Dungeon thì ngài ấy sẽ kết nối lại vào chỗ đó.”
+
+Chu đáo đến tận chân răng luôn.
+Tôi thở dài một tiếng. Đến nước này thì đúng là chẳng còn đường lui. Dù tôi vốn chẳng định chạy trốn, nhưng bị ép vào thế này lại khiến tôi muốn bỏ chạy thật sự.
+
+“Thế, tôi phải làm gì đây?”
+“Chị Haku sẽ đến đón, khi đó chúng ta sẽ đi đến Đế đô.”
+“...Nhân sự đảm đương công việc ở đây có bị thiếu hụt không nhỉ?”
+“Nếu lo lắng thì anh cứ gọi thêm người mới là được mà?”
+
+Phải rồi, sao mình không nghĩ đến việc gọi thêm người nhỉ.
+Ngay từ đầu, ba cô nàng hiện tại cũng được triệu hồi với tư cách là thế hệ tiên phong mà. ...DP cũng đã tích lũy được kha khá rồi, có khi gọi thêm một nhân viên vận hành chuyên biệt cho Dungeon cũng là ý hay.
+
+“Phư phư phư, dù sao ta cũng là hạng 210 cơ mà. DP thì ta không thiếu!”
+“Đúng nhỉ. Được rồi, giao khoảng 50.000 DP cho Rei rồi để con bé tự do gọi cấp dưới về đi...”
+“...Tại sao lại là Rei?”
+“Vì con bé nắm rõ Dungeon này nhất. Niiku và Ichika thì không dùng được DP, Kinue-san thì bận rộn với việc nhà, còn Nerune thì cắm đầu vào nghiên cứu. ...Có thể nói là phương pháp loại trừ. Với lại, dù gì con bé cũng là trưởng nhóm của ba người đó.”
+“Ra là vậy, xem ra con bé nắm rõ Dungeon sau ta và anh nhỉ.”
+
+Dù sao thì Rei cũng đã trở thành người kết nối cả nhóm ba cô nàng đó. Một phần vì con bé là người xuất hiện đầu tiên, nhưng phải thừa nhận là con bé cũng rất biết quan tâm người khác. Dù là về sinh hoạt thường ngày thì Kinue-san vẫn là nhất.
+
+“Thôi được rồi. Kema, đến Đế đô rồi thì... ừm, mình đi mua sắm nhé. Anh đi cùng em được không?”
+“...Được, nếu muốn người xách đồ thì tôi sẽ cho mượn Niiku.”
+
+Đến sân nhà Haku-san mà còn đòi đi hẹn hò sao? Cô muốn tôi chết sớm à?
+
+“...Em muốn đi cùng Kema cơ.”
+“Dưới sự giám sát của Haku-san mà làm thế thì hơi...”
+“Anh sợ chị Haku quá mức rồi đấy không biết? Chị Haku dịu dàng lắm cơ mà?”
+
+Nếu cô thấy vậy thì chắc là vậy đi... đối với cô thì đúng là thế thật!
+
+(Tập 1 của cuốn tiểu thuyết này sẽ ra mắt vào ngày 25 tháng 4! Có vẻ như từ ngày 22 đã thấy bày bán ở các hiệu sách rồi.
+À, tôi đã đăng SS kỷ niệm lên phần báo cáo hoạt động. Hôm nay tôi sẽ đăng thêm một cái ngắn nữa lên đó.)

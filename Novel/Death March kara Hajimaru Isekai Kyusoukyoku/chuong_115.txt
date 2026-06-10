@@ -1,0 +1,330 @@
+--- LỖI DỊCH THUẬT CHƯƠNG 115 (Bản dịch lỗi (vẫn chứa tiếng Nhật)) ---
+Nội dung gốc tiếng Nhật bên dưới:
+
+Một chút tổng kết.
+Xin hãy bỏ qua đọc.
+
+※Đây là bài đăng lần thứ hai trong ngày.
+　Nếu được, hãy xem thêm "Bảng nhân vật chương 6".
+
+※8/11: Đã sửa lỗi chữ.
+
+Được trình bày dưới dạng "Tên (Cấp độ kỹ năng) Số chương đạt được".
+Các kỹ năng đã đạt được nhưng không biết sẽ được ghi nhận ở chương nhận ra. Kèm theo ※ để phân biệt.
+
+　Thang đo kỹ năng
+　　Lv1……Người mới bắt đầu
+　　Lv3……Chính quy
+　　Lv5……Người thành thạo
+　　Lv7……Bậc thầy
+　　Lv9……Thiên tài
+　　Lv10……Thần kỹ
+
+
+●Kỹ năng hệ vũ khí (61p)
+
+　Bắn súng (Lv10) 1-9
+　Thương (Lv10) 1-9 ◎3-8 từ Lv0⇒Lv10 UP
+　Cung (――) 1-9
+　Kiếm một tay (Lv10) 1-9
+　Gậy một tay (――) 1-9
+　Đoản đao (Lv10) 1-9 6-2 từ Lv0⇒Lv10 UP
+　Ném (Lv1 ) 1-9 ▼
+　Gậy hai tay (――) 1-9
+　Kiếm hai tay (――) 1-10
+　Rìu một tay (――) 1-10
+　Rìu hai tay (――) 1-10
+　Búa hai tay (Lv10) 1-10 ◎3-8 từ Lv0⇒Lv10 UP
+　Búa một tay (――) 1-10
+　Đối kháng (Lv10) 1-10 ▼
+
+
+●Kỹ năng hệ chiến đấu vật lý (195p)
+
+　Ngắm bắn (Lv10) 1-9
+　Xạ kích (Lv10) 1-9
+　Đánh bất ngờ (Lv10) 1-9 6-2 từ Lv0⇒Lv10 UP
+　Manh dũng (――) 1-9
+　Judo (rút kiếm) (Lv10) 1-9 6-2 từ Lv0⇒Lv10 UP
+　Khiên (Lv10) 1-9
+　Né tránh (Lv10) 1-9
+　Đỡ đòn (Lv10) 1-9
+　Tấn công bằng khiên (Lv5 ) 1-9 6-2 từ Lv0⇒Lv5 UP
+　Đá (Lv10) 1-9 6-2 từ Lv0⇒Lv10 UP
+　Chẻ mũ (Lv10) 1-10 6-2 từ Lv0⇒Lv10 UP
+　Chiến đấu trên không (Lv10) 1-10 6-2 từ Lv0⇒Lv10 UP
+　Phá hủy vũ khí (Lv10) 1-10 6-2 từ Lv0⇒Lv10 UP
+　Song kiếm (Lv10) 1-10 6-2 từ Lv0⇒Lv10 UP
+　Tấn công liên hoàn (Lv10) 3-8 6-2 từ Lv0⇒Lv10 UP
+　Tâm nhãn (Lv10) 6-3
+　Đâm (Lv10) 6-3
+　Đánh mạnh (Lv10) 6-3
+　Xuyên thấu (Lv10) 6-3
+　Ma nhận (Lv10) 6-3
+　Xoáy thương (Lv10) 6-3
+
+
+●Kỹ năng hệ chiến thuật (60p)
+
+　Rút lui (Lv10) 1-8 6-2 từ Lv0⇒Lv10 UP
+　Phối hợp (Lv10) 1-9 6-2 từ Lv0⇒Lv10 UP
+　Chỉ huy (Lv10) 2-8 6-2 từ Lv0⇒Lv10 UP
+　Tổ chức đội hình (Lv10) 2-8 6-2 từ Lv0⇒Lv10 UP
+　Tác chiến (Lv10) 2-12 6-2 từ Lv0⇒Lv10 UP
+　Khiêu khích (Lv10) 6-13
+
+
+●Kỹ năng hệ vận động (50p)
+
+　Chạy nhanh (Lv10) 1-4 ※
+　Nhảy (Lv10) 1-4 ※
+　Cơ động lập thể (Lv10) 1-4 ※
+　Quái lực (Lv10) 1-10 6-2 từ Lv0⇒Lv10 UP
+　Vượt địa hình xấu (Lv10) 5-14
+
+
+●Kỹ năng hệ ma pháp (40p)
+
+　Triệu hồi ma pháp: Dị giới (Lv10) 1-2
+　Thuật lý ma pháp: Dị giới (Lv10) 1-2
+　Cầu nguyện (――) 1-4
+　Lôi ma pháp: Ác quỷ (――) 1-9
+　Hỏa ma pháp (――) 1-10
+　Phong ma pháp (――) 1-10
+　Lôi ma pháp (――) 1-10
+　Thổ ma pháp (――) 1-10
+　Thủy ma pháp (――) 1-10
+　Băng ma pháp (――) 1-10
+　Quang ma pháp (――) 1-10
+　Sinh hoạt ma pháp (Lv10) 2-1
+　Thánh ma pháp: Giáo phái Parion (――) 2-1
+　Khế ước (――) 3-3
+　Tinh thần ma pháp (――) 3-4 ※
+　Ảnh ma pháp (――) 5-9
+　Thuật lý ma pháp (Lv10) 6-7
+　Đặt tên (――) 6-ngoại truyện: Tên gia tộc của Satou
+
+
+●Kỹ năng hệ kháng tính (153p)
+
+　Kháng lôi (Lv10) 1-9
+　Kháng tê liệt (Lv10) 1-9
+　Kháng đau đớn (Lv10) 1-9
+　Kháng đòn đánh (Lv10) 1-9
+　Kháng sợ hãi (Lv3 ) 1-9 6-2 từ Lv0⇒Lv3 UP
+　Kháng độc (Lv10) 1-9
+　Kháng hóa đá (Lv10) 1-9
+　Kháng hỏa (Lv10) 1-10 ◎3-8 từ Lv0⇒Lv10 UP
+　Kháng phong (Lv10) 1-10 6-2 từ Lv0⇒Lv10 UP
+　Kháng thổ (Lv10) 1-10 6-2 từ Lv0⇒Lv10 UP
+　Kháng thủy (Lv10) 1-10 6-2 từ Lv0⇒Lv10 UP
+　Kháng băng (Lv10) 1-10 6-2 từ Lv0⇒Lv10 UP
+　Kháng quang (Lv10) 1-10 6-2 từ Lv0⇒Lv10 UP
+　Kháng thối rữa (Lv10) 1-10
+　Kháng tinh thần (Lv10) 3-4 ※
+　Kháng ảnh (Lv10) 5-9
+
+
+●Kỹ năng hệ sản xuất (110p)
+
+　Mộc công (Lv10) 1-4 6-4 từ Lv4⇒Lv10 UP
+　Đồ da (Lv10) 1-4 giữa chương 6 và 7 từ Lv4⇒Lv10 UP
+　Tạo vũ khí (Lv10) 1-4 6-10 từ Lv4⇒Lv10 UP
+　Rèn (Lv10) 1-10 giữa chương 6 và 7 từ Lv4⇒Lv10 UP
+　Pha chế (Lv10) 4-9
+　Luyện thành (Lv10) 4-9
+　Tăng cường vũ khí (Lv10) 6-3
+　Tạo phòng cụ (Lv10) 6-4
+　Điêu khắc (Lv10) 6-10
+　Chạm khắc kim loại (Lv10) 6-10
+　Tạo ma cụ (Lv10) 6-10
+
+
+●Kỹ năng hệ học thuật (93p)
+
+　Toán học (Lv10) 1-4
+　Kiến thức thất truyền (――) 1-4
+　Quốc ngữ Shiga (Lv10) 1-5
+　Ngữ ác quỷ (Lv1 ) 1-9 6-2 từ Lv0⇒Lv1 UP
+　Giám định (Lv10) 2-2 ▼
+　Suy lý (――) 2-6
+　Giải đố (Lv10) 3-8
+　Thí nghiệm (Lv10) 4-5 6-2 từ Lv0⇒Lv10 UP
+　Kiểm chứng (Lv10) 4-5 6-2 từ Lv0⇒Lv10 UP
+　Giáo dục (Lv10) 5-2 6-2 từ Lv0⇒Lv10 UP
+　Ngữ tộc Chuột Xám (Lv1 ) 5-4 6-2 từ Lv0⇒Lv1 UP
+　Ngữ tộc Vảy Xanh (Lv1 ) 5-4 6-2 từ Lv0⇒Lv1 UP
+　Ngữ Elf (Lv10) 5-4 6-10 từ Lv3⇒Lv10 UP
+　Giải phẫu (――) 6-2
+　Lễ nghi (――) 6-14
+　Giao tiếp (Lv5 ) 6-ngoại truyện: Tên gia tộc của Satou
+　Huy hiệu học (Lv5 ) 6-ngoại truyện: Tên gia tộc của Satou
+
+
+●Kỹ năng hệ nghệ thuật (33p)
+
+　Ca hát (――) 1-4 ※
+　Hội họa (――) 1-4
+　Trò chơi (――) 1-4
+　Khuếch âm (Lv3 ) 2-7 ▼ 6-2 từ Lv1⇒Lv3 UP
+　Nói nhanh (Lv10) 6-1
+　Phát âm rõ ràng (Lv10) 6-1
+　Diễn tấu (Lv10) 6-6 6-7 từ Lv0⇒Lv10 UP
+　Diễn xuất sân khấu (――) 6-22
+
+
+●Kỹ năng hệ thương mại (70p)
+
+　Đàm phán (Lv10) 1-5
+　Biện minh (Lv10) 1-5
+　Thị trường (Lv10) 1-6
+　Mặc cả (Lv10) 1-6
+　Vô biểu cảm (Lv5 ) 1-7 6-2 từ Lv0⇒Lv5 UP
+　Giấu tài (――) 1-8
+　Thuyết phục (Lv5 ) 1-8 ▼ 6-2 từ Lv3⇒Lv5 UP
+　Hối lộ (Lv5 ) 1-8 6-2 từ Lv0⇒Lv5 UP
+　Lời xã giao (Lv5 ) 2-3 6-2 từ Lv0⇒Lv5 UP
+　Kịch câm (Lv10) 6-22 giữa chương 6 và 7 từ Lv0⇒Lv10 UP
+
+
+●Kỹ năng hệ lao động (75p)
+
+　Cắm trại (――) 1-4 ※
+　Giặt giũ (――) 1-4 ※
+　Khai hoang (Lv10) 1-4 6-13 từ Lv0⇒Lv10 UP
+　Canh tác (――) 1-4
+　Thu hoạch (――) 1-4
+　Phát cỏ (――) 1-4
+　Khai thác gỗ (――) 1-4
+　Quét dọn (――) 1-4
+　Giám sát (Lv10) 1-7 6-2 từ Lv0⇒Lv10 UP
+　Bắt trói (Lv10) 1-10 6-2 từ Lv0⇒Lv10 UP
+　Phục vụ (――) 3-4
+　Vận chuyển (――) 4-3
+　Vận hành xe (Lv5 ) 4-6 6-2 từ Lv3⇒Lv5 UP
+　Đóng gói (――) 5-14
+　Nấu ăn (Lv10) 6-2
+　Giải phẫu (mổ xác) (Lv10) 6-2
+　Thu thập (Lv10) 6-13
+　Cưỡi (ngựa/ thú) (Lv10) 6-15
+　Cưỡi ngựa (――) 6-15
+
+
+●Kỹ năng hệ mê cung (59p)
+
+　Gỡ bẫy (Lv10) 2-10 ◎3-8 từ Lv0⇒Lv10 UP
+　Lợi dụng bẫy (Lv5 ) 2-10 6-2 từ Lv0⇒Lv5 UP
+　Phát hiện bẫy (Lv10) 2-10
+　Khai quật (Lv10) 2-10 6-2 từ Lv0⇒Lv10 UP
+　Phát hiện báu vật (Lv10) 2-10 6-2 từ Lv0⇒Lv10 UP
+　Mở khóa rương báu (Lv10) 2-10 6-2 từ Lv0⇒Lv10 UP
+　Kho báu (Lv4 ) 3-5 ◎5-2 từ Lv2⇒Lv4 UP
+
+
+●Kỹ năng hệ đặc biệt (205p)
+
+　Đọc khẩu hình (Lv10) 1-5 6-2 từ Lv0⇒Lv10 UP
+　Lừa bịp (Lv10) 1-5
+　Mật thám (Lv10) 1-9
+　Tự chữa lành (Lv10) 1-9
+　Thay đồ nhanh (Lv10) 1-10
+　Cải trang (Lv10) 1-10
+　Lỗ tai thính (Lv10) 1-6 6-2 từ Lv0⇒Lv10 UP
+　Hành động chìm (Lv10) 2-6 6-2 từ Lv0⇒Lv10 UP
+　Bắt cóc (Lv10) 2-6
+　Ám sát (Lv10) 2-6 6-2 từ Lv0⇒Lv10 UP
+　Âm mưu (――) 2-6
+　Kết tội (――) 2-6
+　Oan sai (――) 2-6
+　Thẩm vấn (Lv5 ) 3-4 6-2 từ Lv3⇒Lv5 UP
+　Kỹ thuật phòng the (――) 4-10
+　Đối thoại phòng the (――) 4-10
+　Quyến rũ (――) 4-10
+　Dò tìm địch (Lv10) 6-3
+　Cảm nhận nguy cơ (Lv10) 6-3
+　Nắm bắt không gian (Lv10) 6-3
+　Thao tác ma lực (Lv10) 6-3
+　Ban ma lực (Lv10) 6-3
+　Trị liệu bằng ma lực (Lv10) 6-22
+　Viễn kiến (Lv10) 6-32
+　Nhìn bao quát (Lv10) 6-32
+　Viễn vọng (Lv10) 6-32
+　Phi tang chứng cứ (Lv10) 6-33
+
+
+・Tổng điểm kỹ năng đã sử dụng: 1204 điểm (còn lại 1896 điểm)
+
+
+――――――――――――――――――
+●Danh sách danh hiệu
+
+　Được ghi theo thứ tự số chương đạt được, tên danh hiệu
+
+1-2　Kẻ giết ma vật
+1-2　Kẻ giết tộc Vảy
+1-2　Tai họa của tộc Vảy
+1-2　Thiên địch của tộc Vảy
+1-2　Kẻ giết rồng cánh
+1-2　Kẻ giết rồng [Hạ cấp]
+1-2　Kẻ giết rồng [Long ấu]
+1-2　Kẻ giết rồng [Thành long]
+1-2　Kẻ giết rồng [Cổ long]
+1-2　Kẻ giết rồng [※Danh xưng riêng※] ※Danh xưng riêng có rất nhiều nên xin bỏ qua
+1-2　Thiên địch của tộc Rồng
+1-2　Kẻ giết thần
+
+1-4　Người có đức tin sâu sắc
+
+1-10　Thường trực chiến trường
+1-10　Chiến sĩ thành thạo
+1-10　Kẻ khiêu vũ cùng ác quỷ
+1-10　Dũng sĩ
+
+2-1　Người cầu nguyện cho vong linh
+2-1　Người cứu hộ
+2-1　Người bảo vệ sách
+
+2-7　Nhà thám hiểm mê cung
+
+2-8　Kẻ giết côn trùng
+
+2-9　Nhà điều giáo
+
+2-12　Kẻ giết bất tử
+2-12　Kẻ giết ma tộc
+
+3-8　Người chinh phục mê cung
+
+5-12　Kẻ giết vua bất tử
+5-12　Người chinh phục mê lộ
+
+5-13　Người sống sót
+
+5-15　Bạn của Elf
+
+6-3　Thợ rèn ma thương
+
+6-5　Thợ săn tiền thưởng
+
+6-7　Pháp sư của bàn ăn
+
+6-22　Nhà pha chế
+6-22　Nhà chữa bệnh
+6-22　Thánh giả
+6-22　Diễn viên tồi
+6-22　Thằng hề
+
+　Thưởng phạt:
+　　　　「Huân chương Thanh Huy lãnh địa nam tước Munō」
+　　　　「Huân chương hạng nhất quân đội nam tước Munō」
+　　　　「Huân chương danh dự công dân Munō」
+
+▼Thời điểm phân bổ cấp độ không rõ.
+
+「Đối kháng (đã dùng ở 2-6)」
+「Ném (đã dùng ở 2-9)」
+「Giám định (đã dùng ở 2-10)」
+「Thuyết phục (đã dùng ở 2-11)」
+「Khuếch âm (đã dùng ở 2-12)」
+
+※Bản chính dự kiến đăng vào chiều tối nay.

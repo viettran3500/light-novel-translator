@@ -1,0 +1,95 @@
+"Xong cái dungeon rồi đây, Kehma!"
+"Ồ. Nhanh nhỉ."
+
+Dự định là mất một tháng để xây dựng, vậy mà Rokuko đã hoàn thành chỉ trong vỏn vẹn hai tuần.
+Về phần DP, lần này con bé không hề dè xẻn, cứ tiêu xài như nước chảy. Lúc đầu thì còn rón rén, nhưng dạo gần đây, lượng tiêu thụ đã vượt xa lượng DP thu thập được từ khu Karisoto, khiến kho dự trữ cứ thế vơi dần.
+
+Về bản chất, DP là thứ sẽ giảm đi khi dùng, và việc đào kho dự trữ để xây dungeon mới là cách vận hành bình thường. Thế nhưng, có vẻ như cái tính bần tiện ăn sâu vào máu khiến tôi vẫn cảm thấy khó chịu khi thấy cách tiêu tiền mạnh tay đó.
+
+Dù vậy, con bé cũng có chừa chỗ tiết kiệm bằng cách dùng [Create Golem] để tạo Golem làm việc đào bới. Tôi cũng được nhờ vả tạo ra 'Golem Cánh cổng Trí tuệ' giúp nó.
+
+"Ư hự hự, phải cảm ơn thằng Suto mới được. Nhờ nó mà ta đã xây được một cái dungeon tiêu tốn sạch sành sanh DP đây!"
+"…Nó có đúng y hệt như những gì Narikin đã làm trên kênh stream không đấy?"
+"Ừ, ít nhất là giai đoạn đầu. Ta đã lưu lại bản ghi hình stream của Narikin rồi, không có sơ hở đâu."
+
+Giai đoạn đầu, hửm… Giai đoạn đầu sao.
+
+"Cái dungeon này tổng cộng bao nhiêu tầng?"
+"Con số cụ thể là 15 tầng!"
+
+Ồ… đào gắt thật đấy.
+
+"10 tầng đầu thì làm đúng theo dungeon trên stream của Narikin."
+"Nếu vậy thì, dù có tính thêm cả những điểm đã được攻略 trong lần stream trước, chắc khoảng một tuần là clear được nhỉ?"
+"Hả?"
+"Hửm?"
+"…À, phải rồi nhỉ!"
+
+Gì thế không biết. Tự nhiên tôi thấy bất an quá. Chuyện gì vậy.
+
+"Không sao đâu, mà này, chẳng phải Thánh nữ có thể hồi sinh sao? Cả Narikin nữa."
+"Khoan đã Rokuko? Em làm cái dungeon sát thương cao đến mức đó à?"
+"…Không sao đâu, chắc chắn là vậy! Này, thà thế còn hơn là nương tay quá mức rồi bị nghi ngờ, đúng không?"
+"Thì đúng là vậy, nhưng mà..."
+
+Hy vọng là con bé không phải kiểu "không có ý định để người ta clear" bằng cách chẳng hề nương tay nào cả.
+
+"Với lại, đã thả cả Basilisk ra rồi thì tầng 11 trở xuống mà dễ hơn nó thì vô lý quá còn gì?"
+"Rốt cuộc em đã làm cái gì ở dưới đó thế? Còn boss? Boss em để con gì?"
+
+Vừa nghe thấy vậy, Rokuko nở nụ cười tươi rói như thể đợi chờ câu hỏi này từ lâu rồi.
+
+"Rồng! Một con Rồng hệ Vô thuộc tính bình thường, nhưng là Rồng xịn đàng hoàng đấy nhé!"
+"Ôi trời. Chơi luôn cả Rồng cơ à."
+
+Nó đã luôn khao khát có một con, nên chuyện này cũng không có gì lạ. Thậm chí còn nằm trong dự đoán của tôi.
+Nếu không phải Rồng, tôi đã đoán là con bé sẽ đặt Goblin Lord hoặc mấy con quái thuộc nhóm đó vào.
+
+"Không phải mấy món hàng nhái như Wyvern đâu, là Rồng chính hiệu đấy? Hự hự. Cuối cùng thì ta cũng đã trở thành người dùng Rồng rồi."
+"Dungeon mà sở hữu Rồng thì có gì khác biệt về đẳng cấp sao?"
+
+Kiểu như có xe hơi riêng hay không ấy hả. Đại loại thế.
+
+"Nếu sở hữu Rồng, ngươi có thể tham gia vào trận chiến Rồng tại 'Thung lũng của Rồng' đấy?"
+"Trận chiến Rồng?"
+"Do chính Lõi số 5, Long Vương tổ chức đó!"
+
+Long Vương, nhắc mới nhớ, hình như có nhân vật đó thật. Hồi trong trận Dungeon Battle, hắn đứng đằng sau bộ ba kiềm chế lẫn nhau thì phải.
+Mà này, cái kiểu trận chiến Rồng đó... tôi không đi đâu nhé? Tuyệt đối không đi đấy.
+
+"À. Cho dùng Boss Spawn đi. Dù gì cũng không muốn để nó bị mất (Lost) đâu."
+"Được thôi. Công nhận dùng DP để hồi sinh Named cho Rồng thì tốn kém thật, và nếu là Rồng thì đúng là chỗ cần dùng Boss Spawn rồi."
+
+Hiện tại Boss Spawn đang được dùng để sản xuất xác của Golem Orichalcum ngón cái, nhưng đây mới chính là cách sử dụng đúng đắn cho những con quái vật như thế này.
+…Chà, cứ để đó cho đến sát lúc Narikin và đồng bọn tới vậy. Ừ.
+
+"Mà, nếu là Thánh nữ với Narikin thì chắc đánh bại được Rồng thôi. Dù sao cũng chỉ là Rồng hệ Vô thuộc tính thường thôi mà. Là loại yếu nhất trong các loại Rồng đấy."
+"Ồ, chỗ đó thì em biết chừng mực nhỉ."
+"…Ừ, quả thật là không thể tùy chỉnh được. Giá nó đội lên cao quá…"
+
+À, ra là vậy.
+
+"Ta sẽ tích góp tiền tiêu vặt DP rồi đổ vào để nâng cấp nó!! Mục tiêu là con Rồng mạnh nhất!"
+"Ừ, sớm muộn gì cũng tới lúc đó. Lần này cứ để nguyên là Rồng thường đi nhé. Với cả, đừng có mơ trở thành Dragon Master đấy."
+"Ừ, vẫn còn là loại yếu nhất mà. Lần tới phải nhờ Redra huấn luyện cho nó mới được."
+"Đã bảo là không cần phải nhắm tới mục tiêu đó mà!"
+
+Mà nói mới nhớ, ít nhất thì Haku-san cũng có Rồng mà nhỉ?
+Lượng DP có thể đổ vào là một trời một vực. Nếu mà cứ dốc sức vào thì không có cửa thắng đâu. Không phải là "cảm thấy không thắng nổi", mà là "không thể thắng được" luôn đấy.
+Cả số tiền nạp lẫn thời gian đều không đọ lại được đâu.
+
+"Thế, ngoài con Rồng ra thì dungeon trông như thế nào?"
+"Hự hự hự, nhìn cho kỹ đây! Dungeon tâm huyết nhất của ta!!"
+"Dặn trước này, dù sao thì cuối cùng cũng phải phá hủy nó, em không sao chứ? Mấy con như Rồng thì vẫn tái sử dụng được, nhưng mà..."
+
+"…………"
+
+Á. Chẳng lẽ con bé quên mất việc phải phá hủy nó sao?
+
+"…Không để lại được à?"
+"Lần này là dungeon để thực hiện thử thách cho Narikin mà, đã bảo là phải phá hủy sau khi xong rồi còn gì."
+"Không được… sao?"
+"Dungeon chính của em muốn xây thêm bao nhiêu thì xây. Được không?"
+"A, đúng rồi nhỉ! Ta sẽ phát triển nó sâu hơn nữa!"
+
+Ừ ừ, cứ xây cho thành một cái dungeon hoành tráng đi. Dù là lúc đang bạo phát thì cũng biết suy nghĩ cho tương lai chút nhé. Được chứ?

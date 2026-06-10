@@ -1,0 +1,195 @@
+Phép thuật được gọi chung là phép dịch chuyển (Transfer Magic) có cơ chế tạo ra một cánh cổng kết nối giữa không gian này với không gian khác.
+
+Tùy vào kích thước của cánh cổng, khối lượng vật chất vận chuyển và khoảng cách mà lượng ma lực tiêu tốn sẽ khác nhau. Hơn nữa, nơi có thể tạo ra cổng chỉ giới hạn ở những địa điểm mà người sử dụng có thể nhìn thấy hoặc đã từng đặt chân tới.
+
+Đó là nguyên tắc phép dịch chuyển của Beezel.
+
+Vì thế, việc vận chuyển Meleo – sinh vật có chiều dài cơ thể lên tới năm mét – bằng phép dịch chuyển là một việc vô cùng gian nan.
+
+Tuy nhiên, trong quá khứ, Beezel từng dùng phép thuật này để đưa khoảng một trăm người thuộc tộc Nhân mã ở Tam Thôn (làng số 3)… dẫn đầu bởi Gruwald đến đây. Nếu nghĩ đến điều đó, thì việc vận chuyển Meleo chắc cũng không khó khăn đến mức ấy.
+
+Vợ của Beezel, cô Silkyne, từng bảo rằng ngay cả với phép dịch chuyển của Beezel thì chuyện này cũng rất khó, nhưng tôi cứ ngỡ cô ấy chỉ đang lo lắng cho Beezel thôi.
+
+Hóa ra, tôi đã không nắm rõ thực tình.
+
+Trước hết, việc dịch chuyển hơn một trăm người như Gruwald không phải là thực hiện trong một lần. Cũng không phải là dịch chuyển thẳng từ nơi Gruwald sống đến Đại Thụ Thôn. Họ đã phải chuẩn bị một vài trạm trung chuyển và di chuyển bằng cách dịch chuyển liên tục nhiều lần.
+
+Và khi ma lực của Beezel cạn kiệt, các cấp dưới đi cùng đã phải nhường lại ma lực để bù đắp cho anh ta. Hành vi nhường ma lực là một kỹ thuật rất tiện lợi, nhưng vì đây là kỹ thuật ma pháp khá khó nên không có nhiều người sử dụng được. Hơn nữa, cả người cho lẫn người nhận đều sẽ bị kiệt sức, và cả lượng ma lực có thể cho hay nhận đều có giới hạn. Nghe nói việc tập hợp đủ người có khả năng này rất khó, mà dù có tập hợp đủ thì cũng chẳng phải cứ thế là xong.
+
+Thực tế, cuộc di chuyển của nhóm Gruwald tốn mất khoảng ba ngày, và còn khiến hai cấp dưới có khả năng nhường ma lực bị đổ gục. Nhắc mới nhớ, lúc Beezel dẫn nhóm Gruwald đến, trông anh ta lảo đảo thật.
+
+Vậy nên, nếu xét đến việc vận chuyển Meleo lần này...
+
+Trước hết, cần một cái thùng lớn để chứa Meleo. Tôi đã hơi sơ ý mất rồi. Đúng vậy nhỉ, việc vận chuyển ma vật thì cần phải có thùng hoặc lồng. Và nếu là cái thùng đủ sức chứa con Meleo dài năm mét kia, thì nó phải là một cái thùng cỡ bự.
+
+Tiếp theo, cần nhân lực để vận chuyển cái thùng khổng lồ đó. Vì thùng không thể tự mình chui qua cánh cổng dịch chuyển của Beezel được. Dù có lắp bánh xe cho thùng thì cũng phải có người đẩy. Tối thiểu là… cỡ mười người nhỉ? Nếu là tộc Minotaur hay các chủng tộc to lớn khác thì có thể giảm bớt số người đi một chút.
+
+Hơn nữa, còn phải cân nhắc đến cả chuyện hộ vệ. Không chỉ đề phòng trường hợp Meleo nổi điên, mà còn phải đề phòng trường hợp Meleo trở thành mục tiêu săn đuổi. Vì muốn tránh mọi rủi ro nên hộ vệ là bắt buộc. Thêm vào đó, còn phải chuẩn bị thức ăn và nước uống cho Meleo nữa.
+
+Nói tóm lại, thứ được dịch chuyển không chỉ là Meleo, mà là một lượng lớn người và hàng hóa đi kèm.
+
+Thêm vào đó là vấn đề khoảng cách. Nơi nuôi dưỡng Meleo trong lãnh địa của Beezel cách đây rất xa. Vì nằm ở đại lục khác nên thực sự là rất xa. Ngay cả khi Beezel đi một mình, anh ta cũng phải dùng đến hai điểm trung chuyển. Trong khi đó, việc vận chuyển Meleo không thể đi được quãng đường dài trong một lần dịch chuyển, nên phải tính toán thêm nhiều trạm trung chuyển mới, và Beezel cần phải đảm bảo các trạm đó trước.
+
+Và thời gian vận chuyển được đưa ra là mười lăm ngày.
+À ra vậy, hèn gì cô Silkyne lại nói là khó. Vì đây là việc phải giữ chân một trong Tứ Thiên Vương của Vương quốc Ma tộc suốt mười lăm ngày trời. Tôi lại tự hỏi, hay là cứ vận chuyển bằng thuyền vạn năng cho xong dù tốn gấp đôi thời gian nhỉ?
+
+***
+
+Chà, chuyện vận chuyển Meleo bằng phép dịch chuyển của Beezel vẫn chưa bắt đầu.
+Ngay từ giai đoạn trước khi bắt đầu, vấn đề đã nảy sinh. Đó là chuyện ba ngày trước.
+
+Các con Meleo cái ở trại nuôi trong lãnh địa của Beezel đã hợp tác với nhau để làm tổ, rồi bắt giữ con Meleo đực từ Tứ Thôn và cố thủ trong đó. Các nhân viên chăm sóc ở trại đã cố gắng đàm phán với chúng nhưng hiện tại vẫn chưa có tiến triển gì. Vì yêu cầu của những con Meleo cái là không được cho con Meleo đực rời đi, nên đó là phần mà các nhân viên không thể đàm phán được.
+
+Sở dĩ lũ Meleo cái làm vậy là vì con Meleo đực của Tứ Thôn không hề thông báo cho chúng biết là nó sẽ quay về Tứ Thôn. Các nhân viên nghĩ rằng dù lũ thú có bị ám ảnh một chút trong mùa động dục, nhưng sau khi qua mùa thì sự quan tâm dành cho con đực cũng sẽ giảm đi. Thậm chí họ còn cho rằng những con Meleo cái đã thực hiện hành vi sinh sản sẽ chỉ tập trung vào việc chọn nơi đẻ trứng thôi.
+
+Thế nhưng, trái với dự đoán, lũ Meleo cái lại trở nên ám ảnh với con Meleo đực. Chúng thực sự đã làm thế.
+
+Trước tình hình này, Beezel chỉ biết thở dài:
+"Phải làm sao đây ạ?"
+
+Anh hỏi tôi thì tôi biết làm sao được.
+
+"Thứ lỗi cho tôi. Ý tôi là, Silkyne đang suy nghĩ mọi cách để đưa con Meleo đực trở về Tứ Thôn bằng được. Đó là thỏa thuận từ trước mà."
+
+Về chuyện đó thì tôi không nghi ngờ gì cả.
+
+"Cảm ơn ngài. Nhưng mà, việc cưỡng ép đoạt lại con Meleo đực cũng rất khó khăn..."
+
+Vì lũ Meleo cái đang bảo vệ nó, và khả năng cao là trong bụng lũ Meleo cái đó đã có trứng rồi.
+
+"Tôi nghĩ phương án thực tế là đợi chúng đẻ trứng xong rồi tìm sơ hở..."
+
+Còn tình trạng con Meleo đực thì sao?
+
+"Nghe nói lũ Meleo cái đã giấu nó đi rồi, nên hiện không rõ tung tích."
+
+Đó mới là điều đáng lo ngại. Có lẽ nó đang hoảng sợ. Có lẽ nó đang cảm thấy căng thẳng vì tình hình này. Dù muốn cứu viện khẩn cấp nhưng... vì lý do vừa rồi nên không thể làm mạnh tay được.
+
+"Vâng. Ngoài ra, đây là phương án gây phiền hà cho ngài, nhưng liệu ngài có thể nhờ cô con gái tộc Ác ma – chủ sở hữu của con Meleo đực – đến hiện trường và gọi nó không?"
+
+Để con Meleo đực tự nguyện chạy ra. Hoặc giả con Meleo đực sẽ thuyết phục lũ Meleo cái.
+
+"Biết đâu nếu con Meleo đực muốn về, thì sự đoàn kết của lũ Meleo cái sẽ tan vỡ."
+
+Ra vậy.
+
+"Kể cả tính cả hộ vệ, chúng ta sẽ quay về ngay trong ngày."
+
+Beezel nói sẽ cố gắng thực hiện bằng phép dịch chuyển, nhưng biết làm sao đây.
+...Hộ vệ sẽ đi bao nhiêu người?
+
+"Nếu ngài có thể cho đi khoảng ba người thì..."
+
+Ba người à.
+
+"Dọc đường đi gần như đều là lãnh địa của tôi hoặc người có liên quan tới tôi. Có thể di chuyển một cách an toàn."
+
+Hừm. Nếu cô gái tộc Ác ma ở Tứ Thôn đồng ý đi, thì tôi cũng sẽ đi cùng.
+
+"Dạ?"
+
+Hộ vệ sẽ là tôi, Gulf và Daga.
+
+"Khoan, khoan, khoan đã!"
+
+Sao thế Beezel? Sao lại hoảng hốt vậy?
+
+"Thôn trưởng định đi sao ạ?"
+
+Có phiền không?
+
+"Kh, kh, kh, không hề có chuyện đó ạ. Nh, nh, nhưng mà, trước hết ngài nên bàn bạc với các phu nhân của ngài xem sao đã..."
+
+Tất nhiên là tôi sẽ nói với họ.
+
+"Không phải là thông báo, mà là bàn bạc ạ."
+
+Bàn bạc sao.
+
+"Vâng. Trong thời gian đó, tôi sẽ chuẩn bị ạ."
+
+Tôi muốn thực hiện càng sớm càng tốt nhưng...
+
+"Không không không, nếu Thôn trưởng di chuyển thì cần phải có sự chuẩn bị tương xứng ạ."
+
+Chẳng lẽ anh chưa chuẩn bị sẵn sao?
+
+"Tôi đã chuẩn bị rồi, nhưng nếu Thôn trưởng di chuyển thì chừng đó là chưa đủ. Không chỉ là an ninh các nơi, mà tôi còn phải chuẩn bị cả chỗ ở tại trại nuôi Meleo nữa."
+
+Không, không cần phải khách sáo thế đâu. Tôi chỉ đi hộ vệ thôi mà.
+
+"Nếu ngài không ghét tôi, thì hãy cho tôi thêm thời gian."
+
+Trước khí thế của Beezel, tôi đành lùi bước.
+Thực sự không cần phải khách sáo thế đâu mà... Dù sao thì, cứ làm theo lời Beezel, đi bàn bạc với Lu và mọi người vậy.
+
+***
+
+Đã ba ngày trôi qua kể từ khi tôi nghe Beezel kể về cuộc cố thủ của lũ Meleo cái.
+Ra là vậy, đúng là phải bàn bạc thật. Không ai phản đối việc tôi đi, nhưng họ bảo rằng việc chỉ toàn nam giới đi cùng là không ổn. Nghe nói nam giới đi với nhau thì khó mà chống lại được nhiều cám dỗ. Ngoài ra, họ cũng rất thận trọng với việc cô gái tộc Ác ma ở Tứ Thôn – chủ của con Meleo đực – đến trại nuôi. Vì tùy theo thái độ của con Meleo đực mà cô ấy có thể bị lũ Meleo cái tấn công.
+
+Kết quả của cuộc bàn bạc: Biệt đội cứu viện con Meleo đực của Tứ Thôn, nay đổi tên thành Biệt đội trinh sát tiên phong, đã được thành lập!
+
+Các thành viên gồm có tôi, Gulf, Daga và Hakuren.
+Đúng vậy, Hakuren. Nếu số người đi cùng có hạn, thì ý kiến thống nhất là phải mang theo lực lượng chiến đấu mạnh nhất. Hai đứa con của Hakuren là Hikaru và Himiko thì đã có Raimeiren trông coi cùng với Hiichirou nên không vấn đề gì.
+
+Bản thân Hakuren đã thay trang phục trông có vẻ linh hoạt, đồng thời mặc cả giáp ngực. Nếu chỉ thế thôi thì trông cô ấy như một võ sĩ, nhưng hai tay cô ấy còn được trang bị những cái găng tay sắt to lớn… trông giống như những tấm khiên nhỏ. Trên những tấm khiên nhỏ đó, mỗi bên lại có một thanh kiếm dài được cất gọn vào trong… có cảm giác giống như khiên và bao kiếm hợp làm một vậy.
+
+"Đây là Hakuren-sama phiên bản bọc giáp ạ."
+Ya giải thích cho tôi. Lời giải thích thì đáng quý đấy, nhưng hai tấm khiên và bao kiếm ở hai tay đó không gây vướng víu sao? Không, quan trọng hơn là kiếm có rút ra được không? Tôi có cảm giác vì nó quá dài nên không thể rút ra được.
+
+"Thanh kiếm đó không thể rút ra ạ. Bằng thao tác từ tay của Hakuren-sama..."
+
+Ồ, bao kiếm xoay quanh tấm khiên nhỏ, và mũi kiếm thò ra từ bao.
+
+"Đó là thanh kiếm sử dụng bằng cách vung tay. Muốn thuần thục nó thì trừ những người sở hữu sức mạnh như Hakuren-sama ra thì e là rất khó."
+
+Nói cách khác, đó là trang bị mà người bình thường không thể sử dụng. Thế còn việc cất vào thì sao?
+
+"Việc đó cũng thao tác bằng tay ạ."
+
+Như đang phát lại ngược, mũi kiếm thu vào bao, bao kiếm xoay ngược lại trở về hình dáng cũ. Ồ!
+
+"Vì vừa là vũ khí vừa là giáp bảo vệ nên độ bền của cơ cấu này rất cao. Nếu bị rồng giẫm phải thì chắc chắn sẽ hỏng, nhưng với những đòn tấn công bình thường thì sẽ không sao đâu ạ."
+
+Hừm. Vậy thực tế thì sao?
+
+"Thực tế là sao ạ?"
+
+Nó có phải là trang bị hữu dụng không? Nếu muốn trang bị vũ khí cho Hakuren, cứ cho cô ấy cầm một thanh kiếm bình thường không phải tốt hơn sao?
+
+"Việc uy hiếp bằng vẻ ngoài cũng có ý nghĩa của nó ạ. Bình thường thì Hakuren-sama chỉ là một phụ nữ bình thường thôi."
+
+Là trang bị để kẻ thù biết rằng lại gần là nguy hiểm sao. Ra vậy.
+
+"Ngoài ra, nói thẳng ra thì đó là vật nặng để kìm hãm Hakuren-sama ạ."
+
+...Để Hakuren không bị bạo phát sao.
+
+"Vâng. Dos-sama và Raimeiren-sama cảm thấy lo lắng..."
+
+Ra vậy. Dù là mang theo người mạnh nhất để hỗ trợ, nhưng lại phải đeo vật nặng vào để kìm hãm thì nghe có vẻ mâu thuẫn quá, nhưng mà... Nếu mục đích là để uy hiếp và kìm hãm, thì tại sao không tăng thêm giáp bảo vệ thay vì dùng găng tay sắt?
+
+"Hakuren-sama từ chối giáp nặng ạ."
+
+Hóa ra là đã có kế hoạch đó rồi.
+
+"Thực tế thì chúng tôi đã làm rồi. Đám trẻ con thấy cũng không tệ, nhưng Hakuren-sama nói rằng nó giống như bị trói buộc nên cô ấy không thích ạ."
+
+À, ra vậy. Để hôm nào tôi xem thử.
+
+Dù sao thì hôm nay cũng là ngày xuất phát của Biệt đội trinh sát tiên phong. Beezel cũng đã chuẩn bị xong xuôi… dù trông anh ta có vẻ mệt mỏi, có ổn không đấy?
+
+"X, xin cảm ơn ngài đã quan tâm. Nhưng tôi vẫn ổn ạ."
+
+Thế à. Vậy thì đi ngay thôi nào. Mặc dù dự định là đi về trong ngày nhưng xuất phát càng sớm càng tốt.
+
+"V, vâng ạ. Vậy thì, xuất phát… ừm?"
+
+Hửm? Ánh mắt của Beezel đang hướng về phía tôi. Không chỉ tôi, mà cả Daga và Gulf đều được đeo những dải băng chéo rộng bản trên người. Loại băng thường thấy trong các cuộc bầu cử ở thế giới cũ, loại mà ghi tên của ứng cử viên ấy. Tôi thì chỉ nghĩ giá mà họ viết lên đó chữ "Biệt đội trinh sát tiên phong", nhưng họ lại viết như thế này:
+
+"ĐÃ KẾT HÔN"
+
+Nói cách khác, đây là biện pháp phòng chống cám dỗ. Thế nên đừng để tâm tới nó nhé.
+
+"T, tôi hiểu rồi ạ. Vậy thì, chúng ta cùng xuất phát thôi."

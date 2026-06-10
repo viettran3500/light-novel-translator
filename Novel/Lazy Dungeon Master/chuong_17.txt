@@ -1,0 +1,95 @@
+Thế là, ba ngày sau đó trôi qua. Tôi đã mày mò cải tạo Testall, chế tạo tiếp các bản Testall số 2 trở đi, và nghiên cứu đủ thứ về Golem.
+
+Vì đã có thể tạo ra các Golem cơ bản—dù không đúng hoàn toàn theo bản vẽ như bị rỗng ruột, hay nhìn giống cái đồng hồ...—tôi bắt đầu thử nghiệm xem liệu đá, gỗ, đất, hay thậm chí là vật chất không phải thể rắn như nước và lửa có dùng làm nguyên liệu được không. Kết quả là tôi nhận ra mình có thể tạo ra nhiều thứ hơn mong đợi.
+
+Tất nhiên, con Golem Lửa (Fire Golem) vừa tạo ra đã cháy rụi và tan biến ngay lập tức, một sản phẩm thất bại. Tôi cũng thử đốt cháy con Golem Gỗ thay vì dùng lửa làm nguyên liệu trực tiếp, nhưng nó cũng chỉ cháy thành than. Gọi là Golem Than thì đúng hơn, hay đúng hơn là trạng thái bị sát thương. Đó cũng là một thất bại. ...Nhưng nếu để một thứ đang bốc cháy ôm chầm lấy kẻ xâm nhập thì hẳn là đáng sợ lắm nhỉ.
+
+Mặt khác, Golem Nước (Aqua Golem) lại được tạo ra một cách bình thường đến bất ngờ. Ít nhất là về ngoại hình.
+Nhìn bên ngoài thì đúng là một con Golem chuẩn chỉnh, nhưng khi chạm vào thì tay tôi lún sâu vào trong nước. Dù không biết cái này để làm gì, nhưng trông cũng thú vị đấy chứ? Hình như có thể nuôi cá bên trong con Golem này. Biết đâu lại dùng làm bể cá hay thay thế kính được.
+
+Và "siêu phẩm" chính là cái này: **Golem Blade**.
+Nó là một con Golem dạng kiếm, được làm từ nguyên liệu là "Thỏi sắt" mà tôi đã đổi bằng 30 DP.
+Khi tạo ra nó với hình ảnh một thanh Katana, kết quả là tôi đã tạo ra một lưỡi kiếm sắc bén đến bất ngờ. Dù đáng lẽ nó chỉ là một loại vật liệu đơn nhất.
+Khi truyền ma lực vào, lưỡi kiếm bắt đầu rung lên, cắt đứt một thân cây gỗ như máy cưa với tiếng "Zviiiiin" đầy uy lực. Dù chưa đạt đến trình độ lưỡi kiếm cao tần, nhưng nó thực sự là một thanh Ma Kiếm.
+Hơn nữa, nó còn có cơ chế phóng lưỡi kiếm ra ngoài với lực đẩy mạnh.
+
+Tiếp đến, "siêu phẩm" thứ hai là **Golem Quần Áo Vải** hỗ trợ vận động.
+Rốt cuộc, tôi nhận ra Golem dạng áo giáp quá cồng kềnh, nặng nề và khó cử động nhanh nhẹn, nên tôi thử làm Golem bằng chính quần áo vải xem sao, và nó đã thành công.
+Tôi còn làm thêm cả găng tay để hỗ trợ lực nắm và bảo vệ cổ tay nữa.
+
+Đúng là phép thuật, cái gì cũng làm được.
+
+Lệnh cơ bản của Golem Quần Áo là hỗ trợ cử động, nhưng khi kết hợp với Golem Blade, cơ thể vốn chưa bao giờ cầm kiếm như tôi bỗng có thể di chuyển điêu luyện như một người lính thực thụ. ...Mẫu chuyển động tôi lấy từ dữ liệu của các kỵ sĩ, sơn tặc và cả những nhà mạo hiểm giả mà tôi từng quan sát. Menu-san thật là lợi hại, nó tự động ghi hình lại những gì tôi đã thấy trên màn hình. Đúng là công nghệ cao, công nghệ "hợp thời".
+Dù các kiểu chuyển động có phần cố định, và nếu đột ngột vận động mạnh thì cái xác phàm là tôi sẽ đau cơ chắc chắn... hy vọng chỉ dừng lại ở đau cơ thôi... ừm, dù sao thì với cái này, tôi không còn lo mình không có khả năng chiến đấu nữa.
+Vì tôi tận dụng số sắt thừa khi làm kiếm để bọc các vị trí trọng yếu nên khả năng phòng thủ cũng khá ổn.
+
+Trong tình huống xấu nhất, chỉ cần ra lệnh "Chạy về hang", dù ý thức tôi có mất đi thì nó cũng sẽ tự đưa tôi chạy về. Chỉ cần giữ được mạng sống là tốt rồi. Nếu còn sống, thì dù có mất tay mất chân cũng vẫn còn có thể nằm ngủ được mà.
+
+"Thế nên, đây là trang bị mạnh nhất hiện tại của ta. Sao hả?"
+"......Ông bị điên à?!"
+
+Rokuko vẫn giữ phong thái nói năng tùy tiện như mọi khi. Dù sự hữu dụng của nó rõ rành rành ra đấy.
+À, hay là vì lần này không dư dả nên tôi chỉ chuẩn bị được cho tôi và Niku, nên cô nàng thấy tiếc?
+Xin lỗi nhé, vì Rokuko là Dungeon Core nên ta không thể để cô nàng rời khỏi vị trí canh giữ được.
+
+"Không, tôi không có nói ý đó!"
+"Ừm, vậy nếu có mạo hiểm giả tới thì cứ thả 5 con Goblin ra là được. Chắc vẫn ổn thôi..."
+
+Tôi khoác bộ Golem Quần Áo lên người và trang bị Golem Blade. Niku cũng tương tự, dù Golem Blade của cô bé là dạng dao găm.
+Tất nhiên, tôi đã ra lệnh cho chúng không được tấn công tôi.
+Với cái này, bất cứ lúc nào tôi cũng có thể đi đến nơi có người ở rồi.
+
+*
+
+Vì Niku đã học được mặt chữ ở mức độ nhất định, nên tôi thưởng cho cô bé một chiếc hamburger. Rokuko cũng đang nhai ngấu nghiến bánh mì dưa hấu. Trông bình yên ghê.
+
+"À phải rồi. Này Rokuko, Mana và Ma lực có gì khác nhau không?"
+
+Tôi bất chợt nhớ ra thắc mắc nên hỏi.
+Khi truyền Ma lực vào Ma thạch, Mana sẽ được tích đầy, nên tôi nghĩ chúng là một. Không biết cách gọi khác nhau có ẩn ý gì không nhỉ?
+
+"Ưm, cơ bản thì cái nằm trong cơ thể sinh vật gọi là Ma lực, còn khi thoát ra ngoài thì gọi là Mana. Vì phân chia tùy tiện nên chúng hay lẫn lộn với nhau lắm, nhưng cơ bản là một. Đôi khi người ta cũng gọi cái nằm trong quái vật là Mana."
+
+Lẫn lộn á? Cẩu thả dữ vậy.
+
+"Chà, mỗi người đều có tần số Ma lực khác nhau, nên dù gọi chung là Ma lực thì thực tế vẫn có những khác biệt nhỏ. Cũng có người bảo rằng khi hòa lẫn vào Mana bên ngoài, không còn phân biệt được sự khác biệt nhỏ đó nữa nên mới gọi là Mana."
+"Hê, giống dấu vân tay nhỉ. Đúng là cũng có chuyện như thế thật."
+"À, ừm, nhắc mới nhớ... Chủ nhân... Chủ nhân, ngài không đăng ký Ma lực sao?"
+"Hửm?"
+
+Niku đột nhiên xen vào.
+Chuyện gì vậy? Đang lúc tôi nghĩ thế, thì hóa ra là chuyện phải đăng ký Ma lực vào vòng cổ nô lệ mà Niku đang đeo.
+Phiền phức thật... nhưng nếu không đăng ký thì lỡ bị kẻ khác cướp mất cũng không thể than vãn được, nên tôi đành đăng ký. Bị cướp mất Niku thì còn rắc rối hơn. Dù sao cô bé cũng ra vào phòng Master của 'Cái hang đơn thuần' cơ mà.
+Khoan đã, nếu vậy chẳng phải là hình thức cướp lại từ người chủ cũ là tên đầu sỏ sơn tặc sao? Nhưng có vẻ vì chủ cũ đã chết nên nó đang ở trạng thái giải phóng. Nghe nói từng có nô lệ khác cũng được giải phóng khi chủ cũ qua đời. Những nô lệ như thế thì ai tìm thấy có thể trở thành chủ nhân mới. Nghe bảo tiền bối đó sau khi được tự do lại bị bắt và bán cho chủ khác, rồi cuối cùng quay lại tiệm nô lệ.
+
+"......Không tự ý tháo vòng cổ ra được à?"
+"Không được ạ. Sẽ chết đó."
+
+Vòng cổ nô lệ là một loại ma cụ dùng để thắt cổ, giá thành khá rẻ, nhưng ngay khi trở thành nô lệ, người ta sẽ ký một khế ước rằng nếu tự ý tháo vòng ra thì sẽ chết. Nếu tự ý tháo, hiệu ứng của khế ước ma thuật sẽ lấy mạng người đó. Sợ thế! Ma thuật khế ước đáng sợ thật!
+Hơn nữa, bản thân chiếc vòng còn có tác dụng thắt cổ nếu người nô lệ gây hại hoặc nảy sinh ý định chống đối chủ nhân. Khắt khe thật đấy!
+Chưa hết, chủ nhân chỉ cần nghĩ đến thôi là có thể siết cổ nô lệ bất cứ lúc nào. Có kẻ còn dùng cách đó để gọi nô lệ nữa chứ.
+Và để giải trừ nô lệ thì tốn một khoản tiền không nhỏ... ừm, rắc rối thật đấy!
+
+"Thôi được, vậy thì đăng ký cho chắc chắn... Giải quyết rắc rối từ sớm vẫn hơn."
+"Vâng, xin ngài hãy truyền Ma lực vào Ma thạch gắn trên vòng cổ... Ờm, sau đó để kiểm tra xem đã đăng ký thành công chưa, ngài hãy thử siết nhẹ một chút xem ạ."
+
+Tôi truyền Ma lực vào để đăng ký. ...Ừm, cảm giác như đã có một kết nối được thiết lập. Chắc là đã đăng ký thành công rồi.
+Dù không muốn chút nào, nhưng tôi thử tưởng tượng cảnh siết nhẹ vòng cổ lại.
+
+"Ư... á...!"
+"Á?! Này, giải trừ, giải trừ! Dừng siết cổ lại!"
+
+Tôi đã thấy chiếc vòng siết chặt lại. Nó lún sâu vào cổ Niku.
+Đây mà là "nhẹ" á?! Giải trừ ngay lập tức!
+...Thằng cha nào dùng cái này để gọi nô lệ chắc chắn là đồ quỷ dữ.
+
+"Cô ổn không?!"
+"Hự... khụ, v-vâng, cảm... cảm ơn ngài..."
+
+Niku mắt đẫm lệ vì bị cưỡng chế ngưng thở, đôi má đỏ bừng, vừa ho sặc sụa vừa trả lời.
+Ừm, thật lòng là ta xin lỗi.
+
+"Hehe, vậy là giờ tôi, thực sự, đã là nô lệ của chủ nhân rồi."
+
+Niku mỉm cười.
+Ơ. Đây là lần đầu tiên tôi thấy Niku cười, nhưng tại sao lại vào đúng khoảnh khắc này chứ?

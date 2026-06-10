@@ -1,0 +1,94 @@
+(Vì nội dung kỳ trước bị mất một cách khó hiểu nên tôi đã sửa lại khá nhiều. Xin lưu ý nhẹ)
+
+Ngày thứ 3 xây dựng nhà trọ... nói là thế, nhưng tôi tự nhủ hôm nay là ngày nghỉ ngơi để hồi phục ma lực nên quyết định không làm gì cả.
+Thực tế thì tôi chẳng cần hồi phục ma lực gì đâu. Chắc là do lúc chiến đấu trong hầm ngục tôi đã uống mana potion như uống nước trong khi spam liên tục 【Create Golem】, nên giờ cảm giác tiêu hao ma lực khi tạo Golem gần như bằng không. Dạo này cảm giác như mình làm việc quá sức rồi, nên chỉ đơn giản là muốn nghỉ ngơi cho thoải mái tinh thần thôi.
+À, còn một lý do nữa là hy vọng trong lúc mình nghỉ ngơi, mấy con Drill Golem sẽ đào trúng suối nước nóng.
+
+Vẫn còn nhiều thứ phải làm. Khi bắt đầu cung cấp đồ ăn, dù nguyên liệu có thể mua bằng DP, nhưng vẫn phải chuẩn bị sẵn thứ gì đó để làm cái cớ hợp lý. Thế nên tôi định chuẩn bị một mảnh ruộng. May mắn là cánh đồng củ cải đường mà trước đó tôi sai Testall – con Golem thử nghiệm – làm vẫn đang phát triển tốt, nên tôi định mở rộng thêm ruộng rau quanh khu vực đó.
+Chà, chuyện này thì chỉ cần đổi hạt giống bằng DP, còn việc trồng trọt thì cứ ra lệnh cho Golem là xong, việc của tôi chỉ là dựng hàng rào quanh ruộng thôi.
+
+Ichika và Niku cũng đã đốn được kha khá cây trong 2 ngày qua nên cũng đang nghỉ ngơi cùng tôi.
+Khi tôi dùng phép thuật sinh hoạt "Sấy khô" để làm khô đống gỗ đã đốn, Ichika lại mở to mắt kinh ngạc. ...Cô nàng bảo là dùng "Sấy khô" làm khô đột ngột thế gỗ sẽ bị nứt toác ra hết, không dùng được.
+Nhưng khi dùng 【Create Golem】 để tạo thành ván gỗ thì tôi đã gắn chúng lại rồi nên chả có vấn đề gì cả.
+
+Thế là, trong lúc đang nằm ườn ra tấm đệm trong Master Room, Ichika đột nhiên nói:
+
+"…Mà nè, chủ nhân là hạng F đúng không? Hầm ngục này, dù nghĩ kiểu gì thì nếu ma kiếm xuất hiện ở đây, chẳng phải hạng D mới vào được sao?"
+
+…Điểm mù.
+Nguy rồi. Không phải chuyện chê bai kiểu "chủ hầm ngục mà không vào được hầm ngục của chính mình thì thật quê độ". Mà là có khả năng bị cấm vào, không về nhà được thật sự luôn ấy.
+Nhà trọ cũng đã hòm hòm rồi, phải nghĩ cách thôi.
+
+Cách nhanh nhất chắc là nâng hạng. Điều kiện để thăng từ hạng F lên hạng E là hoàn thành hơn 10 yêu cầu hạng F và vượt qua kỳ thi ở bang hội. Đó là bài thi kỹ năng thực chiến.
+
+"Thi cử thì không nói, nhưng yêu cầu à… Nhắc đến yêu cầu hạng F, tôi chỉ biết mỗi việc diệt Goblin thôi."
+"Diệt Goblin là được mà? Hồi trước em đi săn Boar (lợn rừng) là tự động lên hạng thôi."
+
+Thế nên, cái việc triệu hồi Goblin rồi lột tai phải – vật chứng minh đã tiêu diệt – ra…
+…Mà, tự tay mình gọi ra rồi làm thế thì thật là… thôi bỏ đi. Nếu là Goblin sống hoang dã thì không sao, nhưng Goblin triệu hồi thì còn mang ơn Gob-suke đã cứu Dungeon Core nữa. Dù sao thì tôi cũng không thể làm cái hành động thất đức đến mức đó.
+
+"Đi tìm Goblin hoang dã sao…"
+"Nếu chỉ cần tai phải của Goblin, sao chủ nhân không đổi bằng DP?"
+"Hả? Roko, cô nói thật đấy à… làm được thế sao?"
+"Trong kho báu có móng rồng các thứ, nên chắc là làm được thôi mà."
+
+Được nhắc mới nhớ, chả có lý do gì là không làm được cả. Tôi kiểm tra danh sách kho báu. Nhưng không có. Chà, tai Goblin đúng là không thể gọi là kho báu được.
+Không bỏ cuộc, tôi kiểm tra các trang khác. …………Có rồi, danh sách nguyên liệu dùng cho giả kim thuật.
+Tai phải Goblin. 1 cái giá 6 DP. 5 cái là 30 DP, bằng 30 đồng xu đồng. Vừa khít với tiền thưởng luôn.
+
+"Trước đây đã làm 1 lần rồi, vậy là còn… 45 cái nữa. 270 DP nhỉ."
+
+Số này chỉ bằng 2 ngày thu nhập DP hiện tại thôi.
+À, giờ có thêm phần của Ichika nên thu nhập một ngày đã lên tới 160 DP rồi.
+Một ngày tăng tận 60 DP, tính đơn giản thì chắc cô nàng có sức mạnh của 3 tên cướp cộng lại nhỉ? Đúng là cựu mạo hiểm giả hạng C, thật đáng sợ…!
+
+"Mà này, tai phải Goblin là nguyên liệu giả kim thuật, nhưng dùng để làm gì nhỉ…?"
+"Cái đó á. Kiểu như tận dụng phế phẩm thôi, thực ra không cần tai phải cũng được, nhưng hình như người ta dùng làm phân bón rắc lên ruộng. Nghe đâu cái công thức đó do bang hội tạo ra để xử lý đống tai phải thu được từ các cuộc cày cuốc mà không biết vứt đi đâu."
+
+Hình như họ muốn dùng hết đống tai đó vì sợ để không thì mạo hiểm giả sẽ nhặt rồi đem nộp lại lần nữa. Đúng là sẽ có kẻ làm trò đó thật… Ơ, mà mình cũng đang định làm trò tương tự à? Tuy bên này là tai mới cứng, nhưng nói thật thì cũng không thể coi là đã "hoàn thành yêu cầu" được. Dù mục đích ban đầu là diệt Goblin phá hoại ruộng vườn.
+Thôi, ừm, kệ đi. Ở đây thà tốn công còn hơn tốn thời gian. Bảng yêu cầu chỉ ghi là mang tai phải Goblin đến thôi mà, không hề có gian lận.
+
+"Với chủ nhân là Ma Vương như ngài thì chuyện đó chỉ là vấn đề nhỏ thôi đúng không ạ?"
+"Đã bảo tôi không phải Ma Vương rồi mà."
+
+Thế thì vấn đề là đi săn ở đâu.
+Vì vậy, tôi đặt các Goblin Spawn (điểm xuất hiện Goblin) bên trong hầm ngục. Hình như 1 Goblin Spawn có thể xuất hiện 5 con cùng lúc. Nếu con nào chết thì sẽ có con mới xuất hiện bổ sung, miễn là còn tích trữ mana.
+…Ở khu vực mê cung, tôi cũng muốn đặt cả Golem Spawn nữa. 1 cái 10.000 DP. Cái này cũng là 5 con một lúc. …Vì là Golem quái vật nên có cả ma thạch, đúng là đáng để làm thật. Tính về nguồn thu nhập của mạo hiểm giả thì đây cũng là một món hàng tốt.
+
+Vì vậy, tôi đặt tổng cộng 5 Goblin Spawn ở tầng 1, và 3 Golem Spawn ở khu mê cung tầng 2, 3. Tầng hầm 4, 5 đang xây thì… thôi, chưa cần đâu. Ngay cả việc có khách đến tận đó hay không còn chưa chắc chắn nữa mà.
+…DP còn lại 20.000. Ồ, chỉ còn chừng này thôi sao. Tài sản sụt giảm không tốt cho tinh thần chút nào, phải nghỉ ngơi nhiều hơn nữa thôi.
+
+"Ichika, cô có biết điều kiện để từ hạng E lên hạng D không?"
+"Hình như là… tổng cộng 100 yêu cầu, với cả thi ở bang hội. Họ sẽ kiểm tra kỹ năng chiến đấu đối nhân (người đấu người). Chà, với chủ nhân và Niku tiền bối thì chắc dễ như ăn kẹo thôi."
+
+…Chiến đấu đối nhân… không đối phó kỹ là tiêu đời rồi.
+May là có Ichika, cựu hạng C. Nếu cho Golem mặc đồ vải ghi nhớ kỹ các chuyển động của Ichika, chắc chắn nó sẽ mạnh lên đáng kể.
+
+"Ichika tự mình lên đến hạng C mà không cần kỹ năng đặc biệt nào đúng không? Nghĩa là cô khá mạnh nhỉ? Có khi nào mạnh ngang đội trưởng đội kỵ sĩ không?"
+"Chà, em nghĩ là mạnh hơn đội trưởng mấy chỗ làng nhàng đấy… ừm, nói chung là solo được với Minotaur đấy."
+
+Phải đến mức đó mới lên được hạng C sao… Không, nói ngược lại thì nghĩa là nếu có kỹ năng, mình cũng làm được nhỉ?
+Ngoài ma pháp ra thì còn có kỹ năng nữa. Ví dụ như 【Slash】 tung ra nhát chém mạnh mẽ chẳng hạn. Thử học mấy cái đó cũng không tệ.
+
+"Cô có thể tập luyện cho… Niku được không?"
+"Còn chủ nhân thì sao?"
+"Tôi sẽ quan sát, vì đó là vai trò quan trọng mà."
+
+Phải theo dõi kỹ qua màn hình giám sát của Menu-san để ghi lại các động tác,
+Rồi ra lệnh cho Golem luyện tập lặp đi lặp lại để các động tác trở nên tự nhiên, đó là công việc quan trọng của tôi.
+Để làm đối thủ luyện tập chiến đấu đối nhân, chỉ cần mang ra những con Golem giống ma-nơ-canh trông giống người hơn cả Golem bình thường là được, chẳng có gì phải lo cả.
+
+"À mà, dù sao thì chỉ cần chui hầm ngục thôi, việc gì phải tự mình thăng hạng lên làm gì? Cứ thăng hạng theo tổ đội là dễ dàng hơn nhiều. Có cái hệ thống gọi là công nhận hạng cho cả nhóm nếu đủ thành viên đó. Nếu có em ở đây thì lên được tổ đội hạng C ngay thôi."
+
+Hạng tổ đội. Có hệ thống kiểu giấy phép có điều kiện à. À đúng rồi, hôm qua hình như Haku-san có nói tổ đội "Dungeon Buster" của cô ấy là hạng S nếu đủ thành viên.
+Chắc đây là hệ thống dành cho pháp sư hay các vị trí hỗ trợ không giỏi chiến đấu trực diện, hoặc dành cho quý tộc.
+Kiểu như mấy ông tai to mặt lớn muốn chui hầm ngục nhưng không có hạng, thì nếu có hộ vệ đi kèm, người ta sẽ coi đó là tổ đội hạng C để cho vào.
+Nghe nói bài thi lý thuyết cũng có thể thi theo nhóm, nên biết đâu lại có trường hợp hỗ trợ cho mấy gã chiến sĩ đầu óc đơn giản chui vào hầm ngục cũng nên.
+Dù sao thì có Ichika, cựu hạng C, bên cạnh, việc thăng hạng có vẻ sẽ dễ dàng hơn nhiều.
+
+"Chà, Niku tiền bối cũng có sức chiến đấu trên hạng C mà… ừm."
+
+Ơ, thế người đang kéo chân là tôi à? …Tôi cũng lờ mờ nhận ra điều đó rồi, ừm.
+
+Không hiểu sao lại quay lại top 1 bảng xếp hạng ngày, hú hồn.
+Từ tuần sau sẽ đăng không định kỳ nhé.

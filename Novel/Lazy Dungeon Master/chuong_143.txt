@@ -1,0 +1,112 @@
+Tôi cứ tưởng cô nàng thánh nữ bảo "sẽ lại đến" nên có khi sẽ quay lại ngay sau khi phong ấn được giải trừ, nhưng chuyện đó đã không xảy ra. Sau khi nghỉ ngơi một chút, cô ta tìm đến tôi trong tư cách là thị trưởng.
+Thời gian còn lại của phong ấn chỉ còn khoảng một tiếng nữa thôi.
+
+"Vô cùng đáng tiếc, nhưng tôi đã không thể giải quyết được nó... Nếu không vì lệnh triệu hồi từ chính quốc, tôi đã có thể lưu lại lâu hơn rồi..."
+"Chà, không còn cách nào khác đâu ạ. Tôi có thấy cô xuống hầm ngục mỗi ngày mà, cảm ơn cô nhiều nhé."
+"Ngài nói vậy làm tôi... Thật không may, thời gian không còn nữa, tôi phải rời khỏi nơi này thôi."
+
+Thú thật, tôi chỉ muốn cô ta đừng có vác xác đến đây nữa là tốt nhất, nhưng xét về thu nhập DP thì... ừm, cân nhắc đến độ phiền phức của cô ta thì đúng là không muốn cô ta đến tí nào.
+
+"Vậy thì, tiền bối Uma, hẹn gặp lại."
+"...Tiền bối Uma? Ngài đang nói ai thế?"
+"............Không, tôi nhầm. Trong sâu thẳm hầm ngục có một con Golem nói chuyện bằng giọng giống ngài thị trưởng lắm."
+
+Ừm, cô ta vừa dùng "kỹ năng nhìn thấu lời nói dối" đúng không? Nhưng tôi đâu có nói dối.
+
+"Hừm, Golem biết nói à. ...Trước đây tôi cũng từng đi sâu vào trong đó. Có lẽ nó đã bắt chước giọng của tôi chăng."
+"Vậy sao... Nhân tiện thì, nó tự xưng là Uma, và là con boss của hầm ngục này. Có vẻ như nó có mối quan hệ hợp tác với đại ca... hay nói đúng hơn là con quái vật gây nguy hiểm kia. Ngài có biết gì không?"
+"Đáng tiếc, tôi không có gì để nói với cô cả."
+" ...Thật chứ?"
+"Vâng, thật mà."
+
+Vì là bí mật nên tôi không thể kể "với thánh nữ" thôi. Thật đấy, thật mà.
+Nếu cô ta hỏi "Ngài không giấu giếm gì chứ?", tôi đã định lảng tránh bằng câu "Thì, tôi cũng là mạo hiểm giả mà", nhưng may mắn thay cô ta không đào sâu thêm nữa. Thế là tốt nhất rồi.
+
+"...Vậy thì, thưa ngài thị trưởng. Hẹn gặp lại."
+"Vâng. Nếu có dịp. ...À, cô có muốn lấy ít bánh trái làm quà không? Tôi mới có món gọi là bánh su kem ngon lắm. Một đồng vàng năm cái, cô thấy sao?"
+
+Thế là thánh nữ cùng với mấy cái bánh su kem đã trở về Thánh Vương Quốc.
+...Không biết tiền lộ phí có đủ không nhỉ? Tôi thầm lo lắng cho kẻ địch, chuyện này chỉ mình tôi biết thôi.
+
+*
+
+"Ồ! Nhìn này Keima! Giờ đã có thể triệu hồi quái vật rồi nè!"
+"Ồ, tường, lối đi với phòng ốc cũng xây được rồi này."
+
+Một tiếng sau khi thánh nữ rời đi, hiệu ứng 【Trinity】 đã được giải trừ an toàn. Tôi kiểm tra catalogue DP và xác nhận rằng mình đã có thể đổi vật phẩm, vũ khí, bẫy và quái vật như bình thường, tiện thể chuyển Dungeon Core sang phòng của Rokuko luôn.
+
+Vì thánh nữ trọ ở quán, nên việc tôi cất lõi hầm ngục ở nơi an toàn nhất là sâu trong hầm ngục lại vô tình khiến tôi không thể di chuyển nó khi cần. Đúng là đồ bỏ đi, lúc cần thiết thì lại không dùng được, thế mà gọi là lối thoát hiểm khẩn cấp gì chứ.
+
+"Với lại menu có thêm vài tính năng kìa. Cái tôi tìm thấy là truyền âm thanh vào trong hầm ngục và thiết lập điểm xuất kích."
+"Giá mà có mấy cái này sớm hơn chút thì tốt biết mấy."
+
+Việc các tính năng dần dần xuất hiện trong hầm ngục này có lẽ là phần thưởng thành tựu sau khi vượt qua 【Trinity】, hoặc là do cấp độ hầm ngục tăng lên. Dù sao thì, ý là bảo tôi cứ mở rộng và đào sâu hầm ngục đi đây mà.
+...Nếu cứ theo kiểu tích lũy thành tựu thế này, liệu mình có nên làm mấy trò cực đoan hơn không nhỉ? Ví dụ như tăng lên 100 tầng chẳng hạn. Mặc dù chỉ riêng tiền xây phòng cầu thang thôi đã tốn 50 vạn điểm rồi.
+
+"Lin vẫn còn ở đây, nhưng thế này thì cuối cùng cũng có thể kê cao gối mà ngủ rồi."
+"Keima thực sự thích ngủ ghê cơ."
+"Đó là một trong ba nhu cầu cơ bản của con người, là bản năng đấy. Thôi, tôi đi ngủ đây. Ngủ nhiệt tình luôn. Ngủ liên tục tầm 3 ngày. Có thể sẽ thức dậy đi vệ sinh hay ăn uống chút đỉnh nhưng tôi sẽ ngủ tiếp. Chắc là chẳng có chuyện gì đâu, nhưng đừng có gọi tôi đấy."
+"Vâng vâng, tôi không làm phiền ông đâu. Chúc ngủ ngon, Keima."
+
+Được Rokuko tiễn, tôi đi về phía phòng riêng của mình ở tư dinh thị trưởng.
+Tôi bảo Golem chuẩn bị đệm gối, rồi cứ thế chui tọt vào chăn, chìm sâu vào giấc ngủ.
+
+Và ba ngày sau.
+Tôi cuối cùng cũng thức dậy và quyết định đến phòng Rokuko sau một thời gian dài.
+Chà, đã đời thật. Ngủ ngon thật đấy. Tỉnh táo hẳn, cảm giác làm việc một chút cũng chẳng sao.
+Thế rồi, trong phòng Rokuko, cô nàng Haku-san đang mỉm cười rạng rỡ, nhẹ nhàng xoa đầu Rokuko trong khi để con bé ngồi trên đùi mình.
+
+"Chào buổi sáng, Keima-san?"
+
+Với nụ cười đầy khoan khoái, Haku-san chào tôi.
+Á... dạ. Chào buổi sáng, Haku-san... Ơ, ngài đến từ lúc nào thế?
+
+"Ta đến từ trưa hôm qua đấy? Đang định hôm nay về đây, ta đã đợi ngươi tỉnh dậy đấy. Dám để ta phải đợi thế này, cái thân phận của ngươi cũng oai ghê nhỉ."
+
+Này này này! Tôi đã bảo là đừng có gọi tôi rồi cơ mà, nhưng nếu Haku-san đến thì phải gọi chứ!!! Vì phản ứng lại với quãng thời gian bận rộn gần đây nên tôi đã ngủ quên mất xác!
+Việc không rời khỏi phòng ngoại trừ đi vệ sinh đã trở thành gánh nặng rồi! Trong chăn thì đổi DP, còn vệ sinh cá nhân bao gồm cả đánh răng thì chỉ cần một phát "Tịnh hóa" là xong hết!
+Tôi gào thét trong lòng.
+
+"Thôi nào chị Haku. Em đã bảo là Keima đã rất cố gắng nên để cậu ấy nghỉ ngơi mà? Cậu ấy đã tỉnh dậy đúng 3 ngày như đã nói rồi còn gì."
+"À ừm, đúng là thế nhỉ Rokuko-chan. Vì Rokuko-chan đã nói vậy nên việc ngươi bắt ta phải đợi, ta sẽ bỏ qua cho."
+"A, cảm ơn ngài."
+"Thế nên, hôm nay ta đến là để nghe đủ thứ chuyện đây. Dạo này bận quá nên chẳng thể đến gặp Rokuko-chan. Đúng là chiến tranh phiền phức thật, dù kiếm được tiền đấy."
+
+À, với cấp bậc như Haku-san thì chiến tranh lại được nhìn nhận như thế à.
+Với lại, vụ chiến tranh tôi cũng nghe đồn rồi, không ngờ lại thực sự xảy ra...
+
+"Binh lính mà chết thì DP thu về định kỳ sẽ giảm theo, nên với phe Ma Vương thì việc cắt giảm thu nhập của bên này là mục đích chính. Tất nhiên họ cũng hiểu là chỗ này không dễ bị lung lay chỉ vì mấy chuyện vặt vãnh này, nhưng sắp đến thời điểm xếp hạng rồi nên họ đang bực mình đấy."
+
+À, nhớ rồi, Ma Vương cũng là một Dungeon Core.
+
+"Ờm, xếp hạng là gì thế ạ?"
+"Ô kìa, ngươi không biết à? Một năm một lần, sẽ có buổi họp mặt của các Dungeon Core. Ở đó, thứ hạng DP sở hữu sẽ được công bố. Năm ngoái ta đứng thứ 7 toàn đoàn đấy."
+
+Nhắc mới nhớ, hình như hồi xưa Rokuko có kể với tôi chuyện đó thì phải.
+Mà này, thứ 7 á. Nghĩa là có tận 6 người xếp trên Haku-san sao? Không, không phải người. Là 6 Dungeon Core khác.
+
+"Thế, hạng 6 là tổng soái quân đoàn Ma Vương, Core số 6. Thường gọi là 'Đại Ma Vương'. Tên đó thì chẳng làm gì cả nên không sao, nhưng mấy kẻ rác rưởi phe Ma Vương cứ thích táy máy chân tay để kiếm điểm."
+"Nhiều chuyện rắc rối thật nhỉ."
+"Ừm. Nếu ngươi muốn, ta cũng có thể che chở cho ngươi một chút?"
+
+Cái đó thì tôi xin phép từ chối bằng cả tính mạng.
+
+"À, lạc đề mất rồi. Về chuyện lần này, dù sao thì ta cũng đã nghe báo cáo từ những con tốt mà ta cài cắm vào đây rồi."
+" ...Những con tốt của Haku-san ạ?"
+"Ừ. Ta chưa nói nhỉ, là chủ quán rượu, Wozma, và gã mạo hiểm giả có tài làm mộc, Cu-san ấy. Ngươi biết mặt họ mà đúng không?"
+
+Wozma và Cu-san, ư...? Cả hai đều là cán bộ của ngôi làng này, thậm chí một người còn là phó thị trưởng nữa là đằng khác. Mà ngay cả Cu-san cũng là người của Haku-san á, phạm vi kiểm soát rộng thật... À không, vốn dĩ người này là đỉnh cao của Hiệp hội Mạo hiểm giả cơ mà. Chuyện có nhiều thuộc hạ từ con người đến phi nhân loại là điều hiển nhiên rồi.
+
+"Nói là tốt thôi, chứ cả hai đều là con người không liên quan đến hầm ngục. Ta đã dặn là không được nói về DP hay Dungeon Master rồi."
+"À, vâng."
+"Thế nên, theo báo cáo của Wozma và Cu-san thì có vẻ ngươi đang làm một thị trưởng khá ra trò đấy chứ?"
+"Tôi chỉ đẩy việc cho người khác làm thôi mà."
+"Hừm, thôi thì thế cũng được. Wozma vốn là văn quan làm việc trong lâu đài của ta đấy. Nên cứ giao việc nội chính cho hắn là chuẩn không cần chỉnh."
+
+Nghe được tin tốt rồi đây. Văn quan làm việc trong lâu đài của Đế quốc thì chắc chắn là siêu tinh anh, cứ thoải mái mà ném mấy việc phiền phức cho ông ta thôi.
+
+"Rồi, trong lúc ta bận quá không đến được mà bao nhiêu chuyện xảy ra, ta muốn hỏi nhiều thứ lắm đây... Ngươi không phiền chứ?"
+"D-dạ, vâng. Ngài muốn hỏi gì ạ?"
+"Chuyện con sói đen và thánh nữ thì để sau đi... trước hết là về cái nhẫn ngươi tặng Rokuko-chan nhỉ?"
+
+Tôi ngay lập tức theo bản năng mà quỳ rạp xuống đất.

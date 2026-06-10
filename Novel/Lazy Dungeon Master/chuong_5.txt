@@ -1,0 +1,149 @@
+“À, ngủ đã thật… mà vẫn chưa hẳn là đủ. Muốn có cái đệm tốt hơn nữa…”
+
+“Chào buổi sáng. Ngươi thực sự đã ngủ cả một ngày trời đấy… không chán à?”
+
+“Không chán.”
+
+“Thế, giải thích cho ta đi nào… mặc dù ta rất muốn nói vậy, nhưng nhìn lượng DP này xem này.”
+
+Khi mở menu ra kiểm tra DP, con số hiển thị là 857 DP.
+
+“Hử? Ồ, tăng vọt lên nhỉ. Xem ra suýt chút nữa là chạm ngưỡng nguy hiểm rồi, sát nút thật.”
+
+“Ngươi biết trước à?”
+
+“Hửm? À, dù sao cũng nghe qua xem nào. Có chuyện gì đã xảy ra?”
+
+“…Có lũ mạo hiểm giả tấn công đấy.”
+
+Theo những gì nghe được, lũ cướp phát hiện có mạo hiểm giả đang tiến về phía hầm ngục nhờ vào lính canh, nên đã phục kích tại một góc khuất trong đường hầm và giao chiến.
+Kết quả là chúng tiêu diệt gọn 4 tên mạo hiểm giả, còn lũ cướp thì không hề hấn gì.
+
+“Sau đó, lũ cướp lột sạch trang bị của đám mạo hiểm giả rồi vứt xác cho chúng ta. Cẩn thận đến mức dí sát vào Dungeon Core. Đâu cần làm thế, cứ để xác trong hầm ngục là tự khắc nó sẽ được hấp thụ mà. Ta thử hấp thụ cái xác không bị chúng dí vào, thấy nó hiểu ra nên từ đó lũ cướp cũng học theo luôn.”
+
+“Ra là vậy, chúng đã chặn đánh ngay trong hầm ngục nhỉ. Đám cướp này có khi còn thông minh hơn cả Rokuko đấy.”
+
+“Ý ngươi là sao hả!”
+
+Tất nhiên là ý như lời ta nói rồi?
+Vừa cười tủm tỉm, Rokuko vừa bĩu môi hỏi.
+
+“Nhưng mà, sao ngươi biết được? Biết là mạo hiểm giả sẽ đến ấy.”
+
+“Ngươi đó… chính ngươi đã nói còn gì, mỗi tháng có khoảng 1-2 lần mạo hiểm giả ghé qua.”
+
+“A… Ra là vậy, ta có nói à.”
+
+Có lẽ cái hang này được đám mạo hiểm giả dùng làm nơi huấn luyện để tiêu diệt lũ quái vật tép riu như Goblin. Nhìn vào việc chúng không phá hủy Dungeon Core, chắc chắn đây là nơi để tân binh tập tành. Thậm chí có khi chúng còn được yêu cầu phải tận mắt nhìn thấy Dungeon Core nữa cũng nên.
+Và rồi, liệu mấy gã tân binh đến cái “cái hang bình thường” này có thắng nổi 8 tên cướp không… kết quả thì đúng như đã thấy đấy.
+Lũ cướp cũng không đời nào chịu thua đám tân binh vốn chỉ dự tính gặp 5-6 con Goblin. Vì không thể thua nên chúng cướp bóc. Cướp đoạt. Giết chóc. Vì chúng vốn là cướp mà.
+
+“Thế, chuyện đó liên quan gì đến cái mũ sắt và bức thư ngày hôm qua?”
+
+“Lũ cướp cần tiền. Nếu cho chúng thấy những món đồ có thể đổi ra tiền nhanh chóng, cùng với việc ta tỏ thái độ hữu hảo và cho chúng thấy lợi ích, chúng sẽ hợp tác. Thế nên, cái mũ sắt và bức thư là để cho chúng thấy lợi ích, khiến lũ cướp chịu ở lại cái hang này… và cũng để lấy xác đám mạo hiểm giả đổi thành DP.”
+
+Nếu chiến đấu ở bên ngoài hang, trừ khi có sở thích biến thái đặc biệt, còn không thì chẳng ai mang xác chết về nơi ngủ cả. Nhưng nếu nghĩ rằng xác chết sẽ biến mất không dấu vết… thì việc để chúng được hầm ngục hấp thụ còn đỡ để lại bằng chứng hơn là vứt xác ngoài kia bị người ta tìm thấy. Hơn nữa lại còn nhận được báu vật. Thế thì chúng sẽ mang về thôi.
+Hơn nữa, nếu để mạo hiểm giả phát hiện ra hang ổ, lũ cướp sẽ rời bỏ “cái hang chẳng có lợi lộc gì” này, nơi mà chẳng biết khi nào sẽ bị tấn công.
+Cho nên, nếu “muốn ở lại cái hang này”, “muốn có báu vật”, cùng với cái “công việc cướp bóc” của chúng, thì chúng sẽ tiêu diệt lũ mạo hiểm giả bằng mọi giá. Việc chúng phục kích ngay trong hang là một phần thưởng ngoài mong đợi đấy.
+Dù rằng, nếu nghĩ cho tương lai thì lựa chọn đúng đắn nhất là không đánh mà chạy… ừm, có vẻ chúng không nghĩ được đến mức đó. May là chúng ngu ngốc.
+
+“…Kema này, chẳng phải là để lũ cướp rời đi thì tốt hơn sao?”
+
+“Không, không tốt chút nào. Nếu để chúng chạy thoát thì sao mà giết sạch được? Công sức nuôi lũ DP đấy mà bỏ phí thì uổng lắm. Không được, lãng phí lắm. Phải vắt kiệt đến từng chút một mới được.”
+
+“...Cùng là con người mà ngươi lại coi chúng như DP vậy. Kema, ta hơi nể ngươi đấy. Đồ không có tính người?”
+
+“Cảm ơn nhé, giờ thì ta ngủ tiếp đây. Ngủ ngon.”
+
+“Vừa mới dậy mà đã ngủ tiếp rồi sao…”
+
+Đồ ngốc, ngủ nướng thì chỉ có lúc vừa mới tỉnh dậy mới làm được chứ.
+
+Đám mạo hiểm giả chết vì kế sách của mình mà lương tâm ta chẳng hề cắn rứt chút nào.
+À thì, lũ cướp tự ý làm, chuyện xảy ra khi ta đang ngủ, thậm chí ta còn chẳng nhìn thấy xác chết nữa là. Liệu sau này ta có trực tiếp giết người không nhỉ? Lúc đó sẽ thế nào đây?
+…Mà thôi, cứ coi như ta đã trở thành một sinh vật gọi là Dungeon Master đi. Ngủ nướng lại cho sảng khoái. DP cũng tăng lên một chút rồi.
+
+“Ta sẽ mở rộng phòng. Hộp thì sẽ xuất cái mới, mực vẫn còn chứ?”
+
+“A, ừm. Vẫn còn. Nhưng mà, dù khó khăn lắm mới có 850 DP mà ngươi lại định xây phòng à?”
+
+Rokuko đang tra cứu những con quái vật có thể triệu hồi với giá khoảng 800 DP trong cuốn catalogue DP nói với vẻ tiếc nuối.
+Ha ha ha, con loli tóc vàng này không chịu học hỏi gì cả nhỉ?
+
+“Vậy, mở rộng thêm… ừm, lúc có kẻ xâm nhập thì ta có thể đặt vật phẩm, nhưng quái vật thì chỉ có thể xuất ra từ Dungeon Core, mà mở rộng cũng không được nhỉ. Vậy thì để lũ cướp ra ngoài vậy. …Có vẻ chẳng cần phải xoắn não gì cả. Vậy, lại viết thứ ta đọc đi.”
+
+*
+
+“Đại ca! Lại có hộp xuất hiện kìa!”
+
+“Ồ! Đợi mãi, tránh ra!”
+
+Tên đầu sỏ của lũ cướp mở chiếc hộp đang mọc lên từ mặt đất, đúng hơn là thực sự mọc lên.
+Bên trong là… cái gì thế này? Hắn nghiêng đầu thắc mắc.
+
+“...Cái gối? Không phải là ma cụ… chắc vậy.”
+
+Cho 5 con Goblin mà đổi lại cái mũ sắt, thế mà lần này 4 cái xác mạo hiểm giả lại chỉ được cái thứ xoàng xĩnh này sao? Có khi nào số lượng mới là quan trọng không nhỉ, tên đầu sỏ đang nghĩ vậy thì một tên đàn em biết chữ đọc dòng chữ viết bên trong hộp.
+
+『Đã giúp ta rất nhiều! Các ngươi mạnh thật đấy! Cảm ơn vì mấy cái xác! Vì là ở trong hầm ngục nên quà mới có nhanh được. Ta sẽ tăng thêm phòng nhé. Nguy hiểm lắm nên mọi người ra ngoài đi. Nhớ tránh xa ra đấy.』
+
+Ra là vậy, món quà lần này là tăng thêm phòng à. Chắc là do thấy 8 người ở chung thì chật chội nên mới cân nhắc thế chăng. Sau khi đồng ý, cả đám đi ra ngoài hang.
+Ở bên ngoài, cách cửa hang một đoạn, ngay lập tức vang lên tiếng đá cọ xát di chuyển rầm rầm từ trong hang.
+Chắc tầm 10 phút. Một lát sau khi tiếng động dừng lại, chúng bước vào trong, Dungeon Core vốn nằm trên sàn đã biến mất, thay vào đó là lối đi dẫn sâu vào trong cùng với một cánh cửa gỗ. Dù hơi hoảng một chút, nhưng khi bước vào hang, mỗi bên trái phải tăng thêm mỗi bên một phòng, tổng cộng là 2 phòng, và Dungeon Core nằm ở căn phòng bên phải.
+Hai căn phòng mới cũng giống như căn phòng đầu tiên, là những căn phòng như hang động. Chỉ là, khi có cánh cửa gỗ lắp vào, thật kỳ lạ là cảm giác cứ như một hang ổ thực thụ vậy.
+Chỉ mất 10 phút để mở rộng hang đến mức này. Nếu làm bằng sức người thì chắc mất cả tháng nhỉ? Không, nếu có pháp sư thuần thục thì may ra mới làm được tốc độ này.
+Ba căn phòng xếp hàng ngang. Đơn giản là gấp ba lần lúc trước. Hơn nữa, trong căn phòng bên trái có đặt một thứ trông giống như giường ngủ. Chắc cái gối trong hộp là để dùng ở đó chăng.
+Cái này là chuẩn bị cho mình sao? Gì đây, dễ thương phết đấy chứ. Tên đầu sỏ lẩm bẩm.
+
+*
+
+“…Khốn kiếp… tại sao, tại sao lại tốn tận 440 DP cho cái thứ đó chứ…!”
+
+“Này này, hộp với gối 10 DP, hai cánh cửa gỗ 20 DP, cái giường 10 DP… tổng cộng chỉ tốn 40 DP cho lũ cướp thôi đấy, ngươi đang nói cái gì thế?”
+
+“Hả? Việc mở rộng căn phòng đó chẳng phải là 200 DP sao.”
+
+“Đồ ngốc, phòng không giống như mũ sắt, không thể mang ra khỏi hầm ngục để bán lấy tiền được. Đó là tài sản cố định của chúng ta đấy.”
+
+Rokuko với khuôn mặt ngơ ngác nghiêng đầu không hiểu chuyện gì.
+À, vì là thế giới khác, lại là Dungeon Core, có khi tuổi tác không giống như vẻ bề ngoài… Con loli tóc vàng này chắc chắn tuổi đời còn nhỏ hơn cả vẻ ngoài nữa. Chắc chắn là vậy.
+
+“Việc mở rộng hầm ngục là cần thiết. Để ta chỉ cho ngươi lợi ích của việc tăng thêm phòng sao cho dễ hiểu nhất nhé… Nếu mỗi căn phòng có thể bố trí 6 con Goblin, thì với 3 căn phòng có thể bố trí tối đa 18 con đấy.”
+
+“Cái gì, giỏi thật! Mở rộng thêm nhiều phòng nữa đi!”
+
+Ừm, ngươi mà cũng chấp nhận được cái lý do đó thì cũng giỏi thật đấy.
+
+“…Ơ, khoan đã? Ơ, nguy rồi! Rõ ràng là có 860 DP mà giờ trống trơn rồi!”
+
+“À, ta dùng hết rồi mà.”
+
+“C, v, vậy ngươi dùng vào đâu!”
+
+“Này, xem cái này đi.”
+
+Ta đưa bản đồ hầm ngục từ menu cho nó xem.
+Ta đã đi ra ngoài từ lối vào, biến phần bên ngoài thành lối đi, rồi xây một cái hang giống hệt cái hang ban đầu ở một vị trí cách đó một khoảng. Căn phòng 200 DP, lối đi tầm 5m mất 30 DP, còn lối đi bên ngoài thì chắc là do không cần gia công hang động nên dù ta kéo dài gần 1km cũng tiết kiệm được kha khá. Dù vậy, số DP còn lại cũng đã dùng sạch bách.
+
+“…Haiz, không ngờ ngươi lại mở rộng hầm ngục ra bên ngoài từ lối vào. Nghĩ ra mấy cái lạ lùng thật đấy. Thế, cái này để làm gì? Nhìn kiểu gì cũng thấy là lãng phí DP mà?”
+
+“À, vui lên đi. Cái này là phòng Goblin mà ngươi hằng mong ước đấy.”
+
+“Woa♪ …Ơ, ta mong ước lúc nào thế?”
+
+“Chẳng phải ngươi thích Goblin sao?”
+
+Chẳng phải lúc nào ngươi cũng đòi xuất Goblin, xuất Goblin đó sao.
+Nên ta nghĩ vậy đấy. Là Rokuko thích Goblin. Muốn được bao quanh bởi Goblin, muốn được chúng hầu hạ.
+
+“…Không, không phải ý đó.”
+
+“Ta không định nói gì đâu. Sở thích là chuyện của mỗi người mà. Ngươi có là Goblin-fetish (người cuồng Goblin) cũng chẳng sao, cộng sự à.”
+
+“Không, ý ngươi là sao chứ?! Cái mặt biết tuốt đó là sao hả?!”
+
+“Nhân tiện thì ta không phải Lolicon, nhưng ta là chân-fetish. Trong con người Rokuko, ta chỉ đánh giá cao mỗi đôi chân thôi.”
+
+“Không không không! Thực sự là ngươi có ý gì vậy?! Hơn nữa cái kiểu nói bề trên đó nữa!”
+
+Dù sao thì DP cũng đã dùng sạch, chẳng còn việc gì để làm, đi ngủ giấc thứ ba đây.

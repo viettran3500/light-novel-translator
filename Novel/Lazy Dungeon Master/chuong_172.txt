@@ -1,0 +1,107 @@
+"Này, Keema. Dungeon đã đào xuống tới tầng 5 rồi, vẫn đào tiếp chứ?"
+"Lần này dự định sẽ làm khoảng 10 tầng. Kiểu kéo dài theo chiều dọc ấy."
+"Nghĩa là tốn mất 50,000 DP chỉ cho phần đó thôi à, xa xỉ thật đấy."
+
+Cũng vì cái máng nước ngầm mà xây sâu xuống sẽ tiện hơn. Độ dài theo chiều dọc của mỗi tầng cũng được thiết kế khá rộng.
+Dùng 200,000 DP để quay gacha, tốn 50,000 DP để đảm bảo mặt bằng các tầng. 250,000 DP còn lại sẽ dùng để bố trí phòng ốc, bẫy rập và quái vật cho từng tầng. À, cũng đừng quên tính cả lực lượng tấn công nữa.
+Vậy nên, tôi dành 150,000 DP để bảo trì tầng, 50,000 DP cho phe tấn công, và để dành 50,000 DP cho ngày chính thức.
+
+...À phải rồi, cái lõi giả mà 'Cha' chuẩn bị, nó đã bị trừ thẳng tay từ hạn mức tối đa. Coi như nằm trong phần bảo trì tầng vậy.
+
+Giờ thì, sau khi giao việc dungeon cho Rokuko và Niku, tôi quay trở lại 'Hang động dục vọng'.
+Ngay lập tức, tôi học luôn các cuộn giấy mà Rokuko quay được: [Summon Gargoyle - Triệu hồi Gargoyle], [Grow Weed - Cỏ phát triển], cùng với [Ice Bolt - Tia băng] và [Healing - Hồi phục] đang dư ra.
+
+Tôi cũng đưa cuộn [Healing] và [Ice Bolt] cho 4 đứa trông nhà ở trọ để chúng học luôn. Tại vận may của Rokuko làm dư ra nhiều quá mà.
+Còn về [Summon Gargoyle] và [Grow Weed], tôi đã ghi âm câu chú vào Golem rồi đưa cho Nerune. Biết đâu sau này con bé lại dùng được.
+
+...Dù đã dùng được [Summon Gargoyle], tôi vẫn để Nerune tiếp tục nghiên cứu về Gargoyle. Dạo này cảm giác con bé chỉ toàn chế tạo ma cụ... Hay là phân biệt nó với Gargoyle thật, rồi gọi là "Gargoyle hàng dỏm" nhỉ? Dù tôi nghĩ quay lại làm Golem phép thuật vẫn ổn hơn.
+
+Thôi thì, làm thử xem nào. Chỉnh sửa câu chú.
+
+Về cơ bản, câu chú gốc trông như thế này:
+- "Mở ra, cánh cổng. Triệu hồi và điều khiển quái vật đá biết dùng ma thuật――【Summon Gargoyle】"
+- "Hỡi hạt giống, hãy nảy mầm. Hãy mọc lên――【Grow Weed】"
+- "Hỡi mảnh băng, hãy xuyên thủng kẻ thù――【Ice Bolt】"
+- "Hỡi ánh sáng, hãy chữa lành vết thương cho người đó――【Healing】"
+
+Và lần này, thứ cần điều tra đương nhiên là [Summon Gargoyle]. Vì nó khiến tôi tò mò nhất.
+Có lẽ cụm từ "quái vật đá biết dùng ma thuật" chính là chìa khóa định nghĩa nên Gargoyle. Nếu thay đổi chỗ đó, liệu có triệu hồi được quái vật khác không nhỉ?
+Làm thử ngay thôi.
+Vì đang ở trong phòng tôi tại dinh thự trưởng làng, nên cứ làm cái gì đó vừa tầm vậy.
+
+"Mở ra, cánh cổng. Triệu hồi và điều khiển quái vật sắt biết dùng ma thuật――【Summon Gargoyle】!"
+
+*Vùn*, một vòng tròn ma thuật màu tím hiện ra trước mắt.
+............
+Thế nhưng, chẳng có gì xuất hiện cả, vòng tròn ma thuật cứ thế biến mất.
+Ừm? Chuyện gì thế này? Theo dự đoán của tôi thì Iron Gargoyle phải được triệu hồi chứ... Thử cái khác xem sao.
+
+"Mở ra, cánh cổng. Triệu hồi và điều khiển Goblin――【Summon Gargoyle】"
+
+*Phập*, vòng tròn ma thuật màu tím hiện ra, một con Goblin trơn tuột xuất hiện.
+
+"Gob..."
+
+...Thành công rồi. Triệu hồi Goblin thành công.
+Dùng [Summon Gargoyle] để triệu hồi Goblin, đúng là chẳng hiểu nổi logic kiểu gì nữa.
+
+"...Ừm, điều khiển được chứ?"
+
+Tôi hỏi con Goblin, nó gật đầu cái *cụp*. Có vẻ điều khiển được thật.
+Thử tiếp nào.
+Hay là, nhờ có tính năng dịch thuật mà chỉ cần gọi tên quái vật trực tiếp thì nó sẽ tự thay đổi cho phù hợp nhỉ?
+
+"Mở ra, cánh cổng. Triệu hồi và điều khiển Gargoyle――【Summon Gargoyle】"
+
+Vòng tròn ma thuật màu tím lần thứ ba. Lần này xem sao nào.
+...*Bịch*, một con Gargoyle từ trong vòng tròn ma thuật rơi xuống sàn.
+Triệu hồi Gargoyle thành công. ...Tôi cảm thấy một đường kết nối ma lực giữa mình và nó. Cảm giác nó dày hơn so với con Goblin, không biết có phải vì duy trì nó tốn nhiều ma lực hơn không nhỉ?
+Dù sao thì, có vẻ cũng điều khiển được luôn.
+
+"Nhặt được loại phép thuật nguy hiểm rồi đây."
+
+Chẳng phải là nếu tôi biết tên quái vật thì có thể triệu hồi miễn phí sao?
+Thử triệu hồi thứ gì đó không phải quái vật xem nào.
+
+"...Mở ra, cánh cổng. Triệu hồi và điều khiển Ichika――【Summon Gargoyle】"
+
+Vòng tròn ma thuật màu tím triển khai――cùng lúc đó, đầu óc tôi tối sầm lại và ngất đi.
+
+*
+
+Khi tỉnh lại, Ichika đang để tôi gối đầu lên đùi. Con Goblin và Gargoyle thì không thấy đâu.
+Vì ngực cô ấy vướng quá nên tôi không nhìn rõ mặt, nhưng đôi đùi này chắc chắn là của Ichika rồi.
+
+"...Phồ?"
+"Ồ. Tỉnh rồi à chủ nhân? Lần này ông lại giở trò quái đản gì nữa thế?"
+"...Ừ, sao lại chắc chắn là trò quái đản... Ứ hự, đau đầu quá...!"
+
+Cảm giác như ai đó đổ đá bào vào đầu, cơn đau buốt nhói ngay thái dương. Không phải đau đầu bình thường mà là kiểu đau nặng trịch, giống như cơn đau đá bào nhưng nồng độ gấp ba lần ấy. Cái quái gì thế này...
+Đôi bàn tay Ichika nhẹ nhàng xoa xoa đầu tôi. ...À, cơn đau dịu đi rồi.
+
+"Chủ nhân, ông đang tập ma thuật trong phòng đúng không? Rõ ràng là tại cái đó rồi còn gì."
+"...Ừ, ừm. ...Kiểu như bị khô cạn ma lực hay gì đó à?"
+"Khô cạn ma lực hả. Tôi có nghe nói dùng kỹ năng ma thuật quá mức sẽ ngất, nhưng mà đau đầu thì hiếm thấy đấy nhé?... Mà này, lúc nãy dưới chân tôi có hiện ra vòng tròn ma thuật màu tím đấy."
+"À, tại tôi tính dùng [Summon Gargoyle] để triệu hồi Ichika..."
+"Chủ nhân?! Tôi đâu phải Gargoyle đâu chứ?! Bảo sao ông không ngất."
+"Nhưng con Goblin thử lúc trước lại thành công mà."
+"Đã dùng [Summon Gargoyle] rồi mà còn thế á?!"
+
+...Có lẽ tại triệu hồi con người nên mới bị thế chăng? Hay tại không có ma thạch nên không được? Giống như trong lập trình, chia cho số 0 sẽ báo lỗi ấy nhỉ? Hoặc cũng có khả năng là do tôi chỉ định cá nhân cụ thể.
+Dù sao thì việc tôi ngất đi làm gián đoạn kỹ năng ma thuật cũng là may. Nếu tôi bật "Kháng ngất" lên thì khéo lúc này não tôi nổ tung thật rồi cũng nên? Đáng sợ thật.
+Giờ muốn kiểm chứng cũng không nổi với cơn đau đầu này. Tôi muốn phong ấn luôn cái [Summon Gargoyle] này quá.
+Lẽ ra mình nên làm từng bước một mới phải.
+
+"Ủa? Mà sao Ichika lại ở đây? Chẳng phải triệu hồi thất bại rồi sao?"
+"Thì tất nhiên là tôi đi vào bằng cửa bình thường rồi. À, thông tin của chủ nhân kiểu như là... truyền vào từ vòng tròn ma thuật ấy, nhưng rồi vòng tròn biến mất giữa chừng, thấy có điềm chẳng lành nên tôi mới sang xem sao. Gõ cửa không thấy trả lời, tưởng ông ngủ rồi nhưng rõ ràng là đang tập ma thuật mà nhỉ? Vào phòng thì thấy chủ nhân đang nằm bẹp ra một mình đó."
+
+Có vẻ như con Goblin và Gargoyle đã quay về ngay khi tôi ngất đi.
+May mà chỉ mất quyền điều khiển, chứ không phải lúc tôi ngất đi thì bị chúng tấn công.
+
+"Thông tin của tôi là sao?"
+"À. Kiểu như là, cảm giác xem người này có kháng cự không ấy? Dù sao tôi cũng hiểu là do chủ nhân làm, nên tôi đã cố không kháng cự rồi đấy."
+
+Nghĩ lại thì, câu chú lúc triệu hồi Iron Gargoyle đã không thành công. Chẳng lẽ đó là vì nó kháng cự?
+...Ưm, càng nghĩ càng thấy đầy bí ẩn.
+
+Dù sao thì cơn đau đầu cũng đã dịu đi, tôi quyết định tận hưởng gối đùi của Ichika thêm chút nữa vậy.

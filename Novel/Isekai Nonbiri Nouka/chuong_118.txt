@@ -1,0 +1,204 @@
+Làng số 2 là làng của tộc Minotaur.
+
+Đầu tiên, ta cho lắp đặt các bức tượng Kuro, Yuki và Zabuton được làm riêng để đặt tại đền thờ của làng số 2.
+Các bức tượng Zabuton được lũ con của Zabuton đang sống ở làng số 2 vận chuyển lên trên cây đại thụ.
+Nhớ là phải cố định cho chắc để không bị rơi đấy nhé.
+Sau đó là chào hỏi thần linh.
+
+Trên đường đến làng số 2, ta có băng qua một cây cầu đã được cải tiến, nhưng nó có chút vấn đề.
+Khi vận chuyển những món đồ lớn (các bức tượng Kuro, Yuki và Zabuton), tường chắn của cầu trở nên vướng víu.
+Vì việc vận chuyển lương thực trước đây toàn nhờ Rusty hoặc Hakuren chuyển bằng đường hàng không nên ta không để ý tới việc này.
+Lần tới, phải xem xét cải tiến cây cầu này mới được.
+
+Những người Minotaur sống ở làng số 2 vốn dĩ đã có kinh nghiệm làm nông nghiệp nên ta không lo lắng lắm.
+"Phiền ngài làm cho chúng tôi một cái ao chứa nước ở quanh đây."
+Trong lúc ta làm việc ở làng Đại Thụ, hệ thống kênh dẫn nước ở làng số 2 đã hoàn thành.
+Kênh dẫn nước được làm bằng tre.
+Họ đã chế tác và làm nền móng từ mùa đông, rồi lắp ráp tất cả vào mùa xuân.
+Mặc dù kênh dẫn nước bằng tre có vấn đề về lưu lượng và độ bền, nhưng được đánh giá cao về khả năng bảo trì.
+Hiện tại, họ đang lên kế hoạch cho kênh dẫn nước số 2 để tăng lưu lượng nước.
+Ta làm ao chứa nước ở địa điểm được chỉ định, rồi đào kênh thoát nước.
+
+"Nhanh thật đấy ạ.
+Chúng em đã thử đào mãi mà không thể làm được..."
+Tất cả là nhờ [Dụng cụ nông nghiệp vạn năng] thôi.
+Nếu muốn cảm ơn ta, thì hãy chăm sóc đền thờ cho tốt là được rồi.
+Mà nhắc mới nhớ, không biết họ có đang thờ cúng gì không nhỉ?
+Lỡ đâu ngôi đền này lại gây vướng mắt...
+Vì lo lắng, ta đã hỏi Gordon.
+"Chúng tôi có tín ngưỡng với Nông Thần, nhưng không đến mức cuồng tín tới độ bài trừ các vị thần khác đâu ạ..."
+"Ra vậy.
+Nông Thần... tức là vị thần nông nghiệp nhỉ.
+Bên phía ta cũng có một vị thần như vậy..."
+"Tôi cũng nghe nói thế ạ.
+Dù hình dáng không giống với vị thần mà chúng tôi biết, nhưng điều đó không thành vấn đề."
+"Thế à.
+Ừm, vậy khi nào có thời gian dư dả, ta sẽ làm thêm cả tượng Nông Thần theo hình dáng mà Gordon biết."
+"Cảm ơn ngài rất nhiều."
+
+Giờ thì, vào việc chính thôi.
+"Ruộng đồng cứ tập trung vào các loại ngũ cốc nhé.
+Tuy nhiên, chỉ trồng một loại thì khi mất mùa sẽ rất khó khăn, nên hãy trồng vài loại khác nhau.
+Nếu có thể, cả cây ăn quả nữa nhé, phiền mọi người."
+Trong khi lắng nghe yêu cầu từ làng số 2, ta bắt đầu tạo các cánh đồng.
+Vị trí và kích thước ruộng vườn đều giao hết cho người làng số 2 quyết định.
+Lần đầu tiên ta dùng [Dụng cụ nông nghiệp vạn năng] tạo ra thì không tốn nhiều công sức, nhưng từ lần thứ hai trở đi, dự kiến sẽ dùng chính hạt giống thu hoạch được từ vụ đầu tiên.
+Ta quyết định rằng thay vì dùng tiêu chuẩn của mình, tốt hơn hết nên để những người Minotaur tự quyết định theo tiêu chuẩn của họ.
+
+Kết quả là:
+Ở làng số 2, trước tiên là 16 x 16 ô ruộng trồng trọt.
+Trồng lúa mì, ngô, kê vàng, kê nếp, cao lương.
+Thú thật là ta chỉ biết tên mấy loại kê thôi, nhưng người Minotaur thì biết rõ, hơn nữa trong đống lương thực mua từ chỗ ngài Michael cũng có nên ta cũng biết hình dáng chúng.
+Cầm trên tay sản phẩm thực tế, vừa nghe người Minotaur giải thích vừa cố gắng hết sức.
+Tin tưởng vào [Dụng cụ nông nghiệp vạn năng] là sẽ xoay sở được thôi.
+Ruộng cây ăn quả là 8 x 8 ô.
+Tập trung vào quýt, đào, táo, lê.
+Ta cũng cho xen kẽ vài cây chanh và chanh xanh (lime).
+Ngoài ra, trên diện tích 8 x 8 ô, họ bắt đầu chăn nuôi dê.
+Vì họ đã bắt đầu chuẩn bị trước khi ta tới nên hàng rào, chuồng dê và máng nước đã được dựng sẵn.
+Ta dùng [Dụng cụ nông nghiệp vạn năng] cày xới mặt đất ở khu vực thả rông dê để cỏ có thể mọc làm thức ăn cho chúng.
+Tiếp theo là phần lũ dê.
+Sáu con dê được vận chuyển từ làng Đại Thụ đến.
+Đây là yêu cầu cá nhân của ta, mong mọi người đừng ăn thịt những con dê đầu tiên này mà hãy để chúng sinh sản.
+"Có những người ở đây từng có kinh nghiệm làm phô mai từ sữa dê, nên chúng tôi sẽ ưu tiên việc đó ạ."
+Nhờ cả vào mọi người nhé.
+Hình như họ còn muốn thử nhiều thứ khác nữa, nhưng trước hết họ quyết định tập trung củng cố nền móng.
+Ta không có lý do gì để phản đối việc đó cả.
+
+"Cảm ơn ngài đã giao cho chúng tôi những cánh đồng rộng lớn như thế này."
+"Chúng tôi sẽ cố gắng chăm sóc thật tốt."
+"Chúng tôi cũng sẽ chăm sóc lũ dê cẩn thận."
+Trong khi nghe những lời cảm ơn, ta lên đường tới làng số 3.
+
+Làng số 3.
+Xin lỗi vì đã đến muộn.
+Ta lắp đặt các bức tượng Kuro, Yuki và Zabuton tại đền thờ của làng số 3.
+Cũng giống như làng số 2, bức tượng Zabuton được lũ con của Zabuton ở làng số 3 mang lên trên cây đại thụ.
+Cẩn thận đừng để rơi đấy.
+Rồi chào hỏi thần linh.
+Các Centaur (nhân mã) có tín ngưỡng rất đa dạng, nhưng phổ biến nhất là Chiến Thần.
+Khi nào có thời gian dư dả, ta sẽ làm tượng vị thần đó.
+
+Làng số 3 là làng của các Centaur.
+Hệ thống kênh dẫn nước ở làng số 3 cũng đã hoàn thành.
+Vì các Centaur toàn là nữ giới nên ta đã hơi lo lắng, nhưng hóa ra là người Minotaur ở làng số 2 đã đến hỗ trợ.
+Do đó, kênh dẫn nước cũng bằng tre giống như làng số 2.
+Để đáp lễ việc hỗ trợ làm kênh, hình như các Centaur đã giúp người Minotaur chế tác những vật dụng linh tinh trong nhà.
+Thật là tốt.
+
+Sau khi đào ao chứa và kênh thoát nước, ta bắt đầu làm các cánh đồng.
+Theo yêu cầu của làng số 3, họ muốn tập trung vào ruộng rau để không bị trùng với làng số 2.
+Đây là kết quả sau khi làng số 2 và làng số 3 bàn bạc với nhau.
+Kích thước ruộng là 16 x 16 ô.
+Tập trung vào cà rốt, củ cải, cà tím, bí đỏ.
+Ngoài ra, ta còn thử trồng khoai tây, khoai lang, dâu tây, dưa hấu và dưa lưới.
+Ruộng cây ăn quả là 8 x 8 ô.
+Ban đầu ta nghĩ táo hay thứ gì đó tương tự sẽ ổn, nhưng họ yêu cầu trồng nhiều đào hơn.
+"Đào thật là tuyệt vời."
+Có vẻ các Centaur rất thích món đào được mang ra ở làng Đại Thụ.
+Nhưng đào rất khó bảo quản đấy nhé.
+Ta sẽ ưu tiên trồng đào nhiều hơn, nhưng cũng bảo họ trồng thêm cả hồng và quýt nữa.
+Sau đó, khi bàn về việc liệu có muốn nuôi thêm con gì giống làng số 2 không, họ quyết định nuôi gà.
+Vì vậy, ta chuẩn bị một khu vực rộng 4 x 4 ô, rồi dùng [Dụng cụ nông nghiệp vạn năng] để cho cỏ có thể mọc làm thức ăn cho gà.
+Trước khi gà đến, ta dựng hàng rào.
+Chà, miễn là không để gà chạy thoát là được, nên ta vào rừng lấy gỗ rồi dựng thành hàng rào đơn giản vây quanh.
+Chỉ lắp một cái cổng đơn giản ở lối vào. Hoàn thành.
+Chuồng gà hay máng nước thì... cứ để các Centaur cố gắng thôi...
+Vì Centaur ở đây toàn là nữ giới trưởng thành.
+Ta đành gọi thêm vài High Elf tới, rồi một mạch xây xong chuồng gà và máng nước.
+Sau đó, vận chuyển khoảng mười con gà từ làng Đại Thụ đến.
+Ưư, ở đây cũng vậy, mong mọi người đừng ăn thịt những con gà đầu tiên này mà hãy để chúng sinh sản nhé.
+Sống khỏe mạnh nhé lũ gà.
+
+Vậy là xong công việc ở làng số 3.
+Tưởng là xong, nhưng vẫn còn chút việc sót lại.
+Đó là dựng hàng rào và đào hào.
+Trước giờ do không có thời gian, hơn nữa ta cũng biết là hàng rào và hào quy mô nhỏ không có mấy tác dụng nên đã để lại sau.
+Bù lại, lũ con của Kuro đã luôn cảnh giác, trông chừng và săn được không ít con mồi trong suốt mùa đông.
+Cảm ơn bọn nhóc nhé.
+Sau này lũ con của Kuro vẫn sẽ túc trực ở đây, nhưng ít nhất cũng phải vây quanh khu vực có nhà ở bằng hàng rào và hào chứ.
+Đầu tiên là hào.
+Xoạch xoạch, đào xong.
+Tiếp theo là hàng rào.
+Ta chặt những cây lớn trong rừng rồi xếp quanh làng.
+Chừa lối vào, làm cây cầu bắc qua hào là hoàn thành.
+Nếu chỉ vây quanh khu vực có nhà ở chứ không phải cả ngôi làng thì không tốn nhiều thời gian lắm.
+Còn hàng rào và hào bao quanh cả làng thì để dịp khác vậy.
+Dù sao thì biết đâu sau này còn mở rộng diện tích ruộng vườn nữa.
+
+Ta kết thúc công việc ở làng số 3 rồi quay lại làng số 2.
+Ở làng số 2, ta cũng làm hàng rào và hào bao quanh khu vực có nhà ở.
+Ở đây cũng vậy, việc vây quanh cả làng cứ để dịp khác.
+
+Ngay khi ta vừa trở về làng Đại Thụ, khoảng một trăm con sói con được sinh ra năm ngoái đã tụ tập lại rồi cùng nhau đi mất.
+Ơ?
+Đi tìm bạn đời à?
+Dạo này không để ý nên ta lơ là mất rồi.
+Buồn ghê.
+Nhưng mà, hơn nửa số sói con sinh năm ngoái vẫn còn ở lại đây.
+Cảm ơn các em.
+Ta định đưa tay xoa đầu con sói gần đó thì Kuro nhanh chóng chen vào giữa.
+Haha.
+Được rồi, được rồi.
+Đầu tiên là xoa đầu Kuro.
+Đến lượt tiếp theo thì Yuki đã đứng chờ sẵn.
+Rồi rồi, biết rồi.
+Xoa thì xoa, nhưng xoa hết cả đàn thì hơi bị căng, nên ta mong các em đừng xếp hàng như thế...
+...Một hàng dài dằng dặc đang hình thành kìa.
+Mà, cả mấy cô bé thú nhân hay các cô hầu cận Oni đang xếp hàng ở đó là thế nào vậy?
+Ngày hôm đó, ta đã chơi đùa với đám Kuro cho đến tận đêm khuya.
+
+Ở làng Đại Thụ, công tác chuẩn bị cải tạo ngôi nhà của ta đang được tiến hành.
+Theo kế hoạch, họ sẽ kéo dài ngôi nhà theo chiều ngang, rồi còn bẻ góc nữa.
+Và nghe nói là sẽ xây thêm cả phòng tắm.
+Vấn đề nằm ở ký túc xá của các cô hầu cận Oni.
+Ta cứ tưởng họ sẽ làm thế nào, ai ngờ họ quyết định tích hợp hẳn vào trong nhà chính luôn.
+Sau đó, họ tăng thêm chỗ cho lũ gà và giảm diện tích ruộng lại.
+Về phần ruộng thì đúng là chủ yếu để thử nghiệm và trồng số lượng ít nên giảm cũng không sao, nhưng mà...
+
+(Ban đầu)
+Ruộng Ruộng Gà Ruộng
+Ruộng □ □ Ruộng
+Ruộng □ □ Ruộng
+Ruộng Nhà Nhà Ký túc
+
+↓
+
+(Dự kiến)
+Ruộng Ruộng Gà Gà
+Phong □ □ Ruộng
+Nhà □ □ Nhà
+Nhà Nhà Nhà Nhà
+
+Nhà này... không phải quá to rồi sao?
+Dài tới 200 mét theo chiều ngang luôn đó?
+Nhưng họ thuyết phục rằng không vấn đề gì cả.
+Không biết như thế có ổn thật không nhỉ.
+
+Giờ thì, trong lúc cải tạo.
+Ta cứ nghĩ những người đang sống ở nhà ta sẽ phải dọn đi nơi khác, nhưng không phải.
+Họ chia ngôi nhà thành nhiều khối, rồi cải tạo từng khối một.
+Trước tiên là bắt đầu từ phần dự kiến mở rộng.
+Ta vào rừng chặt gỗ, vận chuyển gỗ về để cải tạo.
+Vài người từ làng số 2, số 3 cũng đến hỗ trợ xây dựng & học hỏi.
+Thật đáng quý.
+Ta cứ tưởng ngôi nhà sẽ lại hoàn toàn bằng gỗ, nhưng hình như không phải.
+Họ xây nền móng chắc chắn, sau khi lắp đá thì còn cố định lại bằng thứ gì đó giống như bê tông.
+"Lần này chúng tôi thử dùng kết hợp cả gỗ và đá xem sao ạ.
+Nhà gỗ cũng tốt, nhưng xét về tính thẩm mỹ thì không thể thiếu đá được."
+Họ nói thế.
+Vì đã giao hết cho họ nên ta không có ý kiến gì.
+Ta cứ chuẩn bị gỗ và gia công theo yêu cầu thôi.
+Trước khi ngôi nhà hoàn thành, công việc thu hoạch ở làng Đại Thụ đã bắt đầu nên việc cải tạo bị gián đoạn.
+Phải ưu tiên thu hoạch đã.
+
+Thu hoạch xong rồi thì lại đến công tác làm ruộng.
+Nghĩ đến làng số 2, làng số 3, rồi cả lũ sói con của Kuro nữa, không thể lơ là được.
+Có lúc ta thoáng nghĩ đến việc thu hẹp cánh đồng trồng nguyên liệu làm rượu, nhưng trước ánh mắt như muốn tố cáo điều gì đó của bọn người lùn (Dwarf), ta đành để lại nguyên trạng.
+
+Sau khi thu hoạch xong ở làng Đại Thụ, lại tiếp tục làm những cánh đồng mới.
+Ở làng số 2 và số 3 chắc cũng sẽ thu hoạch muộn hơn một chút.
+Lại phải đi làm ruộng thôi.
+Lương thực thì càng nhiều càng tốt, chẳng bao giờ là thừa cả.
+
+Thế là ta lại bận rộn như mọi khi.

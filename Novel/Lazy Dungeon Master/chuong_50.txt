@@ -1,0 +1,70 @@
+Đã 5 ngày kể từ khi quay trở lại căn cứ.
+Ngày mai, có lẽ đã đến lúc phải ghé qua thị trấn Ziua một chuyến.
+Dù việc phải đi đến nơi có con người sinh sống thật phiền phức hết sức, nhưng mình đã lỡ miệng nói sẽ ghé qua mỗi tuần một lần, với lại còn cái hẹn về món thịt xiên nướng nữa.
+À, tiện thể nâng cấp hạng luôn vậy. ...Nếu có yêu cầu khảo sát "hang động bình thường" thì nhận luôn thể.
+Không, hoặc là mình cứ chờ khi DP đầy đủ và chuẩn bị xong xuôi, rồi phán một câu "Ở đó đã xảy ra chuyện kinh khủng lắm" cũng là một phương án hay.
+
+Sau khi đã làm xong nhà trọ, việc tiếp theo là trang trí nội thất cho Dungeon. Thực ra ý tưởng này mình đã nghĩ ra trong lúc ngủ nên làm cái một là xong. Chẳng hạn như tạo ra một căn phòng ở tầng hầm 3 để đặt "Golem Blade", món hàng chủ lực của Dungeon này.
+Kèm theo đó, trang bị của đám Golem lảng vảng trong mê cung giờ chỉ là "kiếm đất bình thường" hoặc "kiếm đá bình thường". À, thực ra bên trong vẫn là Golem Blade, nhưng mình thiết lập để khi con Golem chủ thể bị hạ gục thì nó mới biến thành dạng đó. Nói thật thì đó cũng chỉ là cục sắt cùn mà thôi.
+
+Nhắc mới nhớ, mình hơi tò mò nên đã thử chuyển đổi một thanh Golem Blade thành DP. Mình nghĩ nếu là ma kiếm trị giá 2 vạn DP, thì dù có giảm còn 1/10 cũng thu về được 2000 DP chứ nhỉ.
+Kết quả là... được có 10 DP.
+...Chỉ bằng lượng DP thu hồi được sau khi nghiền nát một con Golem trong Dungeon. Nếu tính cả chi phí sắt và các nguyên liệu khác làm phần lưỡi kiếm, thì làm ra một thanh chỉ lãi được khoảng 5 DP. Không phải là lỗ, nhưng thế này thì hoàn toàn là kiểu làm thêm giờ nhàn rỗi rồi... Không thể hiểu nổi. Chắc vẫn còn thiếu sót chỗ nào đó.
+À, còn nữa, lũ quái vật sinh ra từ điểm Spawn (điểm hồi sinh) sẽ không ra khỏi Dungeon, và dù có bị tiêu diệt cũng không biến thành DP. Có vẻ như xác chết vẫn còn lại đó, nên chắc mình sẽ không lo thiếu nguyên liệu làm Golem nữa. ...Iron Golem ư? Con đó 500 DP mỗi con, nên tạo một điểm Spawn tốn tận 5 vạn DP cơ... Nếu làm được thế thì sắt thép chắc sẽ không bao giờ thiếu nữa nhỉ.
+
+Ư, lan man xa quá rồi.
+
+Quay lại chuyện căn phòng đặt ma kiếm, để tới được phòng này, người chơi (冒险者) phải vượt qua tầng 1, băng qua mê cung lớn ở hầm 1 và 2, chạy lên cầu thang để tới khu vực giải đố ở tầng 2 trên mặt đất, xuyên qua cái cầu thang xoắn ốc thông suốt 3 tầng rồi khám phá tầng hầm 3 mới tìm thấy được. Gọi là lộ trình cũng được.
+
+Nếu thật sự có mạo hiểm giả nào đặt chân đến được đây thì bên mình cũng gặp rắc rối to. Hiện tại, căn phòng Boss ở tầng hầm 4 – tầng sâu nhất – vẫn chưa được bố trí Boss... Dù mình dự định sẽ tạo một con Golem cực ngầu rồi đặt vào đó, kiểu như mấy con biết hợp thể vô lý nhưng trông phải "chất" ấy.
+
+Thế nên, chắc là tầng 4 sẽ chẳng ai bén mảng tới trong thời gian tới. Nếu vậy thì món hàng chủ lực lại thành ra "hữu xạ không ai thấy".
+Vì thế, để quảng cáo cho ma kiếm, mình đã chuẩn bị một căn phòng trải nghiệm ở mê cung tầng hầm 2.
+Kiểu kinh doanh dùng thử, hay nói cách khác là bán hàng phiên bản dùng thử (demo).
+Trong căn phòng có thanh ma kiếm cắm trang trọng trên bệ đá này, mình đã cài đặt một cơ chế.
+
+Ngay khi rút ma kiếm ra khỏi bệ, tất cả lối ra vào sẽ bị phong tỏa.
+
+Muốn ra khỏi phòng thì phải cắm ma kiếm trở lại bệ.
+Nghĩa là, không thể mang ma kiếm ra ngoài. Giả sử như có kẻ nào đó mang được ra ngoài thật, thì mình sẽ tôn trọng trí tuệ của kẻ đó mà cho phép luôn. Nhưng nếu lần sau còn dùng lại cách đó, mình sẽ cho nó tự hủy ngay khi vừa bước ra khỏi phòng.
+
+Ngoài ra, dùng thanh chống cũng không có tác dụng đâu. Mình tận dụng bẫy rừng chông, khiến cả lối đi dẫn vào căn phòng đó sẽ bị lấp đầy bởi chông nhọn mọc ra từ trên, dưới, trái, phải để ép chặt lại.
+Người nào đang ở lối đi lúc đó thì xin chia buồn, nhưng mình đã thiết lập để ngay khi có kẻ lại gần ma kiếm là lỗ chông sẽ "cạch" một cái mở ra, nên là, ừm, cố mà chạy thoát nhé?
+
+Bên trong phòng còn có một mô hình giống Wood Golem (một con Golem thật nhưng không có ma thạch), có thể dùng để thử kiếm. Coi như sân tập cũng tốt.
+
+Về cơ bản thì vẫn giữ nguyên như các trận chiến Dungeon trước, lần cải tạo này chủ yếu là bổ sung khu vực giải đố, cầu thang xoắn ốc đi tiếp, thêm 2 tầng hầm và căn phòng dùng thử. Chà, tạm thời thế này là ổn rồi.
+
+Vậy là, việc cải tạo đã xong xuôi khi ngày mới cũng vừa kết thúc.
+
+"Chà, làm việc vất vả quá..."
+"Vất vả cho ngài rồi, Chủ nhân."
+
+Mình đang được Niku mát-xa.
+Nhưng không phải là kiểu mát-xa giẫm chân lên người đâu. Tại sao ư, ừ thì, cái đó nó "thiên đường" quá nên chỉ thỉnh thoảng mới làm là vừa đủ. Sự kìm nén vừa phải rất quan trọng trong cuộc đời. Nếu không kìm nén thì mọi thứ sẽ leo thang không kiểm soát, đến mức chẳng còn gì có thể thỏa mãn được nữa.
+
+"Chủ nhân khiêm tốn quá nhỉ. Với tụi này thì ngài cứ dùng chân bao nhiêu tùy thích cũng được mà."
+"Đấy là chuyện đương nhiên rồi. Nhưng mà cái này ấy... nếu dùng ví dụ về ẩm thực cho Ichika dễ hiểu thì, giữa một người sành ăn và một người không sành khi cùng ăn 'món do đầu bếp hạng hai làm', rồi một người chê 'Dở tệ, đây mà là món ăn à', còn một người thì khen 'Ồ, ngon đấy chứ' và ăn ngon lành, thì cái nào hạnh phúc hơn? Anh nghĩ vế sau hạnh phúc hơn. Nên anh chọn vế sau."
+"...Ra là vậy. Với em thì dù ăn cùng một món, cảm thấy nó ngon hơn vẫn tốt hơn thật."
+"Đúng thế, cảm giác hạnh phúc là rất quan trọng đấy. Nếu không thể thấy thỏa mãn, không thể cảm thấy hạnh phúc nữa thì từ đó trở đi chỉ còn là bất hạnh thôi."
+"Vâng, em cũng sẽ chú ý. À, hôm nay cho em xin 'bánh mì cà ri vị phô mai' được không ạ?"
+
+...Đến đoạn này mà vẫn không biết tự trọng nhỉ. Ichika ấy.
+
+"Dù sao thì ngày mai với ngày kia em không được ăn đúng không? Vậy thì còn gì bằng. Dù anh cũng đang rất trông chờ món thịt xiên nướng ngon lành."
+"Vâng, ư... ừm... A, đúng chỗ đó, chỗ đó tốt lắm. Làm lại lần nữa đi."
+"Tuân lệnh, Chủ nhân."
+
+Bàn tay của Niku day vào huyệt đạo. Ư, ồ... những tiếng rên lạ lùng cứ thế bật ra.
+Niku biết cách sử dụng trợ lực từ găng tay Golem rất khéo, nên dù không phải giẫm chân thì em ấy vẫn mát-xa cực kỳ phê.
+Mà vốn dĩ, mình cũng đâu có mỏi vai... không, mình đã làm việc cật lực nên mỏi lắm đấy chứ. Cứng đờ cả ra rồi đây này.
+
+"Keema, anh lại tới nơi có con người đúng không? Mua quà về cho em đi."
+"...Những thứ ở đó thì ta có thể xuất ra bằng DP hết mà. À mà nhắc mới nhớ, 1 vạn DP của Rokuko đã dùng hết chưa thế?"
+"Ưm, vẫn chưa dùng. ...Đang phân vân giữa việc quay gacha, kiểu như dùng 1000 DP quay vài lần, hay là dồn cả 1 vạn DP quay một cú duy nhất ấy."
+"'Gacha' hả?... Cái từ ngữ đầy ma mị đó là gì thế? Kể cho em nghe chi tiết hơn đi?"
+
+...Nhắc mới nhớ, ngoài việc là một kẻ sành ăn, Ichika còn có tiền án nợ nần vì cờ bạc thì phải.
+Nếu để kẻ như vậy tùy ý dùng Gacha thì chắc chỉ trong 1 ngày là bay sạch số DP đó mất...
+
+(Dù không nói là stock sẽ không tăng, nhưng cũng không bảo đảm là nó sẽ tăng đâu nhé.)

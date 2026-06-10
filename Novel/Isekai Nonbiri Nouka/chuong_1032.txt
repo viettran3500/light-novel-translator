@@ -1,0 +1,258 @@
+Xe kéo hàng.
+
+Đó là một loại phương tiện có bánh xe dùng để kéo bởi người hoặc ngựa.
+
+Bánh xe có loại hai bánh, cũng có loại bốn bánh.
+
+Loại hai bánh thì linh hoạt khi xoay trở, còn loại bốn bánh thì chuyên chở được vật nặng.
+
+Có lẽ vì Ngũ Thôn có nhiều đoạn đường dốc nên tôi thường thấy loại hai bánh hơn.
+
+Và chính những nữ Elf miền núi đã chế tạo ra loại xe kéo đó.
+
+Tất nhiên, nó không phải là xe kéo bình thường.
+
+Thật bất ngờ, nó chẳng cần người hay ngựa kéo gì cả.
+
+Đó là loại xe bốn bánh tự động di chuyển hướng về phía một viên đá quý đặc biệt.
+
+Nếu gắn viên đá quý đặc biệt đó vào thắt lưng hay thứ gì tương tự, chiếc xe sẽ tự động bám theo người đeo.
+
+Thật sự rất hữu dụng.
+
+Tôi không muốn tỏ ra thất lễ, nhưng thú thật là tôi rất ngạc nhiên. Không ngờ các nữ Elf miền núi lại đột nhiên làm ra thứ tiện lợi như thế này.
+
+Chuyện gì đã xảy ra vậy?
+
+Hóa ra là vì họ đã tiêu tốn quá nhiều tài nguyên quý giá và ngân sách cho việc nghiên cứu "Cơ giới trọng tải hình người đa năng" và "Động cơ đốt trong", nên họ cảm thấy áp lực từ những ánh nhìn khó chịu của các nữ quan văn.
+
+Chà, mấy cái đó là kiểu nghiên cứu cần sự tích lũy lâu dài, lợi nhuận thì phải tính sau.
+
+"Đúng là Thôn trưởng! Rất hiểu chuyện ạ!"
+
+Nhưng dù nói thế, nếu hoàn toàn không có lợi nhuận hay thành quả nào thì cũng rất phiền phức.
+
+"Ư ư... đúng là vậy thật ạ..."
+
+...
+
+"Dạ? Có chuyện gì sao ạ?"
+
+Các cô là Elf miền núi cơ mà, đâu phải kiểu người sẽ từ bỏ thứ mình muốn chỉ vì vài ánh nhìn của các nữ quan văn đâu.
+
+Giống hệt lũ người lùn (Dwarf) mỗi khi vướng vào chuyện rượu chè vậy.
+
+Rốt cuộc là đã có chuyện gì?
+
+"Aha ha. Thực ra thì..."
+
+Đã xảy ra tai nạn nổ tung sao?
+
+Hình như tôi có nghe báo cáo về chuyện đó trước đây.
+
+Chẳng phải báo cáo nói là không có thương vong sao?
+
+"Thương vong về người thì không, nhưng chúng tôi đã làm bay mất những nguyên liệu quý giá. Nếu không nhờ các nữ quan văn hỗ trợ thì việc bổ sung..."
+
+Ra là vậy.
+
+"Cũng xem như là một hình thức chuộc tội ạ."
+
+Thế nên họ mới làm ra loại xe kéo có vẻ dễ bán này để bù đắp.
+
+"Trong quá trình phát triển, Loo và Tia cũng đã hỗ trợ chúng tôi."
+
+Liệu có khi nào, cả hai người đó cũng bận tâm đến ánh nhìn của các nữ quan văn không nhỉ?
+
+Không phải.
+
+Hai người đó chẳng bao giờ quan tâm đến cái nhìn của đám quan văn cả.
+
+"Cả hai cũng có dính líu đến vụ tai nạn nổ tung đó ạ."
+
+...
+
+Tóm lại, phần khung xe là do các nữ Elf miền núi chế tạo.
+
+Phần ma thuật thì do Loo và Tia đảm nhận.
+
+Nghe nói những người tộc Lizardman cũng đã giúp đỡ trong các cuộc thử nghiệm thực tế.
+
+"Loo và Tia nói rằng đã rất vất vả để tránh các sự cố như xe cán vào đuôi của mấy anh chàng Lizardman, hay việc xe đột ngột dừng lại gây va chạm từ phía sau."
+
+À, đúng là nếu là tự động bám theo thì phải cân nhắc đến những chuyện đó thật.
+
+"Vâng. Chúng tôi đã thiết lập để xe duy trì khoảng cách tầm hai cánh tay người lớn so với viên đá quý mục tiêu."
+
+Hừm.
+
+"Nhân tiện thì, vì làm như vậy nên cũng nảy sinh một rắc rối thú vị là người đeo viên đá quý mục tiêu lại chẳng thể nào tiếp cận gần chiếc xe được."
+
+Ha ha ha.
+
+Thế là họ lại phải bổ sung thêm tính năng bật/tắt chế độ bám theo.
+
+"Vâng. Ngoài ra còn phải tính đến việc phát hiện dốc, phát hiện độ rộng đường, phát hiện vật cản, và xử lý thế nào khi không thể đi qua... Chúng tôi đã rất vất vả."
+
+Nhìn vào số lượng nguyên mẫu thử nghiệm thì đúng là như vậy thật.
+
+Ví dụ như nếu không thay đổi công suất mỗi khi gặp dốc, xe sẽ không thể di chuyển ổn định.
+
+Tính đến chuyện leo dốc và xuống dốc, có lẽ cũng cần phải dùng đến hộp số nữa.
+
+"Vì nếu xe tự ý di chuyển do trọng lượng bản thân thì cũng rất phiền phức. Việc làm thế nào để nó đứng yên tại chỗ cũng là một bài toán khó."
+
+Hừm.
+
+Ơ?
+
+Hình như cũng có loại không dùng bánh xe mà dùng chân thì phải?
+
+"Khi nghĩ đến việc tự chạy trên đường núi, chúng tôi đã cân nhắc xem liệu kiểu nhiều chân như Zabuton có ổn không."
+
+Ra vậy.
+
+Nhưng mà, lần trước khi tạo ra con Golem nhiều chân...
+
+"Đã có một tai nạn đáng tiếc xảy ra nhỉ."
+
+Đúng vậy.
+
+"Nhớ lại chuyện đó, nên dự án đó chỉ dừng lại ở mức nguyên mẫu. Vì đã tích hợp quá nhiều công nghệ học được từ Cơ giới trọng tải hình người đa năng nên việc sản xuất hàng loạt, hay đúng hơn là sản xuất, là rất khó khăn."
+
+Thật đáng tiếc nhỉ.
+
+"Vâng, rất đáng tiếc. Ngoài ra, còn có ý tưởng là nếu để nó bay lên thì sẽ không cần bận tâm đến vật cản nữa."
+
+Đó là kiểu cải tiến từ vườn treo cỡ nhỏ để có thể di chuyển tự động à.
+
+"Chúng tôi đã nghĩ đó là hình thái tối ưu nhất... nhưng việc sản xuất gần như phải làm thủ công bởi Loo, và chi phí chế tạo quá cao do nguyên liệu khó kiếm nên không phù hợp để thương mại hóa."
+
+Kết cục là vậy sao.
+
+"Để hướng tới việc sản xuất và bán hàng ổn định, loại bánh xe đã trở thành dòng chủ đạo."
+
+Các nữ Elf miền núi đã kết luận như vậy sao?
+
+"Không ạ, đó là ý kiến chủ đạo của các nữ quan văn."
+
+Tôi hiểu rồi.
+
+Nếu để cho mấy nữ Elf miền núi tự quyết thì họ sẽ làm loại bay hoặc loại nhiều chân rồi.
+
+"Cả Loo và Tia trông đều có vẻ rất tiếc nuối."
+
+À... ừm.
+
+Tôi hiểu mà.
+
+Vậy, việc họ cho tôi xem cái này là để chạy đà cho kế hoạch sản xuất hàng loạt sao?
+
+Sẽ làm ở Ngũ Thôn à?
+
+"Không, sản xuất hàng loạt vẫn còn quá sớm ạ. Chúng tôi vẫn còn nhiều bài kiểm tra phải thực hiện."
+
+Vậy thì?
+
+"Có ý kiến cho rằng đã đến lúc cần đặt tên cho nó ạ."
+
+Cần sao?
+
+"Xin hãy đặt tên giúp chúng tôi."
+
+...Đây chính là công việc khó khăn nhất đối với tôi.
+
+...
+
+Chiếc xe kéo của các nữ Elf miền núi được đặt tên là "Xe kéo bám đuôi" (Tsuibi-ni-guruma).
+
+Tôi tự biết là cái tên này chẳng có chút thú vị nào cả.
+
+Nhưng mà, ừm, thì...
+
+Không phải cứ đặt tên lạ là tốt.
+
+Cứ đặt sao cho dễ hiểu nhất vẫn là nhất.
+
+...
+
+Xe kéo bám đuôi tiếp tục được cải tiến để hướng tới sản xuất hàng loạt và giảm giá thành.
+
+Vì xe vận hành tự động nên phải dự tính được mọi tình huống.
+
+Việc soạn thảo hướng dẫn vận hành cũng được thực hiện song song.
+
+Khi thử nghiệm vận hành tại "Đại thụ thôn", nó được đánh giá rất cao vì sự tiện lợi trong việc vận chuyển nông sản thu hoạch.
+
+Các nữ quan văn có nói rằng "Liệu nó có thể tự động bốc dỡ hàng luôn không nhỉ?", chúng tôi đã xem xét nhưng vì chi phí sẽ tăng cao nên đành từ bỏ.
+
+Tuy nhiên, chúng tôi đã tạo ra một khu bốc dỡ chuyên dụng, thiết lập cơ chế để xe kéo bám đuôi dừng ở đó và tự động thực hiện việc bốc dỡ hàng hóa.
+
+À, hàng đã dỡ xuống bãi thì vẫn phải có người vận chuyển tiếp đi nơi khác.
+
+"Nếu hợp nhất bãi bốc dỡ và kho hàng thì..."
+
+"Việc di chuyển hàng trong kho cũng tự động hóa luôn..."
+
+"Vậy quyết định xem để hàng ở đâu thì dựa vào đâu đây?"
+
+"Cần phải có ghi chép về ngày tháng vận chuyển hàng vào chứ nhỉ?"
+
+Các nữ Elf miền núi đang tạo ra bầu không khí như muốn làm một cuộc cách mạng trong lĩnh vực hậu cần, không biết có ổn không đây?
+
+Để đối phó với hiện tượng nhiễu tín hiệu khi sản xuất hàng loạt xe kéo bám đuôi, các viên đá quý đặc biệt dùng để bám đuôi sẽ được đánh số.
+
+Loo và Tia định dùng số bốn chữ số, nhưng tôi đã góp ý là nên dùng mười hai chữ số.
+
+Dù có không dùng hết thì việc có dư dả vẫn tốt hơn nhiều.
+
+...
+
+Do sự khác biệt tốc độ di chuyển giữa người dẫn đường đeo thắt lưng chứa đá quý và chiếc xe kéo bám đuôi, có khả năng xe sẽ bị tụt lại phía sau.
+
+Chúng tôi đã thực hiện thí nghiệm xem cách xa bao nhiêu thì xe sẽ dừng bám đuôi.
+
+Theo cảm giác của tôi, nếu không có vật cản thì tầm khoảng một trăm mét.
+
+Nếu có vật cản... thì tùy vào vật cản đó là gì, nhưng chắc tầm ba mươi mét.
+
+Các High Elf sau khi xem thí nghiệm và kết quả đã góp ý rằng: Liệu có thể dùng nó để tìm người bị nạn trong rừng không?
+
+Nếu người bị nạn có mang theo viên đá quý đặc biệt, chỉ cần tiếp cận trong vòng ba mươi mét là sẽ biết họ đang ở đâu.
+
+Ra là vậy.
+
+Chà, tuy không thể bắt mọi người đều mang theo, nhưng đối với những mạo hiểm giả đi vào nơi nguy hiểm thì mang theo cũng không tệ.
+
+Ví dụ như khi nhận ủy thác từ Ngũ Thôn chẳng hạn.
+
+Cứ cân nhắc thử xem.
+
+...
+
+Chúng tôi cũng phát hiện ra là có thể kết nối nhiều xe kéo bám đuôi lại với nhau bằng cách đeo thắt lưng chứa đá quý lên chiếc xe dẫn đầu.
+
+Vì ngay cả trẻ con cũng có thể sử dụng xe kéo bám đuôi nên kỳ vọng vào việc sản xuất số lượng lớn càng tăng cao.
+
+Các nữ Elf miền núi nhìn có vẻ hơi bối rối.
+
+...
+
+Ông Michael của thương hội Goroun sau khi nhìn thấy xe kéo bám đuôi đang trong quá trình thử nghiệm vận hành, đã lập tức đi đến chỗ các nữ quan văn để đặt hàng.
+
+Giúp đỡ tôi việc đặt tới một nghìn chiếc thì tốt thật đấy, nhưng không hỏi giá cả trước như vậy có ổn không nhỉ?
+
+Hả?
+
+Một nghìn chiếc trong năm nay?
+
+Năm sau còn đặt thêm nữa?
+
+Ờ thì... có lẽ phải cố gắng hết sức cho dây chuyền sản xuất hàng loạt thôi nhỉ?
+
+Phải đi hỏi Loo và Tia chi tiết về những nguyên liệu cần thiết thôi.
+
+---
+*Cảm ơn mọi người vì những lượt thích và bình luận.*
+*Cảm ơn vì đã chỉ ra lỗi chính tả và thiếu sót.*
+*Mong mọi người tiếp tục ủng hộ.*

@@ -1,0 +1,286 @@
+Số lượng đánh dấu (bookmark) tăng lên khiến mình rất vui.
+
+Mong mọi người tiếp tục ủng hộ mình nhé.
+
+Hôm nay, mình định dùng loại sơn và ván gỗ kiếm được ở trong làng đợt trước để làm bộ cờ Reversi.
+
+Nhắc đến Reversi, đây là một trò chơi board game dành cho hai người, có câu slogan rằng: "Chỉ mất một phút để học nhưng mất cả đời để tinh thông", tưởng chừng đơn giản nhưng thực tế lại vô cùng thâm sâu.
+
+Sau khi kẻ các ô tám nhân tám lên tấm ván, việc còn lại chỉ là cắt gỗ thành các miếng tròn rồi tô màu lên thôi.
+
+Không ngờ là có thể làm ra nó một cách dễ dàng như vậy. Người đầu tiên nghĩ ra Reversi chắc hẳn phải là một thiên tài.
+
+Vừa nghĩ ngợi như vậy, mình vừa dùng cọ phết sơn, và thế là hoàn thành.
+
+"Xong rồi."
+
+"Cái gì thế?"
+
+Không biết chị Elinalise lẻn vào phòng mình từ lúc nào, chị ấy kéo kéo tay áo mình.
+
+"Là một món đồ chơi tên là Reversi ạ."
+
+"Gì đó? Cách chơi ra sao?"
+
+Đúng là thế giới thiếu thốn trò giải trí, nên chị ấy tỏ ra cực kỳ hứng thú.
+
+"Đơn giản lắm! Nói tóm lại là ai còn nhiều quân trên bàn nhất thì người đó thắng!"
+
+Sau khi mình giải thích luật cơ bản, chị Elinalise lập tức hừng hực khí thế. Chị ấy nhìn những quân cờ có hai mặt đen trắng rồi thốt lên "Ồ" đầy thán phục.
+
+Đúng là câu slogan huyền thoại, ngay cả chị Elinalise cũng có thể học ngay lập tức.
+Tiện thể, mình đã dạy luật nhưng tuyệt nhiên không nói cho chị ấy bất kỳ mẹo nào.
+
+"Chị sẽ nhuộm sạch tất cả thành màu của chị!"
+
+"Vậy chị Elinalise đi trước đi ạ."
+
+Mình đặt hai quân đen trắng mỗi bên rồi nhường lượt đi trước cho chị ấy.
+
+Cạch, cạch... chúng mình thay phiên nhau đặt cờ.
+
+"Cái này cũng bị kẹp giữa nên là màu trắng nhé."
+
+Có vẻ chị Elinalise thích cảm giác lật quân cờ để tăng số lượng quân của mình, nên ngay từ đầu trận, chị ấy đã vui vẻ lật tất cả những quân có thể lật.
+
+Một nước đi tệ hại đến mức khó tin.
+
+"A, bị lấy mất rồi!"
+
+Mình cũng hùa theo tâng bốc chị ấy, khiến cho khi bước vào giai đoạn giữa trận, chị Elinalise cứ ngỡ mình nắm chắc phần thắng trong tay.
+
+"Al à, chính em nghĩ ra trò này mà sao yếu thế."
+
+Chị ấy bắt đầu đắc ý. Đã đến lúc phản công rồi nhỉ?
+
+"Chỗ này thì sao ạ? Cái này với cái này, à, cả đường chéo và đường ngang cũng lật luôn này."
+
+"Hả? Hả? Sao cơ? Sao lại thế?"
+
+Mình tìm ra những chỗ hổng, rồi liên tiếp đoạt lấy những quân trắng của chị Elinalise.
+
+Cục diện lúc này giống như việc làm đổ nước tương lên chiếc áo phông trắng vậy, không cách nào cứu vãn được nữa. Những quân cờ "nước tương" (quân cờ chắc chắn không thể bị lật lại) nằm im bất động, như thể đang cự tuyệt chị Elinalise.
+
+"Chị không đặt được ở chỗ đó đâu. Thế nên là bỏ lượt nhé."
+
+"Ơ? Thật này."
+
+"Lần này cũng không được ạ."
+
+"...Oa oa."
+
+"À, lần này thì chỗ đó trống này. Dù chỉ lật được có một quân thôi."
+
+"...Có một quân thôi à."
+
+Và lượt cuối cùng cũng kết thúc.
+
+Những quân trắng bị chia cắt, còn quân đen thì bao vây lấy chúng.
+Kết quả là mình thắng áp đảo với tỉ số 56-8. Khà khà, quân đội của ta thật áp đảo!
+
+Giờ thì, không biết phản ứng của chị Elinalise thế nào nhỉ? Vì đoạn cuối chị ấy cứ im lặng nên mình cũng hơi tò mò.
+
+"..."
+
+Chị Elinalise cứ há hốc mồm, mắt nhìn trân trân vào bàn cờ.
+
+Mình tuy không phải cao thủ gì, nhưng ít nhất cũng nắm được những điểm mấu chốt.
+
+Reversi là bàn cờ 64 ô, chỉ cần chiếm được 33 quân là thắng.
+Cứ để đối phương lấy nhiều quân, rồi dần dần tước đoạt vị trí đặt cờ của họ.
+Tăng số lượng quân "chắc chắn" không bao giờ bị lật lại.
+
+Chắc chỉ cần ba điểm cơ bản này thôi nhỉ?
+
+Nhiều người hay nghĩ kiểu "chiếm được bốn góc là không thua" hay "chiếm nhiều cạnh là thắng", nhưng thực ra cũng chưa chắc đâu.
+Hồi trước có đứa bạn mình chuyên gia nhắm vào cạnh bàn, kết quả là nó toàn dính "Stoner Trap" (bẫy bẫy bẫy bẫy) rồi thua sạch.
+
+Mình chỉ học theo để đối phó với đứa bạn chuyên nhắm cạnh thôi, chứ các kỹ thuật trung cấp như C-move hay X-move thì mình chịu.
+
+"...Sao thế chị?"
+
+"Trò này thú vị thật đấy!"
+
+Thấy chị Elinalise không phản ứng, mình cất tiếng hỏi, chị ấy liền ngẩng phắt dậy và thốt lên đầy phấn khích.
+
+"Hả?"
+
+"Làm lại lần nữa! Một lần nữa!"
+
+"Dạ, biết rồi mà. Chị đừng lắc vai em."
+
+Lần thứ năm.
+
+"Lần nữa!"
+
+"Vâng vâng."
+
+Lần thứ mười.
+
+"Lần nữa! Lần này chị nhất định sẽ chiếm lấy các cạnh!"
+
+"Hả?"
+
+Lần thứ mười tám.
+
+"Tại sao chị lại thua chứ!?"
+
+"Nè, chán rồi mà..."
+
+"Thêm một lần nữa thôi! Một lần này thôi!"
+
+Lần thứ mười chín.
+
+"Vâng, dính bẫy Stoner rồi nhé."
+
+"Ơ!? Chị đã cất công chiếm lấy cạnh rồi mà!"
+
+"Xong rồi. Đến giờ ăn tối rồi chị."
+
+"Vẫn còn thời gian mà!"
+
+"Ơ kìa!? Chị bảo thêm một lần nữa thôi mà."
+
+"Trễ là mẹ Elna sẽ mắng đấy."
+
+"Mặc kệ đi! Thêm ván nữa!"
+
+"Chị nhờ anh Silvio chơi cùng sau đi."
+
+"Al, đến giờ ăn tối rồi đấy? Hai đứa đang làm gì thế?"
+
+Chắc vì chỉ còn mình và chị ấy chưa xuống bàn, mẹ Elna đã bước vào phòng mình để xem tình hình.
+
+"Đang chơi cái này nè!"
+
+Chị Elinalise chỉ tay vào bàn cờ Reversi như thể khoe khoang với mẹ.
+
+"Cái gì thế này? ...Ô, những tấm ván tròn có hai màu khác nhau ở hai mặt. Trên ván còn kẻ các đường nữa."
+
+Mẹ Elna tò mò cầm quân cờ Reversi lên ngắm nghía.
+
+"Chơi như thế nào nhỉ?"
+
+Ồ, lại là kịch bản quen thuộc đó à?
+
+"Để con giải thích nhé, mình sẽ đặt cờ luân phiên, kẹp quân của đối phương ở giữa để biến nó thành quân của mình ạ!"
+
+"Ồ, ra là vậy nên mới có hai mặt khác nhau nhỉ."
+
+Chị Elinalise và mẹ Elna ngồi xuống, bắt đầu nghe giải thích luật.
+
+"Người nào có nhiều quân màu của mình nhất vào cuối trận là thắng ạ!"
+
+"Chà, nghe cũng đơn giản nhỉ. Cứ đặt cờ tùy ý là được sao?"
+
+"Không đặt ở chỗ nào không kẹp được quân đối phương thì không được ạ."
+
+"Mẹ hiểu rồi. Thử chơi xem nào."
+
+"Vâng!"
+
+Quả nhiên lại thành ra thế này...
+
+Mình mặc kệ mẹ Elna đang phấn khích đặt cờ và chị Elinalise đang ra vẻ chuyên gia vì có kinh nghiệm, rồi tót xuống phòng ăn ở tầng một.
+
+Khi vào phòng ăn, cha Nord đã ngồi ở vị trí chủ tọa như thể đang điều hành một cuộc họp, anh Silvio cũng đã ngồi vào bàn rồi.
+
+Mọi thứ đã được dọn sẵn sàng, chỉ thiếu mỗi hai người kia.
+
+"Al, Elinalise và Elna đâu rồi con?"
+
+"Hai người đó vẫn còn ở phòng con ạ."
+
+"À, chắc lát nữa sẽ xuống thôi."
+
+"Dạ không, e là lát nữa chưa xuống được đâu ạ."
+
+"Có chuyện gì sao?"
+
+"Nói là có chuyện thì cũng đúng, mà nói là đang mê mẩn thì đúng hơn ạ."
+
+"Silvio, con lên xem thử đi."
+
+"Vâng ạ."
+
+Anh Silvio gật đầu rồi thong thả rời khỏi phòng.
+
+"Ôi chao... Cha ơi, bữa tối nay có vẻ sẽ bị trễ đấy ạ."
+
+"Hả? Ý con là sao?"
+
+Sau hai mươi phút, anh Silvio vẫn không quay lại, và phải đến khi bà quản gia nổi giận thì bữa tối mới chính thức bắt đầu.
+
+Hôm đó, bộ cờ Reversi đã bị cha Nord tịch thu, khiến chị Elinalise, mẹ Elna và anh Silvio cằn nhằn suốt ba ngày liền.
+
+Mình nhận ra rằng khi đưa trò giải trí cho những người đang "đói" giải trí, nó sẽ tạo ra sức hút gây nghiện đến mức không tưởng.
+
+Từ giờ chắc phải cẩn thận hơn khi mang trò chơi mới ra quá.
+
+---
+
+Vì phải làm thêm hai bộ Reversi nữa cho gia đình, mình đã dùng hết sạch vật liệu.
+Haiz, không ngờ lại làm tới ba bộ trong thời gian ngắn như vậy...
+
+Việc chị Elinalise và mẹ Elna đòi hỏi thì mình đoán trước được, nhưng đến cả Bartolo cũng muốn có thì chịu hẳn. Hắn bảo muốn mang đi khoe với người quen, chắc chắn sẽ có kẻ nghiện trò này cho xem.
+
+Sẵn dịp đó, vì cũng có hẹn với chị Celia, nên hôm nay mình quyết định xuống làng.
+
+Ánh nắng xuân ấm áp khiến người ta thấy thật dễ chịu. Cây cối lay động trong làn gió nhẹ như đang hân hoan đón xuân sang.
+
+Mùa xuân và mùa thu là hai mùa được yêu thích nhất vì thời tiết không quá nóng cũng chẳng quá lạnh, không có gì để chê.
+
+Nếu hỏi mọi người thích mùa nào nhất, khả năng cao câu trả lời sẽ là xuân hoặc thu.
+
+Còn nếu hỏi mùa hè hay đông, chắc chẳng mấy ai trả lời ngay được.
+"Ưm, chắc hè nhỉ? Ăn kem ngon mà."
+"Ơ, nhưng nóng đổ mồ hôi ghét lắm đúng không?"
+"À đúng nhỉ, thế chắc là mùa đông?"
+Kiểu như mỗi mùa đều có ưu nhược điểm riêng, nên người ta cứ phân vân mãi.
+
+Cuối cùng, đích đến của những kẻ phân vân đó vẫn là xuân và thu. Tóm lại, xuân và thu chính là "nhân vật được yêu mến" của mọi người.
+
+Vừa suy nghĩ lan man như vậy, mình vừa đi bộ đến nơi từng gặp gỡ gã anh trai và gã ông chú (người bị vợ nắm thóp) lần trước.
+
+"Hôm nay không thấy anh trai hay ông chú đó đâu nhỉ."
+
+Đang tự nhủ là nếu có ông chú đó ở đây thì mình sẽ trêu chọc vài câu, mình đưa mắt nhìn quanh.
+
+Những cánh đồng lúa mì xanh mướt trước ngày thu hoạch vẫn đang lay động trong gió, như thể đang chào đón mình trở lại làng Koriat.
+
+Chắc khoảng ba tháng nữa là chúng sẽ nhuộm vàng cả cánh đồng.
+
+Mình đi tiếp trên "con đường lúa mì" (tên tự đặt) để đến khu quảng trường đông đúc của làng.
+
+...Mà này, không biết bà Natalie đáng sợ đến thế sao nhỉ?
+
+Khi đến quán ăn nơi chị Celia làm việc, mình thấy bốn gã đàn ông đang ngồi ườn ra đó dù mới chỉ buổi sáng. Ơ, có cả ông chú kia nữa. Ông không sợ bà Natalie mắng à? Liệu có ổn không đấy?
+
+Mình cứ ngỡ nông dân sẽ bận rộn và vất vả lắm chứ? Nhưng thôi, cứ cho là họ làm việc từ sáng sớm và giờ đang nghỉ giải lao vậy.
+
+"Ối, Alfried-sama. Cậu đến có việc gì thế?"
+
+"Ơ? Chị quên rồi ạ? Chuyện con cần mua dụng cụ để làm món ăn mới ấy."
+
+"À, à... ra là chuyện đó. Tất nhiên là chị nhớ rồi."
+
+Chị Celia xua xua tay, cười gượng gạo.
+Lúc nãy chị ấy khựng lại mất hai giây. Chắc chắn là quên rồi.
+
+"Cậu định nhờ Logan làm cái gì à?"
+
+"Vâng, con muốn nhờ chú ấy làm chảo với vài thứ khác ạ."
+
+"Nếu là nhà Logan thì ở phía bắc nhà trưởng làng ấy. Ngôi nhà nằm lẻ loi một mình, giờ này chắc chú ấy đang làm việc, cậu sẽ nghe thấy tiếng gõ kim loại thôi."
+
+"Con biết rồi. Vậy con đi đây ạ."
+
+Phía sau vang lên tiếng "Ừ đi đi" đầy vẻ "bà mẹ" của chị Celia, mình bước ra khỏi quán ăn nhưng chợt khựng lại.
+
+Đằng nào cũng tiện, hay là tiếp thêm chút sinh khí cho ngôi làng nhỉ? Nghĩ vậy, mình lấy bộ Reversi đã cất trong túi không gian ra.
+
+"Sao thế? Cậu không biết đường à?"
+
+"Không phải ạ. Nếu được thì chị chơi thử cái này đi nhé."
+
+Mình đưa bộ Reversi cho chị Celia đang nghiêng đầu thắc mắc, giải thích sơ qua luật chơi rồi mới đi đến nhà chú Logan.

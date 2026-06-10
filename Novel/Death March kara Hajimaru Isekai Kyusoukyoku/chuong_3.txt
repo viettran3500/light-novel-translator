@@ -1,0 +1,201 @@
+※2014/12/21 Đã sửa lỗi chính tả.
+
+“Xin chào, tôi là Suzuki. Tên nhân vật là Satou nhưng tôi là Suzuki.”
+
+Chỉ để có thể nói chuyện với ai đó, tôi đã lầm bầm một mình như vậy đấy!
+
+Vì mãi vẫn không tỉnh giấc khỏi giấc mơ này, nên tôi quyết định tìm kiếm nơi có con người sinh sống.
+May mắn thay, ở rìa bản đồ diện rộng, tôi thấy một vạch kẻ trông giống như đường cái nên đang hướng về phía đó.
+
+Đã 3 ngày kể từ lúc ấy. Dù đi bộ cả ngày lẫn đêm, nhưng mới chỉ đi được một nửa chặng đường.
+Thể lực đang giảm dần, nhưng vẫn còn 2800/3100. Cảm giác như mỗi ngày nó giảm đi 100.
+Tính theo kiểu game thì vẫn ổn trong 28 ngày nữa, nhưng ngay cả trong mơ mà thế này thì cũng dễ chết thật đấy.
+
+Không biết là do chỉ số tăng vọt hay do là giấc mơ mà tôi không thấy mệt. Dù có buồn ngủ nhưng vẫn có thể cố chịu được.
+Hiện tại tôi đang đi bộ, nhưng ngay cả khi chạy thì tốc độ giảm thể lực cũng gần như không đổi. Nếu vừa nhảy cẫng lên vừa di chuyển thì thể lực giảm nhanh hơn chạy một chút, nhưng thật lòng mà nói thì nó nằm trong phạm vi sai số.
+Vậy tại sao tôi lại đi bộ ư? Vì tôi buồn chán thôi.
+
+Không hiểu ý tôi à?
+Ừ, cũng đúng thôi.
+
+Ban đầu, tôi vừa chạy vừa hát như kiểu đang đi karaoke một mình.
+Vốn dĩ danh sách bài hát của tôi cũng ít. Chẳng mấy chốc đã hết bài để hát và tôi ngừng lại.
+Phong cảnh xung quanh tuy hùng vĩ, nhưng đáng tiếc là ít có sự thay đổi.
+
+Vì vậy, tôi quyết định đọc đống nhật ký (log) dài dằng dặc.
+
+Không phải là kẻ cuồng chữ nghĩa gì, nhưng vì việc cứ cắm cúi đi bộ không mục đích thực sự là một cực hình, nên tôi bắt đầu đọc các dòng nhật ký từ đầu theo thứ tự.
+Tất nhiên, tôi sớm nhận ra là vừa chạy vừa đọc rất khó, thế nên sau đó tôi chuyển sang đi bộ. Mục đích ban đầu là ra được đường cái, nhưng khi bắt đầu đọc log, tôi đã quên mất tiêu mục đích đó rồi.
+
+Log bắt đầu bằng “Đã sử dụng: Dò quét toàn bản đồ - Thuật lý ma pháp”, sau đó là các thông báo hạ gục người thằn lằn, người rồng, cho đến thông báo cuối cùng là đã giết chết Long Thần, dòng chữ “Đã hạ gục ~” cứ nối tiếp nhau.
+Sau đó là “Đã hạ gục mọi kẻ địch trong bản đồ”, và cuối cùng là “Nguồn suối: Đã thống trị Thung lũng Rồng”. Nguồn suối? Cái gì thế kia? Những từ ngữ bí ẩn cứ để lại sau vậy.
+
+Sau đó là log nhận chiến lợi phẩm, tiếp theo là log tăng cấp.
+
+Log chiến lợi phẩm chiếm 80% tổng số. Vàng bạc châu báu và trang bị thường thấy. Hơn nữa còn có các loại nguyên liệu bắt đầu từ sừng, răng, vảy rồng. Đến đây thì dù bỏ qua chất lượng hay số lượng, tôi vẫn có thể hiểu được trong phạm vi thông thường, nhưng số còn lại thì thật kỳ quặc.
+Xác của lũ rồng, người thằn lằn và người rồng chất đống trong kho đồ. Ý định của game là muốn tôi trở thành Necromancer (người gọi hồn) sao?
+Tiếp theo là những đồ dùng sinh hoạt, thực phẩm và nhiên liệu mà có lẽ lũ tộc vảy đã sử dụng. Tôi đâu có chuẩn bị mấy món đồ này... Hơn nữa còn có những món đồ hỏng hóc bắt đầu bằng chữ “Bị hỏng ~”, cái này không phải rác sao?
+
+Quả nhiên, khi tổng số lượng vượt quá mười ngàn, việc đọc chi tiết trở nên quá đỗi phiền phức.
+Về cơ bản, thông số của WW cho phép cửa sổ kho đồ có thể tìm kiếm bằng cách phân loại theo chủng loại hoặc cài đặt tag của người dùng.
+
+Cả hai đều có giao diện chung vì tôi đã thiết kế để có thể dùng cho cả hai nhằm giảm bớt công đoạn làm việc. Hơi khoe khoang một chút, nhưng nó tiện lợi ngang ngửa với trình quản lý file của hệ điều hành mới nhất đấy. Tất nhiên là có thể thêm thư mục tùy ý, hơn nữa với những vật phẩm chứa đồ như túi, nếu chạm vào túi thì các vật phẩm bên trong sẽ hiện ra ở cây thư mục bên dưới, có thể lấy ra hoặc kiểm tra trực tiếp nội dung mà không cần phải lấy ra khỏi túi. Tất nhiên, việc kéo thả vật phẩm trong túi ra ngoài cũng vô cùng tự do. Ngoài ra, ngoài hiển thị thông thường, bạn có thể thêm tab để đăng ký danh sách toàn bộ vật phẩm hoặc hiển thị theo từ khóa tìm kiếm. Cái này tôi đã thêm vào vì nếu dùng smartphone thì việc nhập từ khóa tìm kiếm mỗi lần rất phiền.
+
+À, lạc đề một chút rồi. Đừng nói chuyện về lập trình hay những tiểu tiết đó quá dài dòng.
+
+Tôi quyết định mở hai cửa sổ kho đồ để sắp xếp vật phẩm. Trước hết, tạo thư mục để phân loại theo chủng loại. Sau đó, tiếp tục tạo các thư mục con bên dưới để sắp xếp.
+
+Phải rồi, nhớ kích hoạt tùy chọn “Tự động chồng vật phẩm cùng loại” ở màn hình cài đặt.
+Nếu không kích hoạt cái này, tổng số lượng vật phẩm sẽ trở nên quá nhiều.
+
+Nhân tiện, việc chồng các vật phẩm lên thành một nhóm được gọi là "Stack" (chồng) trong FFW và WW. Vì là thuật ngữ tồn tại trong hầu hết các game nhập vai, nên trong game tôi đã lược bỏ phần giải thích. Hình như nguồn gốc của nó là việc chồng các quân cờ trong game mô phỏng chiến tranh thời xưa thì phải.
+
+Dù sao thì.
+
+Vàng bạc châu báu chủ yếu là tiền tệ.
+
+Nhiều nhất là “Tiền vàng Đế quốc Flue”. Tận 10,12 triệu đồng. Thử lấy một đồng ra xem thì thấy khá to và nặng. So với số yên Nhật trong ví thì nó nặng cỡ 1 đồng 500 yên cộng với 5 đồng 100 yên. Nếu trí nhớ của tôi chính xác thì nặng khoảng 30 gram. Trong đời thực, tiền vàng thông thường nặng khoảng 4-7 gram, nên có thể nói đây là kích thước siêu hạng. Tổng cộng là 303 tấn... một khối lượng nực cười. Nghe nói mỗi năm thực tế chỉ khai thác được 2500 tấn thôi. Cũng đúng chất của một con rồng thích màu vàng kim.
+
+Tiếp theo là “Tiền vàng Đế quốc Saga” với 40 ngàn đồng. Không biết là do đế quốc này lớn mạnh hay đã bị rồng tiêu diệt rồi mới dựng lên quốc gia mới, thật thú vị. Lấy thử một đồng ra xem, nó nhỏ hơn đồng 500 yên nhưng nặng tương đương, nên chắc cũng khoảng 7 gram.
+
+Và thứ ba là 30 ngàn đồng Hồng tệ (tiền đỏ). Tiền tệ trong thế giới giả tưởng xuất hiện kìa! Lấy ra xem thử thì thấy nhẹ bằng phân nửa tiền vàng Flue, chất liệu của đồng tiền giống như hồng ngọc vậy. Thỉnh thoảng lại có những tia sáng chạy trong đồng tiền bán trong suốt, cảm giác rất cyberpunk. Có chút kỳ diệu.
+
+Số tiền còn lại đều dưới 10 ngàn đồng, gồm tiền bạc, tiền đồng của “Đế quốc Flue”. Tiền bạc, tiền bạc nhỏ, tiền đồng lớn, tiền đồng, tiền tiện của “Đế quốc Saga” và “Vương quốc Shiga”. Tiền bạc lớn, tiền bạc, tiền đồng của “Thần quốc Dragu”, ngoài ra còn có nhiều loại tiền bắt đầu bằng “Vương quốc ~”, tổng cộng tất cả khoảng 7 ngàn đồng. Tôi tạm thời phân loại theo quốc gia rồi dùng chuột kéo thả để sắp xếp.
+
+Mà dù sao đi nữa, dù là WW hay FFW, tôi đâu có thiết lập tiền tệ... Trong WW chỉ là con số với đơn vị là Wal, FFW là Carne, tôi không hề chuẩn bị thực thể của nó.
+Có lẽ đây là ảnh hưởng từ chương trình đố vui về tiền tệ mà tôi đã xem trong lúc nghỉ ngơi vì đây là giấc mơ chăng.
+
+Ngoài tiền tệ ra còn có các loại đá quý, đồ trang trí, tác phẩm nghệ thuật. Từ những chiếc nhẫn bạc đơn giản đến vương miện đính ngọc lục bảo to bằng nắm tay, tượng vàng to bằng người thật, đoản kiếm nghi lễ, v.v., có khoảng 300 ngàn món đồ có vẻ giá trị cao.
+
+Hầu hết là những món đồ bình thường chỉ được cái giá cao, nhưng khoảng 5% trong số đó có lẫn ma pháp cụ.
+
+Các ma pháp cụ có phần giải thích dài dòng và cần kiến thức nền tảng nên tôi cứ lướt qua rồi phân loại là xong. Cứ tưởng tượng như đọc diễn đàn đầy tiếng lóng internet mà không biết thuật ngữ mạng vậy là dễ hiểu nhất. Kỳ lạ thay, không có món đồ trang sức nào mà tôi đã cài đặt trong WW hay FFW ở đây.
+
+Có vài món tôi hiểu được phần giải thích và thấy thích. Đó là “Bình nước địa ngục” mỗi ngày có thể tạo ra khoảng 100 lít nước.
+
+Khi tìm thấy “Bình nước địa ngục”, tôi đã vui mừng lấy ra và uống cạn. Tôi muốn rửa mặt và gội đầu nhưng bụi đất bắt nguồn từ trận mưa sao băng vẫn còn lơ lửng nên tôi đành bỏ cuộc.
+
+Ngoài ra, tôi còn chuyển vào mục ưa thích 3 loại: “Ví ma pháp” có thể chứa tới 1000 đồng tiền, “Túi ma pháp 30” có thể chứa 30 loại vật phẩm, mỗi loại 30 cái.
+
+Vì đã có kho đồ chứa vô hạn, nên túi ma pháp không có ý nghĩa gì cả, nhưng tôi thích cái cảm giác lấy ra cất vào những món như thanh kiếm dài hơn cái túi nên đã cho vào danh sách ưa thích.
+
+Ngày thứ 2 cứ thế kết thúc trong việc sắp xếp vàng bạc châu báu.
+
+◇
+
+Cứ thế đã là ngày thứ 3. Đồng hồ đã qua 0 giờ nên là ngày thứ 3 rồi. Đồng hồ mỗi ngày lệch gần 4 tiếng nên tôi không tự tin lắm việc đây có thực sự là ngày thứ 3 hay không.
+Ngay cả việc ngủ bụi, nếu ngủ ở vùng hoang dã thế này thì thể lực có khi còn giảm đi, nên tôi cứ đi mà không ngủ. Có ánh trăng tròn nên không lo về tầm nhìn.
+
+Tôi thuộc tuýp người thích để dành đồ ngon ăn sau, nên việc kiểm tra vũ khí và trang bị cứ để sau.
+
+Nguyên liệu và xác chết chỉ cần phân loại theo chủng loại là được. So với log thì xác người thằn lẫm và người rồng ít hơn. Có lẽ là do hứng chịu trực tiếp thiên thạch nên xác cũng bị nghiền nát không còn gì. Nhưng xác rồng thì nhiều. Nhiều gấp 3 lần số lượng hạ gục trong log. Có lẽ nơi đây cũng giống như nghĩa địa voi dành cho rồng.
+
+Nguyên liệu hầu hết là các loại nguyên liệu theo bộ phận, nhưng cũng có thỏi sắt, dược thảo, gỗ, đá, v.v. Cảm giác như đây là chiến lợi phẩm của một thành phố thì hơi ít, nhưng chắc hầu hết đã bị thiên thạch đè bẹp rồi. Trong các loại bộ phận thì vảy rồng cực kỳ nhiều. Khi gom lại bất kể loại gì thì có tới 7,96 triệu chiếc. Rồng cũng thay da à? Có một cái xác rồng lột.
+
+“To thật, một chiếc vảy mà to thế này thì thân chủ của nó khổng lồ đến mức nào nhỉ.”
+
+Vì tò mò, tôi lấy thử một chiếc vảy của rồng trưởng thành, nó dài tới 50 cm. Nhân tiện kiểm tra vảy của rồng cấp thấp thì thấy nó chỉ to bằng lòng bàn tay.
+
+Những vật phẩm phế liệu bắt đầu bằng “Bị hỏng” thì tôi không phân loại cụ thể mà tống hết vào thư mục phế liệu. Muốn vứt đi cũng được nhưng số lượng quá lớn, nếu vứt lung tung sợ bị chôn vùi trong đống rác nên tôi thôi.
+
+Cuối cùng là trang bị.
+
+Có khoảng 30 ngàn món. Giáo của tộc vảy đặc biệt nhiều, các món bắt đầu bằng “~ của tộc vảy” lên tới 20 ngàn món. Tất cả đều là vũ khí và khiên bằng đồng xanh hoặc sắt bình thường, không phải ma pháp cụ. Kỳ lạ là đồ giáp lại ít.
+
+Tôi lấy thử món nhiều nhất là giáo của tộc vảy ra. Một cây giáo bằng gỗ dài khoảng 2 mét rưỡi, mũi giáo làm bằng xương được gọt giũa, có ngạnh giống như lao. Có lẽ đây không phải giáo dùng trong chiến tranh vì khi đâm vào thì không rút ra được.
+
+Về ma pháp cụ, có khoảng 100 món như “Giáp da rồng” hay “Giáp vảy rồng” được làm từ nguyên liệu do chủng tộc thống trị ban tặng. Những món này chắc là trang bị của tộc vảy.
+
+Trong 10 ngàn món còn lại, khoảng một nửa là đại kiếm, giáo, cung tên có đặc tính khắc chế “Rồng”. Chắc đây là di sản của những kẻ đã thách thức rồng rồi thất bại.
+
+Về các hiệu ứng đặc biệt, cũng như đồ trang sức, vì tôi không hiểu rõ hiệu quả nên để lại sau.
+
+Có vài món tôi thấy ưng ý, đặc biệt là những thanh “Thánh kiếm” hay “Thần kiếm” rất thu hút tôi.
+Nó khơi gợi cái tâm hồn trung nhị đã mất.
+
+Tại sao tên “Thánh kiếm” lại là “Excalibur” hay “Durandal” nhỉ.
+Khi tìm kiếm bằng tên, tôi còn thấy cả những thanh Katana như “Kotetsu” hay “Muramasa”.
+
+“Hào hứng ghê~”
+
+Tôi vung vẩy Excalibur tận hưởng. Đáng lẽ nó phải nặng lắm nhưng tôi lại vung nhẹ tênh. Khi vung, những vệt sáng xuất hiện trông rất đẹp. Nhưng nếu dùng làm vũ khí thì lộ đường kiếm ra có phải là bất lợi không nhỉ? Nhưng vì nó hào nhoáng nên nếu trong game thì chắc là nổi tiếng lắm.
+À phải rồi, Thần kiếm không có tên riêng.
+
+Tôi thử vung kiếm xem kỹ năng kiếm có tăng không nhưng hình như không có. Có lẽ phải dùng kiếm giết địch mới tăng được.
+
+Còn có những món hiếm khác. Pháo, bệ pháo gắn vô số nỏ, bệ pháo bắn ra giáo, v.v., những món để đối phó với kẻ địch bay trên trời. Tôi chỉ đọc lướt qua phần giải thích nhưng có vẻ không chỉ có pháo hỏa dược mà còn có những món bắn bằng sức mạnh ma pháp.
+
+Và trên hết là súng!
+Có khoảng 100 khẩu súng nạp đạn từ nòng, khoảng 50 khẩu súng gập nòng trông giống như súng trường. Đỉnh điểm là 12 khẩu súng bắn ra ma lực. Nói trước cho chắc, cả FFW và WW đều không có súng. WW có pháo, nhưng súng thì không.
+Tôi lấy ra khẩu ma pháp đoản súng trông nhỏ nhất.
+Nó là một khẩu súng trang trí quá mức, cỡ như súng Derringer. Có cả vành bảo vệ cò súng.
+
+Ở chỗ bình thường là chốt an toàn trên súng thật, có một công tắc với các vạch chia độ 0, 1, 3, 10. Tôi vặn từ 0 lên 1.
+
+Tôi cầm một tay nhắm vào tảng đá gần đó rồi bóp cò.
+
+Có tiếng “pạch” nhẹ vang lên, nhưng không thấy đường đạn.
+Kiểm tra tảng đá làm bia, thấy một cái lỗ cỡ đồng 10 yên xuyên qua. Tảng đá cứng dày hơn 2 mét mà xuyên thủng được, thật đáng nể. MP tiêu thụ là 1. Hầu như không có độ giật, cảm giác như súng laser vậy. Quả nhiên đây không phải giả tưởng mà là khoa học viễn tưởng sao?
+Khi vặn lên mức 10 rồi bắn, tảng đá vỡ tan tành. Uy lực này chắc là giết chết lũ quái vật cỡ Ogre trong một phát. MP tiêu thụ là 10.
+
+“Hiệu suất cao quá mức rồi đấy.”
+
+Nếu mà cài đặt vào game như một vật phẩm nạp tiền thì chắc sẽ là thảm họa mất. Người dùng ma pháp bình thường chắc sẽ tuyệt chủng.
+
+Sau đó tôi vừa di chuyển vừa nghịch súng khoảng một tiếng đồng hồ.
+
+◇
+
+Sau khi kiểm tra xong đống vật phẩm, tôi suy nghĩ về điều khiến mình băn khoăn lúc nãy.
+
+“Nguồn suối là gì nhỉ.”
+Tôi lẩm bẩm một mình.
+
+Là dòng “Nguồn suối: Đã thống trị Thung lũng Rồng” trong log ấy.
+
+...Chắc chắn là không liên quan gì đến thuế thu nhập cá nhân đâu nhỉ.
+
+Ngoài log đó ra, không có bất kỳ dòng chữ nào liên quan đến “Nguồn suối: Thung lũng Rồng” cả.
+Bình thường thì tôi sẽ bỏ qua kiểu “chắc là mơ thôi”, nhưng có gì đó khiến tôi thấy bận tâm.
+Tôi vừa chạy vừa suy nghĩ để thay đổi không khí, nhưng chẳng nghĩ ra được gì, ngược lại tôi còn bị cuốn vào việc chạy, rồi chẳng còn quan tâm đến chuyện đó nữa.
+
+Tự tôi còn thấy mình nói năng lủng củng.
+Quả nhiên, không có cuộc trò chuyện nào và sống suốt nhiều ngày thế này không ổn chút nào. Không hợp với tôi chút nào.
+
+Chẳng biết từ bao giờ, tôi đã đến gần nơi mà dù đi bộ cũng chỉ mất tầm 1 ngày là tới đường cái.
+Hiện tại trên bản đồ vẫn chưa hiển thị nơi có con người sinh sống. Chỉ thấy con đường cái nối từ Tây Bắc sang hướng Tây.
+Nhân tiện, từ lúc xuất phát đến giờ chưa từng có sự hiện diện nào khác ngoài bản thân tôi hiển thị trên bản đồ.
+Chẳng lẽ họ đã sợ tiếng gầm rú và động đất của trận mưa thiên thạch vốn được gọi là thiên tai mà bỏ chạy hết rồi sao?
+Tôi đã thôi chạy và quay lại đi bộ.
+
+“Muốn tắm ghê~”
+
+Quả nhiên 3 ngày không tắm, đầu ngứa quá.
+Đun nước thì chịu, nhưng nước thì có. May mắn là bụi đất cũng đã lắng xuống, nên nếu tắm nước thì có vẻ sẽ không bị dơ thêm.
+
+Tôi rửa tảng đá bằng nước, cất quần áo và giày vào kho đồ, rồi trèo lên trên đó dội nước từ đầu xuống.
+
+“Hơi lạnh một chút nhưng mà sống lại rồi.”
+
+Thở phào nhẹ nhõm, tôi lấy ra tấm vải sạch trong chiến lợi phẩm để lau khô người.
+Vì đã sạch sẽ, để ngủ một giấc, tôi lấy chiếc giường có màn che trong chiến lợi phẩm ra đặt giữa vùng hoang dã.
+
+Ngày hôm đó, lần đầu tiên sau 3 ngày, tôi đã ngủ.
+
+Sáng hôm sau, nhìn cái màn che, tôi nghĩ chắc dùng để phơi đồ được nên lấy xô ra giặt quần áo bằng nước, rồi dàn ra phơi.
+
+Cứ thế, tôi nằm ườn trên giường nửa ngày trời trong khi gặm thịt khô.
+Tôi đã kỳ vọng có ai đó đi ngang qua đường cái, nhưng quá trưa rồi mà radar vẫn không có thay đổi gì.
+
+“Nếu là light novel hay manga thì kiểu gì cũng gặp cô công chúa bị cướp tấn công rồi chứ nhỉ~”
+
+Tôi thích mấy cái khuôn mẫu (template) như vậy.
+
+“Giấc mơ của tôi dịch vụ chán thật.”
+
+Tôi vừa đổ lỗi cho giấc mơ trong khi lờ đi đống báu vật và việc tăng cấp dễ dàng.
+Nếu là trong mơ hay trong truyện, chắc là đã có cờ (flag) xuất hiện rồi, nhưng chẳng có gì xảy ra cả.
+
+Thay bộ quần áo đã khô, tôi bước đi hướng về phía đường cái.
+
+※Đã thay đổi tất cả các chỗ ghi “Thung lũng Thần Rồng” thành “Thung lũng Rồng” cho đồng nhất.

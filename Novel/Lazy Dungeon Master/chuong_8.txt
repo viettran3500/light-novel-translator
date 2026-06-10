@@ -1,0 +1,132 @@
+Tôi đã cho chúng cái cuốc chim khi chúng bảo muốn mở rộng phòng, thế mà chúng lại giận. Thật không hiểu nổi.
+Nếu không gian đã có sẵn thì tiết kiệm được kha khá DP đấy chứ.
+
+Và rồi, 3 ngày nữa lại trôi qua trong sự nhàn rỗi không có việc gì làm.
+Tiện thể nói luôn, đám sơn tặc vừa lầm bầm chửi rủa vừa dùng cuốc chim đào phòng. Mấy thứ đất đá đào ra, hình như chúng vứt ra ngoài hầm ngục, nhưng về sau tôi đã thu hồi lại thành kho báu phía bên trong hầm ngục. Dù chẳng thu được đến 1 DP, nhưng có vẻ vì được tôi "giúp đỡ" nên tâm trạng chúng tốt lên, có vẻ sẽ đào mở rộng một cách đầy nhiệt huyết đây. Đúng là lũ đơn giản.
+
+"Ưm? Có cái gì đó đang tới gần kìa?"
+
+Rokuco lẩm bẩm.
+
+"Không phải sơn tặc à?"
+"Cảm giác khác lắm. Chắc là mạo hiểm giả. Đám sơn tặc cũng nhận ra rồi, hình như chúng đang chuẩn bị đón đánh đấy?"
+"Ra vậy... mười phần thì chín là đến điều tra vụ đám mạo hiểm giả lần trước không trở về rồi."
+
+Đường đột thật, nhưng cũng là cơ hội tốt. Tôi quyết định nói cho Rokuco nghe về kế hoạch tiêu diệt sơn tặc mà mình đang ấp ủ.
+Nói ra để con bé khỏi làm mấy trò thừa thãi.
+
+"Chúng cất công đến điều tra, chắc chắn lũ này trình độ cao hơn đám mạo hiểm giả trước kia. Chứ gửi cái lũ vô dụng hơn đám cũ mà không thấy về thì chỉ tổ tốn công vô ích thôi."
+
+Dưới góc nhìn của lũ sơn tặc, không thể để lộ cái "hang động bình thường" đã thay đổi hoàn toàn so với ban đầu rồi để bọn chúng quay về được. Thế nên, bắt buộc phải giết tên mạo hiểm giả này.
+Và nếu giết được tên mạo hiểm giả này, chắc chắn sẽ có đợt tiếp theo đến điều tra hay đại loại thế.
+...Tất nhiên, những mạo hiểm giả được cử đến sẽ ngày càng mạnh hơn.
+
+Không biết trụ được đến bao giờ, nhưng kiểu gì thì lũ sơn tặc cũng sẽ thua.
+
+Đúng vậy, đây chính là toàn bộ kế hoạch tiêu diệt sơn tặc mà tôi đã nghĩ ra.
+Và công việc của tôi là đảm bảo đám sơn tặc không từ bỏ căn cứ này cho đến lúc đó.
+
+Hửm? Bảo là không làm gì chỉ nằm ngủ thôi à? Không, không, không có chuyện đó đâu.
+Để có lương thực, đám sơn tặc thi thoảng vẫn đi săn, và chúng cống nạp một phần con mồi săn được cho hầm ngục. (Mấy bộ phận như nội tạng hay xương, mấy thứ sơn tặc không ăn, nhưng ít ra cũng đổi được thành DP). Đáp lại, tôi viết vào cái hộp những kế hoạch chiến đấu hiệu quả trong hang động để dạy cho chúng.
+Tất nhiên, dù là sơn tặc hay mạo hiểm giả, nếu chúng chết trong hầm ngục thì chúng tôi sẽ ngon lành nhận lấy DP, người hưởng lợi nhất chính là phía hầm ngục chúng tôi đây.
+
+...Chết tiệt, mình không muốn làm việc chút nào...!
+
+Dù nói vậy, nhưng công việc chỉ là nhận DP cống nạp rồi tiện tay ném đồ ăn cho lũ sơn tặc thôi nên cũng vẫn ổn.
+
+"Ôi... Kehma, tuyệt thật đấy! Không ngờ anh lại nghĩ ra được những thứ như vậy!"
+"Ừ. Tiện thể nói luôn, cái phòng Goblin kia, thực ra ta định biến nó thành cái 'hang động bình thường' làm mồi nhử đấy. Thậm chí nếu cần, ta sẽ chuyển lõi hầm ngục sang đó, rồi giả vờ như không biết gì về lũ sơn tặc: 'Hả? Sơn tặc á? Hầm ngục chúng tôi làm gì có liên quan?'"
+"Hê, ra là thế à... Em cứ tưởng anh quên mất rằng khi có kẻ xâm nhập thì chỉ có thể xuất quái vật từ lõi hầm ngục thôi chứ."
+
+À, cái đó thì tôi quên thật.
+
+"Thôi, mạo hiểm giả sắp đến nơi rồi kìa."
+"Ồ, tiện thể thì xem thử đi."
+
+***
+
+"Đại ca, mạo hiểm giả đến rồi."
+"Ồ, đúng như dự đoán nhỉ, đón đánh nào."
+"Dự đoán?"
+"Ừ, trong cái hộp chứa thanh kiếm chẳng phải có ghi là 'trong vài ngày tới mạo hiểm giả sẽ tấn công nên hãy bảo vệ nhé' sao."
+
+Tiện thể nói thêm, dạo gần đây tên cầm đầu sơn tặc đã học chữ, nên những câu đơn giản thì hắn đã đọc được.
+Lá thư từ hầm ngục (vì là cái hộp nên đúng ra phải là "hộp thư" nhỉ?) được viết bằng câu từ đơn giản nên tên cầm đầu sơn tặc có thể đọc được.
+Chà, vì mục đích đọc thư từ hầm ngục mà hắn học chữ, nên đọc được cũng là lẽ đương nhiên... Tên cầm đầu sơn tặc tự hào về sự thông minh của mình như thế.
+Hắn tự đắc rằng, kể từ khi lấy hầm ngục này làm căn cứ, hắn thấy mình thông minh lên hẳn.
+Hắn còn nghĩ rằng, nếu rời xa hầm ngục thì có khi hắn lại trở về làm tên ngốc mất.
+
+"...Đúng vậy, dùng lũ lính mới đi. Bảo với chúng là nếu giết được chúng nó thì sẽ được vào hàng ngũ cán bộ."
+"Rõ. Còn chúng ta thì sao?"
+"Nếu lính mới thất bại thì chúng ta dọn dẹp đám mạo hiểm giả đã mệt nhoài. Nếu thành công thì tốt quá."
+
+Thực tế, hầm ngục đã truyền dạy cho chúng khá nhiều chiến thuật.
+Dùng lính mới để dọn dẹp những tên không ra gì trước. Đây cũng là một trong những chiến thuật hầm ngục dạy.
+
+Có căn cứ che mưa che gió, lại chứa được của cải. Đó là đẳng cấp của một sơn tặc.
+Tất nhiên, nếu căn cứ bị lộ thì rất nguy hiểm, nhưng nếu cứ dọn sạch sành sanh những kẻ tìm đến thì sẽ không bị lộ... Trong thư hầm ngục cũng viết thế, và tên cầm đầu sơn tặc cũng nghĩ chắc là như vậy.
+
+Từ lối vào hầm ngục, vào góc khuất của căn phòng... chà, vì chật hẹp nên chen chúc lắm cũng chỉ chứa được chừng 7-8 tên hai bên. Lính mới đang phục kích ở đây.
+Đám sơn tặc còn lại thì đứng chờ ở lối đi dẫn sang các căn phòng trái phải mà hầm ngục đã mở rộng thêm. Để có thể tung đòn hỗ trợ bất cứ lúc nào.
+
+"Ơ? Ở đây chẳng phải ngay gần đó có lõi hầm ngục sao?"
+
+Đó là câu cuối cùng của một trong ba tên mạo hiểm giả.
+Một tên lính mới lao ra, vung kiếm tấn công kẻ địch đang mất cảnh giác.
+
+"Ăn đòn này!"
+
+Lưỡi kiếm gỉ sét cùn mòn chém trúng vào cổ tên mạo hiểm giả không giáp che chắn, gãy đốt cổ, hạ gục mục tiêu trong một đòn.
+Lính mới làm tốt lắm, hình như tên đó là một tên lưu manh? Tôi nhớ là hắn ồn ào và hay làm màu lắm.
+Tôi đã dặn là hãy cứ im lặng mà hành động cho đến khi ra đòn, nhưng với một tên lưu manh lần đầu giết người thì chắc là khó quá nhỉ. Nhưng dù sao, hạ được một tên mạo hiểm giả ngay đòn đầu tiên thì có thể nói là may mắn.
+
+"Hê, hê hê! Thế này là ta thành cán bộ rồi!"
+"Venice?! Chết tiệt, lũ sơn tặc à! 'Slash'!"
+"Hể? Ực..."
+
+Phản đòn của tên kiếm sĩ mạo hiểm giả khiến cổ tên lính mới bị chém đứt phân nửa. Vết thương này mà không có ma pháp hồi phục cao cấp ngay lập tức thì không cứu nổi -- nói cách khác, tên này đi đời rồi. Đòn đánh lén cũng là chí mạng nên coi như huề. Thanh kiếm sắc bén không biết là được bảo dưỡng kỹ hay sao... không, chắc là do tay nghề kiếm sĩ giỏi, vì hắn đã sử dụng kỹ năng. Tên lưu manh đổ gục xuống.
+
+Không ai ngu ngốc đến mức đứng nhìn cái xác đổ xuống, nhưng đám mạo hiểm giả hành động nhanh hơn lũ lính mới.
+
+"Khốn kiếp, tên có kỹ năng à! Dồn lên, đè bẹp bằng số đông! ...Ực, hự."
+
+Mũi tên từ tên mạo hiểm giả đứng sau xuyên qua bộ giáp da đã cũ, cắm phập vào ngực tên lính mới, khiến hắn tắt thở dễ dàng. Có lẽ không tin là hạ được ngay một đòn, hắn bồi thêm một mũi nữa vào đầu. Kỹ năng bắn nhanh có độ sát thương cao. Độ chính xác cũng tốt. Là đòn tấn công từ kỹ năng cung thủ của tên mạo hiểm giả hậu phương sao? Nhưng nếu là cung thủ thì nguyên tắc là áp sát sẽ hóa giải được. Việc hắn đứng yên tại lối đi khiến tôi nghĩ hay là hắn chưa quen thực chiến nhỉ? Hay là hắn nghĩ không thể bỏ mặc đồng đội mà chạy trốn?
+
+Từ đó trở đi là cuộc chiến bùn lầy. Dù thiếu mất một người nhưng chúng phối hợp rất tốt. Có vẻ mạo hiểm giả mạnh hơn lính mới. Việc chúng có thể dùng kỹ năng là bằng chứng rõ ràng, nhưng chúng không thắng được số đông. Tên kiếm sĩ bị bao vây, tên cung thủ cũng bị áp sát bằng cách dùng xác chết làm lá chắn, rồi cả hai đều bị hạ.
+
+Kết quả là đánh đổi bằng 5 tên lính mới hay làm màu, chúng đã tiễn được 3 tên mạo hiểm giả.
+Tên lính mới sống sót và tung đòn kết liễu mạo hiểm giả... chà, trong 3 tên đó thì 2 tên bị phản công chết, chỉ còn lại 1. Tên lính mới là cựu lính đánh thuê may mắn sống sót hạ được mạo hiểm giả, tôi định sẽ cho hắn làm cán bộ đúng như lời hứa.
+
+"Từ giờ cứ tăng cường lính mới thôi... chắc là cũng đủ để quản lý rồi.
+Sống sót là một tên cựu lính đánh thuê và một tên nô lệ tội phạm à... bọn lưu manh thì không được rồi.
+...Giờ thì, thế này đã đủ để tăng thêm phòng chưa nhỉ? Nhờ cả vào đấy, hầm ngục yêu dấu của ta."
+
+Và, cái hộp xuất hiện.
+Nội dung ghi là: "Cảm ơn nhé! Ta sẽ mở rộng phòng nên hãy ra ngoài đi".
+Bên trong hộp, thật cảm kích là có đầy lương thực. Cả ổ bánh mì thơm phức mà tên cầm đầu sơn tặc chưa từng thấy bao giờ. Mùi thơm giống loại quả cao cấp gọi là Melon. ...Tên cầm đầu vô tình đã từng một lần ngửi thấy mùi đó. Một phần lý do khiến hắn trở thành sơn tặc -- chà, chi tiết thì không tiện kể.
+
+Về ổ bánh mì đó, sau khi đưa cho tân cán bộ nếm thử như phần thưởng, hắn đã ăn với tốc độ chóng mặt và nói: "Đây là lần đầu ta được ăn ổ bánh mì ngọt ngào ngon đến thế này! Từ nay ta xin thề trung thành với đại ca!"
+Vẻ mặt hắn lúc đó nghiêm túc hơn cả lúc mới gia nhập, khiến tôi không nhịn nổi mà cười khổ.
+
+***
+
+Có vẻ đám mạo hiểm giả ngu ngốc hơn tôi nghĩ.
+Nếu tên trinh sát cảm thấy bất thường mà cảnh giác thì có lẽ đã chặn được đòn đánh bất ngờ của sơn tặc rồi.
+Hay là do chủ quan nghĩ đây chỉ là "hang động bình thường" nên lơ là? Hay do chúng khinh địch, cho rằng nếu chỉ có Goblin thì chẳng có vấn đề gì?
+Hay là chúng nghĩ trên đường đi nguy hiểm đã tăng lên rồi nên ở đây chắc không có gì đâu?
+...Có lẽ chúng nghĩ đám lính mới bị lạc đường rồi gặp nạn chăng.
+Dù thế nào đi nữa, lúc đám lính mới không quay về thì lẽ ra chúng phải cảnh giác hơn, chính việc lơ là đó là lỗi của chúng.
+
+"Chà, ngon lành cành đào thật đấy! Tự nhiên thấy đám sơn tặc đáng yêu phết. Dạo này lõi hầm ngục cũng không bị ai giẫm đạp nữa!"
+"Dù sao thì chúng vẫn là tội phạm mà."
+
+Thôi kệ, lần này tăng thêm khoảng 1900, DP lên thành 2951 DP. ...Khoảng 5 tên sơn tặc được 1000, 3 tên mạo hiểm giả được 900 nhỉ. Tuy thu nhập cố định từ 5 tên kia giảm đi, nhưng đổi lại như thế là đủ rồi.
+
+"...Làm theo yêu cầu mở thêm phòng đi. Vì phía bên trái chúng đang cố gắng dùng cuốc chim đào thẳng thêm căn phòng, nên bên này ta sẽ mở rộng mỗi bên một căn từ các phòng hiện có hướng vào sâu bên trong. Một bên có thể làm ngục tối cũng được. ...À phải rồi, đãi chúng chút lương thực đi. Thử xem nếu cho chúng ăn Melon-pan (bánh mì dưa lưới) ở thế giới này thì sẽ thế nào nhỉ, thú vị đây."
+"Melon-pan? Cái gì thế? Trong menu DP có món đó à?"
+"Có chứ?"
+
+Tôi cho 'Tập hợp bánh ngọt (15 DP)', 'Tập hợp bánh mặn (15 DP)', 'Bộ rau củ & thịt khô (15 DP)' vào trong 'Hộp (5 DP)', viết thêm lời nhắn bảo đám sơn tặc hãy ra ngoài hầm ngục, rồi gửi vào bên trong hầm ngục.
+
+Mất 630 DP để mở rộng phòng, còn lại 2271 DP.
+...Vẫn còn xa mới tới 10.000 DP nhỉ.

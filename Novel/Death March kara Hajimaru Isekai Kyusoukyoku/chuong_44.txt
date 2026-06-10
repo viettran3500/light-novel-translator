@@ -1,0 +1,154 @@
+※2018/6/11 Đã sửa lỗi chính tả.
+
+Ta là Satou. Những buổi thí nghiệm hóa học thời còn học cấp hai đúng là những khoảng thời gian tuyệt vời nhỉ?
+
+Ta nhớ rằng những môn thực hành khác hẳn với những buổi học lý thuyết trên lớp, nó giúp ta tiếp thu kiến thức rất hiệu quả.
+
+◇
+
+Để những suy đoán tồi tệ không có căn cứ dắt mũi mình thì thật là khó chịu. Nếu đó là sự thật thì chắc đám dũng giả cũng sẽ đánh bại chúng như mọi khi thôi. Nếu họ thua, thì lúc đó ta sẽ thay đám rồng gánh vác trách nhiệm mà tiêu diệt lũ đó.
+
+Hít thở sâu vài lần, tâm trí ta dần bình ổn lại.
+Chỉ số MND (Tinh thần) cao quả nhiên hữu dụng một cách bất ngờ.
+
+◇
+
+Ta đã quay trở về phòng. Quay lại với vấn đề chính.
+Điều ta muốn làm tiếp theo là kiểm chứng và thực hành giả kim thuật. Vì niệm chú chỉ có thể luyện tập dần dần nên ta sẽ để dành lúc trên đường tới Mê cung đô thị vậy.
+
+Trước tiên là kiểm chứng kho lưu trữ (Storage).
+
+Ta lấy một món đồ làm từ bột ra.
+Nó vẫn còn ấm.
+Ta cắn thử một miếng. Hương vị không hề thay đổi.
+
+Ta cất phần còn lại vào kho lưu trữ.
+Giờ mới để ý, tên vật phẩm ghi là "Bánh Seiryu". Giá mà đặt tên nó nghe kêu hơn một chút thì tốt nhỉ.
+
+Ta tạo một ghi chú mới với tiêu đề "Kiểm chứng kho lưu trữ". Ta viết ngày tháng và tình trạng vào đó.
+
+Tạm thời thì khả năng giữ nhiệt rất tốt, thậm chí có thể nó còn có năng lực cố định trạng thái nữa. Ta ghi thêm điều đó vào ghi chú. Nghĩ đến việc nó có khả năng làm chậm thời gian hay dừng thời gian thì đúng là hơi mơ mộng quá rồi.
+
+Lần này ta lấy chiếc bánh Seiryu đã cất trong kho báu (Treasury) ra. Cái này thì đã nguội ngắt rồi. Hương vị cũng chỉ ở mức đồ ăn nguội bình thường. Nó không bị thối rữa đột ngột, dù sao cũng mới để nửa ngày nên thế là hiển nhiên rồi.
+
+Ta ghi chú rằng cái này không có khả năng giữ nhiệt.
+
+Tiếp theo, ta thử nghiệm xem có thể di chuyển vật phẩm qua lại giữa kho lưu trữ và kho báu được hay không.
+
+Ta nhỏ mực lên một đồng tiền đồng để đánh dấu.
+
+Ta cố gắng đưa đồng xu vào kho báu nhưng không được.
+Xem ra với kỹ năng cấp 1 thì chỉ chứa được 1 món. Khi ta tăng kỹ năng lên cấp 2 thì nó đã vào được. Ta thử với đồ vật nhỏ thì có thể cất được 4 loại vật phẩm, mỗi loại 4 cái. Có lẽ là bình phương cấp độ chăng? Ta cũng thêm chi tiết này vào ghi chú.
+
+Khi mở cửa sổ kho lưu trữ trên menu, tab "Item Box" đã xuất hiện.
+Ta kéo vật phẩm vào kho lưu trữ.
+
+Mở kho báu ra xem, việc di chuyển đã hoàn tất.
+Ta làm tương tự theo chiều ngược lại và cũng không gặp vấn đề gì.
+
+Việc truy cập vào kho báu thông qua kho lưu trữ không tiêu tốn MP.
+
+Ta cũng ghi chú thêm điều này vào mục kiểm chứng kho lưu trữ.
+Để xem sau này nó dùng vào việc gì được đã.
+
+Tiếp theo, ta thử xem có thể tìm kiếm nội dung bên trong các cuốn sách trong kho lưu trữ hay không. Nếu có thể lén tra cứu lúc gặp khó khăn giống như chuyện viên đá rồng (Dragon White Stone) hôm nay thì tiện lợi lắm.
+Trong game, ta có thể tìm kiếm phần mô tả vật phẩm. Vì thế ta muốn thử xem có tra được cả nội dung bên trong hay không... À thì, hồi còn chơi game, sách vốn chẳng có nội dung bên trong mà.
+
+Ta chạm vào cuốn "Hướng dẫn du lịch Vương đô" trong kho lưu trữ và chọn tìm kiếm từ menu hiện lên.
+Khi tìm từ khóa "Lâu đài", mô tả về Vương thành hiện ra. Có vẻ như tìm kiếm không có vấn đề gì.
+Kết quả tìm kiếm được hiển thị.
+A, chức năng này đúng là thứ ta hằng mong ước ngoài đời thực mà! Không cần phải scan sách hay dùng OCR (nhận diện ký tự quang học) nữa! Thế giới giả tưởng thật đáng sợ!
+
+Ta chợt nảy ra ý định thử nghiệm.
+Nếu xem được kết quả tìm kiếm thì không phải cũng xem được nội dung sách sao?
+Vì menu không có mục kiểu như "Đọc", ta thử thực hiện tìm kiếm với ô trống xem sao, và nó đã thành công.
+Toàn bộ văn bản hiện ra, có thể cuộn đọc giống như tài liệu trên máy tính. Cảm giác giống như đọc file PDF vậy. Ở trạng thái đó ta còn có thể tìm kiếm từ khóa, tiện hơn nhiều so với đọc sách thông thường.
+
+Tiếp theo, ta thử chuyển cuốn sách đó vào kho báu.
+
+Đáng tiếc là ở đó lại không thể thực hiện tìm kiếm.
+Rốt cuộc sự khác biệt nằm ở đâu nhỉ?
+
+◇
+
+Ta lấy bộ dụng cụ giả kim ra và đặt lên cái bàn ở góc phòng. Những cuốn sách vẫn đang được cất trong kho lưu trữ. Ở trạng thái này, giống như những hiển thị khác trên menu, ta có thể đọc sách bất chấp căn phòng có tối hay không.
+
+Ta đọc cuốn "Nhập môn Giả kim thuật". Đây là cuốn sách mà ông lão Gnome đã nhấn mạnh rằng phải đọc đầu tiên. Có lẽ nên gọi là tập sách nhỏ thì đúng hơn? Nó chỉ mỏng chừng 20 trang.
+
+Cuốn sách bắt đầu với phần giới thiệu về các dụng cụ. Vì có kèm theo hình minh họa nên ngay cả người mới cũng không sợ dùng nhầm dụng cụ. Hèn gì ông lão lại nhấn mạnh phải đọc nó trước.
+
+Trước tiên, ta lấy cối và chày ra. Không phải loại bằng sứ trắng mà ta quen thuộc, mà là chiếc cối màu hồng nhạt. Sau khi xem bằng Giám định, hóa ra nó làm bằng đá mã não. Mã não chẳng phải là đá quý sao?
+
+Ta làm đúng như sách hướng dẫn, lấy loại thảo dược khô được ghi là "Thuốc thử 1" rồi giã nát trong cối, đổ nước vào một cái bát nhỏ rồi dùng thanh kim loại mảnh khuấy tan thảo dược đã giã vào đó.
+Chỉ mất khoảng 5 phút kể từ lúc bắt đầu là việc điều chế đã xong. Đúng là nằm ngay trang đầu của sách nhập môn nên cực kỳ đơn giản.
+
+> "Đã có được kỹ năng Điều chế"
+
+Ta lập tức phân bổ điểm tối đa vào kỹ năng Điều chế để kích hoạt nó.
+Dung dịch thu được là "Thuốc hạ sốt". Sau khi giám định, nó có tên là "Thuốc hạ sốt - 3", nội dung là "Thuốc nước có tác dụng hạ sốt. Hiệu quả cực kỳ thấp, chỉ ở mức an tâm về mặt tâm lý". Đây là lần đầu điều chế, chất lượng thấp cũng là lẽ thường thôi.
+
+◇
+
+Ở trang tiếp theo của cuốn sách nhập môn có viết: "Người có ma lực hãy tiến tới chương 2, người không có ma lực hãy tiến tới chương 4".
+Cách viết này không mang cảm giác như sách hướng dẫn phần mềm kinh doanh, mà giống sách trò chơi (gamebook) thời xưa hơn.
+
+Chương 2 là nhập môn về Luyện thành. Có vẻ như nó dùng để chế tạo độc dược. Theo giải thích, thuốc tạo ra bằng Điều chế và ma dược tạo ra bằng Luyện thành dù hiệu quả giống nhau nhưng được coi là hai thứ khác biệt. Ma dược có ưu điểm là hiệu quả phát huy ngay lập tức, nhưng cần chất xúc tác ma lực hoặc MP để chế tạo.
+
+Ta tiến hành công việc luyện thành ma dược theo sách. Ta cho dung dịch đã điều chế ban nãy vào cốc đong kim loại. Sau đó vừa khuấy vừa từ từ đổ "Thuốc thử 2" vào.
+Dường như phải truyền ma lực vào trước khi thuốc thử 2 lắng xuống. Ta chụm hai tay bao quanh cốc đong, hình dung việc truyền ma lực từ tay phải sang tay trái rồi rót vào.
+Lúc niệm chú cũng vậy, việc truyền ma lực từ tay phải sang tay trái phải chăng là một quy luật nào đó? Hay chỉ đơn thuần là thói quen?
+
+Khi truyền ma lực vào, thuốc thử 2 bắt đầu lấp lánh ánh sáng nhạt. Có lẽ do căn phòng hơi tối nên ta nhìn thấy ánh sáng lấp lánh đó rất rõ. Khi ánh sáng tắt đi cũng là lúc hoàn thành.
+
+> "Đã có được kỹ năng Luyện thành"
+
+Không phải là kỹ năng Giả kim thuật sao. Ta cũng sẽ tăng kỹ năng Luyện thành lên tối đa luôn.
+Ma dược hoàn thành là "Thuốc giải sốt - 4". Vứt đi thì phí nên ta chuyển vào bình gốm nung rồi cất vào kho lưu trữ.
+
+◇
+
+Ta mở menu định lưu công thức điều chế vào mục ghi chú. Lúc đó, ta thấy tab "Sản xuất" đã xuất hiện trên menu. Khi mở tab ra, ngoài "Điều chế: Thuốc hạ sốt", "Luyện thành: Ma dược giải sốt" vừa làm, còn có "Mộc công: Gậy (tức thời)", "Phức hợp: Thương chân côn trùng (tức thời)", "Phức hợp: Thương chân côn trùng (cải tiến)".
+
+Trước đây hình như không có, liệu có phải là do điều kiện số lượng công thức trên 5 cái hay sao? Hay là do điều kiện nằm ở chỗ các công thức không phải loại "tức thời"? Vì đây là kỹ năng độc nhất nên cũng chẳng có cách nào kiểm chứng, ta dừng suy đoán ở đây.
+
+Ta thử chạm vào "Điều chế: Thuốc hạ sốt". Có 4 menu con là: Điều chế, Xem công thức, Hủy công thức, và Chi tiết. Mục Điều chế bị xám lại, có vẻ như vô hiệu. Ta cứ tưởng có thể thực hiện điều chế ngay trong kho lưu trữ, đáng tiếc là không phải. Ta thử trả các loại thuốc thử và dụng cụ về kho lưu trữ nhưng nó vẫn không hiệu quả. Có lẽ còn điều kiện nào đó chăng.
+
+Cứ thế, ta thực hành hết 6 chương của cuốn sách nhập môn. Mỗi chương có 1 công thức nên ta đã học được 4 công thức gồm: "Điều chế: Thuốc giảm đau", "Điều chế: Thuốc trị thương (thuốc mỡ)", "Luyện thành: Thuốc hồi phục hạ cấp", "Luyện thành: Ma dược giảm đau".
+
+Có lẽ do đã tăng kỹ năng lên tối đa, các loại thuốc từ chương 3 trở đi đều có dấu "+5" kèm theo. Nội dung ghi là "Hiệu quả cực kỳ cao, chất lượng tối thượng". Để hôm nào ta kiểm chứng xem sự khác biệt thực tế thế nào.
+
+◇
+
+Có chuyện ta đã để ý từ lúc thực hành chương 5 của cuốn sách nhập môn...
+Phía sau cánh cửa có khí tức đang nín thở. Hai đốm sáng trên radar vẫn đứng yên từ nãy đến giờ.
+Ta nhẹ nhàng tiến tới gần cửa, rồi đột ngột mở cửa hướng vào trong.
+
+Hai người ngã nhào vào phòng như thể bị cửa kéo đi là Arisa và Martha-chan.
+
+"Hai người đang làm gì đấy?"
+
+Ta hỏi trong khi nhìn xuống hai người. Giọng điệu có chút bằng phẳng.
+
+"Kh-không phải đâu", Arisa ngụy biện bằng giọng Kansai không hiểu từ đâu ra.
+"E-em chỉ là thấy chị Arisa dán sát vào cửa nên đang nhắc nhở chị ấy thôi ạ", Martha-chan nói.
+Dù nói thế nhưng em cũng dán ở đó hơn 5 phút rồi còn gì?
+
+Ta bước lại gần hai người đang bối rối. Họ quay người trên sàn, hướng về phía hành lang rồi định vùng chạy.
+Ta nhanh chóng tóm lấy cổ áo hai người để khống chế.
+
+"Đang làm gì đấy?", ta truy vấn lại lần nữa.
+
+"Em xin lỗi, tại em bị cám dỗ bởi suy nghĩ rằng có thể nhìn thấy dáng vẻ xấu hổ của Satou-san nên em mới nhìn trộm", Martha-chan thành thật nhận lỗi.
+
+"Ư~, thì là, một nam thanh niên đang ở tuổi dậy thì lại sống chung với các cô gái! Mà lại tự mình vào phòng một mình?! Chẳng lẽ anh không nghĩ rằng việc giám sát xem những hành động xấu hổ nào đang diễn ra chính là trách nhiệm của người bảo hộ sao?"
+
+Ai là người bảo hộ cơ.
+Hơn nữa, cái gì mà hành động xấu hổ chứ... Cô không phải học sinh cấp hai mới lớn đâu đấy nhé.
+
+Ta tha cho Martha-chan vì đã thành thật. Còn Arisa, vì chưa hối lỗi, hay đúng hơn là quá thành thật với dục vọng của bản thân nên ta tặng cho ba cú búng trán như một hình phạt.
+Có vẻ dù ta đã nương tay nhưng vẫn đau, cô nàng ôm trán lăn lộn trên sàn. Thỉnh thoảng bị phạt thế này cũng là bài học tốt đấy.
+
+*Nhân vật chính đã dễ dàng vượt qua phần kết có chút nặng nề của lần trước. Có vẻ anh chàng đã bắt đầu tận dụng được chỉ số MND cao của mình rồi.*
+*Tác giả sẽ rất nhẹ nhõm nếu cứ đà này mà anh chàng cũng vượt qua được luôn cái tính nhát gan của mình~*
+
+*Dù việc niệm chú không được suôn sẻ nhưng nhân vật chính lại lĩnh hội giả kim thuật cực nhanh. Có lẽ một phần là do nó là sự tiếp nối của các thí nghiệm khoa học ở thế giới cũ của anh ta chăng.*

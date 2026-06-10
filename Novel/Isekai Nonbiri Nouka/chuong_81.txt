@@ -1,0 +1,269 @@
+Vì có yêu cầu về các loại trò chơi mới, tôi chợt nhớ đến sự tồn tại của trò cờ ca-rô lập thể (3D tic-tac-toe) nên đã thử làm một bộ.
+
+Cách làm khá đơn giản: Cắm các thanh gỗ lên bảng theo hàng 3x3, rồi làm những viên bi có đục lỗ để xỏ vừa vào các thanh đó là xong.
+
+Sau khi chơi thử một chút, tôi nhận ra rằng việc chiếm được vị trí ở tầng thứ hai của cột trung tâm sẽ mang lại lợi thế áp đảo, thế nên tôi bèn làm thử bộ cờ ca-rô lập thể 4x4.
+
+Nó thực sự rất sâu sắc.
+
+Ngay cả khi đã xếp được một hàng, đôi khi người chơi vẫn không nhận ra, tạo nên những tình huống vô cùng kịch tính.
+
+À, quy tắc ở đây là nếu xếp được hàng mà không tuyên bố ngay lúc đó thì sẽ không được tính.
+
+Chính vì vậy, khá nhiều người bất cẩn bỏ lỡ để rồi bị lật kèo thua ngược.
+
+Thấy đà đang lên, tôi thử làm luôn bộ cờ 5x5, nhưng đó là một thất bại.
+
+Nó tốn quá nhiều thời gian và chẳng thể chơi một cách thư thái được.
+
+***
+
+"Huy chương khen thưởng sao?
+Ngài làm những chuyện thật kỳ lạ nhỉ."
+
+Draime đang vừa tán gẫu vừa chơi cờ ca-rô lập thể 4x4 với Rusty.
+
+Có lẽ vì Hakuren ở lại làng nên số lần ghé thăm của Draime đã giảm đi chăng?
+
+Hay là nhờ các chuyến vận chuyển bằng Lamia mà việc mua sắm những thứ mình muốn trở nên dễ dàng hơn, nên ông ấy không cần đến thường xuyên nữa?
+
+Như để kiểm chứng điều đó, Hakuren đã chen ngang vào cuộc trò chuyện.
+
+"Draime-chan.
+Chẳng lẽ là em không muốn gặp chị sao?"
+
+"Hahaha.
+Chị à, chị đùa quá lời rồi."
+
+"Thế à~.
+Vậy chị đến chơi ở nhà em cũng được chứ nhỉ?"
+
+"Hả?
+À, v-vâng, tất nhiên là được ạ. Chỉ là hiện tại bên đó đang có chút bận rộn nhiều việc, nên khi nào có thời điểm thích hợp, em xin phép sẽ liên lạc với chị sau ạ."
+
+"Chị đùa thôi. Đừng có hoảng hốt như thế."
+
+"A, a-hahaha..."
+
+"Mà này Rusty-chan.
+Về huy chương khen thưởng mà em nhận được với tư cách là đại diện chủng tộc, chị có thể góp ý về cách sử dụng nó không?"
+
+"Vâng.
+Em cũng chưa nghĩ ra cụ thể là dùng vào việc gì, chị có ý tưởng nào sao?"
+
+"Chị đang nghĩ liệu có thể đảm bảo (thu thập) thêm nhân loại hay ma tộc không nhỉ."
+
+"Chị à?
+Việc dùng làm vật tế lễ thì em xin từ chối nhé."
+
+"Này này Draime-chan.
+Em nghĩ chị là kiểu người sẽ đòi hỏi những thứ như thế à?
+Chị giận thật đấy nhé."
+
+"Thứ lỗi cho em."
+
+"Thực ra là thôn trưởng có ý..."
+
+***
+
+"Thu thập nhân loại và ma tộc?"
+
+Đó là đề xuất được đưa ra trong cuộc họp của các đại diện chủng tộc.
+
+Ý kiến này được đưa ra sau khi các chủng tộc đóng góp một số lượng huy chương khen thưởng nhất định.
+
+Mục đích của nó là nhằm giải quyết vấn đề mà tôi đã đề cập từ trước đến nay.
+
+"Trong làng đang thiếu nam giới."
+
+"Nếu không đào tạo thêm người làm nông ngoài tôi ra, thì nếu chẳng may tôi có mệnh hệ gì, ngôi làng sẽ sụp đổ."
+
+Đề xuất thu thập nhân loại và ma tộc chính là để giải quyết hai vấn đề này.
+
+Ra là vậy.
+
+Tôi nghĩ đó không phải là ý kiến tồi, nhưng...
+
+"Định thu thập bao nhiêu người vậy?"
+
+"Càng đông càng tốt ạ."
+
+"Thì đúng là vậy, nhưng liệu làng có ổn không khi bỗng nhiên tăng dân số đột ngột?"
+
+Trước đây, chúng tôi có sự linh hoạt để đối phó với việc nhân số tăng lên.
+
+Nhưng hiện tại, một số lượng người nhất định đã tập trung lại và hình thành nên cấu trúc làng.
+
+Việc tăng dân số cấp tốc chắc chắn sẽ kéo theo nhiều vấn đề.
+
+Thú thực, khi mười nữ quan văn đến, tôi cũng đã dự đoán sẽ có rắc rối xảy ra.
+
+Nhưng nhờ Frau đã quản lý tốt họ nên mọi chuyện đều ổn.
+
+Vậy nếu hỏi liệu sau này vẫn sẽ ổn chứ, thì tôi nghĩ câu trả lời là không chắc.
+
+Dù không biết họ sẽ dùng mối quan hệ nào để đưa người đến, nhưng nếu một lượng lớn người cùng đến làng mới, chắc chắn sẽ nảy sinh vấn đề.
+
+"Vì vậy, tôi đề xuất chúng ta sẽ xây dựng một ngôi làng mới ở nơi khác."
+
+"Ý cô là sao?"
+
+"Đúng như lời tôi nói. Xây một ngôi làng mới ở địa điểm khác, và để những nhân loại hay ma tộc được tập hợp làm nông nghiệp ở đó."
+
+"... Ra là vậy."
+
+Vấn đề nảy sinh vì ở chung, vậy thì tách ra ngay từ đầu là giải pháp hợp lý.
+
+...
+
+Không tệ chút nào.
+
+Không, tôi nghĩ đó là một ý tưởng hay.
+
+"Tôi hiểu rồi."
+
+Chuyện trong cuộc họp chỉ là đề xuất, không phải quyết định.
+
+Quyền quyết định cuối cùng nằm ở tôi, thôn trưởng.
+
+Tất nhiên, trách nhiệm của quyết định đó cũng nằm ở tôi.
+
+Tôi không có ý định trốn tránh trách nhiệm, nhưng tôi vẫn muốn làm một nông dân thảnh thơi hơn là làm thôn trưởng.
+
+Vì thế tôi từng đề xuất lấy quyết định bằng cách bỏ phiếu đa số, nhưng đã bị phủ quyết.
+
+Kết quả là chỉ mình tôi tán thành.
+
+Hơn nữa, họ thuyết phục rằng trong một môi trường khắc nghiệt, bắt buộc phải có sự quyết định từ người lãnh đạo mạnh mẽ.
+
+Frau cũng nằm trong phe thuyết phục đó, nên việc lấy lý do là đại quan để nhường lại quyền quyết định xem ra không ổn.
+
+Vậy nên, tôi đã quyết định.
+
+"Chúng ta sẽ thực hiện việc xây làng mới và tập hợp dân làng."
+
+À, tôi cũng đã trả lại số huy chương khen thưởng đã nhận được.
+
+Dù sao đó cũng không phải vật để dâng đơn kiến nghị.
+
+Những chuyện như thế này cứ trực tiếp nói với tôi là được rồi.
+
+***
+
+Dù đã quyết định xây làng mới và tìm người, nhưng tôi chẳng làm gì cả.
+
+Vì chẳng có việc gì để làm.
+
+Hiện tại cũng chưa cần thiết phải làm gì.
+
+Việc chọn địa điểm xây làng mới đã có các High Elf và lũ Kuro lo liệu.
+
+Tôi cứ nghĩ xây gần sông là tốt, nhưng lại bị thuyết phục rằng nếu gần quá thì khi lũ lụt sẽ rất phiền, và cũng cần phải chú ý để không kích động lũ ma vật sống trong rừng một cách vô ích.
+
+Thế nên, tôi xin phó thác cho mọi người.
+
+Về phần tập hợp dân làng, Frau, Rusty và Hakuren đang thảo luận với Draime, Beezel và ông Michael.
+
+Dù là mời gọi, nhưng nghe nói có rất nhiều thủ tục rắc rối, lại còn phải thông báo cho cả nơi họ đang ở hiện tại nữa, đủ thứ phức tạp.
+
+Xin lỗi, cái này cũng xin phó thác cho mọi người.
+
+Phó thác thì phó thác vậy... nhưng không được tham gia cũng thấy hơi cô đơn.
+
+Chẳng còn cách nào khác, tôi đành dồn sức vào sự kiện Đại hội thể thao mà tôi đã ấp ủ từ trước để làm cơ hội giành huy chương khen thưởng.
+
+Các thành viên trong Ủy ban điều hành Đại hội thể thao là tôi và các nữ quan văn.
+
+Loo, Tia và tộc Quỷ Nhân vì bận chăm con nên chỉ giữ vai trò cố vấn.
+
+Còn có Flora nữa, nhưng cô ấy đang bận cải thiện hương vị nước tương và miso nên không thể bắt cô ấy làm việc quá sức được.
+
+Đại hội thể thao thì quan trọng thật, nhưng nước tương và miso cũng quan trọng không kém.
+
+***
+
+Tôi đã điều tra đủ kiểu để quyết định nội dung cho Đại hội thể thao.
+
+Và kết quả điều tra đã khiến tôi một lần nữa nhận ra khoảng cách giữa các chủng tộc.
+
+Tộc Quỷ Nhân có tốc độ chạy trên địa hình bằng phẳng là áp đảo, trong khi tộc Dwarf thì chậm đến mức tôi phải nghi ngờ xem họ có đang chạy thật lòng hay không.
+
+Nếu là chạy vượt rào, các High Elf lại vô cùng nhanh nhẹn, các的山 Elf và tộc Thú Nhân cũng không hề kém cạnh.
+
+Tộc Dwarf thì cứ phá tan chướng ngại vật mà tiến lên nên cũng chẳng chậm.
+
+Tất nhiên là vẫn có khác biệt giữa cá nhân, nhưng sự chênh lệch giữa các chủng tộc ngay từ đầu là quá lớn đến mức tôi nhận ra mình không thể tổ chức các nội dung thi đấu công bằng được.
+
+Ban đầu tôi định chia đội theo chủng tộc, nhưng có lẽ thế là không ổn.
+
+Mà nếu chia theo chủng tộc thì tùy nội dung mà lũ Kuro hay Zabuton không thể tham gia, hơn nữa lại có những người quá mạnh như Rusty hay Hakuren.
+
+Về thể chất, lại còn vấn đề là tộc Thú Nhân thì quá trẻ so với các chủng tộc khác.
+
+Cần phải xem xét lại.
+
+Có lẽ chia làm hai đội Đỏ và Trắng một cách đơn thuần để thi đấu là ổn nhất chăng?
+
+Chia như thế nào thì tốt nhỉ?
+
+Có nên chia mỗi chủng tộc làm đôi rồi phân bổ vào các đội không?
+
+***
+
+Dù không có cuộc thi nào gọi là "Đại hội thể thao", nhưng hình như cũng có những sự kiện tương tự.
+
+Đại hội thể thao mà tôi nghĩ đến là loại đại hội thể thao thông thường mà tôi từng trải qua ở thế giới cũ.
+
+Chạy nước rút, chạy vượt rào, ném bóng vào rổ, lăn bóng, lật cột, kỵ mã chiến... tôi đã nghĩ một cách nhẹ nhàng rằng chỉ cần tổ chức các nội dung đó rồi chen vào các trận cổ vũ là được.
+
+Nhưng qua lời kể của các nữ quan văn về những sự kiện tương tự mà họ biết, trong đầu tôi lại hiện ra những từ khóa như: Đại hội võ thuật, Đại hội ma thuật, Đại hội săn bắn, Tiếp sức đường dài siêu cấp, Đấu giả lập.
+
+Đại hội võ thuật đúng như tên gọi của nó.
+
+"Có loại đại hội quy định vũ khí và loại tự do vũ khí ạ. Loại tự do vũ khí thì phổ biến hơn."
+
+Đại hội ma thuật thì giống Đại hội võ thuật nhưng được phép sử dụng ma thuật.
+
+"Đôi khi những phép thuật tưởng như mờ nhạt lại đem lại hiệu quả bất ngờ, học hỏi được rất nhiều ạ."
+
+Đại hội săn bắn thì nghe nói lấy bối cảnh là một khu rừng nào đó, cạnh tranh xem ai săn được con mồi loại gì, kích thước bao nhiêu...
+
+"Không hẳn là thi đấu sống chết, mà thiên về mặt giao lưu xã hội nhiều hơn. À, thỉnh thoảng cũng có người không biết điều (không đọc được bầu không khí)."
+
+Tiếp sức đường dài siêu cấp là cuộc thi vận chuyển hàng hóa từ thị trấn này đến thị trấn xa xôi khác.
+
+Phương thức vận chuyển tự do, dùng gì cũng được. Ai vận chuyển xong đống hàng quy định đầu tiên sẽ thắng.
+
+"Vì mục đích thiết lập con đường vận chuyển nên nó được tổ chức với tần suất khá thường xuyên."
+
+"Chỉ là, tuy việc cản trở đối thủ về lý thuyết là bị cấm, nhưng chẳng ai có thể canh chừng hết được nên thành ra là 'cái gì cũng được'."
+
+Đấu giả lập thì đúng là đấu giả lập.
+
+"Là luyện tập chiến tranh đó ạ. Thường có khá nhiều người bị thương."
+
+"Có người chết cũng không phải là chuyện hiếm."
+
+...
+
+Nghe xong, tôi quyết định tạm dừng kế hoạch Đại hội thể thao và suy nghĩ phương án khác.
+
+Các nữ quan văn tỏ ra hứng thú với nội dung thi đấu mà tôi đề xuất, nhưng việc để lộ ra sự chênh lệch chủng tộc quá nhiều là một vấn đề.
+
+Dù có thể coi đó là cá tính, nhưng tôi không muốn tạo ra sự phân biệt thắng thua kỳ lạ rồi khiến mọi người trở nên xa cách.
+
+Mục đích tôi muốn tổ chức Đại hội thể thao là để giải trí.
+
+Nói cách khác...
+
+Tôi nhớ lại chương trình thần tượng mà mình từng xem trong phòng bệnh ở thế giới cũ.
+
+Không, thứ tôi nhớ lại là chương trình tiếp theo đó.
+
+Đó là chương trình khám phá những điều thú vị khắp thế giới.
+
+Và trong đó có một mục.
+
+"Lễ hội trên thế giới".
+
+Tôi chợt nhận ra, thứ mình cần làm là lễ hội đó, chứ không phải là đại hội thể thao trường học.

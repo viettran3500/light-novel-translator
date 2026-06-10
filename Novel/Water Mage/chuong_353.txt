@@ -1,0 +1,141 @@
+Mọi thứ đều suôn sẻ.
+Đó là từ ngữ để diễn tả sự khởi đầu hành trình khám phá Tây Dungeon của nhóm.
+
+Đúng như lời hứa vào đêm trước, sáng hôm sau, phía nhà trọ đã chuẩn bị toàn bộ trang bị cần thiết cho việc khám phá dungeon.
+Tất nhiên, chi phí này được tính riêng với tiền phòng, nhưng cũng chẳng đáng là bao.
+So với việc phải tự mình đi khắp nơi trong một thành phố lạ để tìm mua trang bị, thì cách này giúp họ giảm bớt áp lực đến kinh ngạc.
+Hơn nữa, là một nhóm lần đầu tiên thâm nhập vào Tây Dungeon, họ vốn dĩ chẳng thể nào hiểu hết được "cần phải chuẩn bị những gì".
+
+Tất nhiên, trong nhóm cũng có những người đã từng thâm nhập vào Dungeon ở Rune rất nhiều lần, nhưng mỗi dungeon lại có những đặc thù riêng biệt.
+Những thứ vốn không được coi trọng ở Rune, hoặc những thứ hoàn toàn không cần thiết, ở đây lại có thể là vật dụng tối quan trọng.
+
+Thế nhưng, với đẳng cấp của một nhà trọ như thế này, họ còn hiểu rõ về dungeon hơn cả những mạo hiểm giả tầm trung.
+Bởi vì việc chuẩn bị trang bị không phù hợp cho những vương công quý tộc hay các mạo hiểm giả nổi tiếng, hoặc không thể trả lời thỏa đáng khi khách hàng tham vấn... là những điều tuyệt đối không được phép xảy ra.
+Điều đó liên quan trực tiếp đến danh tiếng của chính nhà trọ.
+
+Chính vì vậy, với tư cách là những chuyên gia, họ phải am hiểu về dungeon ngang bằng, hoặc thậm chí là hơn cả những mạo hiểm giả thực thụ thường xuyên ra vào dungeon...
+
+Đó chính là lòng hiếu khách (hospitality) của nhà trọ.
+
+Mang theo những trang bị hoàn hảo như vậy, cả nhóm đã đến cổng tiếp nhận đặt ngay lối vào dungeon.
+Tại đó, chuyện của nhóm họ cũng đã được phía nhà trọ thông báo từ trước như một điều đương nhiên.
+Từ số lượng người, cho đến việc họ là những người sở hữu "Thánh Ấn Trạng" (giấy phép đặc biệt).
+
+"Mời các vị. Mỗi người hãy đeo cái này vào cổ. Đây là thẻ chuyển dịch."
+Thứ được trao cho từng người là một chiếc thẻ nhỏ chỉ bằng đầu ngón tay cái.
+Nó được thiết kế để đeo quanh cổ giống như một sợi dây chuyền.
+
+Tại mỗi tầng, ngay trước cầu thang dẫn xuống tầng tiếp theo đều có một thứ trông giống như tấm bia đá cỡ người thật.
+'Bia đá' có chức năng ghi chép, khi chạm đến đó, tầng đó sẽ được coi là đã hoàn thành.
+Khi được xác nhận là đã hoàn thành, họ có thể sử dụng tính năng chuyển dịch để quay trở lại lối vào từ vị trí đó.
+
+Và từ lần sau trở đi, thông qua chức năng của 'bia đá' ở lối vào, họ có thể nhảy cóc thẳng đến tầng đã hoàn thành.
+
+Việc chuyển dịch chỉ có thể thực hiện:
+Chỉ từ 'bia đá' ở lối vào.
+Và chỉ hướng tới 'bia đá' ở lối vào.
+
+Ví dụ, người đã hoàn thành đến tầng mười thì không thể nhảy từ tầng mười sang tầng năm... không thể có chuyện đó.
+Tương tự, cũng không thể nhảy từ tầng ba sang tầng năm...
+Chỉ có thể từ tầng mười về lối vào, hoặc từ lối vào sang tầng năm.
+
+Ngoài ra, các tầng khác vẫn phải đi xuống bằng cầu thang bộ như thường lệ...
+
+"Đã rõ. Không có vấn đề gì."
+Nils đại diện cả nhóm trả lời sau khi nghe giải thích.
+
+Bên cạnh đó, Ryo đang run lên vì vui sướng.
+
+"Cuối cùng, cuối cùng cũng đến rồi! Những lá cờ (flag) bị gãy liên tục... mình đã có thể đối mặt với những tình tiết điển hình của dòng chuyển sinh dị giới! Cuối cùng cũng là một cuộc thám hiểm dungeon tử tế! Mình đã chờ đợi khoảnh khắc này bao lâu rồi... bao nhiêu tinh tú trôi qua kể từ khi mong chờ dungeon... Hừ hừ hừ... mình đã chờ đợi các người đó..."
+Tiếng lẩm bẩm của Ryo thực sự rất nhỏ, không ai nghe rõ được nội dung.
+
+Thế nhưng...
+
+"Biểu cảm của Ryo-san..."
+"Đó là cái kiểu đó quen thuộc rồi..."
+"Lại định làm chuyện gì không hay rồi..."
+Amon chỉ ra, Eto suy đoán, và Nils kết luận.
+
+Cứ như thế, cả nhóm cuối cùng cũng đặt chân vào tầng một...
+
+Và 'Mọi thứ đều suôn sẻ' chỉ dừng lại ở đó.
+
+"...Cái quái gì thế này, tại sao lại đông người thế?"
+"Toàn là... người thôi nhỉ."
+Eto vô thức lẩm bẩm, Amon cũng gật đầu đồng tình.
+
+Tầng một chật kín người.
+Ma vật ư, ngay cả cái bóng hay hình thù cũng chẳng thấy đâu.
+
+Thế nhưng, những con người đông đúc đó cũng không phải đang trò chuyện hay tụ tập tán gẫu.
+Phần lớn họ đều cầm trên tay những chiếc cuốc chim...
+
+"Khai thác khoáng thạch... à."
+Nils nói.
+"Ừm... ở dungeon Rune, đôi khi cũng thấy mạo hiểm giả cầm cuốc ở tầng năm nơi khai thác Ma Đồng Quặng."
+Eto nhớ lại cảnh tượng ở Rune rồi gật đầu.
+"Nhưng cũng không đông đến mức này đâu nhỉ. Chắc vì đây là tầng một chăng?"
+Amon cũng gật đầu tán thành.
+
+Nhắc mới nhớ, ba người của 'Phòng 11' vẫn đang đứng đờ đẫn.
+Vốn dĩ, 'Phòng 11' là nhóm lâu nay chỉ hoạt động ở Vương đô, đây là lần đầu tiên họ thâm nhập dungeon.
+Dẫu vậy, bất cứ ai cũng có thể thấy họ đang kinh ngạc trước khoảng cách quá lớn giữa dungeon mà họ nghe kể với dungeon mà họ nhìn thấy trước mắt lúc này.
+
+Ví dụ như Gowan, không hề là lối nói ẩn dụ, cái miệng há hốc của anh ta mãi vẫn chưa khép lại được...
+
+Còn Ryo... thì đang quỳ gối, hai tay chống xuống đất.
+Tư thế của sự tuyệt vọng.
+"Lại... lại một lần nữa... lá cờ của những tình tiết điển hình... bị gãy..."
+Dù anh ta có lẩm bẩm gì đi nữa, giờ đây cũng chẳng còn ai quan tâm.
+
+"Ờm~, theo 'Bản đồ Dungeon' nhận được, tầng một có vẻ là tầng của Lesser Mouse (Chuột nhỏ)..."
+Eto giải thích.
+Tất nhiên, ngay cả một con chuột... cũng không thấy bóng dáng đâu...
+
+"Đi xuống tầng dưới nhanh thôi."
+"Vâng."
+Nils nói với giọng đầy thở dài, Harold gật đầu đáp lại.
+
+Ryo vẫn giữ nguyên tư thế tuyệt vọng, bị Amon và Gowan kéo đứng dậy từ hai bên.
+Bước chân của Ryo đương nhiên là vô cùng yếu ớt.
+Đúng chuẩn cái từ "lảo đảo" luôn...
+
+Trước cầu thang dẫn xuống tầng hai có một 'bia đá' để ghi chép, tại đó việc hoàn thành tầng một đã được xác nhận.
+Trên mặt của bất kỳ ai trong nhóm cũng chẳng hề có lấy một chút thỏa mãn nào...
+
+"...Đã xong tầng mười rồi nhỉ."
+"...Ừ."
+"...Khác xa với dungeon ở Rune thật đấy."
+"Chắc chắn là do nhầm lẫn thôi, chúng ta còn chưa tiêu diệt nổi một con ma vật nào cơ mà."
+Eto nêu sự thật, Nils đồng tình, Amon so sánh, còn Ryo thì cố gắng trốn tránh thực tại.
+
+Ba người của Phòng 11 im lặng.
+
+Nhìn ba người của Phòng 11 như vậy, Amon lên tiếng.
+"Nhưng mục đích của chúng ta là gặp Merlin-san mà."
+
+"Quả đúng là như vậy..."
+Nils, Eto, Ryo đồng thanh. Ba người Phòng 11 cũng gật đầu.
+
+Phải rồi, không được quên mục đích chính.
+Gặp gỡ nhân vật được coi là quân sư của Ma Vương tên là Merlin (?), hỏi tung tích của Ma Vương, và dùng máu của hắn để giải lời nguyền linh hồn cho Harold.
+
+Vì mục đích đó mà họ mới thâm nhập vào đây.
+
+"Thôi, tạm thời hôm nay chúng ta quay về đã. Nghe nói còn có bản đồ từ tầng mười một trở xuống nữa, hãy tìm mua cái đó rồi ngày mai quay lại."
+Trước đề nghị của Eto, mọi người đều gật đầu.
+
+Thâm nhập dungeon mà không có thông tin là hành động quá liều lĩnh.
+Đó là lẽ thường tình của mạo hiểm giả.
+
+Ngày hôm sau.
+Họ lại tham vấn nhà trọ và có được bản đồ đến tầng năm mươi.
+
+"Người của nhà trọ nói là, sự ồn ào ở mười tầng đầu chỉ là chuyện mới gần đây thôi."
+"Nghe bảo Giáo hội đã tuyên bố sẽ thu mua lượng lớn khoáng thạch khai thác được từ các tầng trên đến tầng mười."
+"Đúng là... gây náo loạn cả lên!"
+Amon nói, Nils bổ sung, còn Ryo thì phẫn nộ.
+
+Từ tầng mười một trở xuống, có vẻ như vẫn chưa bị sự ồn ào đó ảnh hưởng...
+
+Cuối cùng thì... bức màn cuộc chinh phạt Tây Dungeon của cả nhóm cũng chính thức mở ra.

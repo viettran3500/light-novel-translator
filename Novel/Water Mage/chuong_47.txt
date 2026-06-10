@@ -1,0 +1,184 @@
+Đây là phần dịch thuật cho chương truyện bạn đã cung cấp:
+
+Ngày thứ năm, cũng là ngày cuối cùng của khóa học dành cho người mới bắt đầu thám hiểm dungeon.
+Buổi sáng, mọi người sẽ tham gia hỏi đáp tại phòng học, và vào buổi chiều, toàn bộ học viên sẽ thực sự đi xuống tầng một của dungeon.
+
+Cho đến ngày thứ tư, những thông tin cơ bản cần thiết để thám hiểm dungeon đều đã được truyền đạt.
+Cấu trúc của dungeon, các loại bẫy cần chú ý, kẻ địch cần cảnh giác, hay những công cụ cần thiết để thám hiểm, v.v.
+
+Nhân tiện, trong buổi thực hành vào chiều ngày thứ năm này, những công cụ tối thiểu cho việc thám hiểm, ví dụ như thuốc hồi phục (potion) hay thuốc giải độc, sẽ được bang hội cung cấp.
+Điều này cực kỳ hữu ích đối với những người mới bắt đầu.
+
+Những người mới bắt đầu dungeon, nhìn chung, phần lớn cũng là những người mới vào nghề mạo hiểm giả.
+
+Nếu không tính đến các mạo hiểm giả đến từ các quốc gia hoặc thị trấn khác, thì những người đăng ký làm mạo hiểm giả tại thị trấn Run sẽ bắt đầu bằng việc rèn luyện kỹ năng tại các tầng trên của dungeon.
+Vừa tận dụng những viên ma thạch và nguyên liệu thu được từ dungeon để bán cho bang hội kiếm tiền và tích lũy thành tích, họ vừa nhận thêm các yêu cầu trên mặt đất để tăng cấp bậc mạo hiểm giả.
+
+Đó là hướng hoạt động chủ đạo của các mạo hiểm giả ở thị trấn Run: vừa làm công việc trong dungeon, vừa xử lý các yêu cầu trên mặt đất để thăng tiến.
+Ví dụ, Nils và Eto ở cùng phòng với Ryo, lịch trình của họ là thứ Hai-Tư-Sáu đi dungeon, thứ Ba-Năm làm nhiệm vụ trên mặt đất, và nghỉ thứ Bảy-Chủ Nhật.
+
+Dù muốn hay không, họ cũng sẽ tích lũy được kinh nghiệm thực chiến ngay trong dungeon.
+Chính vì liên tục làm việc đó ngay từ sớm, các mạo hiểm giả ở thị trấn Run được cho là có kỹ năng chiến đấu tốt hơn mạo hiểm giả ở các thị trấn khác.
+
+Và khi đã đạt đến một cấp bậc mạo hiểm giả nhất định, đứng ở vị trí nhận được nhiều yêu cầu có thù lao cao trên mặt đất, họ sẽ ít đi xuống dungeon hơn.
+Vì không cần xuống sâu trong dungeon mà vẫn có những yêu cầu trả thưởng hậu hĩnh trên mặt đất, nên chẳng có lý do gì để họ phải mạo hiểm.
+
+Kết quả là, những nơi sâu thẳm của dungeon vẫn chưa được khám phá.
+Tầng sâu nhất từng được ghi nhận là tầng 38.
+Xét đến việc vượt qua tầng 30 là các tổ đội hạng B cũng bắt đầu phải chật vật, thì việc không thể tiến xa hơn nữa cũng là điều dễ hiểu.
+
+***
+
+"Cuối cùng cũng đến chiều, sắp vào dungeon rồi. Em thấy hồi hộp quá."
+Amon nói nhỏ với Ryo.
+"Vẫn còn là buổi sáng mà. Amon, nếu bây giờ đã căng thẳng thì đến chiều là cậu sẽ kiệt sức mất thôi."
+Ryo đáp lại với một nụ cười khổ.
+"Tôi biết là vậy, nhưng mà..."
+
+Ngay bên cạnh cuộc trò chuyện thì thào, buổi hỏi đáp vẫn đang tiếp tục.
+
+Đây là hình thức mà các học viên đặt ra những câu hỏi chưa được đề cập trong các bài giảng trước đó, và những giảng viên vốn là cựu mạo hiểm giả của bang hội sẽ giải đáp.
+Tuy nhiên, chẳng có ai hỏi những thông tin mà Ryo đang muốn biết cả.
+(Ừm... mình tự hỏi vậy. Dù hơi xấu hổ nhưng... "hỏi một lúc thì xấu hổ một lúc, không hỏi thì xấu hổ cả đời" mà.)
+
+"Có ai còn câu hỏi nào khác không?"
+
+Ryo giơ tay.
+"Ừ, Ryo, em có gì à?"
+"Vâng, có lẽ chuyện này không liên quan trực tiếp đến dungeon ở thị trấn Run, nhưng liệu có tồn tại chức năng như 'dịch chuyển' đến những tầng đã từng vượt qua không ạ?"
+Ngay khi câu hỏi đó thốt ra, tất cả mọi người ngoại trừ giảng viên đều ngơ ngác.
+Ngay cả Amon bên cạnh Ryo cũng ngẩn người ra.
+
+Ừ, phản ứng đúng như dự đoán.
+
+"Ồ, Ryo, em biết nhiều đấy nhỉ. Những dungeon như vậy quả thực là có tồn tại. Để bổ sung cho câu hỏi của Ryo, ví dụ như nếu đã vượt qua đến tầng mười, thì lần sau xuống có thể bắt đầu thám hiểm từ tầng mười, loại dungeon như vậy thực sự tồn tại."
+Các học viên nghe thấy vậy đều vô cùng kinh ngạc.
+
+Đó là điều đương nhiên.
+
+Nếu có chức năng như thế, người ta có thể trở về nhà mỗi ngày, sau khi hồi phục sức khỏe lại có thể tiếp tục thám hiểm từ nơi đã dừng lại.
+Đối với một mạo hiểm giả dungeon, không có chức năng nào tiện lợi hơn thế.
+
+Thế nhưng...
+"Nhưng đáng tiếc là dungeon ở Run đây không có chức năng đó. Hình như dungeon ở các nước phương Tây thì có... nhưng đó cũng chỉ là chuyện ta nghe kể, chứ cơ chế cụ thể ra sao thì ta cũng không rõ."
+"Vâng, cảm ơn thầy ạ."
+(Quả nhiên là dungeon ở Run không có loại đó nhỉ. Mà thôi, mình cũng chỉ muốn thử đi dungeon một chút chứ không định đặt mục tiêu chinh phục hoàn toàn, nên cũng không sao.)
+
+Đang nghĩ vậy thì Amon thì thầm vào tai cậu.
+"Ryo-san, anh biết nhiều chuyện thật đấy! Đúng là mạo hiểm giả hạng D."
+Phải rồi, ba người cùng phòng là Amon, Nils và Eto đều đã được Ryo chia sẻ chuyện cậu đăng ký là mạo hiểm giả hạng D ngay ngày đầu tiên chuyển vào ký túc xá.
+Dù vậy, vì Nils và Eto là tiền bối trong nghề, Ryo luôn giữ ý để không làm mất mặt họ.
+
+"Không đâu, anh chỉ nghe lõm được chút ít thôi..."
+Ánh mắt lấp lánh của Amon, đối với Ryo mà nói, lại tạo ra một áp lực ngược lại.
+
+***
+
+Rồi buổi chiều đến, toàn bộ học viên lũ lượt di chuyển đến dungeon.
+
+Dungeon của thị trấn Run nằm ngay trung tâm thị trấn.
+Chính xác hơn là thị trấn được xây dựng lấy dungeon làm trung tâm.
+Thị trấn được bao quanh bởi tường thành, nhưng khu vực xung quanh lối vào dungeon còn được bao bọc bởi một lớp phòng tuyến kép nữa.
+
+"Như đã giải thích trong bài giảng, vài năm một lần, quái vật có thể xuất hiện với số lượng lớn trong dungeon, và đôi khi chúng sẽ tràn lên mặt đất. Để ngăn không cho chúng thoát vào trong thị trấn, lớp phòng tuyến kép này đã được xây dựng."
+Tường thành của thị trấn là để ngăn chặn các cuộc tấn công từ bên ngoài, còn phòng tuyến ở lối vào dungeon là để nhốt những con quái vật tràn ra từ bên trong dungeon lại.
+
+Bên cạnh lối vào dungeon có một trạm chi nhánh của bang hội mạo hiểm giả.
+Khi vào dungeon, tên tuổi và ngày giờ sẽ được ghi lại.
+Nếu quá lâu không thấy ra ngoài, họ sẽ bị xử lý trong bang hội là "không rõ tung tích".
+Ngoài ra, khi trở về từ dungeon, bạn cũng có thể bán ma thạch và nguyên liệu tại trạm chi nhánh này.
+
+"Hôm nay, thông tin của tất cả học viên đã được ghi lại rồi, nên cứ thế này mà xuống dungeon thôi!"
+Tiếng của giảng viên vang lên khiến các học viên cảm thấy căng thẳng.
+
+Ryo và Amon cũng không ngoại lệ.
+Amon đặc biệt cứng đờ cả người.
+"Amon... anh nghĩ cậu nên thả lỏng một chút. Nào, hít thở sâu đi."
+
+*Hít vào... thở ra...*
+
+"Đ-đỡ hơn chút rồi ạ."
+Chẳng thay đổi gì mấy... Ryo nghĩ thầm nhưng không dám nói ra.
+"À, ừ. Mà mọi người cũng ở đây cả nên không sao đâu."
+"Vâng."
+
+Nói rồi, cả hai đi theo cuối đoàn học viên, bước qua cánh cửa kép của dungeon để tiến vào bên trong.
+
+"Rộng thật đấy ạ."
+Vượt qua cánh cửa và đi xuống khoảng một trăm bậc thang, họ đã đến tầng một của dungeon.
+Đó là một sảnh đường vô cùng rộng lớn. Rộng đến mức không thể nhìn thấy cả những bức tường bao quanh.
+
+"Như đã nói trong bài giảng, ở tầng một này không xuất hiện loại quái vật gì ghê gớm đâu. Các em có thể tự do di chuyển, nhưng hãy hoạt động trong phạm vi có thể nhìn thấy sảnh này. Hai tiếng sau chúng ta sẽ ra ngoài. Nếu lúc đó mà chưa quay lại, ta sẽ để các em ở lại và gửi yêu cầu cứu hộ đến bang hội đấy. Nếu rơi vào trường hợp đó thì đừng hòng mơ đến việc xuống dungeon thêm lần nào nữa!"
+
+Ryo và Amon kết thành một cặp và đi bộ quanh sảnh.
+Amon là kiếm sĩ, nhưng vì chỉ mới rời khỏi làng từ ngày hôm qua nên cậu ta chưa có kỹ năng gì đáng kể.
+Hình như Amon đã từng được một mạo hiểm giả đã nghỉ hưu ở làng dạy kiếm thuật, nhưng cũng chỉ mới khoảng nửa năm nay. Vì vậy, trong khi di chuyển, họ không chia thành tiền vệ kiếm sĩ mà đi song song với nhau.
+
+"Ừm? Có gì đó kìa."
+Ryo thì thầm với Amon.
+"Hả? Ở đâu vậy ạ?"
+Nói đoạn, Amon ngó nghiêng tìm kiếm khắp nơi.
+
+"Không, ở phía trước kia, nhưng vẫn còn khoảng cách. Khoảng một phút nữa chúng ta sẽ chạm trán. Anh sẽ dùng ma thuật hệ Thủy để chặn chân nó lại, sau đó Amon hãy tấn công bằng kiếm nhé."
+"V-vâng, em hiểu rồi!"
+Amon trông vẫn cứng đờ đến mức ai nhìn cũng thấy...
+(Thôi thì, cứ chặn đứng chuyển động của đối phương hoàn toàn là được.)
+
+Một phút sau, cuối cùng họ đã nhìn thấy con quái vật.
+
+"Là Soldier Ant (Kiến lính). Khác với các loại Kiến khác, bọn này không phun axit kiến. Chém lìa phần cổ là cách dễ dàng nhất."
+Đó là loại quái vật cấp thấp có ghi trong cuốn "Đại từ điển Ma vật - Tập nhập môn" mà Michael (tên giả) đã tặng.
+Chiều dài cơ thể khoảng một mét. Hình như bọn chúng cũng xuất hiện trong dungeon.
+"Vâng, em hiểu rồi ạ."
+
+"Được rồi, anh sẽ chặn chân nó lại nhé. <Hỡi nước, bằng sức mạnh lạnh lùng ấy, hãy xuyên thủng kẻ thù – Icicle Lance!>"
+Từ tay trái của Ryo, chín ngọn thương băng được phóng ra, vẽ nên những đường đạn rồi từ trên không trung lao thẳng vào Soldier Ant.
+
+*Ghiiiiiiiiii!*
+
+Tiếng thét của con Soldier Ant vang vọng.
+Chín ngọn thương băng đã xuyên thủng sáu cái chân, bụng, thân và đầu của nó, ghim chặt nó xuống mặt đất.
+
+"Amon, tiến lại từ bên hông rồi chém lìa cổ nó đi."
+"Vâng!"
+Amon rút kiếm, vẽ một vòng cung ngược chiều kim đồng hồ để áp sát vào bên hông của Soldier Ant, rồi với tất cả sự tập trung, cậu vung kiếm từ trên cao xuống.
+"Hự!"
+
+*Xoẹt!*
+
+Cái đầu của Soldier Ant đã lìa khỏi thân, nó cũng ngừng thở ngay sau đó.
+
+"Làm tốt lắm!"
+Ryo vừa vỗ tay vừa tiến lại gần Amon.
+
+"Phù... phù... phù..."
+Amon vẫn còn hơi hưng phấn.
+Nhưng sau khi hít thở sâu vài lần, cậu đã bình tĩnh lại.
+
+"Em làm được rồi, Ryo-san."
+"Ừ, làm rất tốt. Nguyên liệu thì khó xử lý đấy, nhưng cứ lấy ma thạch mang về đi. Dù sao đây cũng là kỷ niệm chiến lợi phẩm đầu tiên của Amon ở dungeon mà."
+Ryo vừa cười vừa nói.
+
+"Ơ? Có được không ạ?"
+"Chúng ta là mạo hiểm giả mà. Ở dungeon, có kiếm được mới là quan trọng chứ?"
+Nói rồi, Ryo lấy con dao do Michael chế tạo đâm vào phần đầu của con Soldier Ant đã bị chém lìa.
+
+Các loại quái vật hệ động vật thường có ma thạch gần tim, nhưng các loại quái vật hệ côn trùng thì phần lớn ma thạch nằm ở đầu.
+Và trong cuốn Đại từ điển Ma vật có ghi rằng Soldier Ant có ma thạch ở đầu.
+
+Chẳng bao lâu sau, cậu lấy ra một viên ma thạch nhỏ bằng đầu ngón tay út.
+"<Hỡi nước, hãy hiện ra>"
+Rửa bằng nước xong, viên ma thạch trở nên sạch sẽ và có màu vàng nhạt.
+Có vẻ là thuộc tính Thổ.
+
+Ryo đưa viên ma thạch đó cho Amon.
+"Kỷ niệm đấy."
+"Vâng."
+Nhận lấy nó, Amon suýt chút nữa bật khóc.
+Dù không phải kẻ địch gì ghê gớm hay có kỷ niệm sâu đậm gì, nhưng không hiểu sao tuyến lệ của cậu lại chực trào ra. Tuy nhiên, cậu đã cố gắng kìm lại.
+
+"Được rồi, giờ chúng ta thong thả quay lại điểm tập kết thôi. Ở trong dungeon, xác quái vật này sẽ được lũ Slime dọn dẹp sạch sẽ nhỉ. Tiện lợi thật đấy, dungeon ấy."
+Ryo nói rồi bước đi bên cạnh Amon, người đang mải mê ngắm nhìn viên ma thạch với vẻ vui sướng.
+
+(Để xây dựng sự tự tin, cách tốt nhất là tích lũy những trải nghiệm thành công.)
+Amon, người đã cứng đờ từ khi mới bước vào dungeon... giờ đây, bóng dáng của sự sợ hãi đó đã không còn lấy một chút nào nữa.

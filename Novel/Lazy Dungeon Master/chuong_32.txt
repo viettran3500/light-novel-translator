@@ -1,0 +1,249 @@
+Đây là phần trung của trận chiến. ...Ừm? Ai nói đây là phần tiền và phần hậu vậy nhỉ? À, xin lỗi nhé.
+
+“Ngay lối vào đã có hố bẫy rồi sao?!”
+“Cho đám Goblin đi trước! Dẫm vào hố thì mới phát hiện ra được!”
+
+Phía bên 'Thử thách của Bạch', thuộc hạ thân tín phụ trách tấn công của Haku đang cuống cuồng đối phó với bẫy.
+Đó là những cái hố ngăn cản bước tiến ngay từ đầu. Ngay lập tức, vài con đã bị nuốt chửng.
+Nếu đây không phải là Dungeon, thì đã có thể dùng xác chết lấp đầy hố, nhưng oái oăm thay, trong Dungeon Battle, xác chết sẽ bị hấp thụ ngay lập tức.
+Dẫu vậy, nếu xác định được vị trí hố bẫy, thì chỉ cần tránh chúng mà đi là được.
+
+“Được rồi, đã xác định được vị trí hố bẫy, tiếp tục xâm nhập!”
+“! Khoan đã, Minotaur rơi xuống rồi! ...Ư, bị cọc đâm xuyên người rồi, chết ngay lập tức!”
+“Tại sao?! Chỗ đó đáng lẽ lúc nãy Goblin đã đi qua rồi mà...!”
+
+Thế nhưng, 'Cái hang chỉ là hang' còn có cả những cái hố bẫy không phản ứng với Goblin mà chỉ phản ứng với Minotaur và Lizardman.
+
+“Hố bẫy chọn mục tiêu sao...?! Cái đó đáng lẽ phải tốn rất nhiều DP... Có phải hắn muốn định đoạt thắng bại ngay từ đầu không nhỉ?”
+“Aaa! Lại Minotaur nữa! Chỉ còn 11 con! Lizardman cũng chỉ còn 30 con thôi! Misha, làm tròn vai trò trinh sát đi chứ!”
+“Thì em đã bảo chỗ đó lúc nãy Goblin vừa đi qua mà!”
+
+Lại một con Minotaur nữa rơi xuống, số lượng giảm dần.
+Ở một nơi khác, Lizardman và 2 con Goblin cùng đứng lên một mặt sàn, rồi mặt sàn đó sụp xuống thành hố bẫy.
+Khoảnh khắc mặt sàn sụp đổ đó, Haku không hề bỏ sót.
+
+“...Hiểu rồi. Lý do Goblin không rơi xuống... chắc chắn là nó phân biệt bằng trọng lượng.”
+“Ra là vậy, nếu thế thì điều kiện không cần quá khắt khe, tiết kiệm được DP nên mới có thể chuẩn bị số lượng lớn như vậy. ...Hắn tính toán kỹ thật đấy.”
+“Dưới sàn hố bẫy chắc chắn là trống rỗng. Dù tốn thời gian, nhưng hãy cứ gõ, vừa đi vừa xác nhận âm thanh đi.”
+“Rõ! Goblin, tiến lên!”
+
+*
+
+“Chết tiệt, lỗi vận hành rồi. Goblin không rơi vào hố. ...Chỗ đó do mình thiếu ngủ nên làm lúc làm việc nên độ dày của sàn không đồng đều... Ưm, sai lầm rồi. Độ mỏng chưa đủ.”
+“À, nhìn kìa Keema. Minotaur rơi xuống rồi đó.”
+“Thật á? Này Niku, bẫy hố lập công lớn rồi kìa.”
+“D, dạ, giúp ích được cho ngài là em mừng rồi ạ.”
+
+Phía 'Cái hang chỉ là hang', đó là một chiến quả ngoài dự kiến.
+
+*
+
+“Đã đột phá tầng 1 của Dungeon địch! ...Trên đường đi, bị phục kích dai dẳng nên đã có thiệt hại. Goblin đã ít đi rồi.”
+“Cái trò mở cửa gỗ ra rồi kiếm bắn ra đâm xuyên người, thật là xuất sắc.”
+“Cái đó, lần tới mình cũng muốn dùng thử xem. ...Tình hình bên phòng thủ thế nào?”
+“Đội quân địch đã đến tầng 3! ...Bằng bẫy lửa, chuột đã bị chặn đứng một phần rồi ạ!”
+
+Bẫy lửa đúng như tên gọi, là bẫy phun ra lửa.
+Lần này, lửa được thiết lập để phun ra theo một nhịp độ nhất định. Nếu để lửa phun liên tục tạo thành hàng rào ngăn chặn hoàn toàn thì bẫy sẽ lỗi và bị vô hiệu hóa, nên không thể chặn đứng hoàn toàn được.
+
+“...Đối thủ là chuột nên Lizardman của ta cũng chẳng giúp ích được gì mấy nhỉ. Còn phía tấn công thì sao?”
+“Tầng 2 của địch là... một mê cung ạ!”
+“Hừm. Dám dùng mê cung để thách thức 'Mê cung của Bạch' à. Chia nhỏ đội quân ra rồi khám phá đi.”
+
+Dẫu vậy, nếu đối đầu với mạo hiểm giả thì không nói, nhưng trong Dungeon Battle thì mê cung không hiệu quả cho lắm.
+Vì đã có bản đồ, và từ trung tâm chỉ huy có thể dựa vào đó để chỉ dẫn lộ trình.
+
+“Hửm, hình như có Golem đang đi tuần tra. Nhóm 5 con, ...c, cung tên?! Golem chia thành hàng trước hàng sau, hàng sau dùng cung tên yểm trợ! Goblin không thể chống đỡ nổi!”
+“! Golem mà cũng biết bắt chước mạo hiểm giả sao? Được lắm. Chỉ còn cách dùng Lizardman đối phó... cho Goblin làm lính gác, theo thứ tự Lizardman rồi đến Minotaur mà tiến lên.”
+“Oa oa?! Vũ khí của địch mạnh quá! Kiếm của Lizardman bị chém đứt rồi?! Đội quân Golem này... 3 con hàng trước, tất cả đều trang bị ma kiếm!”
+
+“Cái gì? ...Golem, mà trang bị ma kiếm?!”
+
+Cho dù hiệu suất DP của Golem có tốt đến đâu, Golem cũng không phải loại quái vật mạnh đến mức đáng để trang bị ma kiếm.
+Ma kiếm vốn dĩ đã tốn rất nhiều DP, nếu là ma kiếm thì đáng lẽ phải trang bị cho những con quái vật mạnh hơn, linh hoạt hơn mới đúng.
+
+“Mà này, từ nãy đến giờ toàn là Golem không nhỉ. Chắc là hắn thích Golem lắm đây.”
+“...Có lẽ vì có kỷ niệm gì đó nên mới dùng chăng? Nhưng cái sự mềm lòng đó sẽ là tử huyệt. Tập hợp đội quân lại, dùng Minotaur kẹp gọng kìm!”
+“Rõ! ...Ơ, ơ kìa?! Khoan, đợi chút, bản đồ lạ lắm, chỗ này, tại sao lại là tường thế này?!”
+“...!”
+
+Đối chiếu bản đồ với tầm nhìn của quái vật, nhưng con đường lẽ ra phải có lại biến mất.
+Trong lúc đang bối rối vì tình thế thay đổi, đội quân đang định hợp lại đã bị tiêu diệt sạch.
+
+“Không lẽ là 'Biến Ảo Mê Cung'... ! Không thể nào, quy mô này, sao mà gói gọn trong 10 vạn DP được?!”
+“Có lẽ hắn chỉ chỉ định điểm trọng yếu ở những nơi then chốt thôi. ...Nếu vậy thì, 5... không, 4 vạn DP cũng có thể làm được. Nhưng có lẽ, đây là chiêu bài lớn cuối cùng rồi.”
+
+Haku thán phục cách vận dụng này.
+Sử dụng lượng DP ít ỏi một cách vô cùng hiệu quả. Thực sự rất giỏi. Dù chỉ là tạm bợ, nhưng về cơ bản là Dungeon Battle với cùng một lượng DP. Thắng bại nằm ở cách vận dụng đó.
+Dùng ít DP hơn để bào mòn nhiều DP của đối phương, đây chính là trận chiến kiểu đó.
+Nếu, thực sự dùng cùng một lượng DP để chiến đấu, liệu mình có thể thắng Keema...? Không, cô cảm thấy chắc chắn Keema là kẻ cao tay hơn.
+
+“Phù, tiếc là trận chiến này chỉ có 10 vạn DP thôi.”
+
+Phải, nếu đây không phải chỉ 10 vạn mà là 1 triệu DP, thì chắc chắn đã có thể lật ngược sự chênh lệch về năng lực cơ bản rồi. Nhưng, chỉ có 10 vạn. Dưới mắt Haku, dù tính toán thế nào thì đây cũng chỉ là lượng tài nguyên cho một cuộc chiến ngắn hạn.
+
+*
+
+Loại Golem hàng loạt mà đội Golem hàng trước trang bị là "Golem Blade". Đây là loại kiếm được tiết kiệm một cách thầm lặng, phần lưỡi là sắt còn lại là đá.
+Làm vậy thì từ 1 thỏi sắt có thể chế tạo ra rất nhiều Golem Blade. Đá là phế liệu đào ra được nên miễn phí.
+Cung tên thì làm đại khái. Mũi tên cũng tận dụng phế liệu. Những thứ dùng vào đây... nếu phải kể ra thì chỉ có công sức và Mana Potion (thùng) thôi.
+Ngoài ra, về lý thuyết thì vì những vũ khí này cũng là Golem nên trên bản đồ đáng lẽ số lượng hiển thị phải là đội quân chứ không phải tổ đội, nhưng bằng cách gộp "Golem + trang bị", trên bản đồ đã không hiển thị thừa thãi nữa. Khá là tiện lợi.
+
+Và, vừa nhìn bản đồ, tôi điều khiển Golem Tường ở nơi nằm hoàn toàn trong điểm mù của địch.
+
+“Được rồi, Golem Tường, di chuyển mà không bị lộ rồi, ĐẠI. THÀNH. CÔNG!”
+“Cái đó là cái mà hôm nọ Niku đập tan tành đúng không? Nó di chuyển được á? Dù không có chân cẳng gì?”
+“Đời mới đấy. Lắp bánh xe ở dưới nên chạy được rồi.”
+
+Ngoài ra, giá thành của loại Golem Tường tự hành này là 0 DP. Tận dụng phế liệu và tự tay chế tạo. Vì chỉ dùng trong phạm vi Dungeon nên thậm chí chẳng cần dùng cả đá ma thuật.
+Từ khóa là "Eco" (sinh thái).
+
+*
+
+Lúc phá vỡ mê cung, phía 'Thử thách của Bạch' cũng đã bị chiếm tới tầng 4. Vẫn còn hơn 150 con chuột. Có lẽ do nhận được chỉ thị nên chúng rất khôn ngoan, tránh được bẫy lửa một cách điệu nghệ. Dẫu vậy, nhờ việc tập hợp Lizardman ở phòng cầu thang để phòng thủ nên số lượng cũng đã giảm đi đáng kể.
+
+“Không ngờ lại phải xuống dưới rồi lại phải đi lên... Cứ tưởng tầng 3 cũng là mê cung, hóa ra là đại mê cung gồm 2 tầng kết hợp.”
+“Có khi để anh ta làm cố vấn Dungeon cho chúng ta thay vì mạo hiểm giả thì cũng tốt nhỉ...”
+
+Và, phía sau mê cung là cầu thang đi lên. ...Là 2 tầng. Nếu nơi có lối vào ban đầu là 1... thì có lẽ nên gọi là tầng 0? Hay là tầng âm 1 nhỉ?
+
+“...Khó gọi tên quá.”
+“Lại dùng thủ đoạn hèn hạ ở chỗ nhỏ nhặt thế này... cứ gọi là tầng trên 1!”
+“Rõ, đã rõ, tầng trên 1... có một cánh cửa!”
+
+Cánh cửa mà cô nhìn qua tầm nhìn của quái vật trông rất chắc chắn.
+Và ngay bên cạnh là một tấm biển trông rất quan trọng.
+
+“...Trên đó viết gì thế?”
+“À, dường như là một câu đố, để tôi đọc: 'Đáp án rất đơn giản. Đừng suy nghĩ phức tạp. Hãy trả lời cách chia 1 đồng bạc cho 3 người' ...là vậy ạ.”
+
+“Chia 1 đồng bạc cho 3 người...? ...À, đổi đồng bạc thành 100 đồng đồng, thì là, ừm...”
+“Tôi hiểu rồi. Đầu tiên đổi 1 đồng bạc thành 100 đồng đồng. Sau đó, chia cho 3 người mỗi người 1 đồng, cuối cùng phần dư ra thì người chia lấy làm phí dịch vụ là được.”
+
+Câu đố cấp độ này, đối với Haku, một Dungeon Core lão luyện, chỉ là chuyện dễ dàng.
+
+“Thật không hổ là tiểu thư!”
+“Thế thì chắc chắn sẽ không có bất mãn gì.”
+“Là một câu trả lời hoàn hảo.”
+“Thế đấy, thế nào, chịu thua chưa! Đừng có tưởng câu đố kiểu này có thể qua mặt được Dungeon Core đời thứ 89 này!”
+
+『Sai, rồi. Mời quay lại cho』
+
+““““Hả?!””””
+
+Trong phòng lõi của 'Thử thách của Bạch', bầu không khí ngượng ngùng bao trùm.
+Ngay lập tức, toàn bộ sàn nhà trong phòng biến thành hố bẫy... và nơi rơi xuống chính là tầng lối vào.
+
+“Tại sao chứ, đáp án của mình đáng lẽ phải hoàn hảo rồi mà...!”
+“N, nà, bình tĩnh nào?! Này, vì toàn bộ quân đội chưa vào phòng nên vẫn còn trả lời được mà! À, báo cáo thiệt hại đâu?!”
+“Dạ, ừm, một con Minotaur bị trẹo cổ chân, không thể tái chiến... 2 con rơi thẳng xuống hố và chết ngay lập tức... Lizardman thì 3 con bình an vô sự. Goblin thì... ừm, hỏng rồi! Số còn lại, Minotaur 6, Lizardman 12... trong đó có 3 con bị chia cắt, Goblin 8 ạ.”
+
+Haku vừa dùng tay day thái dương, vừa gằn giọng đưa ra chỉ thị.
+
+“Dùng số Lizardman còn sống để rút lui con Minotaur bị trẹo cổ chân đó... Hự, tự tin thế mà lại thất bại với câu đố... thật là sỉ nhục...! Hãy biến con Minotaur bị trẹo cổ chân đó thành tiêu bản trưng bày, để không bao giờ quên nỗi sỉ nhục này...”
+“Tiểu thư, lần tới chúng ta thử chỉ dùng Goblin thôi ạ! Nếu trả lời đúng thì toàn quân hãy đi!”
+“......Ch, chuyện mất mặt thế mà... ! Cả con 695 cũng đang nhìn đấy!”
+“Tôi nghĩ nhẫn nhịn lúc này cũng là điều quan trọng...”
+
+“Dạ, tầng 4 bị đột phá rồi! Chuột, chuyển động rất điêu luyện, không thể bắt được ạ!”
+“Tiểu thư...!”
+
+Chloe ngầm ám chỉ rằng không còn thời gian nữa.
+Haku, vì là người ưu tú nên đã quyết định.
+
+“Hiểu rồi... Dám, dám làm thế này với ta! Chỗ này! Cho Goblin đi!”
+
+*
+
+『Chia theo mức độ cống hiến khi lấy được!』
+『Sai, rồi』
+
+『Lấy phần dư làm tài sản chung của nhóm, phần còn lại chia đều cho mọi người!』
+『Sai, rồi』
+
+『...Chia đồng bạc thành 3 phần rồi chia cho mỗi người!』
+『Sai, rồi』
+
+『Vì 2 trong số 3 người này là nô lệ hoặc tương đương nô lệ, nên một người độc chiếm hết và không chia chác gì cả!』
+『Sai, rồi』
+
+『Gửi cho người thứ ba công bằng để chia!』
+『Sai, rồi』
+
+Ồ ồ, sa chân vào bẫy ngoạn mục thật đấy.
+Cũng may là từ lần thứ 2 trở đi cô ta đã bắt đầu cho Goblin hiến tế từng con một. ...Cũng có vẻ thú vị nếu như không có trọng lượng nhất định thì không có quyền trả lời nhỉ.
+
+“Này Keema, câu đố này...”
+“À, Roko. Câu mà em giải trong 3 giây ấy. Em giỏi thật đấy, anh thực sự phục em luôn. Câu hỏi chưa đọc hết em đã trả lời rồi.”
+“Th, thì, đáp án đã nói sẵn rồi còn gì! Nhưng, không ngờ chị ấy lại...”
+“Mấy cái này, kẻ càng thông minh thì một khi đã mắc kẹt vào là không thoát ra được đâu. Chị của em thông minh lắm đấy, nghĩ ra mấy cái đáp án cứ vèo vèo như hiện giờ mới là đáng nể hơn cả đấy.”
+
+Vừa nhìn sang, tôi vừa cho lũ chuột, vốn đã giảm số lượng nên vận hành rất dễ dàng, lặng lẽ lẻn vào sâu trong Dungeon địch.
+...Vừa nghĩ không biết có khi mình chẳng cần dùng đến con át chủ bài cũng không biết chừng.
+
+*
+
+『――Sai, rồi』
+“Ực!”
+“Tiểu thư ơi!”
+
+Haku hoàn toàn bị sa vào thuật.
+Dù suy nghĩ thế nào đi nữa, vẫn là sai, sai, sai...!
+
+“Hự, thật đáng sợ... Không ngờ trong Dungeon Battle lại dùng loại tấn công tinh thần thế này...”
+“Dạ, tiểu thư. ...Mà, liệu đây có thực sự là 'Cổng Trí Tuệ' không ạ...?”
+
+Cổng Trí Tuệ. Đó là một loại bẫy đặc biệt thử thách trí tuệ của kẻ đến Dungeon.
+Đó là cánh cửa vô cùng chắc chắn, nhưng nếu giải được câu đố thì ai cũng có thể đi qua.
+Haku cũng đã thử thách câu đố này với ý định đó.
+
+“...C, c, cô có căn cứ gì không? Chloe.”
+“Vâng. Một là, việc không thể vượt qua bằng trí tuệ của tiểu thư. Và... xét đến DP đã tiêu tốn từ nãy đến giờ, liệu hắn còn đủ DP để đặt 'Cổng Trí Tuệ' hay không nữa ạ.”
+“...!!”
+
+Quả nhiên, khi vượt qua mê cung lúc nãy, chính Haku đã nói: "Chắc phía trước không còn bẫy lớn nữa đâu".
+'Cổng Trí Tuệ' vốn dĩ ít nhất cũng tốn 3 vạn DP. Câu hỏi càng đơn giản thì cánh cửa càng trở nên kiên cố, nhưng câu hỏi càng khó thì cửa càng mong manh, và cần nhiều DP hơn.
+Đó là một cơ chế rất lớn trong trận chiến 10 vạn DP.
+
+“Vậy nghĩa là... cái này là...”
+“Có khả năng chỉ là cánh cửa bình thường nhưng đặt ra tiền đề để phá hủy... Hoặc là kiểu như nói đáp án trước cửa thì bẫy sẽ hoạt động.”
+
+Đó là loại bẫy ác độc đến nhường nào chứ. Dù có trả lời bao nhiêu, dù giải đố có đúng đi chăng nữa, cũng đã không còn ý nghĩa gì. Ngay khoảnh khắc đứng lại suy nghĩ ở đó, chính là lúc đã sa vào vũng bùn.
+Ô, đáng sợ thật... Keema, rốt cuộc trong đầu gã đó chứa cái gì vậy...!
+
+“Th, thật là một cái bẫy cao siêu và hèn hạ!! Thế này chả phải là hèn hạ sao!!”
+“Hơn nữa, nếu không nhận ra thì sẽ còn bị mắc lừa bao nhiêu lần nữa cũng không biết...”
+“Ư ư, nhưng kẻ bị lừa thì cũng tại chính mình. Đành ngoan ngoãn thừa nhận thất bại thôi. Phù, nhưng mà, nhận ra được hay lắm Chloe. Đúng là cánh tay phải của ta, đã đỡ đần cho ta lúc ta đang rơi vào trạng thái hạn hẹp tầm nhìn.”
+“Được tiểu thư khen ngợi, đó là niềm vinh hạnh tột cùng ạ.”
+
+“Dạ...”
+
+Đúng lúc đó, Misha, cô gái người mèo tóc hồng, rụt rè giơ tay.
+Trong số 5 thuộc hạ thân tín này, cô là người xa lạ với việc giải đố nhất.
+Nói đơn giản là, hơi ngốc nghếch.
+
+“Gì vậy Misha, ta đã quyết định sẽ dùng sức mạnh để phá tan cánh cửa này rồi, cô định cản trở sao?”
+“Dạ không, làm gì có chuyện đó ạ! Chỉ là, cái đó, liệu đáp án... có phải là 'Đơn giản' không ạ...?”
+
+“Hả? ...Đơn giản? N, cô đang nói cái gì vậy? Misha. À, đúng rồi, quả là câu trả lời đơn giản và dễ hiểu, đó là cái bẫy này chẳng có đáp án nào cả!”
+“Kh, không phải ạ, cái đó, vì ở đoạn đầu đã viết là 'Đáp án rất đơn giản' còn gì ạ!”
+
+Bầu không khí đóng băng lại.
+
+“Kh... không lẽ nào... không, chuyện đó... Hahaha...”
+“M, mệt thật đấy Misha, l, làm gì có... chuyện đó...”
+“A, hahaha, cô đang nói gì vậy Misha...”
+
+Giọng nói run rẩy.
+Các thuộc hạ khác cũng đã nghĩ rằng: "Không lẽ, đúng là như vậy thật".
+
+Và cả Haku. Cả Chloe nữa.
+
+“............Chloe. Lần cuối, chỉ thử một lần này thôi...”
+“! ...Vâng...”
+
+Nếu đây là đáp án đúng... mình sẽ suy sụp mất, vừa chuẩn bị tinh thần như vậy, Haku đích thân trả lời lần cuối.
+
+『Đúng, rồi』
+
+――Trái tim vỡ vụn thành từng mảnh.

@@ -1,0 +1,106 @@
+Trong khi việc xây dựng lò rèn bắt đầu, cơ sở vật chất mới mà tôi đã âm thầm chuẩn bị từ trước – phòng trò chơi – cuối cùng cũng hoàn thành.
+
+Nói là vậy, nhưng nội dung bên trong chỉ gói gọn trong máy đánh bạc (slot), xúc xắc, và bộ bài tây mà tôi mới thêm vào kho báu trong hầm ngục gần đây, đồng thời cũng bắt đầu thu mua lại ở nhà trọ với giá 5 đồng đồng.
+……Đối với xúc xắc và bài tây, tôi chỉ chuẩn bị vài cái bàn trải vải và cho thuê thôi. Khách cũng có thể mang xúc xắc hoặc bài của riêng họ đến chơi.
+
+Vậy mà tại sao tốn thời gian đến thế ư? Là vì tôi phải bọc cách âm cho các bức tường để không làm phiền giấc ngủ của khách và bản thân, tinh chỉnh máy đánh bạc, và phát triển con xúc xắc gian lận (dice golem). Hãy xem xét từng mục nhé.
+
+Về cách âm thì không cần phải nói. Tôi đổi bông xốp bằng DP rồi nhét vào giữa các bức tường, cảm giác là đã tạm ổn. Dù thực ra cảm giác như tôi chỉ đang lấy độ dày của tường để áp đảo âm thanh, nhưng vẫn nằm trong phạm vi chấp nhận được.
+
+Máy đánh bạc thì tôi đã điều chỉnh đủ kiểu, khiến cho xác suất trúng lớn rất hiếm và xác suất thua khá cao. Dĩ nhiên, xét trên tổng thể thì nhà cái luôn là người thắng.
+
+Về con xúc xắc golem, đó coi như là "bảo hiểm" khi tôi tự chơi. Khi truyền ma lực vào, nó sẽ phản ứng và làm trọng tâm bị lệch trong đúng 10 giây. Sau 10 giây đó, nó trở lại làm xúc xắc bình thường.
+Chất liệu là pha lê trong suốt. Bên trong tôi đổ đầy loại dầu có chiết suất tương đương nên hoàn toàn không thấy được cấu trúc bên trong. Đây là phần làm tôi khá khổ sở.
+Đại loại kiểu: "Tôi không hề gian lận nhé? Nhìn là biết ngay mà". Dù thực tế là có. Có một câu danh ngôn rằng: "Nếu không bị lộ thì không phải là gian lận", vậy nên đó không phải gian lận.
+Hơn nữa, con này còn có tính năng xác thực cá nhân bằng ma lực để người khác không thể sử dụng. Hình như golem có thể phân biệt được ma lực. Cơ chế này có thể tận dụng cho chìa khóa hầm ngục đây.
+
+Nói tóm lại, tôi đã mở rộng phòng trò chơi. Làm lén lút vào giữa đêm đấy. Vì không ngủ mà đi xây thêm nên tôi buồn ngủ kinh khủng. Hôm nay mới ngủ có 9 tiếng thôi.
+
+"Em thắc mắc nãy giờ, Keema một ngày phải ngủ bao nhiêu tiếng mới thỏa mãn vậy?"
+"Để xem nào. Ngủ được 25 tiếng là tuyệt nhất."
+
+Nhắc mới nhớ, thế giới này một ngày cũng chỉ có 24 tiếng.
+
+"……Nếu dùng ma thuật hệ không gian thời gian thì chắc được nhỉ."
+
+Đùa à, ma thuật hệ không gian thời gian tuyệt thật đấy. Có nên luyện đến cùng không nhỉ? Mà bao nhiêu DP cho đủ đây.
+Thôi, mấy chuyện nhảm nhí đó gác lại, giờ là màn ra mắt phòng trò chơi.
+
+Khách quen của tiệm, Gozo, đã đến ngay lập tức. Vị khách đầu tiên đáng ghi nhớ.
+
+"……Hôm qua ở đây làm gì có cái này?"
+"À, người quen pháp sư của một mạo hiểm giả hạng A đã giúp làm xong trong một đêm ấy mà."
+"Hô... Đáng lẽ nên bảo họ xây luôn cả cái lò rèn ở Kantara cho rồi."
+"Phí thuê đắt lắm đấy. Nếu tự xây được thì cứ tự xây vẫn hơn."
+
+Hơn nữa, việc xây dựng đã bắt đầu rồi, tôi không thể cướp việc của bác thợ mộc được.
+Với cả tôi không muốn làm thêm việc dư thừa. Không muốn làm việc. Tôi không muốn làm việc đâu!
+
+"Này Keema. Cái này là gì? Phòng tán gẫu à?"
+"Không, là phòng trò chơi. Cái kia là bàn để chơi xúc xắc và bài. Còn cái hình vuông đằng kia là..."
+"Máy đánh bạc (slot) kìa aaaaa!"
+
+Ichika chạy vụt qua mặt tôi ngay trong lúc tôi đang giải thích.
+Nhắc mới nhớ, tôi có trả lương cho Ichika và Niku. Tuy chỉ là tiền tiêu vặt thôi.
+Tôi đưa tiền mặt cho dễ hiểu, còn nếu chúng muốn mua gì thì tôi sẽ dùng DP để đổi ra. Cơ bản là tiền đều biến thành đồ ăn. Không, phải là "đã từng" biến thành đồ ăn.
+Sở dĩ là quá khứ vì gần đây, để chuẩn bị cho lúc phòng trò chơi mở cửa, Ichika đã tiết kiệm để làm vốn đánh bạc.
+
+"Hiha! Bỏ 3 đồng đồng vào! Rồi gạt cần! Quay đi, quay, quay nữa lên! AHAHAHA! Nút, nút, bấm nút! Dừng lại, chậc, làm lại lần nữa đi aaaaa!"
+
+Mắt con bé đáng sợ quá. Nó phê rồi.
+Ừm, có nên cấm đánh bạc không nhỉ... mà hình như muộn rồi?
+
+"Này, Keema? Cái kia ổn không đấy? Không phải cái hộp nguy hiểm đó chứ?"
+"...Nó gọi là máy đánh bạc, là cờ bạc đấy."
+
+Vì Ichika đang đắm chìm hoàn toàn vào cái máy nên khách khứa bắt đầu e ngại kìa.
+...Thôi, kệ đi.
+
+"…Lấy lại tinh thần nào, chơi bài không? Giờ không có khách khác, tôi chơi với ông."
+"Hử? Đây là cái thứ mới xuất hiện ở hầm ngục gần đây đúng không? Nghe nói cậu đang thu mua, hóa ra là đồ chơi à. Dạy tôi luật đi."
+
+Tôi dạy cho Gozo chơi Poker và Blackjack. Vì lý do "luật dễ hiểu" nên lão có vẻ thích Blackjack hơn.
+
+"Ngoài ra nếu đủ người thì còn có thể chơi đánh bài babet (cướp cái) hay xếp bài."
+"Có nhiều cách chơi quá nhỉ, cái gọi là bài tây này. Mà mới chỉ vài ngày từ khi nó bắt đầu xuất hiện mà cậu đã nghĩ ra nhiều cách chơi thế à?"
+"Không, tôi chỉ mua được cuốn sách viết cách chơi thôi. Nhặt được trong hầm ngục ấy."
+"Ra vậy, bảo sao lại bắt đầu thu mua từ trước."
+
+Nhắc mới nhớ, nếu muốn mua lại thì giá là 1 đồng bạc. Vì số lượng còn ít nên tôi đang "chặt chém" đấy.
+Dù sao thì tôi cũng tung nó ra từ 5 DP rồi để cho mạo hiểm giả tự nhặt miễn phí, giá này là được rồi. Cuối cùng chắc tôi sẽ mua vào khoảng 25 đồng đồng và bán ra khoảng 50 đồng đồng thôi.
+
+"Vậy giờ chơi xúc xắc tiếp――"
+"Đến rồi đến rồi aaaaa!! Trúng lớn! Trúng lớn rồi!"
+
+Tôi thấy tiếng gào thét của Ichika và những đồng đồng tràn ra từ máy đánh bạc. ...Ừm, nên chuẩn bị cái hộp chứa tiền đi là vừa.
+
+"Ồ?! Cái gì kia, kinh thật đấy!"
+"Phù phù phù... thế này lại có tiền đánh bạc tiếp rồi...!"
+
+Rốt cuộc là nó quay máy vì mục đích gì tôi cũng không hiểu nổi nữa.
+
+"Nào, thử tí xem sao. Keema, cách chơi cái này là gì?"
+"Như tờ giấy dán kia kìa. Cũng không khó lắm đâu. Cứ ghép được các hình giống nhau là sẽ nhận được phần thưởng tương ứng."
+"Ra vậy, đúng như vẻ ngoài nhỉ. Nhưng với con mắt của mạo hiểm giả thì mấy cái này đơn giản, đơn giản... Hử, ừ? C, cái này khó phết nhỉ..."
+
+Xin lỗi nhé. Cái đó, là trò chơi may rủi đấy.
+
+*
+
+Một lúc sau, các khách trọ khác cũng đến. Phải nói là hiện tại chỉ có 5 nhóm khách bao gồm cả đoàn thương buôn, nhưng tất cả đều tụ họp lại.
+
+"Cái bàn trải vải này thích hợp để chơi xúc xắc thật. Này Dorani, chơi xúc xắc không? Ban đầu tôi làm cái, chơi tài xỉu đi!" "Chơi chứ. Làm cái thay phiên 2 ván một nhé. Còn ai tham gia không?" "Hê, hóa ra bài tây là món đồ chơi như thế này à. ...Được phép mang bài riêng tới à. Lần tới tìm được chắc không bán nữa mà mang về chơi." "Hô hô, chỗ chúng tôi cũng muốn mua vài bộ đấy." "Gikkon-san, chơi trò 'xếp bài' này đi." "Được đấy. Chơi không? Rop-san cũng tham gia luôn chứ?" "Ừ. Cho tôi nhập hội với. Cộng sự của tôi nãy giờ cứ dán chặt vào cái hộp kia kìa." "Ơ, Gozo-san? Cái đó là gì thế?... Là máy đánh bạc à... Ồ, trúng kìa!"
+
+Ồn ào náo nhiệt. Đúng nghĩa là thế. Vì đã tính trước tương lai nên tôi làm phòng khá rộng, nhìn tổng thể vẫn còn dư dả chỗ trống, nhưng cũng khá là đông đúc. Cảm giác tốt thật.
+
+"Ư gư gư gư, máy đánh bạc ơi..."
+
+Và Ichika, dù là nhân viên nhưng lại định độc chiếm máy đánh bạc, hiện đang trong giờ nghỉ.
+Con bé đã trúng lớn một lần, nhưng cũng dừng lại khi thấy tổng thu chi đã về mức không. Tại chỗ ngồi cũng đã chật kín, gây cản trở rồi. Dù lúc vắng người thì không sao, nhưng lúc đông khách mà nhân viên chiếm chỗ là không tốt.
+
+"…Máy đánh bạc có vẻ hot thật. Làm thêm vài cái đi."
+"Chủ nhân! Thế thì nhất định phải làm một cái dành riêng cho em..."
+
+Ừ, Ichika, tỉnh táo lại chút đi em?
+
+(À, tác phẩm đã quyết định được chuyển thể thành sách. Nhưng có vẻ không có kế hoạch tóm tắt nội dung đâu.)

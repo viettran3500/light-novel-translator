@@ -1,0 +1,93 @@
+『Vậy thì, vì mọi người chắc cũng đang rất nóng lòng rồi, ta công bố bảng xếp hạng DP đây nhé』
+
+Lời của 『Cha』 vừa dứt, không khí xung quanh lại một lần nữa trở nên căng thẳng.
+
+『Được rồi, chú ý đây. Đầu tiên là top 10! Chà, khu vực này thì vài năm nay chẳng có biến động gì về thứ hạng cả, nên ta sẽ công bố một lượt luôn nhé』
+
+Từ hạng 1 đến hạng 10 được hiển thị dưới dạng bảng biểu trong nháy mắt.
+So với thời điểm hai năm trước mà Rokuko biết, thứ hạng hoàn toàn không thay đổi.
+Từ hạng 1 đến hạng 3 lần lượt là Core số 1, số 2 và số 3. Hạng 4 là Core số 7, hạng 5 là Core số 9, hạng 6 là Core số 6. Và hạng 7 là Haku – tức Core số 89, hạng 8 là Core số 5, hạng 9 là Core số 10, hạng 10 là Core số 8.
+
+Gào gừ! Một tiếng gầm đầy vẻ cay cú vang lên từ Core số 5, kèm theo đó là luồng hơi thở lửa đen rực cháy được phóng thẳng lên trời.
+
+Top 10 hầu hết đều bị chiếm giữ bởi các Core có số thứ tự một chữ số. Rokuko cảm thấy việc Haku có thể chen chân vào đó quả thực rất đáng nể.
+Nhân tiện, lượng DP sở hữu cũng được hiển thị kèm theo – vì Rokuko không biết đơn vị lớn hơn cả “triệu tỉ” (chou), nên cô chỉ biết là con số đó lớn đến mức không thể đọc nổi.
+
+『Ừm, quả nhiên số 1, số 2 và số 3 vẫn rất xuất sắc. Ta thấy vui lắm. Hãy cứ giữ đà này mà thu thập thêm thật nhiều DP nữa nhé』
+「Được người khen ngợi, con vô cùng vinh hạnh, thưa Cha.」
+
+Core số 1 quỳ một chân, hành lễ như một hiệp sĩ. Như được tiếp nối, Core số 2 và số 3 cũng cúi đầu. Core số 2 và số 3 lần lượt mang dáng vẻ của các hiệp sĩ trong bộ giáp màu bạc và màu đồng, trông cực kỳ phong độ. Trong số những Core thuộc "First Lot" (lứa đầu tiên) từ số 1 đến 99, ba người này được đồn là do chính tay 『Cha』 chăm chút tỉ mỉ tạo ra, nên việc họ đứng đầu cũng là điều dễ hiểu.
+Tuy nhiên, Rokuko nghĩ rằng, đã thu thập được lượng DP nhiều đến mức không đọc nổi mà vẫn bị yêu cầu "hãy thu thập nhiều hơn nữa", thì quả là một đẳng cấp khác biệt.
+
+『Số 7 và số 9 cũng đã rất cố gắng. Nếu có thể, hãy cố vượt qua Core số 3 xem nào?』
+「Vâng, thưa Cha.」
+「Con sẽ dốc hết chút sức mọn này.」
+
+Core số 7 và số 9 mang hình dáng những người phụ nữ với mái tóc màu xanh lá và màu xanh dương. Họ được gọi là 『Thần Núi』 và 『Thần Biển』. Chà, Haku cũng được gọi là 『Nữ thần Trắng』, nên chắc cũng tương tự vậy thôi, Rokuko thầm nghĩ.
+
+『Số 6, số 89, số 5, các con đều chăm sóc rất tốt cho những kẻ hạng thấp hơn nhỉ. Việc nâng đỡ tầng dưới cũng rất quan trọng, cảm ơn các con.』
+「Lời khen ngợi của người thật quá mức đối với con.」
+「Được Cha hài lòng, đó là niềm vui lớn nhất của con.」
+「Thưa Cha, dẫu vẫn còn non kém, con – Core số 5, rất vui vì có thể giúp ích cho người.」
+
+Core số 6. Một người đàn ông cao tuổi, nghiêm nghị trong bộ giáp đen kịt đầy vẻ hung hiểm. Được gọi là 『Đại Ma Vương』, phe phái của ông ta được gọi là Ma Vương Phái.
+Core số 89. Không cần phải nói, chính là Haku. Tổ tiên của đế quốc Laverio, và là chị gái của Rokuko. Ở đây, cô bị gọi là 『Kẻ phản bội』.
+Core số 5. Là người duy nhất trong top 10 không mang hình hài con người, mà là một con rồng đen. Đó cũng là sự thể hiện ý chí không cần phải che giấu bản thân, không cần phải giấu đi hình dáng mà 『Cha』 đã ban tặng. Được gọi là 『Long Vương』. Ông ta có dưới trướng rất nhiều Core hệ bò sát bao gồm cả Ittetsu, phe này được gọi là Long Vương Phái.
+
+『Số 10, số 8. Cả hai cũng đã rất nỗ lực nhỉ. Hãy cứ giữ vững phong độ này và sống thật lâu nhé?』
+「Vua của con, con vô cùng biết ơn.」
+「Con sẽ dùng hết sức mình để đáp lại sự kỳ vọng của người, thưa Sư phụ.」
+
+Core số 10. Một người đàn ông già nua khoác trên mình bộ pháp phục bắt chước theo phong cách của 『Cha』, nhưng lại được đính kết vô số những đồ trang sức hào nhoáng.
+Core số 8. Trái ngược hoàn toàn với số 10, đó là một ông lão chống gậy, chỉ khoác trên mình bộ y phục bằng vải thô sơ.
+
+『Vậy thì, giờ ta sẽ công bố hết tất cả, cho đến hạng 699 nhé. Chà, phía dưới này thứ hạng biến động liên tục, xem vui phết đấy chứ?』
+
+Một bảng biểu dài theo chiều ngang, với chữ nhỏ hơn bảng top 10 nhưng kích thước lại lớn hơn nhiều, xuất hiện. Nếu Keima ở đây, chắc anh ấy sẽ bảo là trông giống như bảng công bố kết quả thi cử vậy.
+Tất cả các thứ hạng và Dungeon Core từ 11 đến 699 đều được hiển thị.
+Ở đó cũng ghi lại cả những Dungeon đã bị tiêu diệt như Core số 379. Dữ liệu được ghi lại dựa trên lượng DP tại thời điểm đó, và sau này không còn biến động nữa.
+
+Rokuko bắt đầu tìm tên mình, nhìn về phía cuối bảng xếp hạng.
+Dù vậy, cô vẫn hy vọng là kể từ khi Keima đến, cô đã kiếm được kha khá, nên chắc hẳn đã thoát khỏi vị trí bét bảng rồi chứ nhỉ.
+Cô nhìn từ dưới lên... bỏ qua những Core đã chết ngay sau khi sinh ra, hay những Core đã dùng sạch DP để phản kháng lần cuối với số DP gần bằng 0... cô đã nhìn đến hạng 400, nhưng vẫn không thấy "số 695". Cô cứ thế nhìn tiếp lên phía hạng 300.
+
+Ở tầm hạng 300 thì số 600 xuất hiện rất nhiều, vì hầu hết chưa thể nhân hóa nên sự đa dạng về ngoại hình cực kỳ phong phú.
+Thấy Rokuko như vậy, Core số 629, một con thỏ màu cam, vừa lấy tay dụi mặt vừa lên tiếng hỏi.
+
+「Nkyu? Sao thế nkyu, số 695. Hạng bét ở bên kia kìa nkyu~?」
+「Hả, à, không, cái đó... Không thấy số của tôi đâu cả. Lạ thật đấy.」
+「...Cuối cùng thì ngay cả Papa cũng quên mất cậu rồi à nkyu?」
+「C, cái đó thì tôi nghĩ là không có đâu.」
+「Thế thì sao không nhìn vào cột DP mà tìm thử xem nkyu? Chắc chắn là nhìn sót rồi nkyu.」
+
+À, cũng phải nhỉ. Nghĩ vậy, Rokuko hồi tưởng lại lượng DP mình đang có, rồi kiểm tra cột DP trên bảng xếp hạng trước mặt.
+...Hạng 300, số 629. DP sở hữu là 351,200.
+
+Ơ? Mà nhắc mới nhớ, hiện tại mình có bao nhiêu DP nhỉ...? Nhận từ Haku-nee-sama kha khá DP tiền trọ, nên chắc cũng phải có một số lượng kha khá chứ nhỉ?
+Nghĩ vậy, cô kiểm tra hiển thị DP trên menu. Dạo gần đây vì đặt giới hạn chỉ hiển thị phần có thể sử dụng, nên con số luôn dừng ở mức khoảng 10 vạn. Lâu lắm rồi mới kiểm tra tổng DP.
+
+729,359 DP.
+
+「...Hửm?」
+
+Cô dụi mắt thật mạnh, nhìn lại lần nữa.
+Hiển thị vẫn không đổi, 729,359 DP.
+
+...Không, không, không, vô lý. Tài sản của mình đáng lẽ phải được giữ dưới dạng tiền vàng. Cách đây không lâu, Keima còn bảo rằng nếu quy đổi hết chỗ tiền vàng hiện có ra DP thì số lượng còn nhiều hơn con số hiện tại mà.
+Ơ, khoan đã. Nghĩa là, thực tế còn gấp đôi chỗ này... trở lên?
+Nếu không tính chỗ đó, thì nghĩa là mình còn cao hơn cả 351,200 của hạng 300 sao?
+
+「Sao thế nkyu? Nhìn chằm chằm vào số DP mà tớ tích góp bấy lâu nay dữ vậy. Tớ biết cậu ghen tị mà, nhưng phải tự mình kiếm lấy mới được nkyu nhé?」
+「À, không, cái đó. Phải rồi. Ừ.」
+
+Rokuko tiếp tục đi bộ về phía những thứ hạng cao hơn. ...Đến hạng 250, là khoảng 50 vạn DP.
+Ơ kìa. Ơ kìa, mình sẽ đi đến đâu đây? Rokuko cuối cùng cũng tìm thấy con số của mình.
+
+「...Hạng 210, số 695...?」
+
+Cô xác nhận lại lần nữa, nhưng không sai, đúng là số 695. Cô quay lưng lại rồi nhìn lại một lần nữa, hạng 210 vẫn là số 695.
+Nhân tiện thì, từ hạng 200 trở lên là mức 1 triệu DP, rồi cứ tăng dần, đến khoảng hạng 150 là vượt mốc 10 triệu DP.
+
+「...Phư hì.」
+
+Một nụ cười kỳ quặc vô thức tràn ra khỏi miệng cô.
