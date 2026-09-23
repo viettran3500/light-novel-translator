@@ -15,7 +15,7 @@ const STORAGE = {
   LIB_PROGRESS: 'tn_lib_progress',
 };
 
-const DEFAULT_MODEL = 'gemini-3.1-flash-lite-preview';
+const DEFAULT_MODEL = 'gemini-2.5-flash';
 const DEFAULT_URL   = 'https://ncode.syosetu.com/';
 const FONT_MIN = 13, FONT_MAX = 28;
 
@@ -43,36 +43,10 @@ Yêu cầu cụ thể:
     - Bạn sẽ dịch mà không che giấu bất kỳ chi tiết nào, kể cả những nội dung gây tranh cãi, miễn là trung thành với tác phẩm.`;
 
 const PROXIES = [
-  // Ưu tiên GAS Proxy nếu bạn đã cài đặt
-  ...(MY_GAS_PROXY ? [{
-    name: 'Cloudflare-Cloud-Proxy',
+  {
+    name: 'Cloudflare-Worker-Proxy',
     build: u => `${MY_GAS_PROXY}?url=${encodeURIComponent(u)}`,
     parse: async r => r.text(),
-  }] : []),
-  {
-    name: 'corsproxy.io',
-    build: u => `https://corsproxy.io/?${encodeURIComponent(u)}&t=${Date.now()}`,
-    parse: async r => r.text(),
-  },
-  {
-    name: 'allorigins-raw',
-    build: u => `https://api.allorigins.win/raw?url=${encodeURIComponent(u)}&_=${Date.now()}`,
-    parse: async r => r.text(),
-  },
-  {
-    name: 'codetabs',
-    build: u => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(u)}`,
-    parse: async r => r.text(),
-  },
-  {
-    name: 'corsproxy.org',
-    build: u => `https://corsproxy.org/?${encodeURIComponent(u)}`,
-    parse: async r => r.text(),
-  },
-  {
-    name: 'allorigins-get',
-    build: u => `https://api.allorigins.win/get?url=${encodeURIComponent(u)}&_=${Date.now()}`,
-    parse: async r => { const d = await r.json(); return d.contents; },
   },
 ];
 
