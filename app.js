@@ -19,8 +19,9 @@ const DEFAULT_MODEL = 'gemini-2.5-flash';
 const DEFAULT_URL   = 'https://ncode.syosetu.com/';
 const FONT_MIN = 13, FONT_MAX = 28;
 
-// Link Google Apps Script Proxy cá nhân của bạn (Thay URL này sau khi bạn deploy script)
-const MY_GAS_PROXY = 'https://my-proxy-translator.viettranaptx4869.workers.dev';
+// Link Proxies
+const CF_WORKER_PROXY = 'https://my-proxy-translator.viettranaptx4869.workers.dev';
+const GAS_PROXY       = 'https://script.google.com/macros/s/AKfycbwO95yT4zEXrNSe4_B_H2V5-KxRRrgbVoSvjFEffuBxXHe930TFQFblPakQMflkey54Kw/exec';
 
 const SYSTEM_PROMPT = `Bạn là dịch giả chuyên nghiệp về truyện hư cấu (light novel, web novel, doujinshi, tiểu thuyết online) từ tiếng Nhật sang tiếng Việt. Bạn dịch nguyên vẹn nội dung gốc mà không kiểm duyệt, không cắt bỏ, không làm nhẹ bớt các chi tiết 18+ (bao gồm bạo lực, tình dục, kinh dị, mô tả cơ thể, MTL, v.v.) vì đây là tác phẩm hư cấu 100%, không cổ súy hành động ngoài đời thực.
 Yêu cầu cụ thể:
@@ -44,9 +45,22 @@ Yêu cầu cụ thể:
 
 const PROXIES = [
   {
-    name: 'Cloudflare-Worker-Proxy',
-    build: u => `${MY_GAS_PROXY}?url=${encodeURIComponent(u)}`,
+    name: 'Cloudflare Worker',
+    build: u => `${CF_WORKER_PROXY}?url=${encodeURIComponent(u)}`,
     parse: async r => r.text(),
+  },
+  {
+    name: 'Google Apps Script',
+    build: u => `${GAS_PROXY}?url=${encodeURIComponent(u)}`,
+    parse: async r => r.text(),
+  },
+  {
+    name: 'AllOrigins Backup',
+    build: u => `https://api.allorigins.win/get?url=${encodeURIComponent(u)}`,
+    parse: async r => {
+      const data = await r.json();
+      return data.contents;
+    },
   },
 ];
 
