@@ -5,23 +5,24 @@
 
 // ===== CONSTANTS =====
 const STORAGE = {
-  API_KEY:   'tn_api_key',
-  MODEL:     'tn_model',
-  LAST_URL:  'tn_last_url',
+  API_KEY: 'tn_api_key',
+  MODEL: 'tn_model',
+  LAST_URL: 'tn_last_url',
   BOOKMARKS: 'tn_bookmarks',
   FONT_SIZE: 'tn_font_size',
   DARK_MODE: 'tn_dark_mode',
   ACTIVE_TAB: 'tn_active_tab',
   LIB_PROGRESS: 'tn_lib_progress',
+  DEFAULT_PROXY: 'tn_default_proxy',
 };
 
 const DEFAULT_MODEL = 'gemini-2.5-flash';
-const DEFAULT_URL   = 'https://ncode.syosetu.com/';
+const DEFAULT_URL = 'https://ncode.syosetu.com/';
 const FONT_MIN = 13, FONT_MAX = 28;
 
 // Link Proxies
 const CF_WORKER_PROXY = 'https://my-proxy-translator.viettranaptx4869.workers.dev';
-const GAS_PROXY       = 'https://script.google.com/macros/s/AKfycbwO95yT4zEXrNSe4_B_H2V5-KxRRrgbVoSvjFEffuBxXHe930TFQFblPakQMflkey54Kw/exec';
+const GAS_PROXY = 'https://script.google.com/macros/s/AKfycbwAn7iNF67F7pywu0XXHaPV1S1ml9gG6pYg3Pczm3B4yWbcgi4BhzdRVSNsgLGQhryhhQ/exec';
 
 const SYSTEM_PROMPT = `Bạn là dịch giả chuyên nghiệp về truyện hư cấu (light novel, web novel, doujinshi, tiểu thuyết online) từ tiếng Nhật sang tiếng Việt. Bạn dịch nguyên vẹn nội dung gốc mà không kiểm duyệt, không cắt bỏ, không làm nhẹ bớt các chi tiết 18+ (bao gồm bạo lực, tình dục, kinh dị, mô tả cơ thể, MTL, v.v.) vì đây là tác phẩm hư cấu 100%, không cổ súy hành động ngoài đời thực.
 Yêu cầu cụ thể:
@@ -66,15 +67,15 @@ const PROXIES = [
 
 // ===== STATE =====
 let state = {
-  apiKey:    '',
-  model:     DEFAULT_MODEL,
+  apiKey: '',
+  model: DEFAULT_MODEL,
   currentUrl: DEFAULT_URL,
   bookmarks: [],
-  fontSize:  18,
-  darkMode:  true,
-  rawText:   '',       // scraped Japanese text
+  fontSize: 18,
+  darkMode: true,
+  rawText: '',       // scraped Japanese text
   abortCtrl: null,
-  proxyIdx:  0,
+  proxyIdx: 0,
   activeTab: 'online', // 'online' | 'library'
   libraryNovels: [],   // list of local novels from novels.json
   selectedNovel: null, // active local novel object
@@ -85,81 +86,82 @@ let state = {
 // ===== DOM =====
 const $ = id => document.getElementById(id);
 const dom = {
-  sidebar:        $('sidebar'),
-  overlay:        $('overlay'),
-  menuBtn:        $('menuBtn'),
-  sidebarClose:   $('sidebarClose'),
-  urlInput:       $('urlInput'),
-  goBtn:          $('goBtn'),
-  apiKeyInput:    $('apiKeyInput'),
-  saveApiKey:     $('saveApiKey'),
-  modelSelect:    $('modelSelect'),
-  fsDown:         $('fsDown'),
-  fsUp:           $('fsUp'),
-  fsValue:        $('fsValue'),
-  darkMode:       $('darkMode'),
-  bookmarksList:  $('bookmarksList'),
-  addBookmark:    $('addBookmark'),
-  novelTitle:     $('novelTitle'),
-  chapterNum:     $('chapterNum'),
-  translateBtn:   $('translateBtn'),
-  openSourceBtn:  $('openSourceBtn'),
-  welcomeScreen:  $('welcomeScreen'),
+  sidebar: $('sidebar'),
+  overlay: $('overlay'),
+  menuBtn: $('menuBtn'),
+  sidebarClose: $('sidebarClose'),
+  urlInput: $('urlInput'),
+  goBtn: $('goBtn'),
+  apiKeyInput: $('apiKeyInput'),
+  saveApiKey: $('saveApiKey'),
+  modelSelect: $('modelSelect'),
+  proxySelect: $('proxySelect'),
+  fsDown: $('fsDown'),
+  fsUp: $('fsUp'),
+  fsValue: $('fsValue'),
+  darkMode: $('darkMode'),
+  bookmarksList: $('bookmarksList'),
+  addBookmark: $('addBookmark'),
+  novelTitle: $('novelTitle'),
+  chapterNum: $('chapterNum'),
+  translateBtn: $('translateBtn'),
+  openSourceBtn: $('openSourceBtn'),
+  welcomeScreen: $('welcomeScreen'),
   welcomeOpenBtn: $('welcomeOpenBtn'),
   translationContent: $('translationContent'),
-  chapterHeader:  $('chapterHeader'),
-  chapterBody:    $('chapterBody'),
-  chapterEnd:     $('chapterEnd'),
-  manualArea:     $('manualArea'),
-  manualReason:   $('manualReason'),
-  manualLink:     $('manualLink'),
-  manualPasteArea:$('manualPasteArea'),
-  confirmManual:  $('confirmManual'),
-  errorScreen:    $('errorScreen'),
-  errorTitle:     $('errorTitle'),
-  errorMsg:       $('errorMsg'),
-  errorLink:      $('errorLink'),
-  errorRetryBtn:  $('errorRetryBtn'),
+  chapterHeader: $('chapterHeader'),
+  chapterBody: $('chapterBody'),
+  chapterEnd: $('chapterEnd'),
+  manualArea: $('manualArea'),
+  manualReason: $('manualReason'),
+  manualLink: $('manualLink'),
+  manualPasteArea: $('manualPasteArea'),
+  confirmManual: $('confirmManual'),
+  errorScreen: $('errorScreen'),
+  errorTitle: $('errorTitle'),
+  errorMsg: $('errorMsg'),
+  errorLink: $('errorLink'),
+  errorRetryBtn: $('errorRetryBtn'),
   errorManualBtn: $('errorManualBtn'),
-  prevBtn:        $('prevBtn'),
-  nextBtn:        $('nextBtn'),
-  navChapterLabel:$('navChapterLabel'),
+  prevBtn: $('prevBtn'),
+  nextBtn: $('nextBtn'),
+  navChapterLabel: $('navChapterLabel'),
   loadingOverlay: $('loadingOverlay'),
-  loadingText:    $('loadingText'),
-  cancelBtn:      $('cancelBtn'),
+  loadingText: $('loadingText'),
+  cancelBtn: $('cancelBtn'),
   toastContainer: $('toastContainer'),
-  readerArea:     $('readerArea'),
-  
+  readerArea: $('readerArea'),
+
   // Library elements
-  tabOnline:      $('tabOnline'),
-  tabLibrary:     $('tabLibrary'),
+  tabOnline: $('tabOnline'),
+  tabLibrary: $('tabLibrary'),
   onlineTabContent: $('onlineTabContent'),
   libraryTabContent: $('libraryTabContent'),
-  libBackBtn:     $('libBackBtn'),
-  libraryView:    $('libraryView'),
+  libBackBtn: $('libBackBtn'),
+  libraryView: $('libraryView'),
   libraryDashboard: $('libraryDashboard'),
-  libraryGrid:    $('libraryGrid'),
-  libraryDetail:  $('libraryDetail'),
+  libraryGrid: $('libraryGrid'),
+  libraryDetail: $('libraryDetail'),
   detailHeaderCard: $('detailHeaderCard'),
   detailChaptersList: $('detailChaptersList'),
   chapterSearchInput: $('chapterSearchInput'),
   sidebarNovelSearch: $('sidebarNovelSearch'),
   sidebarNovelsList: $('sidebarNovelsList'),
-  btnLibraryHome:     $('btnLibraryHome'),
+  btnLibraryHome: $('btnLibraryHome'),
 };
 
 // ===== STORAGE =====
 const store = {
   get: (k, fb = null) => { try { return JSON.parse(localStorage.getItem(k)) ?? fb; } catch { return fb; } },
-  set: (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} },
+  set: (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch { } },
 };
 
 // ===== TOAST =====
 function toast(msg, type = 'info', ms = 3000) {
-  const icons = { success:'✅', error:'❌', warning:'⚠️', info:'ℹ️' };
+  const icons = { success: '✅', error: '❌', warning: '⚠️', info: 'ℹ️' };
   const el = document.createElement('div');
   el.className = `toast ${type}`;
-  el.innerHTML = `<span>${icons[type]||''}</span><span>${msg}</span>`;
+  el.innerHTML = `<span>${icons[type] || ''}</span><span>${msg}</span>`;
   dom.toastContainer.appendChild(el);
   setTimeout(() => { el.classList.add('fade-out'); setTimeout(() => el.remove(), 300); }, ms);
 }
@@ -206,7 +208,7 @@ function parseChapterInfo(url) {
     const last = parseInt(parts[parts.length - 1]);
     if (!isNaN(last)) return { num: last, parts, u, type: 'numeric' };
 
-  } catch {}
+  } catch { }
   return null;
 }
 
@@ -255,11 +257,14 @@ async function fetchAndTranslate(url) {
   try {
     const u = new URL(url);
     dom.novelTitle.textContent = u.hostname.replace('www.', '');
-  } catch {}
+  } catch { }
 
   // Try all proxies
   setLoading(true, 'Đang tải trang...');
   let lastErr = '';
+
+  const defaultProxyIdx = store.get(STORAGE.DEFAULT_PROXY, 0);
+  state.proxyIdx = (typeof defaultProxyIdx === 'number' && defaultProxyIdx >= 0 && defaultProxyIdx < PROXIES.length) ? defaultProxyIdx : 0;
 
   for (let i = 0; i < PROXIES.length; i++) {
     const idx = (state.proxyIdx + i) % PROXIES.length;
@@ -286,12 +291,24 @@ async function fetchAndTranslate(url) {
       const html = await p.parse(res);
       if (!html || html.length < 100) { lastErr = `${p.name}: Nội dung rỗng`; continue; }
 
+      // Check if Google Apps Script returned a Google Login / BotGuard page or error
+      if (typeof html === 'string' && (
+        html.includes('google.com/accounts') ||
+        html.includes('botguard') ||
+        html.includes('hiddenMultipleChoiceIdentifier') ||
+        html.includes('accounts.google.com') ||
+        html.includes('Service Login') ||
+        html.startsWith('Error:')
+      )) {
+        lastErr = `${p.name}: GAS chưa mở quyền "Anyone" (Ai cũng có truy cập) hoặc script bị lỗi`;
+        continue;
+      }
+
       const text = extractText(html, url);
       const title = extractTitle(html);
       if (!text || text.length < 50) { lastErr = `${p.name}: Không trích được nội dung`; continue; }
 
       state.rawText = text;
-      state.proxyIdx = idx; // SUCCESS: Start with this one next time
       setLoading(false);
 
       // Show chapter header info
@@ -319,8 +336,8 @@ function extractText(html, url) {
   const doc = new DOMParser().parseFromString(html, 'text/html');
 
   // Remove noise
-  ['script','style','nav','header','footer','.c-ad','.c-pager','.c-menu',
-   '.c-announce','[class*="adsbygoogle"]','#google_ads','noscript'
+  ['script', 'style', 'nav', 'header', 'footer', '.c-ad', '.c-pager', '.c-menu',
+    '.c-announce', '[class*="adsbygoogle"]', '#google_ads', 'noscript'
   ].forEach(s => doc.querySelectorAll(s).forEach(el => el.remove()));
 
   const selectors = [
@@ -397,8 +414,8 @@ async function doTranslate(text) {
       system_instruction: { parts: [{ text: SYSTEM_PROMPT }] },
       contents: [{ role: 'user', parts: [{ text: truncated }] }],
       safetySettings: [
-        { category: 'HARM_CATEGORY_HARASSMENT',        threshold: 'BLOCK_NONE' },
-        { category: 'HARM_CATEGORY_HATE_SPEECH',       threshold: 'BLOCK_NONE' },
+        { category: 'HARM_CATEGORY_HARASSMENT', threshold: 'BLOCK_NONE' },
+        { category: 'HARM_CATEGORY_HATE_SPEECH', threshold: 'BLOCK_NONE' },
         { category: 'HARM_CATEGORY_SEXUALLY_EXPLICIT', threshold: 'BLOCK_NONE' },
         { category: 'HARM_CATEGORY_DANGEROUS_CONTENT', threshold: 'BLOCK_NONE' },
       ],
@@ -490,8 +507,8 @@ function hideAll() {
 
 function escHtml(t) {
   return t
-    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
-    .replace(/"/g,'&quot;').replace(/\n/g,'<br>');
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;').replace(/\n/g, '<br>');
 }
 
 function applyFontSize(size) {
@@ -508,7 +525,7 @@ function applyDarkMode(dark) {
 }
 
 // ===== SIDEBAR =====
-function openSidebar()  { dom.sidebar.classList.add('open'); dom.overlay.classList.add('active'); }
+function openSidebar() { dom.sidebar.classList.add('open'); dom.overlay.classList.add('active'); }
 function closeSidebar() { dom.sidebar.classList.remove('open'); dom.overlay.classList.remove('active'); }
 
 // ===== BOOKMARKS =====
@@ -541,19 +558,22 @@ function addBookmark() {
 
 // ===== INIT =====
 function init() {
-  state.apiKey    = store.get(STORAGE.API_KEY, '');
-  state.model     = store.get(STORAGE.MODEL, DEFAULT_MODEL);
-  state.currentUrl= store.get(STORAGE.LAST_URL, DEFAULT_URL);
+  state.apiKey = store.get(STORAGE.API_KEY, '');
+  state.model = store.get(STORAGE.MODEL, DEFAULT_MODEL);
+  state.currentUrl = store.get(STORAGE.LAST_URL, DEFAULT_URL);
   state.bookmarks = store.get(STORAGE.BOOKMARKS, []);
-  state.fontSize  = store.get(STORAGE.FONT_SIZE, 18);
-  state.darkMode  = store.get(STORAGE.DARK_MODE, true);
+  state.fontSize = store.get(STORAGE.FONT_SIZE, 18);
+  state.darkMode = store.get(STORAGE.DARK_MODE, true);
   state.activeTab = store.get(STORAGE.ACTIVE_TAB, 'online');
+  const savedProxy = store.get(STORAGE.DEFAULT_PROXY, 0);
+  state.proxyIdx = (typeof savedProxy === 'number' && savedProxy >= 0 && savedProxy < PROXIES.length) ? savedProxy : 0;
 
   if (state.apiKey) dom.apiKeyInput.value = state.apiKey;
   dom.modelSelect.value = state.model;
-  dom.urlInput.value    = state.currentUrl;
+  if (dom.proxySelect) dom.proxySelect.value = String(state.proxyIdx);
+  dom.urlInput.value = state.currentUrl;
   dom.openSourceBtn.href = state.currentUrl;
-  dom.darkMode.checked  = state.darkMode;
+  dom.darkMode.checked = state.darkMode;
 
   applyFontSize(state.fontSize);
   applyDarkMode(state.darkMode);
@@ -561,7 +581,7 @@ function init() {
   updateNavButtons(state.currentUrl);
 
   bindEvents();
-  
+
   // Load library data asynchronously
   loadLibraryData().then(() => {
     if (state.activeTab === 'library') {
@@ -595,6 +615,16 @@ function bindEvents() {
     toast(`Model: ${state.model}`, 'info');
   });
 
+  // Proxy Select
+  if (dom.proxySelect) {
+    dom.proxySelect.addEventListener('change', () => {
+      const idx = parseInt(dom.proxySelect.value, 10) || 0;
+      state.proxyIdx = idx;
+      store.set(STORAGE.DEFAULT_PROXY, idx);
+      toast(`Đã chọn Proxy mặc định: ${PROXIES[idx].name}`, 'info');
+    });
+  }
+
   // Go button
   dom.goBtn.addEventListener('click', () => {
     const url = dom.urlInput.value.trim();
@@ -621,7 +651,7 @@ function bindEvents() {
 
   // Font size
   dom.fsDown.addEventListener('click', () => applyFontSize(state.fontSize - 1));
-  dom.fsUp.addEventListener('click',   () => applyFontSize(state.fontSize + 1));
+  dom.fsUp.addEventListener('click', () => applyFontSize(state.fontSize + 1));
 
   // Dark mode
   dom.darkMode.addEventListener('change', () => applyDarkMode(dom.darkMode.checked));
@@ -675,21 +705,21 @@ function bindEvents() {
   // Sidebar tab clicks
   dom.tabOnline.addEventListener('click', () => { closeSidebar(); switchTab('online'); });
   dom.tabLibrary.addEventListener('click', () => { closeSidebar(); switchTab('library'); });
-  
+
   // Library home button and back button
   dom.btnLibraryHome.addEventListener('click', () => { closeSidebar(); showLibraryDashboard(); });
   dom.libBackBtn.addEventListener('click', showLibraryDashboard);
-  
+
   // Sidebar novel search and filtering
   dom.sidebarNovelSearch.addEventListener('input', () => {
     renderSidebarNovels(dom.sidebarNovelSearch.value);
   });
-  
+
   // Detail view chapter search
   dom.chapterSearchInput.addEventListener('input', () => {
     if (state.selectedNovel) renderChapterList(state.selectedNovel, dom.chapterSearchInput.value);
   });
-  
+
   // Click on a novel card in grid
   dom.libraryGrid.addEventListener('click', e => {
     const card = e.target.closest('.novel-card');
@@ -698,7 +728,7 @@ function bindEvents() {
       showNovelDetail(id);
     }
   });
-  
+
   // Click on sidebar novel quick list
   dom.sidebarNovelsList.addEventListener('click', e => {
     const item = e.target.closest('[data-novel-id]');
@@ -709,7 +739,7 @@ function bindEvents() {
       showNovelDetail(id);
     }
   });
-  
+
   // Click on a chapter in list
   dom.detailChaptersList.addEventListener('click', e => {
     const item = e.target.closest('.chapter-item');
@@ -727,7 +757,7 @@ function bindEvents() {
     if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') { e.preventDefault(); dom.translateBtn.click(); }
     if (e.key === 'Escape') { closeSidebar(); state.abortCtrl?.abort(); setLoading(false); }
     if (e.key === 'ArrowRight' && !e.target.matches('input,textarea')) navigateChapter(+1);
-    if (e.key === 'ArrowLeft'  && !e.target.matches('input,textarea')) navigateChapter(-1);
+    if (e.key === 'ArrowLeft' && !e.target.matches('input,textarea')) navigateChapter(-1);
   });
 }
 
@@ -760,7 +790,7 @@ async function loadLibraryData() {
     if (!res.ok) throw new Error('Không thể tải tệp novels.json');
     state.libraryNovels = await res.json();
     state.libraryProgress = store.get(STORAGE.LIB_PROGRESS, {});
-    
+
     renderLibraryGrid();
     renderSidebarNovels();
   } catch (e) {
@@ -780,7 +810,7 @@ function renderLibraryGrid() {
     const firstLetter = novel.title.charAt(0).toUpperCase();
     const lastReadNum = state.libraryProgress[novel.id] || 0;
     const progressPercent = novel.chapterCount > 0 ? (lastReadNum / novel.chapterCount) * 100 : 0;
-    
+
     return `
       <div class="novel-card" data-id="${novel.id}">
         <div class="novel-cover ${gradientClass}">
@@ -802,12 +832,12 @@ function renderLibraryGrid() {
 function renderSidebarNovels(filter = '') {
   const query = filter.toLowerCase().trim();
   const filtered = state.libraryNovels.filter(n => n.title.toLowerCase().includes(query));
-  
+
   if (filtered.length === 0) {
     dom.sidebarNovelsList.innerHTML = '<p class="empty-hint">Không tìm thấy truyện</p>';
     return;
   }
-  
+
   dom.sidebarNovelsList.innerHTML = filtered.map(n => `
     <div class="bm-item" data-novel-id="${n.id}">
       <span class="bm-title" title="${n.title}">📚 ${n.title}</span>
@@ -819,11 +849,11 @@ function renderSidebarNovels(filter = '') {
 function showNovelDetail(novelId) {
   const novel = state.libraryNovels.find(n => n.id === novelId);
   if (!novel) return;
-  
+
   state.selectedNovel = novel;
   dom.libraryDashboard.style.display = 'none';
   dom.libraryDetail.style.display = 'block';
-  
+
   const lastReadNum = state.libraryProgress[novel.id] || 0;
   const gradientClass = `novel-cover-gradient-${(state.libraryNovels.indexOf(novel) % 6) + 1}`;
   const firstLetter = novel.title.charAt(0).toUpperCase();
@@ -862,18 +892,18 @@ function showNovelDetail(novelId) {
 
 function renderChapterList(novel, filter = '') {
   const query = filter.toLowerCase().trim();
-  const filtered = novel.chapters.filter(c => 
-    c.title.toLowerCase().includes(query) || 
+  const filtered = novel.chapters.filter(c =>
+    c.title.toLowerCase().includes(query) ||
     String(c.num).includes(query)
   );
-  
+
   if (filtered.length === 0) {
     dom.detailChaptersList.innerHTML = '<p class="empty-hint">Không tìm thấy chương</p>';
     return;
   }
-  
+
   const lastReadNum = state.libraryProgress[novel.id] || 0;
-  
+
   dom.detailChaptersList.innerHTML = filtered.map(c => `
     <div class="chapter-item" data-num="${c.num}">
       <span class="chapter-item-title">${c.title}</span>
@@ -888,55 +918,55 @@ async function readLibraryChapter(novel, chapter) {
   state.selectedNovel = novel;
   state.selectedChapter = chapter;
   state.currentUrl = `offline://${novel.id}/${chapter.num}`;
-  
+
   hideAll();
   dom.translationContent.style.display = 'block';
-  
+
   dom.libBackBtn.style.display = 'flex';
   dom.openSourceBtn.style.display = 'none';
   dom.translateBtn.style.display = 'none';
-  
+
   dom.novelTitle.textContent = novel.title;
   dom.chapterNum.textContent = chapter.title;
-  
+
   setLoading(true, 'Đang đọc chương từ ổ đĩa...');
-  
+
   const filePath = `Novel/${encodeURIComponent(novel.dir)}/${encodeURIComponent(chapter.file)}`;
-  
+
   try {
     const res = await fetch(filePath);
     if (!res.ok) throw new Error(`HTTP ${res.status}: Không thể đọc file chương.`);
     const text = await res.text();
-    
+
     setLoading(false);
-    
+
     state.libraryProgress[novel.id] = chapter.num;
     store.set(STORAGE.LIB_PROGRESS, state.libraryProgress);
-    
+
     dom.chapterHeader.innerHTML = `
       <div>Thư viện Offline &bull; ${novel.title}</div>
       <h1>${chapter.title}</h1>
     `;
-    
+
     const paragraphs = text
       .split(/\n\s*\n/)
       .map(p => p.trim())
       .filter(p => p.length > 0);
-      
+
     const html = paragraphs.length > 0
       ? paragraphs.map(p => `<p>${escHtml(p)}</p>`).join('')
       : `<p>${escHtml(text)}</p>`;
-      
+
     dom.chapterBody.innerHTML = html;
     dom.chapterEnd.style.display = 'block';
-    
+
     updateLibraryNavButtons();
     dom.readerArea.scrollTop = 0;
     closeSidebar();
-    
+
     renderLibraryGrid();
     renderSidebarNovels();
-    
+
   } catch (e) {
     setLoading(false);
     showError('Lỗi đọc chương', `Không thể tải nội dung tệp tin chương truyện.\nLỗi: ${e.message}`);
@@ -947,7 +977,7 @@ function updateLibraryNavButtons() {
   if (!state.selectedNovel || !state.selectedChapter) return;
   const novel = state.selectedNovel;
   const currentNum = state.selectedChapter.num;
-  
+
   const idx = novel.chapters.findIndex(c => c.num === currentNum);
   if (idx === -1) {
     dom.prevBtn.disabled = true;
@@ -955,7 +985,7 @@ function updateLibraryNavButtons() {
     dom.navChapterLabel.textContent = '—';
     return;
   }
-  
+
   dom.prevBtn.disabled = idx === 0;
   dom.nextBtn.disabled = idx === novel.chapters.length - 1;
   dom.navChapterLabel.textContent = `Chương ${currentNum}/${novel.chapters.length}`;
@@ -964,19 +994,19 @@ function updateLibraryNavButtons() {
 function switchTab(tab) {
   state.activeTab = tab;
   store.set(STORAGE.ACTIVE_TAB, tab);
-  
+
   dom.tabOnline.classList.toggle('active', tab === 'online');
   dom.tabLibrary.classList.toggle('active', tab === 'library');
-  
+
   dom.onlineTabContent.style.display = tab === 'online' ? 'block' : 'none';
   dom.libraryTabContent.style.display = tab === 'library' ? 'block' : 'none';
-  
+
   if (tab === 'online') {
     dom.libraryView.style.display = 'none';
     dom.libBackBtn.style.display = 'none';
     dom.openSourceBtn.style.display = 'flex';
     dom.translateBtn.style.display = 'flex';
-    
+
     hideAll();
     if (state.currentUrl && state.currentUrl !== DEFAULT_URL && !state.currentUrl.startsWith('offline://')) {
       if (state.rawText) {
@@ -991,7 +1021,7 @@ function switchTab(tab) {
   } else {
     dom.openSourceBtn.style.display = 'none';
     dom.translateBtn.style.display = 'none';
-    
+
     if (state.selectedChapter && state.selectedNovel) {
       dom.libraryView.style.display = 'none';
       dom.libBackBtn.style.display = 'flex';
@@ -1016,16 +1046,16 @@ function switchTab(tab) {
 function showLibraryDashboard() {
   state.selectedNovel = null;
   state.selectedChapter = null;
-  
+
   hideAll();
   dom.libraryView.style.display = 'block';
   dom.libraryDashboard.style.display = 'block';
   dom.libraryDetail.style.display = 'none';
   dom.libBackBtn.style.display = 'none';
-  
+
   dom.novelTitle.textContent = 'Thư viện Novel';
   dom.chapterNum.textContent = '';
-  
+
   dom.prevBtn.disabled = true;
   dom.nextBtn.disabled = true;
   dom.navChapterLabel.textContent = '—';
